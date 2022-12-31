@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -14132.327252455005,
-                  "y": -10070.386746413404,
-                  "zoom": 0.6666666666666665,
+                  "x": -13604.17984272607,
+                  "y": -8589.064726275576,
+                  "zoom": -0.6666666666666667,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Timber Hearth Underwater Caves.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Timber Hearth Underwater Caves.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Timber Hearth Underwater Caves.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
