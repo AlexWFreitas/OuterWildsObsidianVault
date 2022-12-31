@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"5a095939b9829de6","x":-14680,"y":-8560,"width":320,"height":246,"type":"file","file":"10. Notes/Timber Hearth - Nomai Ruins.md"},
 		{"id":"7001794561bf119e","x":11342,"y":6905,"width":400,"height":225,"color":"2","type":"file","file":"99. Attachments/Vessel - Broken Warp Core.png"},
 		{"id":"894d45612d250a26","x":11325,"y":7413,"width":1195,"height":852,"type":"group","label":"Eye of the Universe"},
 		{"id":"81aa9f0357720417","x":11900,"y":7485,"width":400,"height":364,"type":"file","file":"99. Attachments/Pasted image 20221228221357.png"},
@@ -470,8 +471,6 @@
 		{"id":"171d8c9256427b90","x":-17240,"y":-10240,"width":760,"height":380,"type":"group","label":"General Info"},
 		{"id":"75b400a366de3979","x":-17200,"y":-10180,"width":250,"height":278,"type":"file","file":"10. Notes/Timber Hearth.md"},
 		{"id":"5b8f04ce9aa4594f","x":-16920,"y":-10180,"width":392,"height":278,"type":"file","file":"99. Attachments/Timber Hearth Planet.png"},
-		{"id":"64f003321ac72195","x":-12900,"y":-8314,"width":250,"height":255,"type":"file","file":"10. Notes/Timber Hearth - Mining Site 2b.md"},
-		{"id":"992b07fd0d90e047","x":-12610,"y":-8560,"width":250,"height":246,"color":"3","type":"text","text":"# Nomai Ruins\n\n- East of Outer Wilds Ventures\n- On the surface, there is an inactive Warp Receiver Pattern\n- The inside leads to the Nomai Mines"},
 		{"id":"9b9788f5f9031d29","x":-12360,"y":-9285,"width":250,"height":371,"color":"4","type":"text","text":"# Quantum Grove Crater\n\n- South of Outer Wilds Ventures \n- Place with tons of Quantum Shards that have erratic behavior if they are not being watched\n- Seems to be related to the Quantum Moon, somewhere no one has been able to land\n"},
 		{"id":"9d20d4ac77971395","x":-12165,"y":-8820,"width":250,"height":87,"color":"4","type":"text","text":"# Investigate  Harmonica Sound inside Timber Hearth"},
 		{"id":"28fd2999cd9b10a6","x":-12040,"y":-9685,"width":250,"height":553,"color":"4","type":"text","text":"# Youngbark Crater\n- North of Outer Wilds Ventures\n- This crater was releasing smokes at the start of the day\n- Tektite was investigating it, I helped by using a Little Scout inside and found an infinitely bigger area inside a small area.\n- That plant is actually a seed from the Dark Brambles Planet, it's an invasive species and causes the destruction of planets.\n- Also through the use of the Little Scout on the Dark Bramble Seed, I was able to find the missing Outer Wilder Feldspar."},
@@ -514,8 +513,10 @@
 		{"id":"01c0b1effa6f6ba8","x":-14680,"y":-9326,"width":320,"height":320,"type":"file","file":"10. Notes/Timber Hearth - Mining Site 2a.md"},
 		{"id":"730154f087280a33","x":-14320,"y":-9384,"width":400,"height":285,"type":"file","file":"99. Attachments/Mining Site 2a.png"},
 		{"id":"b31f4c0666a31e2e","x":-14320,"y":-9064,"width":400,"height":248,"type":"file","file":"99. Attachments/Drawing on Mining Site 2a.png"},
-		{"id":"666b82559b1f41a6","x":-14680,"y":-8976,"width":320,"height":160,"type":"file","file":"10. Notes/Geyser Mountains.md"},
-		{"id":"af10cf66884f6b2b","x":-14680,"y":-8780,"width":320,"height":299,"type":"file","file":"99. Attachments/Geyser Mountains.png"}
+		{"id":"af10cf66884f6b2b","x":-14320,"y":-8772,"width":400,"height":373,"type":"file","file":"99. Attachments/Geyser Mountains.png"},
+		{"id":"64f003321ac72195","x":-14680,"y":-8264,"width":320,"height":317,"type":"file","file":"10. Notes/Timber Hearth - Mining Site 2b.md"},
+		{"id":"e0b41c15c1a8c8c4","x":-14320,"y":-8344,"width":400,"height":329,"type":"file","file":"99. Attachments/Big Geyser Mountain.png"},
+		{"id":"666b82559b1f41a6","x":-14680,"y":-8964,"width":320,"height":361,"type":"file","file":"10. Notes/Geyser Mountains.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
