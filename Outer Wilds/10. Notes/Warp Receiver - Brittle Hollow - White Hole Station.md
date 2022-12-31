@@ -1,3 +1,3 @@
 - When teleporting through the **White Hole Station**, it seems that the person who warped goes to the past by a measure of hundreths of a second
-- This phenomena might explain one of the inner mechanisms of the Time Loop that happens inside the game
+- This phenomenom might explain one of the inner mechanisms of the Time Loop that happens inside the game
 - Experiments and Research about this event will occur on the **Ember Twin**'s Equator
