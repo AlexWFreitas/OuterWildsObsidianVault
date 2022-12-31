@@ -2,6 +2,6 @@
 - Has a wall depicting a debate about how to build a new Advanced Warp Core for the [[Ash Twin Project]]. Their options were:
 	- Retrieve the Warp Core from the [[Vessel]].
 	- Learn to build a new Warp Core.
-- Contains information on how to deal with the Anglerfish Beast.
+- Contains clues on where to find information about avoiding the [[Anglerfish]].
 - Also contains information on where we could find the Warp Core used on the old Vessel.
-- Has an elevator beam goes to the planet surface near the **Warp Receiver** area.
+- Contains a path that leads to the surface on the [[North Pole]].
