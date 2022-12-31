@@ -564,11 +564,7 @@
 		{"id":"72cba0f82631d68b","x":-22400,"y":-1741,"width":400,"height":268,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Middle Floor.png"},
 		{"id":"675948f8c5697829","x":-22640,"y":-2280,"width":400,"height":400,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor.png"},
 		{"id":"13ab106d88b55dd0","x":-22640,"y":-2720,"width":400,"height":274,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Lower Floor.png"},
-		{"id":"edc282f0d7f9b874","x":-22000,"y":-2520,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
 		{"id":"f7829a8925295f8d","x":-20672,"y":-4667,"width":250,"height":378,"type":"file","file":"10. Notes/Black Hole.md"},
-		{"id":"c3d9892517f31e3f","x":-17425,"y":-7064,"width":250,"height":349,"type":"file","file":"10. Notes/New Vessel Attempt.md"},
-		{"id":"f33229855115b212","x":-19674,"y":-8876,"width":400,"height":336,"type":"file","file":"99. Attachments/Escape Pod 01 and Distress Signal Emitter.png"},
-		{"id":"6deb4ab6ea5d904b","x":-19234,"y":-8876,"width":250,"height":544,"type":"file","file":"10. Notes/Escape Pods.md"},
 		{"id":"9a6c4280a6fcae10","x":-20311,"y":-7277,"width":1351,"height":597,"type":"group","label":"Abandoned Shelter"},
 		{"id":"34bde3fb39bfc619","x":-20240,"y":-7200,"width":360,"height":435,"type":"file","file":"10. Notes/Abandoned Shelter.md"},
 		{"id":"d2aeb4a2f95e8081","x":-21280,"y":-5168,"width":247,"height":272,"type":"file","file":"10. Notes/Gravity Stones.md"},
@@ -595,7 +591,11 @@
 		{"id":"b012162a124e5e43","x":-20154,"y":-8876,"width":440,"height":620,"type":"file","file":"10. Notes/Escape Pod 01.md"},
 		{"id":"c1e4e205de320543","x":-20860,"y":-6353,"width":400,"height":387,"type":"file","file":"99. Attachments/Pasted image 20221231173321.png"},
 		{"id":"4adaa9b90d491908","x":-19690,"y":-6482,"width":1285,"height":756,"type":"group","label":"School District"},
-		{"id":"11e78177a8232299","x":-18800,"y":-6178,"width":400,"height":225,"type":"file","file":"99. Attachments/Pasted image 20221231174021.png"}
+		{"id":"11e78177a8232299","x":-18800,"y":-6178,"width":400,"height":225,"type":"file","file":"99. Attachments/Pasted image 20221231174021.png"},
+		{"id":"edc282f0d7f9b874","x":-22000,"y":-2520,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
+		{"id":"6deb4ab6ea5d904b","x":-19234,"y":-8876,"width":250,"height":544,"type":"file","file":"10. Notes/Escape Pods.md"},
+		{"id":"f33229855115b212","x":-19674,"y":-8876,"width":400,"height":336,"type":"file","file":"99. Attachments/Escape Pod 01 and Distress Signal Emitter.png"},
+		{"id":"c3d9892517f31e3f","x":-19234,"y":-6414,"width":250,"height":349,"type":"file","file":"10. Notes/New Vessel Attempt.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
