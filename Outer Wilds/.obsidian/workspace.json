@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -13499.129570517507,
-                  "y": -6775.3056196253065,
+                  "x": -13076.6205430757,
+                  "y": -6822.92117834863,
                   "zoom": -0.6666666666666665,
                   "snapToGrid": true
                 }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Attlerock Moon.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Attlerock Moon.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Attlerock Moon.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }

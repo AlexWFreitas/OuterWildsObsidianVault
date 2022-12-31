@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"82e7c81f9d482188","x":-13077,"y":-6823,"width":400,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221231134134.png"},
 		{"id":"c354b1dd0bbb43d4","x":-30172,"y":-3339,"width":400,"height":306,"type":"file","file":"Attachments/Pasted image 20221228062024.png"},
 		{"id":"0144788f45ecb833","x":-30693,"y":-3290,"width":400,"height":207,"type":"file","file":"Attachments/Pasted image 20221228062012.png"},
 		{"id":"c3a4af3a5b24ae0b","x":-30693,"y":-3724,"width":400,"height":264,"type":"file","file":"Attachments/Pasted image 20221228061849.png"},
@@ -324,7 +325,7 @@
 		{"id":"1d8c7ecda59e9480","x":-17080,"y":-5993,"width":400,"height":160,"type":"file","file":"10. Notes/Hornfels.md"},
 		{"id":"e4ed5936a548c2e4","x":-17080,"y":-6787,"width":400,"height":263,"type":"file","file":"10. Notes/Quantum Shard.md"},
 		{"id":"a346dddfe8e37c1e","x":-17560,"y":-7250,"width":390,"height":310,"type":"file","file":"99. Attachments/Radio Tower on Timber Hearth.png"},
-		{"id":"f0bebb5277162457","x":-18840,"y":-7520,"width":6760,"height":2760,"color":"3","type":"group","label":"Timber Hearth and Attlerock"},
+		{"id":"f0bebb5277162457","x":-18840,"y":-7520,"width":6860,"height":2760,"color":"3","type":"group","label":"Timber Hearth and Attlerock"},
 		{"id":"9c19047596e28bdf","x":-16120,"y":-7194,"width":320,"height":377,"type":"file","file":"10. Notes/Timber Hearth - Underwater Caves.md"},
 		{"id":"1b83ff23ebbd6ab1","x":-15760,"y":-7194,"width":400,"height":316,"type":"file","file":"99. Attachments/Timber Hearth Underwater Caves.png"},
 		{"id":"730154f087280a33","x":-15760,"y":-6832,"width":400,"height":285,"type":"file","file":"99. Attachments/Mining Site 2a.png"},
@@ -530,10 +531,8 @@
 		{"id":"43371666eeeb5d3f","x":-10200,"y":-939,"width":342,"height":311,"type":"file","file":"99. Attachments/Deep Space Satellite.png"},
 		{"id":"1d44a73cc4d8e928","x":-9840,"y":-939,"width":360,"height":311,"type":"file","file":"99. Attachments/Opposite Axis Orbit Trace.png"},
 		{"id":"b7c44de6030c334e","x":-9460,"y":-939,"width":285,"height":311,"type":"file","file":"99. Attachments/Map Offline - 1.png"},
-		{"id":"21329ab345f51bea","x":-13960,"y":-7400,"width":1780,"height":1220,"type":"group","label":"Attlerock"},
+		{"id":"21329ab345f51bea","x":-13960,"y":-7400,"width":1900,"height":1220,"type":"group","label":"Attlerock"},
 		{"id":"cf21fadf35f821b0","x":-13640,"y":-7356,"width":400,"height":348,"type":"file","file":"99. Attachments/Attlerock Moon.png"},
-		{"id":"3cac658cf1d22212","x":-13120,"y":-6606,"width":250,"height":365,"color":"4","type":"text","text":"# North Pole - Esker Signalscope Diary\n\n- Signalscope Diary entries, saying that Feldspar signal  is coming from Timber Hearth\n- Found Feldspar, the signal was being detected in Timber Hearth because the Dark Bramble Seed in Timber Hearth was connected to the expanding space of the Dark Brambles Planet\n"},
-		{"id":"261a35d4f2e68053","x":-13640,"y":-6648,"width":250,"height":277,"color":"4","type":"text","text":"# Attlerock Crater\n\n- Attlerock was hit by a piece of the planet Dark Bramble\n- Hypothesis that other pieces might be on other astral bodies"},
 		{"id":"744013e07e79af92","x":-309,"y":-2937,"width":250,"height":278,"type":"file","file":"10. Notes/Feldspar.md"},
 		{"id":"de5b57b47f0c4bb8","x":78,"y":-2937,"width":250,"height":144,"type":"file","file":"10. Notes/Chertt.md"},
 		{"id":"fa3091bea9250377","x":475,"y":-2937,"width":250,"height":176,"type":"file","file":"10. Notes/Riebeck.md"},
@@ -542,11 +541,15 @@
 		{"id":"fd2d043b4a9bc894","x":-17080,"y":-5763,"width":400,"height":174,"type":"file","file":"10. Notes/Slate.md"},
 		{"id":"c2dcbb3dee7084b4","x":-15120,"y":-5600,"width":319,"height":689,"type":"file","file":"10. Notes/Youngbark Crater.md"},
 		{"id":"b563ac7a48ae806c","x":-16140,"y":-5616,"width":250,"height":705,"type":"file","file":"10. Notes/Quantum Grove Crater.md"},
-		{"id":"fdb4fa5b92f81f5f","x":-13924,"y":-6648,"width":250,"height":191,"color":"4","type":"text","text":"# Esker\n\n- Staying on Attlerock\n- Signals by whistling a song over the Outer Wilds Ventures\n"},
 		{"id":"aa447d566ac8ce7b","x":-13924,"y":-7356,"width":250,"height":296,"type":"file","file":"10. Notes/Attlerock.md"},
-		{"id":"d375e7718545ce8f","x":-13200,"y":-7359,"width":250,"height":472,"color":"4","type":"text","text":"# Nomai Ruins\n\n- Some type of artifact that works as a Locator\n- Built to find the **Eye of the Universe**, but isn't able to\n- Notes about building the next version of this on South of Brittle Hollow\n- Notes about having a Quantum Moon Locator on Ember Twin (Ash Twins?)\n- Has a locator for the Sun, Giant's Deep and Brittle Hollow"},
-		{"id":"81d92bb2ffc2290b","x":-12920,"y":-7356,"width":400,"height":268,"type":"file","file":"99. Attachments/Pasted image 20221231133513.png"},
-		{"id":"2cf6d0c1dc511c6b","x":-12920,"y":-7060,"width":400,"height":261,"type":"file","file":"99. Attachments/Pasted image 20221231133540.png"}
+		{"id":"d375e7718545ce8f","x":-13200,"y":-7359,"width":250,"height":494,"color":"4","type":"text","text":"# Nomai Ruins\n\n- Some type of artifact that works as a Planet Locator.\n- Built to find the [[Eye of the Universe]], but isn't able to for unknown reasons.\n- Notes about building a better [[Southen Laboratory|planet locator]] on the South Pole of Brittle Hollow.\n- Notes about having a [[Quantum Moon Locator]] Locator on [[Ember Twin]].\n- Has a locator for the Sun, [[Giant's Deep]] and [[Brittle Hollow]]."},
+		{"id":"81d92bb2ffc2290b","x":-12920,"y":-7356,"width":400,"height":268,"type":"file","file":"99. Attachments/Nomai Ruins - Planet Locator.png"},
+		{"id":"143448374bfac449","x":-12500,"y":-7356,"width":400,"height":491,"type":"file","file":"99. Attachments/Attlerock Planet Locator - 02.png"},
+		{"id":"2cf6d0c1dc511c6b","x":-12920,"y":-7017,"width":400,"height":261,"type":"file","file":"99. Attachments/Attlerock Planet Locator - 01.png"},
+		{"id":"f4e79eaa194e4d09","x":-12500,"y":-6800,"width":400,"height":228,"type":"file","file":"99. Attachments/Nomain Ruins - Interior.png"},
+		{"id":"3cac658cf1d22212","x":-13924,"y":-7017,"width":250,"height":497,"color":"4","type":"text","text":"# North Pole - Esker Signalscope Diary\n\n- Signalscope Diary entries, saying that Feldspar signal  is coming from Timber Hearth\n- Found Feldspar, the signal was being detected in Timber Hearth because the Dark Bramble Seed in Timber Hearth was connected to the expanding space of the Dark Brambles Planet\n"},
+		{"id":"fdb4fa5b92f81f5f","x":-13924,"y":-6480,"width":250,"height":191,"color":"4","type":"text","text":"# Esker\n\n- Staying on Attlerock\n- Signals by whistling a song over the Outer Wilds Ventures\n"},
+		{"id":"261a35d4f2e68053","x":-13200,"y":-6824,"width":250,"height":277,"color":"4","type":"text","text":"# Attlerock Crater\n\n- Attlerock was hit by a piece of the planet Dark Bramble\n- Hypothesis that other pieces might be on other astral bodies"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
