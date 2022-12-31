@@ -11,15 +11,11 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "viewState": {
-                  "x": -18794.91888686351,
-                  "y": -6651.834449643834,
-                  "zoom": -1.1102230246251565e-16,
-                  "snapToGrid": true
-                }
+                "file": "10. Notes/Gravity Stones.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Escape Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Escape Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10. Notes/Escape Pods.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,8 +145,8 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Hourglass Twins.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Hourglass Twins.md",
     "10. Notes/Time Travel.md",
     "10. Notes/Escape Pod 01.md",
     "10. Notes/Escape Pod 03.md",

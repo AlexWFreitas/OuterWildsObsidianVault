@@ -1,4 +1,4 @@
 - The survivors of the [[Escape Pod 01]] crash location built stairs going down the interior of the [[Brittle Hollow]] planet.
-- There is an abandoned shelter built by the crash survivors where they left information through the use of writing and recording tools.
+- There is an abandoned shelter built by the crash survivors where they have left information through the use of writing and recording tools.
 - On the abandoned shelter at the end of the stairs, there are writings talking about using [[Gravity Stones]] to go to the [[Northern Glacier]].
 - There is information about how the [[Vessel]] crashed and how they came to land in [[Brittle Hollow]].

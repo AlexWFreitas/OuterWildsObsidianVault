@@ -7,3 +7,5 @@ Near the Escape Pod, there is a Distress Signal Emitter that can be tracked thro
 There is a pager with around 14 messages, talking about the other escape pods, and the context of the emergency escape.
 
 There were messages that talked about the [[Hollow Lantern]] hazards and the general planetary characteristics on their attempt create a shelter in this planet.
+
+There are stairs at the back of the escape pod that lead to the [[Abandoned Shelter]].
