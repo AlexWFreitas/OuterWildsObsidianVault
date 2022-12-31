@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -18877.283334348325,
-                  "y": -6324.946067498743,
-                  "zoom": -1.1102230246251565e-16,
+                  "x": -17426.864435760283,
+                  "y": -6095.727899461876,
+                  "zoom": -0.33333333333333276,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/New Vessel Attempt.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/New Vessel Attempt.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/New Vessel Attempt.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
