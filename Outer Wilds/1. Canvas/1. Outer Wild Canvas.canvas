@@ -524,8 +524,6 @@
 		{"id":"fd951e1e7f3d3059","x":793,"y":1268,"width":560,"height":331,"color":"4","type":"file","file":"99. Attachments/Orbital Probe Cannon Project.png"},
 		{"id":"3311e648af0ad44c","x":1289,"y":4537,"width":433,"height":156,"color":"4","type":"file","file":"99. Attachments/OPC - Hologram 2.png"},
 		{"id":"ce0620963dfe2229","x":1778,"y":4716,"width":400,"height":324,"color":"4","type":"file","file":"99. Attachments/OPC - Hologram 3.png"},
-		{"id":"49153e5eac818119","x":-26969,"y":-4093,"width":2495,"height":2088,"type":"group","label":"Eye of the Universe Quantum Moon"},
-		{"id":"fd8f9fade495e387","x":-25538,"y":-3995,"width":653,"height":3524,"type":"file","file":"Knowledge/Games/Outer Wilds/Quantum Moon - Eye of the Universe.md"},
 		{"id":"b6a43af21b3d98b4","x":-18720,"y":-5318,"width":4780,"height":2358,"type":"group","label":"Brittle Hollow Surface Areas"},
 		{"id":"309e8499cd1db33c","x":-21920,"y":-5360,"width":3100,"height":2262,"color":"3","type":"group","label":"Brittle Hollow and Hollow Lantern"},
 		{"id":"08cc089001ecb1a8","x":-19598,"y":-5240,"width":703,"height":360,"color":"4","type":"group","label":"Hollow Lantern"},
@@ -564,7 +562,7 @@
 		{"id":"2a4dbef2bef123e4","x":-17360,"y":-5145,"width":393,"height":400,"type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
 		{"id":"0eea2591611f7886","x":-17720,"y":-5145,"width":320,"height":559,"type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
 		{"id":"8c754e2d9625e7e0","x":-18600,"y":-5152,"width":400,"height":209,"type":"file","file":"10. Notes/Northern Glacier.md"},
-		{"id":"784baf5fe98d8f91","x":-20280,"y":-1920,"width":1740,"height":1060,"type":"group","label":"White Hole Area"},
+		{"id":"784baf5fe98d8f91","x":-20280,"y":-1920,"width":1740,"height":1120,"type":"group","label":"White Hole Area"},
 		{"id":"df29a4a30dbdf5ff","x":-20240,"y":-1880,"width":405,"height":545,"type":"file","file":"10. Notes/White Hole.md"},
 		{"id":"60b2e654693e88fa","x":-19800,"y":-1880,"width":400,"height":293,"type":"file","file":"99. Attachments/White Hole - Visual distortion caused by gravity bending light.png"},
 		{"id":"550343277a905838","x":-19380,"y":-1880,"width":400,"height":339,"type":"file","file":"10. Notes/White Hole Station.md"},
@@ -574,7 +572,14 @@
 		{"id":"6fc0c21135409713","x":-18961,"y":-1240,"width":400,"height":359,"type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"},
 		{"id":"3e23d8ad04bb61fc","x":-19380,"y":-1140,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
 		{"id":"a9ecbafd85ab76de","x":-20240,"y":-1291,"width":405,"height":352,"type":"file","file":"99. Attachments/White Hole Image 2.png"},
-		{"id":"402ccf9d0e11e1d3","x":-22400,"y":-939,"width":400,"height":323,"type":"file","file":"99. Attachments/Gravity Floor.png"}
+		{"id":"402ccf9d0e11e1d3","x":-22400,"y":-939,"width":400,"height":323,"type":"file","file":"99. Attachments/Gravity Floor.png"},
+		{"id":"553acc5ab1b7423d","x":-19800,"y":-1541,"width":400,"height":700,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after falling into the Black Hole.png"},
+		{"id":"49153e5eac818119","x":-26969,"y":-4093,"width":2495,"height":2088,"type":"group","label":"Eye of the Universe Quantum Moon"},
+		{"id":"fd8f9fade495e387","x":-25538,"y":-3995,"width":653,"height":3524,"type":"file","file":"Knowledge/Games/Outer Wilds/Quantum Moon - Eye of the Universe.md"},
+		{"id":"72cba0f82631d68b","x":-22400,"y":-1741,"width":400,"height":268,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Middle Floor.png"},
+		{"id":"675948f8c5697829","x":-22640,"y":-2280,"width":400,"height":400,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor.png"},
+		{"id":"13ab106d88b55dd0","x":-22640,"y":-2720,"width":400,"height":274,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Lower Floor.png"},
+		{"id":"edc282f0d7f9b874","x":-22000,"y":-2520,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
