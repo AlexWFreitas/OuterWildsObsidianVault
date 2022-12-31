@@ -1,0 +1,6 @@
+- Allows you to travel through space
+- Affected by gravity
+- Can be damaged
+- Can be repaired if the damage is low
+- Has autopilot mode
+- Located on Timber Hearth [[Timber Hearth - Launch Tower]]
