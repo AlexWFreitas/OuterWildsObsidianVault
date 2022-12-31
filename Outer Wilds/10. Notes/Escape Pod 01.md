@@ -1,0 +1,3 @@
+- Found a pager with around 14 messages near the Distress Signal
+- The messages talked about  two other Escape Pods, that should be in good condition
+- There were messages talking about the Volcanic Moon dangers and the Brittle Hollow Planetary Features

@@ -1,0 +1,5 @@
+- Connects to the Crossroads through a Broken Bridge
+- Has information about building a new Advanced Warp Core for the Ash Twin Project
+- Contains information on how to deal with the Anglerfish Beast
+- Also contains information on where we could find the Warp Core used on the old Vessel
+- Has an elevator beam goes to the planet surface near the **Warp Receiver** area

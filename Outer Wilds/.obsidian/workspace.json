@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -21690.104994522506,
-                  "y": -4862.105414460119,
+                  "x": -20480.997452980428,
+                  "y": -3116.621252188432,
                   "zoom": -0.3333333333333334,
                   "snapToGrid": true
                 }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Vessel.md",
+                "file": "10. Notes/Warp Receiver - Giant's Deep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Vessel.md",
+                "file": "10. Notes/Warp Receiver - Giant's Deep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Vessel.md"
+                "file": "10. Notes/Warp Receiver - Giant's Deep.md"
               }
             }
           }

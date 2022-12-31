@@ -1,0 +1,2 @@
+- The Nomai clan that was stranded in Brittle Hollow wanted to build a new **Vessel** so that they could travel again
+- To do this they were thinking about using materials that were used on the **Ash Twin Project**

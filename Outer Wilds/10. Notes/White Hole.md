@@ -1,0 +1,3 @@
+- On this place, there are many visually distorted objects that were sucked by the Black Hole and transported to the White Hole
+- Over time, this place is filled with expelled objects absorbed by the Black Hole
+- Allows early access to the Tower of Quantum Knowledge near the end of a time loop

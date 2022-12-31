@@ -1,0 +1,3 @@
+- There is one station near the White Hole that is called White Hole Station
+- This ship contains a projection disk that can be used to see the Ember Twins
+- There is a Teleporter that brings you back to Brittle Hollow, but on a different place

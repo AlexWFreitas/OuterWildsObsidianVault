@@ -1,0 +1,1 @@
+- Allows the main character to rise the Black Hole Forge to the Black Hole Forge District, possibly allowing the user to enter the Black Hole Forge

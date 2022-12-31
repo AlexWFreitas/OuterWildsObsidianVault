@@ -1,0 +1,3 @@
+- Escape Pod 01 was sent to Bristle Hollow and sent the distress signal near the Vessel
+- Escape Pod 02 has been sent to the Hourglass Twins
+- Escape Pod 03 has been lost somehow while being launched

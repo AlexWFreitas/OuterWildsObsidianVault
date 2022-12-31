@@ -1,0 +1,2 @@
+- District filled with writings reflecting about the purpose of the Eye of the Universe and information about their theories of thought
+- It seems that there might be a closed door, but this statement is uncertain

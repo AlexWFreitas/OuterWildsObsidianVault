@@ -1,0 +1,2 @@
+- Seems to be located above the ground, kinda separate from the rest of the Hanging City
+- Contains the Warp Receiver for the White Hole Station

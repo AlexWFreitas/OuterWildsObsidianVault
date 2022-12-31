@@ -1,0 +1,4 @@
+- Located on the North Pole
+- Part of the Hanging City
+- Connects to the Hanging City Stairs
+- Contains information about the culture of the Nomai Race, their ambitions and their scientific discoveries, like theories about the origin of the Universe
