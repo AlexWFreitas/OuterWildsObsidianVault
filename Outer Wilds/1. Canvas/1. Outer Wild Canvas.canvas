@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"82e7c81f9d482188","x":-13077,"y":-6823,"width":400,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221231134134.png"},
 		{"id":"c354b1dd0bbb43d4","x":-30172,"y":-3339,"width":400,"height":306,"type":"file","file":"Attachments/Pasted image 20221228062024.png"},
 		{"id":"0144788f45ecb833","x":-30693,"y":-3290,"width":400,"height":207,"type":"file","file":"Attachments/Pasted image 20221228062012.png"},
 		{"id":"c3a4af3a5b24ae0b","x":-30693,"y":-3724,"width":400,"height":264,"type":"file","file":"Attachments/Pasted image 20221228061849.png"},
@@ -531,7 +530,7 @@
 		{"id":"43371666eeeb5d3f","x":-10200,"y":-939,"width":342,"height":311,"type":"file","file":"99. Attachments/Deep Space Satellite.png"},
 		{"id":"1d44a73cc4d8e928","x":-9840,"y":-939,"width":360,"height":311,"type":"file","file":"99. Attachments/Opposite Axis Orbit Trace.png"},
 		{"id":"b7c44de6030c334e","x":-9460,"y":-939,"width":285,"height":311,"type":"file","file":"99. Attachments/Map Offline - 1.png"},
-		{"id":"21329ab345f51bea","x":-13960,"y":-7400,"width":1900,"height":1220,"type":"group","label":"Attlerock"},
+		{"id":"21329ab345f51bea","x":-13960,"y":-7400,"width":1900,"height":1540,"type":"group","label":"Attlerock"},
 		{"id":"cf21fadf35f821b0","x":-13640,"y":-7356,"width":400,"height":348,"type":"file","file":"99. Attachments/Attlerock Moon.png"},
 		{"id":"744013e07e79af92","x":-309,"y":-2937,"width":250,"height":278,"type":"file","file":"10. Notes/Feldspar.md"},
 		{"id":"de5b57b47f0c4bb8","x":78,"y":-2937,"width":250,"height":144,"type":"file","file":"10. Notes/Chertt.md"},
@@ -547,9 +546,13 @@
 		{"id":"143448374bfac449","x":-12500,"y":-7356,"width":400,"height":491,"type":"file","file":"99. Attachments/Attlerock Planet Locator - 02.png"},
 		{"id":"2cf6d0c1dc511c6b","x":-12920,"y":-7017,"width":400,"height":261,"type":"file","file":"99. Attachments/Attlerock Planet Locator - 01.png"},
 		{"id":"f4e79eaa194e4d09","x":-12500,"y":-6800,"width":400,"height":228,"type":"file","file":"99. Attachments/Nomain Ruins - Interior.png"},
-		{"id":"3cac658cf1d22212","x":-13924,"y":-7017,"width":250,"height":497,"color":"4","type":"text","text":"# North Pole - Esker Signalscope Diary\n\n- Signalscope Diary entries, saying that Feldspar signal  is coming from Timber Hearth\n- Found Feldspar, the signal was being detected in Timber Hearth because the Dark Bramble Seed in Timber Hearth was connected to the expanding space of the Dark Brambles Planet\n"},
 		{"id":"fdb4fa5b92f81f5f","x":-13924,"y":-6480,"width":250,"height":191,"color":"4","type":"text","text":"# Esker\n\n- Staying on Attlerock\n- Signals by whistling a song over the Outer Wilds Ventures\n"},
-		{"id":"261a35d4f2e68053","x":-13200,"y":-6824,"width":250,"height":277,"color":"4","type":"text","text":"# Attlerock Crater\n\n- Attlerock was hit by a piece of the planet Dark Bramble\n- Hypothesis that other pieces might be on other astral bodies"}
+		{"id":"261a35d4f2e68053","x":-13200,"y":-6824,"width":250,"height":325,"color":"4","type":"text","text":"# Attlerock Crater\n\n- Attlerock was hit by a piece of the planet that was exploded by the [[Dark Bramble]].\n- Hypothesis that other pieces might be on other astral bodies made by [[Chertt]]."},
+		{"id":"82e7c81f9d482188","x":-12920,"y":-6701,"width":400,"height":309,"type":"file","file":"99. Attachments/Attlerock Crater.png"},
+		{"id":"649311da2c240575","x":-13640,"y":-6967,"width":400,"height":334,"type":"file","file":"99. Attachments/The moon landing was not faked.png"},
+		{"id":"c2b12e502f2988be","x":-13640,"y":-6587,"width":400,"height":298,"type":"file","file":"99. Attachments/Pasted image 20221231134436.png"},
+		{"id":"3cac658cf1d22212","x":-12550,"y":-6374,"width":250,"height":497,"color":"4","type":"text","text":"# North Pole - Esker Signalscope Diary\n\n- Signalscope Diary entries, saying that Feldspar signal  is coming from Timber Hearth\n- Found Feldspar, the signal was being detected in Timber Hearth because the Dark Bramble Seed in Timber Hearth was connected to the expanding space of the Dark Brambles Planet\n"},
+		{"id":"bcf774cadeea4637","x":-13924,"y":-7008,"width":250,"height":400,"type":"file","file":"10. Notes/Esker's Campsite.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
