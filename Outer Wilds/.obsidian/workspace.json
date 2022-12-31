@@ -8,45 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3c61117ce7372a1",
+            "id": "a96f2ba1b8d1fd25",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -13920.078580496416,
-                  "y": -8383.14755003457,
+                  "x": -12761.566876898612,
+                  "y": -9113.705522268767,
                   "zoom": -0.6666666666666667,
-                  "snapToGrid": true
+                  "snapToGrid": false
                 }
               }
             }
-          },
-          {
-            "id": "f9965ecb25932596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Timber Hearth - Nomai Ruins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a96f2ba1b8d1fd25",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "99. Attachments/Hornfels.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Timber Hearth - Nomai Ruins.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Timber Hearth - Nomai Ruins.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Timber Hearth - Nomai Ruins.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -174,17 +151,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9965ecb25932596",
+  "active": "a96f2ba1b8d1fd25",
   "lastOpenFiles": [
+    "99. Attachments/Hornfels.png",
+    "10. Notes/Timber Hearth - Nomai Ruins.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Timber Hearth - Mining Site 2b.md",
-    "99. Attachments/Hornfels.png",
     "10. Notes/Quantum Shard].md",
     "10. Notes/Nomai Statue.md",
     "10. Notes/Ash Twin Project.md",
     "10. Notes/Timber Hearth.md",
     "10. Notes/Timber Hearth - Observatory.md",
-    "10. Notes/Zero-G Cave.md",
-    "10. Notes/Timber Hearth - Village.md"
+    "10. Notes/Zero-G Cave.md"
   ]
 }
