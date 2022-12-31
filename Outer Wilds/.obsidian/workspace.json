@@ -15,10 +15,10 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15818.040894405935,
-                  "y": -9810.971587559352,
-                  "zoom": -2.9999999999999996,
-                  "snapToGrid": true
+                  "x": -8120,
+                  "y": 5400,
+                  "zoom": -4,
+                  "snapToGrid": false
                 }
               }
             }
@@ -153,8 +153,8 @@
   },
   "active": "a96f2ba1b8d1fd25",
   "lastOpenFiles": [
-    "10. Notes/Nomai Race.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Nomai Race.md",
     "99. Attachments/Hornfels.png",
     "10. Notes/Timber Hearth - Nomai Ruins.md",
     "10. Notes/Timber Hearth - Mining Site 2b.md",
