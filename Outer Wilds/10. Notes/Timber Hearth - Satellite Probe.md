@@ -1,0 +1,1 @@
+There is a scout probe launched on Timber Hearth that keeps orbiting the planet, this was probably used by the Outer Wilds Ventures to experiment with orbit 
