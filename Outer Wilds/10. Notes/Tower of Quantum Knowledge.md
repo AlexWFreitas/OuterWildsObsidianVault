@@ -1,4 +1,9 @@
-- Usually blocked because of broken stairs, I was able to access it when it fell into the Black Hole and entered the outer space with reduced gravity
+# Surface
+- Contains an entrance that leads to the [[Tower of Quantum Knowledge]] inner parts. 
+- Contains a [[Quantum Shard]] on the surface, from where you can observe some of the quantum behavior that it displays.
+
+# Underground
+- The tower is unreachable because of a broken [[Gravity Floor]] path, I was able to access it when it fell into the [[Black Hole]] and entered the outer space with reduced gravity
 - Seems to be properly accessible when you finish preparations on Giant's Deep
 - Reaching this place talks about going to the Quantum Moon
 - Says something about letting the Quantum Moon take us there

@@ -618,11 +618,11 @@
 		{"id":"1c2359ec8a44b8c5","x":-17600,"y":-8941,"width":1040,"height":480,"type":"group","label":"Southern Laboratory"},
 		{"id":"cbb4eceb44091130","x":-17580,"y":-8905,"width":420,"height":398,"type":"file","file":"10. Notes/Southern Laboratory.md"},
 		{"id":"cfef7489fdbaacd7","x":-17140,"y":-8882,"width":545,"height":344,"type":"file","file":"99. Attachments/Southern Laboratory - Surface.png"},
-		{"id":"c1392e15a1571cbe","x":-16480,"y":-8941,"width":1647,"height":1061,"type":"group","label":"Tower of Quantum Knowledge Surface entrance"},
+		{"id":"c1392e15a1571cbe","x":-16480,"y":-8941,"width":1360,"height":901,"type":"group","label":"Tower of Quantum Knowledge Surface Entrance"},
 		{"id":"66b58c53ed3ecc3c","x":-15800,"y":-8882,"width":658,"height":344,"type":"file","file":"99. Attachments/Pasted image 20221231195733.png"},
 		{"id":"7535982aba660d5e","x":-16439,"y":-8882,"width":600,"height":344,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md"},
 		{"id":"33c2a2e091e9c4c1","x":-16439,"y":-8480,"width":600,"height":215,"type":"file","file":"10. Notes/Quantum Shard.md"},
-		{"id":"0984de1360accca3","x":-15800,"y":-8465,"width":333,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221231195745.png"}
+		{"id":"0984de1360accca3","x":-15800,"y":-8480,"width":333,"height":400,"type":"file","file":"99. Attachments/Quantum Shard above the Tower of Quantum Knowledge.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
