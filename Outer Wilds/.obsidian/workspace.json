@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "84146a473f1fd546",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e64afde5f8febf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aba0de1411b12fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "viewState": {
+                  "x": -10171.713591256925,
+                  "y": 8509.415272607812,
+                  "zoom": 3.3306690738754696e-16,
+                  "snapToGrid": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4b6ffdb8371f48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c1edd519d0ce70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ebdec89ef8a94f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb0929bc6418b1ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15b348cef08a1a10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 499.5
+  },
+  "right": {
+    "id": "66414f9fc3b62f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1aa0a52ee3d2f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc1e75b271d59b1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b18cb3fee1a7dcd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "738de6bd4deb9d74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54c85e7f9e707262",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1aba0de1411b12fc",
+  "lastOpenFiles": [
+    "1. Canvas/1. Outer Wild Canvas.canvas",
+    "100.Template/Outer Wilds T.md",
+    "10. Notes/Anglerfish.md",
+    "Canvas/backup.canvas",
+    "Canvas/2. The Interloper.canvas"
+  ]
+}
