@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -19624.999037187183,
-                  "y": -6540.647046597128,
-                  "zoom": -0.6666666666666667,
+                  "x": -20984.791787665512,
+                  "y": -6160.378649783602,
+                  "zoom": -0.3333333333333334,
                   "snapToGrid": true
                 }
               }
@@ -90,13 +90,13 @@
               "type": "backlink",
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,15 +152,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
+    "10. Notes/Abandoned Shelter.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/North Pole.md",
     "10. Notes/Gravity Stones.md",
     "99. Attachments/Gravity Stones Image.png",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Hourglass Twins.md",
     "10. Notes/Time Travel.md",
     "10. Notes/Escape Pod 01.md",
     "10. Notes/Escape Pod 03.md",
-    "10. Notes/Northern Glacier - Surface.md",
-    "10. Notes/Brittle Hollow 1.md",
-    "10. Notes/Brittle Hollow.md"
+    "10. Notes/Brittle Hollow 1.md"
   ]
 }
