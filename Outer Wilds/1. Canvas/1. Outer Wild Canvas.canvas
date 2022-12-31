@@ -573,7 +573,8 @@
 		{"id":"41f4598eb1941c9e","x":-19380,"y":-1497,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
 		{"id":"6fc0c21135409713","x":-18961,"y":-1240,"width":400,"height":359,"type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"},
 		{"id":"3e23d8ad04bb61fc","x":-19380,"y":-1140,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
-		{"id":"a9ecbafd85ab76de","x":-20240,"y":-1291,"width":405,"height":352,"type":"file","file":"99. Attachments/White Hole Image 2.png"}
+		{"id":"a9ecbafd85ab76de","x":-20240,"y":-1291,"width":405,"height":352,"type":"file","file":"99. Attachments/White Hole Image 2.png"},
+		{"id":"402ccf9d0e11e1d3","x":-22400,"y":-939,"width":400,"height":323,"type":"file","file":"99. Attachments/Gravity Floor.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
