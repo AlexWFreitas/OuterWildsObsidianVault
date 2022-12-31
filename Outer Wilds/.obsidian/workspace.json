@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -16877.728057182223,
-                  "y": -3444.6446231724763,
-                  "zoom": -1.9999999999999993,
+                  "x": -15291.891501244098,
+                  "y": -8545.857160608719,
+                  "zoom": 3.3306690738754696e-16,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Southern Laboratory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Southern Laboratory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Southern Laboratory.md"
               }
             }
           }
