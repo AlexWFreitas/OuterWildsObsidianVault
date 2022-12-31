@@ -1,3 +1,3 @@
-- On this place, there are many visually distorted objects that were sucked by the Black Hole and transported to the White Hole
+- In this place, the force of gravity displayed by the White Hole makes the light bend, causing it to look disto
 - Over time, this place is filled with expelled objects absorbed by the Black Hole
 - Allows early access to the Tower of Quantum Knowledge near the end of a time loop
