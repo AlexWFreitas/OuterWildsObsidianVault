@@ -6,5 +6,5 @@ Tags:
 ---
 - Plays Flute
 - Stays on Giant's Deep
-- Knows about the Time Loop
-- Started to die on the Time Loop after finding a Nomai Statue on a beach in the Giant's Deep Planet
+- Is being affected by the Time Loop
+- Started to experience the Time Loop after finding a Nomai Statue on the Statue Workshop in [[Giant's Deep]]

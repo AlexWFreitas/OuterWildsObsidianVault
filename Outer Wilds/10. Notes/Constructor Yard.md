@@ -13,4 +13,4 @@ This might mean that the cause of the damage on the [[Orbital Probe Cannon Proje
 
 The other nomai writing says that the power source of the OPC had a defect and shouldn't be used to launch the probe.
 
-Since the probe was launched, someone on the **Ash Twin Project** actually sent the command to launch the probe despite the warnings.
+Since the probe was launched, someone on the [[Ash Twin Project]] actually sent the command to launch the probe despite the warnings. Maybe it was activated because the Ash Twin Project activates when the project fails for some reason.
