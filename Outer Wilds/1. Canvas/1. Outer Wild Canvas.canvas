@@ -486,7 +486,17 @@
 		{"id":"d3c296bad617d255","x":-15210,"y":-6300,"width":250,"height":157,"type":"file","file":"10. Notes/Zero-G Cave.md"},
 		{"id":"3b1bc20c9018be99","x":-15360,"y":-6827,"width":505,"height":333,"type":"file","file":"99. Attachments/Overview of the Timber Hearth Village.png"},
 		{"id":"a3bdc120d123987b","x":-16320,"y":-6494,"width":400,"height":339,"type":"file","file":"99. Attachments/Observatory.png"},
-		{"id":"783567a9c7edc3d6","x":-16480,"y":-6960,"width":400,"height":268,"type":"file","file":"99. Attachments/Ghost Matter.png"}
+		{"id":"783567a9c7edc3d6","x":-16480,"y":-6960,"width":400,"height":268,"type":"file","file":"99. Attachments/Ghost Matter.png"},
+		{"id":"32b6e25d0e0a1003","x":-16360,"y":-6075,"width":400,"height":308,"type":"file","file":"99. Attachments/Scout Launcher.png"},
+		{"id":"f43ac18c1260311a","x":-16291,"y":-7459,"width":342,"height":400,"type":"file","file":"99. Attachments/Gossan.png"},
+		{"id":"f78f141d284742a0","x":-15715,"y":-5958,"width":400,"height":283,"type":"file","file":"99. Attachments/Zero-G Cave Entrance.png"},
+		{"id":"4cc49756d15ffaa1","x":-16440,"y":-5600,"width":400,"height":281,"type":"file","file":"99. Attachments/Pasted image 20221231100710.png"},
+		{"id":"993d7c6a125f72f1","x":-16560,"y":-5160,"width":400,"height":309,"type":"file","file":"99. Attachments/Pasted image 20221231100725.png"},
+		{"id":"44166dd46229b6c0","x":-15960,"y":-5233,"width":400,"height":382,"type":"file","file":"99. Attachments/Pasted image 20221231100814.png"},
+		{"id":"88ca50f59f2d4d30","x":-15410,"y":-5233,"width":400,"height":236,"type":"file","file":"99. Attachments/Pasted image 20221231100829.png"},
+		{"id":"654683d2e9e8220f","x":-14820,"y":-5233,"width":400,"height":273,"type":"file","file":"99. Attachments/Pasted image 20221231100841.png"},
+		{"id":"8e8c44b77fe0a0ad","x":-14235,"y":-5255,"width":400,"height":317,"type":"file","file":"99. Attachments/Pasted image 20221231100906.png"},
+		{"id":"cdfd66ac06b65a0a","x":-16840,"y":-6501,"width":400,"height":352,"type":"file","file":"99. Attachments/Pasted image 20221231101002.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"aec063923a52dc10","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
