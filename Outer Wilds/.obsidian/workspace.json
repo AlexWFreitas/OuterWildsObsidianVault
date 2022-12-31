@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -18995.669096439055,
-                  "y": -6820.9282448711765,
-                  "zoom": -1.3333333333333333,
+                  "x": -19687.548451438783,
+                  "y": -6816.587267781337,
+                  "zoom": -1.1102230246251565e-16,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Painting explaining the Vessel Catastrophe.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Painting explaining the Vessel Catastrophe.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "99. Attachments/Painting explaining the Vessel Catastrophe.png"
               }
             }
           }
