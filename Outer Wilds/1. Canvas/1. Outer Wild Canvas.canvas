@@ -575,16 +575,16 @@
 		{"id":"13ab106d88b55dd0","x":-22640,"y":-2720,"width":400,"height":274,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Lower Floor.png"},
 		{"id":"edc282f0d7f9b874","x":-22000,"y":-2520,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
 		{"id":"5e9cf6957f674602","x":-19966,"y":-7108,"width":1766,"height":1228,"type":"group","label":"Escape Pod 01"},
-		{"id":"6deb4ab6ea5d904b","x":-18515,"y":-6693,"width":250,"height":323,"type":"file","file":"10. Notes/Escape Pods.md"},
-		{"id":"c3d9892517f31e3f","x":-18600,"y":-6300,"width":250,"height":349,"type":"file","file":"10. Notes/New Vessel Attempt.md"},
 		{"id":"f7829a8925295f8d","x":-20672,"y":-4667,"width":250,"height":378,"type":"file","file":"10. Notes/Black Hole.md"},
-		{"id":"cadba74244d6ffbe","x":-17960,"y":-6795,"width":400,"height":923,"type":"file","file":"10. Notes/Vessel.md"},
 		{"id":"b012162a124e5e43","x":-19920,"y":-7064,"width":440,"height":557,"type":"file","file":"10. Notes/Escape Pod 01.md"},
-		{"id":"34bde3fb39bfc619","x":-18927,"y":-6601,"width":250,"height":650,"type":"file","file":"10. Notes/Abandoned Shelter.md"},
 		{"id":"f33229855115b212","x":-19440,"y":-7064,"width":400,"height":336,"type":"file","file":"99. Attachments/Escape Pod 01 and Distress Signal Emitter.png"},
 		{"id":"ce22e1e19bd5594a","x":-19440,"y":-6680,"width":400,"height":271,"type":"file","file":"99. Attachments/Inside the Escape Pod.png"},
+		{"id":"0531ddd3d559ce1b","x":-19920,"y":-6460,"width":440,"height":495,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter - Back door of Escape Pod 01.png"},
 		{"id":"35a9e6944a04a2db","x":-19440,"y":-6360,"width":400,"height":341,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter.png"},
-		{"id":"0531ddd3d559ce1b","x":-19920,"y":-6460,"width":355,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221231164829.png"}
+		{"id":"34bde3fb39bfc619","x":-17300,"y":-6450,"width":250,"height":650,"type":"file","file":"10. Notes/Abandoned Shelter.md"},
+		{"id":"c3d9892517f31e3f","x":-17425,"y":-7064,"width":250,"height":349,"type":"file","file":"10. Notes/New Vessel Attempt.md"},
+		{"id":"cadba74244d6ffbe","x":-18380,"y":-6896,"width":400,"height":923,"type":"file","file":"10. Notes/Vessel.md"},
+		{"id":"6deb4ab6ea5d904b","x":-19000,"y":-7064,"width":250,"height":337,"type":"file","file":"10. Notes/Escape Pods.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
