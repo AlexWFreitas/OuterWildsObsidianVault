@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -12743.156119221372,
-                  "y": -6389.750663423853,
-                  "zoom": -0.6666666666666665,
+                  "x": -10630.393321268126,
+                  "y": 6158.301326515841,
+                  "zoom": -1.3333333333333326,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Esker's Signalscope Watching Platform.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Esker's Signalscope Watching Platform.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Esker's Signalscope Watching Platform.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
