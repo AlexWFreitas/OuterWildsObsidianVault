@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -19408.229017647784,
-                  "y": -6553.806672269155,
+                  "x": -19195.519225517543,
+                  "y": -6308.220952312336,
                   "zoom": -1.1102230246251565e-16,
                   "snapToGrid": true
                 }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Escape Pod 01.md",
+                "file": "99. Attachments/Path to the Abandoned Shelter.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Escape Pod 01.md",
+                "file": "99. Attachments/Path to the Abandoned Shelter.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Escape Pod 01.md"
+                "file": "99. Attachments/Path to the Abandoned Shelter.png"
               }
             }
           }
