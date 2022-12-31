@@ -8,30 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aba0de1411b12fc",
+            "id": "f3c61117ce7372a1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -11955.027403751294,
-                  "y": 8230.255009722514,
-                  "zoom": -3.333333333333333,
+                  "x": -722.8760176109031,
+                  "y": 7867.942327536128,
+                  "zoom": -1,
                   "snapToGrid": true
                 }
-              }
-            }
-          },
-          {
-            "id": "f3c61117ce7372a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Solar System - General Info.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,15 +151,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1aba0de1411b12fc",
+  "active": "f3c61117ce7372a1",
   "lastOpenFiles": [
-    "10. Notes/Deep Space Satellite.md",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Solar System - General Info.md",
     "100.Template/Outer Wilds T.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Black Hole Forge.md",
+    "10. Notes/Ash Twin Project.md",
+    "10. Notes/Timber Hearth.md",
+    "10. Notes/Deep Space Satellite.md",
     "10. Notes/Ember Twin - Quantum Room D.md",
     "10. Notes/Anglerfish.md",
-    "Canvas/backup.canvas",
-    "Canvas/2. The Interloper.canvas"
+    "Canvas/backup.canvas"
   ]
 }
