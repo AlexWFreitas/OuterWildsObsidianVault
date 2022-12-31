@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -16029.796254065226,
-                  "y": -8609.068464217262,
-                  "zoom": 0.33333333333333365,
+                  "x": -16499.19307446797,
+                  "y": -7733.087964796214,
+                  "zoom": -1.9999999999999996,
                   "snapToGrid": true
                 }
               }
@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Tower of Quantum Knowledge.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Tower of Quantum Knowledge.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Tower of Quantum Knowledge.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -175,11 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "298a10c4ae417e5e",
+  "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Black Hole.md",
     "10. Notes/Tower of Quantum Knowledge.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Black Hole.md",
     "10. Notes/Giant's Deep Cyclones.md",
     "10. Notes/Black Hole Forge.md",
     "10. Notes/Warp Receiver.md",
