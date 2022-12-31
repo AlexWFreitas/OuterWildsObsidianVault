@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -14083.661555778765,
-                  "y": -6740.565190634021,
-                  "zoom": -0.3333333333333334,
+                  "x": -14055.943292681079,
+                  "y": -6448.263507058409,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": false
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Timber Hearth - Satellite Probe.md",
+                "file": "99. Attachments/Little Scout and Satellite Scout side by side.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Timber Hearth - Satellite Probe.md",
+                "file": "99. Attachments/Little Scout and Satellite Scout side by side.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Timber Hearth - Satellite Probe.md"
+                "file": "99. Attachments/Little Scout and Satellite Scout side by side.png"
               }
             }
           }

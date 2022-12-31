@@ -538,8 +538,9 @@
 		{"id":"f0d3b375a5b1ab54","x":1722,"y":-4092,"width":985,"height":1220,"type":"group","label":"Exploration Mechanics"},
 		{"id":"6ed7dad8ecc182a4","x":2037,"y":-3797,"width":250,"height":398,"type":"file","file":"10. Notes/Quantum Shard.md"},
 		{"id":"08de2e67fcef36e6","x":4120,"y":-4092,"width":680,"height":570,"color":"5","type":"group","label":"Exploration Tools"},
-		{"id":"b9e7d7bc9da35f4c","x":-14516,"y":-6719,"width":489,"height":463,"type":"file","file":"99. Attachments/Pasted image 20221231122042.png"},
-		{"id":"bd59110bd548e39d","x":-14516,"y":-7258,"width":489,"height":490,"type":"file","file":"10. Notes/Timber Hearth - Satellite Probe.md"}
+		{"id":"bd59110bd548e39d","x":-14516,"y":-7258,"width":489,"height":326,"type":"file","file":"10. Notes/Timber Hearth - Satellite Probe.md"},
+		{"id":"b9e7d7bc9da35f4c","x":-14516,"y":-6887,"width":489,"height":463,"type":"file","file":"99. Attachments/Timber Hearth - Scout Probe Satellite.png"},
+		{"id":"58f49ad75d5d05e8","x":-14516,"y":-6374,"width":490,"height":355,"type":"file","file":"99. Attachments/Little Scout and Satellite Scout side by side.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
