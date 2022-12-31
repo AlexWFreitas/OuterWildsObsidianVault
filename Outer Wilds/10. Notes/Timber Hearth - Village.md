@@ -1,1 +1,1 @@
-The starting area of the game, home of the Outer Wilders, who are a group of space explorers, researchers and scientists
+The starting area of the game, home of the Outer Wild Ventures, who are a group of space explorers, researchers and scientists, interested in learning about 
