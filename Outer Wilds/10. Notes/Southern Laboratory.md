@@ -1,5 +1,5 @@
 - Located at the South Pole of [[Brittle Hollow]].
-- When trying to enter from the Surface on the South Pole, the door is closed, so you can only enter if you open it from the inside.
+- When trying to enter from the Surface on the South Pole, the door is closed, so you can only enter if you open it from inside, by entering through other entrances.
 - Reachable through the [[Tower of Quantum Knowledge]] or the [[Gravity Cannon - Brittle Hollow]].
-- Contains information about Giant's Deep Probe Orbital Launcher.
-- Also information about how the Giant Deep's Cyclones work and how they can be used to travel or lift things.
+- Contains information about [[Orbital Probe Cannon Project|Orbital Probe Cannon]].
+- Also information about how the [[Giant's Deep Cyclones]] work and how they can be used to travel or lift things.

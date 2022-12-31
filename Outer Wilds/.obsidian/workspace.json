@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15291.891501244098,
-                  "y": -8545.857160608719,
-                  "zoom": 3.3306690738754696e-16,
+                  "x": -15425.843388005633,
+                  "y": -8535.573710324645,
+                  "zoom": -0.9999999999999996,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Southern Laboratory.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Southern Laboratory.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Southern Laboratory.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Black Hole Forge.md",
+    "10. Notes/Giant's Deep Cyclones.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Black Hole Forge.md",
     "10. Notes/Warp Receiver.md",
     "10. Notes/Crossroads.md",
     "10. Notes/Black Hole Forge District.md",
     "10. Notes/Abandoned Shelter.md",
     "10. Notes/North Pole.md",
     "10. Notes/Gravity Stones.md",
-    "99. Attachments/Gravity Stones Image.png",
-    "10. Notes/Hourglass Twins.md"
+    "99. Attachments/Gravity Stones Image.png"
   ]
 }
