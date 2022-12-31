@@ -1,0 +1,3 @@
+- Located on the North Pole of Attlerock
+- Signalscope Diary entries, saying that Feldspar signal  is coming from Timber Hearth
+- Found Feldspar, the signal was being detected in Timber Hearth because the Dark Bramble Seed in Timber Hearth was connected to the expanding space of the Dark Brambles Planet
