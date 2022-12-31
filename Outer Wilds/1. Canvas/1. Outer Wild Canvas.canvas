@@ -490,7 +490,6 @@
 		{"id":"1d8c7ecda59e9480","x":-17840,"y":-6873,"width":400,"height":160,"type":"file","file":"10. Notes/Hornfels.md"},
 		{"id":"fd2d043b4a9bc894","x":-17840,"y":-6660,"width":400,"height":174,"type":"file","file":"10. Notes/Slate.md"},
 		{"id":"b2f9f6c102ef5bfc","x":-17400,"y":-6560,"width":400,"height":287,"type":"file","file":"99. Attachments/Slate.png"},
-		{"id":"f47984169edad5e0","x":-17840,"y":-6440,"width":400,"height":154,"type":"file","file":"10. Notes/Outer Wilds Ventures.md"},
 		{"id":"fbce47b9e3bf3385","x":-18600,"y":-6978,"width":280,"height":494,"type":"file","file":"10. Notes/Little Scout.md"},
 		{"id":"b4a781c5b63fa2af","x":2037,"y":-4055,"width":250,"height":224,"type":"file","file":"10. Notes/Ghost Matter.md"},
 		{"id":"6ed7dad8ecc182a4","x":2037,"y":-3797,"width":250,"height":398,"type":"file","file":"10. Notes/Quantum Shard.md"},
@@ -505,10 +504,12 @@
 		{"id":"f78f141d284742a0","x":-18880,"y":-6427,"width":243,"height":172,"type":"file","file":"99. Attachments/Zero-G Cave Entrance.png"},
 		{"id":"03a540c197c39d9c","x":-19157,"y":-6430,"width":250,"height":175,"type":"file","file":"99. Attachments/Dummy spaceship to train repairing while on outer space.png"},
 		{"id":"5d14cb416553a904","x":-19440,"y":-6382,"width":250,"height":193,"type":"file","file":"99. Attachments/Zero-G Cave Interior.png"},
-		{"id":"783567a9c7edc3d6","x":-18280,"y":-6695,"width":400,"height":268,"type":"file","file":"99. Attachments/Ghost Matter.png"},
-		{"id":"f43ac18c1260311a","x":-19160,"y":-6189,"width":253,"height":295,"type":"file","file":"99. Attachments/Gossan.png"},
-		{"id":"17a366e619a97ae1","x":-19440,"y":-6120,"width":250,"height":226,"type":"file","file":"10. Notes/Gossan.md"},
-		{"id":"9f8958c1904d0b89","x":400,"y":-3224,"width":400,"height":98,"type":"file","file":"10. Notes/Gossan.md"}
+		{"id":"9f8958c1904d0b89","x":400,"y":-3224,"width":400,"height":98,"type":"file","file":"10. Notes/Gossan.md"},
+		{"id":"f43ac18c1260311a","x":-18880,"y":-6220,"width":253,"height":295,"type":"file","file":"99. Attachments/Gossan.png"},
+		{"id":"17a366e619a97ae1","x":-19157,"y":-6220,"width":250,"height":322,"type":"file","file":"10. Notes/Gossan.md"},
+		{"id":"783567a9c7edc3d6","x":-18600,"y":-6193,"width":400,"height":268,"type":"file","file":"99. Attachments/Ghost Matter.png"},
+		{"id":"f47984169edad5e0","x":-18279,"y":-6713,"width":400,"height":154,"type":"file","file":"10. Notes/Outer Wilds Ventures.md"},
+		{"id":"dfec2b8065f0edf9","x":-18279,"y":-6513,"width":400,"height":293,"type":"file","file":"99. Attachments/Outer Wilds Ventures Founders.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

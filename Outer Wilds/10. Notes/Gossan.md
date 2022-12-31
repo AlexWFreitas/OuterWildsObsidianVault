@@ -1,1 +1,3 @@
-- Found on the Zero G Cave
+- Found on the Zero G Cave.
+- Flight Coach and one of the fuonders of the [[Outer Wilds Ventures]].
+- Tells you about a tutorial mission envolving flying and repairing a damaged space ship on the [[Zero-G Cave]].
