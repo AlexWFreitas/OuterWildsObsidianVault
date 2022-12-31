@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -18661.005953239764,
-                  "y": -3343.8444438221836,
-                  "zoom": -0.333333333333333,
+                  "x": -18716.684708798555,
+                  "y": -3238.5191036700107,
+                  "zoom": 3.3306690738754696e-16,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Nomai Writing Walls.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Nomai Writing Walls.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Nomai Writing Walls.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Black Hole Forge District.md",
+    "10. Notes/Crossroads.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Black Hole Forge District.md",
     "10. Notes/Abandoned Shelter.md",
     "10. Notes/North Pole.md",
     "10. Notes/Gravity Stones.md",
     "99. Attachments/Gravity Stones Image.png",
     "10. Notes/Hourglass Twins.md",
     "10. Notes/Time Travel.md",
-    "10. Notes/Escape Pod 01.md",
-    "10. Notes/Escape Pod 03.md"
+    "10. Notes/Escape Pod 01.md"
   ]
 }
