@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -10690.419935276579,
-                  "y": -775.4787730677781,
-                  "zoom": -0.9999999999999996,
+                  "x": -23411.90252627964,
+                  "y": -6257.222018694154,
+                  "zoom": 0.33333333333333365,
                   "snapToGrid": true
                 }
               }
@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Solar System - General Info.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Solar System - General Info.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Solar System - General Info.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -164,11 +163,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3c61117ce7372a1",
+  "active": "1aba0de1411b12fc",
   "lastOpenFiles": [
-    "100.Template/Outer Wilds T.md",
-    "10. Notes/Solar System - General Info.md",
+    "10. Notes/Deep Space Satellite.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Solar System - General Info.md",
+    "100.Template/Outer Wilds T.md",
     "10. Notes/Ember Twin - Quantum Room D.md",
     "10. Notes/Anglerfish.md",
     "Canvas/backup.canvas",
