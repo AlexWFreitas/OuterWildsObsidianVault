@@ -1,3 +1,2 @@
-Dangerous invisible substance that can only be viewed through a Camera
-
-Causes damage when near it
+Dangerous invisible substance that can only be viewed through a cameras and photos.
+Causes damage when someone gets near it.

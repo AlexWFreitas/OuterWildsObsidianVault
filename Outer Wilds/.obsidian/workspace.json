@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15023.31722378057,
-                  "y": -6398.73510811419,
-                  "zoom": -0.33333333333333315,
+                  "x": -14203.847648298795,
+                  "y": -8858.73605054557,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Timber Hearth - Mining Site 2b.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Timber Hearth - Mining Site 2b.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Timber Hearth - Mining Site 2b.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }

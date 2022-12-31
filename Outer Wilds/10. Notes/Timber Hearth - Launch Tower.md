@@ -7,4 +7,4 @@ Tags:
 Aliases:
 - 
 ---
-- Area where you are able to launch the Space Ship into the space
+- Area from where you are able to launch the Space Ship into the space.
