@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1e64afde5f8febf3",
+        "id": "8800fadc62d79a69",
         "type": "tabs",
         "children": [
           {
-            "id": "a96f2ba1b8d1fd25",
+            "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -10630.393321268126,
-                  "y": 6158.301326515841,
-                  "zoom": -1.3333333333333326,
+                  "x": -8057.984843052893,
+                  "y": 2033.8915555695312,
+                  "zoom": -4,
                   "snapToGrid": true
                 }
               }
@@ -151,8 +151,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a96f2ba1b8d1fd25",
+  "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
+    "10. Notes/Brittle Hollow.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Nomai Race.md",
     "99. Attachments/Hornfels.png",
@@ -161,7 +162,6 @@
     "10. Notes/Quantum Shard].md",
     "10. Notes/Nomai Statue.md",
     "10. Notes/Ash Twin Project.md",
-    "10. Notes/Timber Hearth.md",
-    "10. Notes/Timber Hearth - Observatory.md"
+    "10. Notes/Timber Hearth.md"
   ]
 }
