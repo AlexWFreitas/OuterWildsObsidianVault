@@ -6,4 +6,6 @@ Tags:
 Aliases:
 - 
 ---
-- Starting Planet of the Game
+- Starting planet.
+- When you "restart" you respawn here.
+- Home of the Outer Wild Ventures and the people who work on it.

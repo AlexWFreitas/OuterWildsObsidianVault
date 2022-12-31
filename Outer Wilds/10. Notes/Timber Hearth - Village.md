@@ -1,0 +1,1 @@
+The starting area of the game, home of the Outer Wilders, who are a group of space explorers, researchers and scientists
