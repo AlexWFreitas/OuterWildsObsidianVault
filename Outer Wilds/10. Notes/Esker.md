@@ -1,0 +1,1 @@
+Stays on Attlerock whistling on the Outer Wilds Ventures Frequency and observing others through the use of Signalscope and Little Scout

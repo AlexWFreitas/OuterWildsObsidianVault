@@ -1,5 +1,4 @@
-# Feldspar
-- Plays Harmonica
-- Missing for a long time
-- The first astronaut from the Outer Wilds Ventures to go into space
-- His instrument was heard on Timber Hearth
+- Plays a harmonica.
+- Missing for a long time.
+- The first astronaut from the Outer Wilds Ventures to go into space and land on another planet.
+- His instrument was heard on Timber Hearth through the Seed in .

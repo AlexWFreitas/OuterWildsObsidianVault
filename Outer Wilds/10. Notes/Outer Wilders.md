@@ -1,3 +1,1 @@
-## Outer Wilders
-
-This group is the group of known space explorers that are carrying an instrument and can be found through the **Signalscope**
+This is a nickname I made for a group of known space explorers from Timber Hearth that are carrying a music instrument that plays music on the [[Outer Wilds Ventures]] frequency.
