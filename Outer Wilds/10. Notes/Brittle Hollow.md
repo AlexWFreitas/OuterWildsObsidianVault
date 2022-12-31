@@ -1,0 +1,8 @@
+- Looks like a destroyed planet where one Escape Pod landed and sent a Distress Signal that was picked up by the Signalscope
+- Surface Areas Found
+	- Entrance to the Tower of Quantum Knowledge
+	- Crashed Escape Pod 01
+	- Gravity Cannon Entrance
+	- White Hole Station - Warp Receiver
+	- Abandoned Village Ruins - Crossroads Entrance
+	- Southern Laboratory Dome (Closed from this Entrance)

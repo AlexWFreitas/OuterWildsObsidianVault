@@ -1,0 +1,8 @@
+- Reachable through the Ruins with red flowers from ground level
+- West of the **Gravity Cannon**
+- Found an elevator that connects Crossroads with Gravity Cannon
+- There is a map showing four major locations on Brittle Hollow:
+	- Southern Laboratory
+	- Tower of Quantum Knowledge
+	- Gravity Cannon
+	- District Area

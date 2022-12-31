@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15529.34957198935,
-                  "y": -4270.648044055092,
-                  "zoom": -1.666666666666666,
+                  "x": -21690.104994522506,
+                  "y": -4862.105414460119,
+                  "zoom": -0.3333333333333334,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Vessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Vessel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Vessel.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Brittle Hollow.md",
+    "10. Notes/Brittle Hollow 1.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Brittle Hollow.md",
     "10. Notes/Nomai Race.md",
     "99. Attachments/Hornfels.png",
     "10. Notes/Timber Hearth - Nomai Ruins.md",
     "10. Notes/Timber Hearth - Mining Site 2b.md",
     "10. Notes/Quantum Shard].md",
     "10. Notes/Nomai Statue.md",
-    "10. Notes/Ash Twin Project.md",
-    "10. Notes/Timber Hearth.md"
+    "10. Notes/Ash Twin Project.md"
   ]
 }

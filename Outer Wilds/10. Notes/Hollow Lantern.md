@@ -1,0 +1,1 @@
+Hollow lantern is a volcanic moon made of rocks and lava, that expels rocks that eventually crash into the [[Brittle Hollow]]'s surface, causing structural damage.
