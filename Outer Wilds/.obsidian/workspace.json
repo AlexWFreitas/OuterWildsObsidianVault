@@ -11,11 +11,15 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10. Notes/Time Travel.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "viewState": {
+                  "x": -20663.966152794106,
+                  "y": -3988.417981687473,
+                  "zoom": -0.6666666666666667,
+                  "snapToGrid": true
+                }
               }
             }
           }
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+              }
             }
           }
         ]
@@ -145,6 +153,7 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
+    "10. Notes/Time Travel.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Escape Pod 01.md",
     "10. Notes/Escape Pod 03.md",
@@ -153,7 +162,6 @@
     "10. Notes/Brittle Hollow.md",
     "10. Notes/Nomai Race.md",
     "99. Attachments/Hornfels.png",
-    "10. Notes/Timber Hearth - Nomai Ruins.md",
-    "10. Notes/Timber Hearth - Mining Site 2b.md"
+    "10. Notes/Timber Hearth - Nomai Ruins.md"
   ]
 }
