@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -20050.301382157064,
-                  "y": -6871.428182560965,
-                  "zoom": -0.9999999999999996,
+                  "x": -19597.829112629337,
+                  "y": -6036.607894634809,
+                  "zoom": -1.666666666666666,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Secret Path to Hanging City - 02.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Secret Path to Hanging City - 02.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Secret Path to Hanging City - 02.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
