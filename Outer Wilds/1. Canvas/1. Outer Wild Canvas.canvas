@@ -472,13 +472,15 @@
 		{"id":"45ec63e3c67a0ab2","x":-11360,"y":-963,"width":359,"height":206,"color":"4","type":"file","file":"99. Attachments/Star System of Outer Wilds.png"},
 		{"id":"b9bf85e5b28576f2","x":-11737,"y":-963,"width":355,"height":311,"type":"file","file":"10. Notes/Solar System - General Info.md"},
 		{"id":"fc1c65ccb16a0906","x":-10972,"y":-963,"width":500,"height":214,"type":"file","file":"10. Notes/Deep Space Satellite.md"},
-		{"id":"29d72a9c4d351607","x":-987,"y":7475,"width":227,"height":50,"type":"file","file":"10. Notes/Sun Station.md"},
-		{"id":"eab7f7ba5e949cab","x":-917,"y":6640,"width":277,"height":50,"type":"file","file":"10. Notes/Timber Hearth.md"},
-		{"id":"274490ca6da62ae8","x":-882,"y":8270,"width":242,"height":50,"type":"file","file":"10. Notes/Giant's Deep.md"},
-		{"id":"eb77af48acc72f58","x":-826,"y":8947,"width":400,"height":400,"type":"file","file":"10. Notes/Ember Twin.md"},
-		{"id":"49c2e20746e354b8","x":0,"y":6311,"width":400,"height":400,"type":"file","file":"10. Notes/Ash Twin Project.md"},
 		{"id":"95de3e94703528fe","x":2480,"y":-880,"width":4440,"height":8800,"type":"group","label":"Endgame Mysteries"},
-		{"id":"b07cbc2b97c15274","x":2780,"y":7622,"width":391,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221228222706.png"}
+		{"id":"b07cbc2b97c15274","x":2780,"y":7622,"width":391,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221228222706.png"},
+		{"id":"eb77af48acc72f58","x":-840,"y":6382,"width":224,"height":50,"type":"file","file":"10. Notes/Ember Twin.md"},
+		{"id":"274490ca6da62ae8","x":-840,"y":6281,"width":242,"height":50,"type":"file","file":"10. Notes/Giant's Deep.md"},
+		{"id":"eab7f7ba5e949cab","x":-840,"y":6180,"width":277,"height":50,"type":"file","file":"10. Notes/Timber Hearth.md"},
+		{"id":"72cbb3f8faab9095","x":-840,"y":6483,"width":318,"height":67,"type":"file","file":"10. Notes/Black Hole Forge.md"},
+		{"id":"29d72a9c4d351607","x":-840,"y":6601,"width":227,"height":50,"type":"file","file":"10. Notes/Sun Station.md"},
+		{"id":"49c2e20746e354b8","x":-840,"y":6700,"width":320,"height":50,"type":"file","file":"10. Notes/Ash Twin Project.md"},
+		{"id":"531551817c30e34d","x":-1480,"y":6433,"width":200,"height":50,"type":"text","text":"# Warps to"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"aec063923a52dc10","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
@@ -587,6 +589,13 @@
 		{"id":"ee709b4c5c356d80","fromNode":"4e547b51bda65ae0","fromSide":"right","toNode":"a8105f02b059183b","toSide":"left"},
 		{"id":"f63973f7153dd25a","fromNode":"679e3affd24f5d40","fromSide":"right","toNode":"5e36fde5a19c254f","toSide":"bottom"},
 		{"id":"2414aa65a6189d65","fromNode":"d2ac1a0af7529e49","fromSide":"bottom","toNode":"fbdd0bf2450b5d7d","toSide":"top","label":"Connects to"},
-		{"id":"eb59bc804986f06a","fromNode":"1ef2ed576f39cea7","fromSide":"bottom","toNode":"a707bd25a6624143","toSide":"top","label":"Secret Path"}
+		{"id":"eb59bc804986f06a","fromNode":"1ef2ed576f39cea7","fromSide":"bottom","toNode":"a707bd25a6624143","toSide":"top","label":"Secret Path"},
+		{"id":"f51a9086411f570f","fromNode":"1ef2ed576f39cea7","fromSide":"right","toNode":"531551817c30e34d","toSide":"left"},
+		{"id":"9178682c1153a7d9","fromNode":"531551817c30e34d","fromSide":"right","toNode":"eab7f7ba5e949cab","toSide":"left"},
+		{"id":"6943adaa0e268cbd","fromNode":"531551817c30e34d","fromSide":"right","toNode":"274490ca6da62ae8","toSide":"left"},
+		{"id":"e8ee6bbbec828294","fromNode":"531551817c30e34d","fromSide":"right","toNode":"eb77af48acc72f58","toSide":"left"},
+		{"id":"3f4fe57a654dc95d","fromNode":"531551817c30e34d","fromSide":"right","toNode":"72cbb3f8faab9095","toSide":"left"},
+		{"id":"598cc2d4215e9e9b","fromNode":"531551817c30e34d","fromSide":"right","toNode":"29d72a9c4d351607","toSide":"left"},
+		{"id":"cad805a597ac403a","fromNode":"531551817c30e34d","fromSide":"right","toNode":"49c2e20746e354b8","toSide":"left"}
 	]
 }
