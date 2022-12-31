@@ -13,4 +13,4 @@ Tags:
 	- [[Dark Bramble]]
 	- A sixth unknown astral body that can't be tracked
 - The sixth astral body is probably the [[Eye of the Universe]]
-- The actual purpose of this is to allow you to understand that the Quantum Mo
+- The actual purpose of this is to allow you to understand that the Quantum Moon keeps warping, that it usually orbits 5-6 planets, of the existence of a sixth unknown body and that there are mechanics that trigger the quantum moon warp.
