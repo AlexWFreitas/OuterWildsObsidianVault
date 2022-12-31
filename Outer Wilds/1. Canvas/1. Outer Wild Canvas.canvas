@@ -124,8 +124,6 @@
 		{"id":"abdc9094ce9334e9","x":-6052,"y":6785,"width":400,"height":617,"color":"4","type":"file","file":"10. Notes/Quantum Moon Locator.md"},
 		{"id":"19c792e87f8e91f8","x":-5612,"y":6785,"width":558,"height":404,"color":"4","type":"file","file":"99. Attachments/Quantum Moon Locator.png"},
 		{"id":"0aa2eee6f63216bc","x":-7512,"y":6797,"width":361,"height":320,"color":"4","type":"file","file":"99. Attachments/Warp Receiver on Ember Twin.png"},
-		{"id":"45ec63e3c67a0ab2","x":-11360,"y":-963,"width":542,"height":311,"color":"4","type":"file","file":"99. Attachments/Star System of Outer Wilds.png"},
-		{"id":"b9bf85e5b28576f2","x":-11737,"y":-963,"width":355,"height":311,"type":"file","file":"10. Notes/Solar System - General Info.md"},
 		{"id":"73ea9b0a81421370","x":-11635,"y":812,"width":250,"height":647,"color":"4","type":"text","text":"# Brittle Hollow\n\n- Looks like a destroyed planet where one Escape Pod landed and sent a Distress Signal that was picked up by the Signalscope\n- Surface Areas Found\n\t- Entrance to the Tower of Quantum Knowledge\n\t- Crashed Escape Pod 01\n\t- Gravity Cannon Entrance\n\t- White Hole Station - Warp Receiver\n\t- Abandoned Village Ruins - Crossroads Entrance\n\t- Southern Laboratory Dome (Closed from this Entrance)"},
 		{"id":"a13084db153435d4","x":-11355,"y":812,"width":250,"height":503,"color":"4","type":"text","text":"# The Crossroads\n\n- Reachable through the Ruins with red flowers from ground level\n- West of the **Gravity Cannon**\n- Found an elevator that connects Crossroads with Gravity Cannon\n- There is a map showing four major locations on Brittle Hollow:\n\t- Southern Laboratory\n\t- Tower of Quantum Knowledge\n\t- Gravity Cannon\n\t- District Area"},
 		{"id":"41b17dd694f05137","x":-9368,"y":2487,"width":250,"height":181,"color":"4","type":"text","text":"# Hollow Lantern\n\nVolcanic Moon that expels Lava and Burning Rocks over Brittle Hollow."},
@@ -540,7 +538,12 @@
 		{"id":"1df8d9a0f7265b6c","x":12000,"y":9165,"width":400,"height":378,"type":"file","file":"99. Attachments/Pasted image 20221228223610.png"},
 		{"id":"70561ef913e52beb","x":12600,"y":8864,"width":400,"height":370,"type":"file","file":"99. Attachments/Pasted image 20221228223549.png"},
 		{"id":"fb1df892d8ba48a7","x":12700,"y":9354,"width":400,"height":266,"type":"file","file":"99. Attachments/Pasted image 20221228223729.png"},
-		{"id":"fc1c65ccb16a0906","x":-10772,"y":-963,"width":588,"height":311,"type":"file","file":"10. Notes/Deep Space Satellite.md"}
+		{"id":"b9bf85e5b28576f2","x":-11737,"y":-939,"width":355,"height":311,"type":"file","file":"10. Notes/Solar System - General Info.md"},
+		{"id":"45ec63e3c67a0ab2","x":-11360,"y":-939,"width":542,"height":311,"color":"4","type":"file","file":"99. Attachments/Star System of Outer Wilds.png"},
+		{"id":"fc1c65ccb16a0906","x":-10795,"y":-939,"width":588,"height":311,"type":"file","file":"10. Notes/Deep Space Satellite.md"},
+		{"id":"43371666eeeb5d3f","x":-10169,"y":-939,"width":342,"height":311,"type":"file","file":"99. Attachments/Pasted image 20221231132259.png"},
+		{"id":"1d44a73cc4d8e928","x":-9788,"y":-939,"width":360,"height":311,"type":"file","file":"99. Attachments/Pasted image 20221231132314.png"},
+		{"id":"040d5e6f3053afed","x":-9401,"y":-939,"width":415,"height":311,"type":"file","file":"99. Attachments/Pasted image 20221231132351.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
