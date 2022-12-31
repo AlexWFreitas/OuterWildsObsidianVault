@@ -11,11 +11,15 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10. Notes/Warp Receiver.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "viewState": {
+                  "x": -16877.728057182223,
+                  "y": -3444.6446231724763,
+                  "zoom": -1.9999999999999993,
+                  "snapToGrid": true
+                }
               }
             }
           }
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+              }
             }
           }
         ]
@@ -144,15 +152,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
+    "10. Notes/Black Hole Forge.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Warp Receiver.md",
     "10. Notes/Crossroads.md",
     "10. Notes/Black Hole Forge District.md",
     "10. Notes/Abandoned Shelter.md",
     "10. Notes/North Pole.md",
     "10. Notes/Gravity Stones.md",
     "99. Attachments/Gravity Stones Image.png",
-    "10. Notes/Hourglass Twins.md",
-    "10. Notes/Time Travel.md",
-    "10. Notes/Escape Pod 01.md"
+    "10. Notes/Hourglass Twins.md"
   ]
 }
