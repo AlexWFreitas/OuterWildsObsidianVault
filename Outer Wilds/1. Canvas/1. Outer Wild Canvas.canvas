@@ -531,7 +531,7 @@
 		{"id":"acb91415107f179d","x":-18680,"y":-5260,"width":1920,"height":1658,"type":"group","label":"Northern Glacier"},
 		{"id":"8c754e2d9625e7e0","x":-18640,"y":-5200,"width":400,"height":400,"type":"file","file":"10. Notes/Northern Glacier.md"},
 		{"id":"41ae329264e1208b","x":-18200,"y":-5193,"width":400,"height":287,"type":"file","file":"99. Attachments/Northern Glacier.png"},
-		{"id":"0eea2591611f7886","x":-17760,"y":-5193,"width":320,"height":535,"type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
+		{"id":"0eea2591611f7886","x":-17760,"y":-5193,"width":320,"height":559,"type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
 		{"id":"2a4dbef2bef123e4","x":-17400,"y":-5193,"width":393,"height":400,"type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
 		{"id":"309e8499cd1db33c","x":-21920,"y":-5360,"width":3100,"height":2262,"color":"3","type":"group","label":"Brittle Hollow and Hollow Lantern"},
 		{"id":"08cc089001ecb1a8","x":-19598,"y":-5240,"width":703,"height":360,"color":"4","type":"group","label":"Hollow Lantern"},
@@ -561,7 +561,8 @@
 		{"id":"34bbb0a0b3bea234","x":-20312,"y":-3441,"width":276,"height":238,"type":"file","file":"10. Notes/Black Hole Forge - Elevator Control.md"},
 		{"id":"edf78fa6595f9b74","x":-21840,"y":-4458,"width":250,"height":835,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md"},
 		{"id":"303eb9e9f595e1f6","x":-21840,"y":-5200,"width":250,"height":660,"type":"file","file":"10. Notes/Brittle Hollow.md"},
-		{"id":"8855429e4165276c","x":-17960,"y":-3472,"width":400,"height":400,"type":"file","file":"10. Notes/Secret entrance - Northern Glacier - Meltwater District.md"}
+		{"id":"8855429e4165276c","x":-17960,"y":-3472,"width":400,"height":400,"type":"file","file":"10. Notes/Secret entrance - Northern Glacier - Meltwater District.md"},
+		{"id":"d4cd8af997da3500","x":-17460,"y":-3472,"width":400,"height":291,"type":"file","file":"99. Attachments/Pasted image 20221231152937.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
