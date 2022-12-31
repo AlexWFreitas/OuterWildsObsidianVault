@@ -593,7 +593,9 @@
 		{"id":"cadba74244d6ffbe","x":-18954,"y":-8876,"width":400,"height":923,"type":"file","file":"10. Notes/Vessel.md"},
 		{"id":"ce22e1e19bd5594a","x":-19674,"y":-8492,"width":400,"height":271,"type":"file","file":"99. Attachments/Inside the Escape Pod.png"},
 		{"id":"b012162a124e5e43","x":-20154,"y":-8876,"width":440,"height":620,"type":"file","file":"10. Notes/Escape Pod 01.md"},
-		{"id":"c1e4e205de320543","x":-20860,"y":-6353,"width":400,"height":387,"type":"file","file":"99. Attachments/Pasted image 20221231173321.png"}
+		{"id":"c1e4e205de320543","x":-20860,"y":-6353,"width":400,"height":387,"type":"file","file":"99. Attachments/Pasted image 20221231173321.png"},
+		{"id":"4adaa9b90d491908","x":-19690,"y":-6482,"width":1285,"height":756,"type":"group","label":"School District"},
+		{"id":"11e78177a8232299","x":-18800,"y":-6178,"width":400,"height":225,"type":"file","file":"99. Attachments/Pasted image 20221231174021.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
