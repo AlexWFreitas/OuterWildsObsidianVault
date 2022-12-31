@@ -11,15 +11,11 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "viewState": {
-                  "x": -17859.511857498142,
-                  "y": -3352.2888101382064,
-                  "zoom": -0.6666666666666663,
-                  "snapToGrid": true
-                }
+                "file": "10. Notes/Warp Receiver.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Eye District.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Eye District.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10. Notes/Eye District.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,8 +144,8 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Crossroads.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Crossroads.md",
     "10. Notes/Black Hole Forge District.md",
     "10. Notes/Abandoned Shelter.md",
     "10. Notes/North Pole.md",

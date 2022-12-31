@@ -1,2 +1,3 @@
-- Seems to be located above the ground, kinda separate from the rest of the Hanging City
-- Contains the Warp Receiver for the White Hole Station
+- Seems to be upside down, meaning that it depends on [[Gravity Floor]] to work.
+- The path to it through the [[Hanging City]] gravity floor tower is blocked because it has collapsed on the way from the third floor to the fourth floor.
+- There is a [[Warp Receiver]] at the [[Black Hole Forge District]], this means that 

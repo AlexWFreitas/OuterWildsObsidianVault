@@ -574,7 +574,6 @@
 		{"id":"06a2ee2de8f63818","x":-18458,"y":-5633,"width":288,"height":209,"type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
 		{"id":"c1e4e205de320543","x":-18144,"y":-5633,"width":216,"height":209,"type":"file","file":"99. Attachments/Northern Glacier Path.png"},
 		{"id":"e53c90bef59b1d19","x":-20480,"y":-5852,"width":400,"height":324,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 04.png"},
-		{"id":"3db2b6328ef24103","x":-22231,"y":-4692,"width":250,"height":273,"type":"file","file":"10. Notes/Black Hole Forge District.md"},
 		{"id":"13ab106d88b55dd0","x":-22640,"y":-2720,"width":400,"height":274,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Lower Floor.png"},
 		{"id":"edc282f0d7f9b874","x":-22000,"y":-2520,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
 		{"id":"f19f9bfc65d91e2b","x":-20760,"y":-4720,"width":4440,"height":2040,"type":"group","label":"Hanging City"},
@@ -609,9 +608,12 @@
 		{"id":"6fc0c21135409713","x":-18961,"y":-1240,"width":400,"height":359,"type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"},
 		{"id":"3e23d8ad04bb61fc","x":-19380,"y":-1140,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
 		{"id":"402ccf9d0e11e1d3","x":-22400,"y":-939,"width":400,"height":323,"type":"file","file":"99. Attachments/Gravity Floor on White Hole Station.png"},
-		{"id":"8c8fc546c621305a","x":-18120,"y":-3640,"width":1239,"height":760,"type":"group","label":"Eye District"},
-		{"id":"e4fd1230ec16a358","x":-17600,"y":-3546,"width":530,"height":346,"type":"file","file":"99. Attachments/Eye District Overview.png"},
-		{"id":"1f77b720f203482a","x":-18080,"y":-3598,"width":250,"height":310,"type":"file","file":"10. Notes/Eye District.md"}
+		{"id":"8c8fc546c621305a","x":-18120,"y":-3640,"width":920,"height":577,"type":"group","label":"Eye District"},
+		{"id":"1f77b720f203482a","x":-18080,"y":-3598,"width":680,"height":160,"type":"file","file":"10. Notes/Eye District.md"},
+		{"id":"e4fd1230ec16a358","x":-18080,"y":-3409,"width":476,"height":311,"type":"file","file":"99. Attachments/Eye District Overview.png"},
+		{"id":"8745b5f357164037","x":-17563,"y":-3408,"width":326,"height":310,"type":"file","file":"99. Attachments/Pasted image 20221231185011.png"},
+		{"id":"e973ea5e8cf8ec6e","x":-17160,"y":-3640,"width":800,"height":577,"type":"group","label":"Black Hole Forge District"},
+		{"id":"c46893fa8906719d","x":-17120,"y":-3574,"width":300,"height":325,"type":"file","file":"10. Notes/Black Hole Forge District.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
@@ -740,6 +742,7 @@
 		{"id":"68ee7e4eedecc602","fromNode":"0cc947b44ce04f86","fromSide":"bottom","toNode":"e53c90bef59b1d19","toSide":"top"},
 		{"id":"7ea808e6114c2ab9","fromNode":"e53c90bef59b1d19","fromSide":"bottom","toNode":"f19f9bfc65d91e2b","toSide":"top","label":"Connects to Meltwater District"},
 		{"id":"5455457fc01e39cb","fromNode":"ccd59033cf48cb3b","fromSide":"bottom","toNode":"4adaa9b90d491908","toSide":"top","label":"1F"},
-		{"id":"6d60bc95c88d2280","fromNode":"ccd59033cf48cb3b","fromSide":"bottom","toNode":"605ea9aee1555178","toSide":"top","label":"2F"}
+		{"id":"6d60bc95c88d2280","fromNode":"ccd59033cf48cb3b","fromSide":"bottom","toNode":"605ea9aee1555178","toSide":"top","label":"2F"},
+		{"id":"e01e71428e85e338","fromNode":"ccd59033cf48cb3b","fromSide":"bottom","toNode":"8c8fc546c621305a","toSide":"top","label":"3F"}
 	]
 }
