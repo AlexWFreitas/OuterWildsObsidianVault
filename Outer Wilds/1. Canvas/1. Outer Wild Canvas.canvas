@@ -561,15 +561,18 @@
 		{"id":"34bbb0a0b3bea234","x":-20312,"y":-3441,"width":276,"height":238,"type":"file","file":"10. Notes/Black Hole Forge - Elevator Control.md"},
 		{"id":"edf78fa6595f9b74","x":-21840,"y":-4458,"width":250,"height":835,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md"},
 		{"id":"303eb9e9f595e1f6","x":-21840,"y":-5200,"width":250,"height":660,"type":"file","file":"10. Notes/Brittle Hollow.md"},
-		{"id":"8855429e4165276c","x":-17960,"y":-3472,"width":400,"height":400,"type":"file","file":"10. Notes/Secret entrance - Northern Glacier - Meltwater District.md"},
-		{"id":"d4cd8af997da3500","x":-17460,"y":-3472,"width":400,"height":291,"type":"file","file":"99. Attachments/Pasted image 20221231152937.png"},
 		{"id":"a9ecbafd85ab76de","x":-17292,"y":-2354,"width":400,"height":348,"type":"file","file":"99. Attachments/Pasted image 20221231153051.png"},
 		{"id":"2fa1713f4251b062","x":-18680,"y":-2427,"width":400,"height":307,"type":"file","file":"99. Attachments/Pasted image 20221231153129.png"},
 		{"id":"0c12657072bcdce3","x":-18620,"y":-2780,"width":400,"height":237,"type":"file","file":"99. Attachments/Pasted image 20221231153206.png"},
 		{"id":"41f4598eb1941c9e","x":-18160,"y":-2900,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
 		{"id":"3e23d8ad04bb61fc","x":-17692,"y":-2886,"width":400,"height":225,"type":"file","file":"99. Attachments/Pasted image 20221231153553.png"},
 		{"id":"7a98f72d87edc21e","x":-18240,"y":-2451,"width":400,"height":331,"type":"file","file":"99. Attachments/Pasted image 20221231153914.png"},
-		{"id":"60b2e654693e88fa","x":-17800,"y":-2413,"width":400,"height":293,"type":"file","file":"99. Attachments/Pasted image 20221231153111.png"}
+		{"id":"60b2e654693e88fa","x":-17800,"y":-2413,"width":400,"height":293,"type":"file","file":"99. Attachments/Pasted image 20221231153111.png"},
+		{"id":"8855429e4165276c","x":-15720,"y":-2273,"width":400,"height":400,"type":"file","file":"10. Notes/Secret entrance - Northern Glacier - Meltwater District.md"},
+		{"id":"d4cd8af997da3500","x":-15220,"y":-2273,"width":400,"height":291,"type":"file","file":"99. Attachments/Pasted image 20221231152937.png"},
+		{"id":"6d6259f2867b0afd","x":-15320,"y":-2661,"width":400,"height":250,"type":"file","file":"99. Attachments/Pasted image 20221231154403.png"},
+		{"id":"7f7da4719ebd12df","x":-14820,"y":-2714,"width":400,"height":287,"type":"file","file":"99. Attachments/Pasted image 20221231154422.png"},
+		{"id":"d4c49a4c798b55b5","x":-14720,"y":-2306,"width":400,"height":324,"type":"file","file":"99. Attachments/Pasted image 20221231154523.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
