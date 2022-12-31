@@ -1,6 +1,2 @@
-- Located at the North Pole
-- Hanging City is comprised of 4 floors / levels
-	- Black Hole Forge District
-	- Eye District
-	- Meltwater District
-	- School District
+- Located at the underground of [[North Pole]].
+- The Hanging City is made of 4 floors, they are connected through the use of a Tower contain
