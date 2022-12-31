@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15174.510482421514,
-                  "y": -5704.911802392448,
-                  "zoom": -0.9999999999999998,
+                  "x": -17507.300622122613,
+                  "y": -7141.4362706322945,
+                  "zoom": -0.6666666666666665,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Observatory Museum.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Observatory Museum.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "99. Attachments/Observatory Museum.png"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "f3c61117ce7372a1",
   "lastOpenFiles": [
-    "10. Notes/Ash Twin Project.md",
+    "10. Notes/Quantum Shard].md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Nomai Statue.md",
+    "10. Notes/Ash Twin Project.md",
     "10. Notes/Timber Hearth.md",
     "10. Notes/Timber Hearth - Observatory.md",
     "10. Notes/Zero-G Cave.md",
     "10. Notes/Timber Hearth - Village.md",
     "10. Notes/Timber Hearth - Launch Tower.md",
-    "10. Notes/Solar System - General Info.md",
-    "100.Template/Outer Wilds T.md",
-    "10. Notes/Black Hole Forge.md"
+    "10. Notes/Solar System - General Info.md"
   ]
 }

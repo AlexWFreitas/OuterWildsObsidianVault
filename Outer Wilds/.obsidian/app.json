@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "10. Notes",
-  "attachmentFolderPath": "99. Attachments"
+  "attachmentFolderPath": "99. Attachments",
+  "alwaysUpdateLinks": true
 }

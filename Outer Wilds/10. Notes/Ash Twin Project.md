@@ -8,7 +8,7 @@ The Ash Twin Project has been a mystery for most of this story.
 
 I found the true purpose of them inside the [[Statue Workshop]] of [[Giant's Deep]], the [[Ember Twin]] structures, the [[Sun Station]] and other planets by collecting clues about this big project that the Nomai race designed.
 
-The Ash Twin Project is a project that tries to send memories to the past, using a memory collecting device through the use of [[Nomai Statue Mechanisms|Nomai Statues]] to collect memories from paired beings, these memories are then sent to the [[Ash Twin Project]], where they are stored and then sent to the past through the use of [[Time Travel]] mechanics, where they then arrive at the minds of the paired beings that are inside some type of time loop caused by time travelling.
+The Ash Twin Project is a project that tries to send memories to the past, using a memory collecting device through the use of [[Nomai Statue|Nomai Statues]] to collect memories from paired beings, these memories are then sent to the [[Ash Twin Project]], where they are stored and then sent to the past through the use of [[Time Travel]] mechanics, where they then arrive at the minds of the paired beings that are inside some type of time loop caused by time travelling.
 
 When investigating the [[Ember Twin]], there were notes about constructing [[Warp Tower]]s on [[Ash Twin]], each tower would have icons that match the characteristics of the destination planet.
 

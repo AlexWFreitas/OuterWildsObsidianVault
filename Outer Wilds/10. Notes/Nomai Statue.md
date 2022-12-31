@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+Aliases:
+- "Nomai Statue Mechanisms"
+- "nomai statue Mechanisms"
+- 
 ---
 This workshop is the origin of the Nomai Statues.
 
