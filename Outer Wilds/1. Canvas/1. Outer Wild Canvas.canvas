@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"64f003321ac72195","x":-15240,"y":-6749,"width":250,"height":217,"type":"file","file":"10. Notes/Timber Hearth - Mining Site 2b.md"},
 		{"id":"7001794561bf119e","x":11342,"y":6905,"width":400,"height":225,"color":"2","type":"file","file":"99. Attachments/Vessel - Broken Warp Core.png"},
 		{"id":"894d45612d250a26","x":11325,"y":7413,"width":1195,"height":852,"type":"group","label":"Eye of the Universe"},
 		{"id":"81aa9f0357720417","x":11900,"y":7485,"width":400,"height":364,"type":"file","file":"99. Attachments/Pasted image 20221228221357.png"},
@@ -308,7 +309,6 @@
 		{"id":"9b9788f5f9031d29","x":-14280,"y":-6865,"width":250,"height":371,"color":"4","type":"text","text":"# Quantum Grove Crater\n\n- South of Outer Wilds Ventures \n- Place with tons of Quantum Shards that have erratic behavior if they are not being watched\n- Seems to be related to the Quantum Moon, somewhere no one has been able to land\n"},
 		{"id":"28fd2999cd9b10a6","x":-13960,"y":-7265,"width":250,"height":553,"color":"4","type":"text","text":"# Youngbark Crater\n- North of Outer Wilds Ventures\n- This crater was releasing smokes at the start of the day\n- Tektite was investigating it, I helped by using a Little Scout inside and found an infinitely bigger area inside a small area.\n- That plant is actually a seed from the Dark Brambles Planet, it's an invasive species and causes the destruction of planets.\n- Also through the use of the Little Scout on the Dark Bramble Seed, I was able to find the missing Outer Wilder Feldspar."},
 		{"id":"ce50225872571fcb","x":-14030,"y":-5933,"width":250,"height":201,"color":"4","type":"text","text":"# Geyser Mountains\n\n- Northwest of Outer Wilds Ventures\n- Seems to connect to running water tunnel currents "},
-		{"id":"b320f13386fd745a","x":-14358,"y":-6326,"width":250,"height":140,"color":"4","type":"text","text":"# Nomai Mines - Mining Site 2b\n- Information about Ash Twin Project"},
 		{"id":"992b07fd0d90e047","x":-14358,"y":-5894,"width":250,"height":246,"color":"3","type":"text","text":"# Nomai Ruins\n\n- East of Outer Wilds Ventures\n- On the surface, there is an inactive Warp Receiver Pattern\n- The inside leads to the Nomai Mines"},
 		{"id":"f0bebb5277162457","x":-15760,"y":-7520,"width":2918,"height":2391,"color":"3","type":"group","label":"Timber Hearth and Attlerock"},
 		{"id":"c17d2c30e82016d3","x":-13486,"y":-6169,"width":250,"height":236,"color":"4","type":"text","text":"# Attlerock\n\nThe moon that orbits Timber Hearth\n\nThe first outer space landing happened on Attlerock by the Outer Wilds Ventures and Feldspar"},
@@ -318,7 +318,6 @@
 		{"id":"d375e7718545ce8f","x":-13202,"y":-6169,"width":250,"height":472,"color":"4","type":"text","text":"# Nomai Ruins\n\n- Some type of artifact that works as a Locator\n- Built to find the **Eye of the Universe**, but isn't able to\n- Notes about building the next version of this on South of Brittle Hollow\n- Notes about having a Quantum Moon Locator on Ember Twin (Ash Twins?)\n- Has a locator for the Sun, Giant's Deep and Brittle Hollow"},
 		{"id":"3cac658cf1d22212","x":-13202,"y":-5673,"width":250,"height":365,"color":"4","type":"text","text":"# North Pole - Esker Signalscope Diary\n\n- Signalscope Diary entries, saying that Feldspar signal  is coming from Timber Hearth\n- Found Feldspar, the signal was being detected in Timber Hearth because the Dark Bramble Seed in Timber Hearth was connected to the expanding space of the Dark Brambles Planet\n"},
 		{"id":"0dc2951dc1d61027","x":-15720,"y":-7440,"width":2040,"height":1950,"type":"group","label":"Timber Hearth"},
-		{"id":"fe2137ebc9cc855c","x":-14155,"y":-6129,"width":250,"height":107,"color":"4","type":"text","text":"# Mining Site 2a\n\nOne of the caves inside Underwater Caves"},
 		{"id":"9d20d4ac77971395","x":-14085,"y":-6400,"width":250,"height":87,"color":"4","type":"text","text":"# Investigate  Harmonica Sound inside Timber Hearth"},
 		{"id":"fd8f9fade495e387","x":-25538,"y":-3995,"width":653,"height":3524,"type":"file","file":"Knowledge/Games/Outer Wilds/Quantum Moon - Eye of the Universe.md"},
 		{"id":"061ce7d364264b02","x":-26400,"y":-2608,"width":400,"height":314,"type":"file","file":"99. Attachments/Pasted image 20221228065645.png"},
@@ -329,7 +328,6 @@
 		{"id":"de4ff59db7dbe57c","x":-14483,"y":-7259,"width":250,"height":299,"color":"4","type":"text","text":"# Radio Tower\n\n- Discovered how to Doze to pass time in front of a fireplace\n- Discovered a Radio Tower that unlocked the Deep Space Frequency to use on the Signalscape"},
 		{"id":"171d8c9256427b90","x":-15680,"y":-7360,"width":760,"height":380,"type":"group","label":"General Info"},
 		{"id":"75b400a366de3979","x":-15640,"y":-7300,"width":250,"height":278,"type":"file","file":"10. Notes/Timber Hearth.md"},
-		{"id":"8ee0e96289495d62","x":-14840,"y":-7376,"width":250,"height":431,"color":"4","type":"text","text":"# Underwater Caves\n- Accessible by going inside Geysers\n- Possibly accessible from the Geyser Mountain Door\n- Contains about 3 caves connected by tunnels\n- There are notes about one of those underwater caves being a mining site that was abandoned because it would cause problems to the native species of the planet"},
 		{"id":"5ebb67e81a68b93c","x":-29505,"y":-6720,"width":5196,"height":5021,"type":"group","label":"Quantum Moon"},
 		{"id":"c354b1dd0bbb43d4","x":-30172,"y":-3339,"width":400,"height":306,"type":"file","file":"Attachments/Pasted image 20221228062024.png"},
 		{"id":"0144788f45ecb833","x":-30693,"y":-3290,"width":400,"height":207,"type":"file","file":"Attachments/Pasted image 20221228062012.png"},
@@ -509,7 +507,11 @@
 		{"id":"17a366e619a97ae1","x":-19157,"y":-6220,"width":250,"height":322,"type":"file","file":"10. Notes/Gossan.md"},
 		{"id":"783567a9c7edc3d6","x":-18600,"y":-6193,"width":400,"height":268,"type":"file","file":"99. Attachments/Ghost Matter.png"},
 		{"id":"f47984169edad5e0","x":-18279,"y":-6713,"width":400,"height":154,"type":"file","file":"10. Notes/Outer Wilds Ventures.md"},
-		{"id":"dfec2b8065f0edf9","x":-18279,"y":-6513,"width":400,"height":293,"type":"file","file":"99. Attachments/Outer Wilds Ventures Founders.png"}
+		{"id":"dfec2b8065f0edf9","x":-18279,"y":-6513,"width":400,"height":293,"type":"file","file":"99. Attachments/Outer Wilds Ventures Founders.png"},
+		{"id":"52a6a41295a5046c","x":-17840,"y":-6430,"width":400,"height":542,"type":"file","file":"99. Attachments/Geyser.png"},
+		{"id":"c0460e6d4f1f60a8","x":-17400,"y":-6220,"width":400,"height":233,"type":"file","file":"10. Notes/Geyser.md"},
+		{"id":"9c19047596e28bdf","x":-15680,"y":-6927,"width":320,"height":377,"type":"file","file":"10. Notes/Timber Hearth - Underwater Caves.md"},
+		{"id":"01c0b1effa6f6ba8","x":-15680,"y":-6494,"width":320,"height":345,"type":"file","file":"10. Notes/Timber Hearth - Mining Site 2a.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
