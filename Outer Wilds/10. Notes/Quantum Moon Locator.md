@@ -13,3 +13,4 @@ Tags:
 	- [[Dark Bramble]]
 	- A sixth unknown astral body that can't be tracked
 - The sixth astral body is probably the [[Eye of the Universe]]
+- The actual purpose of this is to allow you to understand that the Quantum Mo

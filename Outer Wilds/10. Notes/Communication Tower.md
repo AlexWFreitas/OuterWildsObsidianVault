@@ -11,7 +11,7 @@ Contains a projection stone pillar without a stone nearby, probably used to disp
 
 Probably very important on the [[Ash Twin Project]]
 
-It seems that those panels are actually Solar Panels.
+It seems that those panels are also Solar Panels, used to generate and transfer energy.
 
 The [[High Energy Lab]] is located below this area, but the entrance is closed.
 

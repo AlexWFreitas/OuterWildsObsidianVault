@@ -6,5 +6,5 @@ Surface:
 
 Underground:
 - Crash Site Caves
-- ~~High Energy Lab~~ (Blocked)
+- ~~High Energy Lab~~ (Blocked from inside, can be unblocked)
 - ~~Sunless City~~ (Blocked by Ghost Matter)
