@@ -7,4 +7,4 @@ Tags:
 Aliases:
 - 
 ---
-- Place to train how zero gravity space suit flying works
+- A cave simulating zero gravity to train flying with a space suit in outer space, to prepare for space exploration.

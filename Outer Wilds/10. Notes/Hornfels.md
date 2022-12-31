@@ -1,0 +1,2 @@
+- Used to be Ground Control for the Outer Wild Ventures
+- Now is the Observatory's Museum Curator

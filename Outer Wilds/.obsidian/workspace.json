@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -17507.300622122613,
-                  "y": -7141.4362706322945,
-                  "zoom": -0.6666666666666665,
+                  "x": -19056.586491057904,
+                  "y": -6380.2157618463925,
+                  "zoom": 0.3333333333333334,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Observatory Museum.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Observatory Museum.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Observatory Museum.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "f3c61117ce7372a1",
   "lastOpenFiles": [
-    "10. Notes/Quantum Shard].md",
+    "99. Attachments/Hornfels.png",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Quantum Shard].md",
     "10. Notes/Nomai Statue.md",
     "10. Notes/Ash Twin Project.md",
     "10. Notes/Timber Hearth.md",
     "10. Notes/Timber Hearth - Observatory.md",
     "10. Notes/Zero-G Cave.md",
     "10. Notes/Timber Hearth - Village.md",
-    "10. Notes/Timber Hearth - Launch Tower.md",
-    "10. Notes/Solar System - General Info.md"
+    "10. Notes/Timber Hearth - Launch Tower.md"
   ]
 }
