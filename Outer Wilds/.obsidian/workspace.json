@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -19903.188353049194,
-                  "y": -4167.374657135026,
-                  "zoom": -0.6666666666666663,
+                  "x": -18661.005953239764,
+                  "y": -3343.8444438221836,
+                  "zoom": -0.333333333333333,
                   "snapToGrid": true
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Nomai Writing Walls.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Nomai Writing Walls.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "99. Attachments/Nomai Writing Walls.png"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Abandoned Shelter.md",
+    "10. Notes/Black Hole Forge District.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Abandoned Shelter.md",
     "10. Notes/North Pole.md",
     "10. Notes/Gravity Stones.md",
     "99. Attachments/Gravity Stones Image.png",
     "10. Notes/Hourglass Twins.md",
     "10. Notes/Time Travel.md",
     "10. Notes/Escape Pod 01.md",
-    "10. Notes/Escape Pod 03.md",
-    "10. Notes/Brittle Hollow 1.md"
+    "10. Notes/Escape Pod 03.md"
   ]
 }
