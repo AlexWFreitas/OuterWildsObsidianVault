@@ -474,15 +474,15 @@
 		{"id":"de4ff59db7dbe57c","x":-14483,"y":-7259,"width":250,"height":299,"color":"4","type":"text","text":"# Radio Tower\n\n- Discovered how to Doze to pass time in front of a fireplace\n- Discovered a Radio Tower that unlocked the Deep Space Frequency to use on the Signalscape"},
 		{"id":"171d8c9256427b90","x":-15680,"y":-7360,"width":700,"height":380,"type":"group","label":"General Info"},
 		{"id":"75b400a366de3979","x":-15640,"y":-7300,"width":250,"height":278,"type":"file","file":"10. Notes/Timber Hearth.md"},
-		{"id":"39a39a94b2389260","x":-15680,"y":-6880,"width":600,"height":880,"type":"group","label":"Timber Hearth Village"},
+		{"id":"39a39a94b2389260","x":-15680,"y":-6880,"width":600,"height":760,"type":"group","label":"Timber Hearth Village"},
 		{"id":"ce50225872571fcb","x":-14030,"y":-5933,"width":250,"height":201,"color":"4","type":"text","text":"# Geyser Mountains\n\n- Northwest of Outer Wilds Ventures\n- Seems to connect to running water tunnel currents "},
 		{"id":"b320f13386fd745a","x":-14358,"y":-6326,"width":250,"height":140,"color":"4","type":"text","text":"# Nomai Mines - Mining Site 2b\n- Information about Ash Twin Project"},
 		{"id":"992b07fd0d90e047","x":-14358,"y":-5894,"width":250,"height":246,"color":"3","type":"text","text":"# Nomai Ruins\n\n- East of Outer Wilds Ventures\n- On the surface, there is an inactive Warp Receiver Pattern\n- The inside leads to the Nomai Mines"},
 		{"id":"8ee0e96289495d62","x":-14840,"y":-7376,"width":250,"height":431,"color":"4","type":"text","text":"# Underwater Caves\n- Accessible by going inside Geysers\n- Possibly accessible from the Geyser Mountain Door\n- Contains about 3 caves connected by tunnels\n- There are notes about one of those underwater caves being a mining site that was abandoned because it would cause problems to the native species of the planet"},
-		{"id":"2d90156cfc5685c4","x":-15640,"y":-6827,"width":250,"height":286,"type":"file","file":"10. Notes/Timber Hearth - Village.md"},
+		{"id":"2d90156cfc5685c4","x":-15640,"y":-6827,"width":250,"height":334,"type":"file","file":"10. Notes/Timber Hearth - Village.md"},
 		{"id":"d3c296bad617d255","x":-15360,"y":-6827,"width":250,"height":157,"type":"file","file":"10. Notes/Zero-G Cave.md"},
-		{"id":"4739df062b0b79ac","x":-15640,"y":-6500,"width":250,"height":461,"type":"file","file":"10. Notes/Timber Hearth - Observatory.md"},
-		{"id":"7fbf800a0278c629","x":-15360,"y":-6620,"width":250,"height":241,"type":"file","file":"10. Notes/Timber Hearth - Launch Tower.md"}
+		{"id":"4739df062b0b79ac","x":-15360,"y":-6620,"width":250,"height":461,"type":"file","file":"10. Notes/Timber Hearth - Observatory.md"},
+		{"id":"7fbf800a0278c629","x":-15640,"y":-6446,"width":250,"height":241,"type":"file","file":"10. Notes/Timber Hearth - Launch Tower.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"aec063923a52dc10","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

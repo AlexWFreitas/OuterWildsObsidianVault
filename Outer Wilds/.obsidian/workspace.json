@@ -15,10 +15,10 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15033.701337105358,
-                  "y": -6614.43804906365,
-                  "zoom": -1.1102230246251565e-16,
-                  "snapToGrid": true
+                  "x": -8120,
+                  "y": 5400,
+                  "zoom": -4,
+                  "snapToGrid": false
                 }
               }
             }
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 248.5
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -153,15 +153,15 @@
   },
   "active": "f3c61117ce7372a1",
   "lastOpenFiles": [
+    "10. Notes/Ash Twin Project.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Timber Hearth.md",
+    "10. Notes/Timber Hearth - Observatory.md",
+    "10. Notes/Zero-G Cave.md",
+    "10. Notes/Timber Hearth - Village.md",
+    "10. Notes/Timber Hearth - Launch Tower.md",
     "10. Notes/Solar System - General Info.md",
     "100.Template/Outer Wilds T.md",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
-    "10. Notes/Black Hole Forge.md",
-    "10. Notes/Ash Twin Project.md",
-    "10. Notes/Timber Hearth.md",
-    "10. Notes/Deep Space Satellite.md",
-    "10. Notes/Ember Twin - Quantum Room D.md",
-    "10. Notes/Anglerfish.md",
-    "Canvas/backup.canvas"
+    "10. Notes/Black Hole Forge.md"
   ]
 }
