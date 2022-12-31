@@ -1,3 +1,4 @@
 - There is one station near the White Hole that is called White Hole Station
-- This ship contains a projection disk that can be used to see the Ember Twins
-- There is a Teleporter that brings you back to Brittle Hollow, but on a different place
+- This ship contains a projection disk that can be used to see the [[Ember Twin]].
+- There is a teleporter that sends you to the [[Warp Receiver - Brittle Hollow - White Hole Station]]
+- The [[Warp Tower]] is inspired by the [[White Hole Station]] and both of them work in the exact same way.
