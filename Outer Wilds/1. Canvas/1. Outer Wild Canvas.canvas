@@ -630,7 +630,7 @@
 		{"id":"74c922588e130721","x":-13480,"y":-4500,"width":520,"height":418,"type":"file","file":"99. Attachments/Gravity Cannon Controls and Shuttle on the Gravity Cannon.png"},
 		{"id":"69496e0bb2966d81","x":-12920,"y":-4414,"width":400,"height":258,"type":"file","file":"99. Attachments/Path to the Crossroads 2.png"},
 		{"id":"4a602e7a5eafa3d9","x":-12920,"y":-4846,"width":400,"height":346,"type":"file","file":"99. Attachments/Path to the Crossroads 1.png"},
-		{"id":"cc5b65b16365cfe3","x":-17840,"y":-6640,"width":1600,"height":1160,"type":"group","label":"Southern Observatory"},
+		{"id":"cc5b65b16365cfe3","x":-17840,"y":-6640,"width":1600,"height":1180,"type":"group","label":"Southern Observatory"},
 		{"id":"c1e4e205de320543","x":-18144,"y":-5633,"width":216,"height":209,"type":"file","file":"99. Attachments/Northern Glacier Path.png"},
 		{"id":"72fcad477e94bae1","x":-18364,"y":-6553,"width":400,"height":290,"type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
 		{"id":"544b12eccec1d155","x":-18904,"y":-5680,"width":1000,"height":280,"type":"group","label":"Northern Glacier"},
@@ -648,7 +648,12 @@
 		{"id":"25e3cf61df823a87","x":-16120,"y":-5950,"width":250,"height":312,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
 		{"id":"2e15ee4d79bf2a8f","x":-17800,"y":-6563,"width":420,"height":437,"type":"file","file":"10. Notes/Southern Observatory.md"},
 		{"id":"3d825ec31d4b8aa3","x":-18883,"y":-5633,"width":400,"height":209,"type":"file","file":"10. Notes/Northern Glacier.md"},
-		{"id":"b6b55af497c05c37","x":-16600,"y":-6079,"width":250,"height":460,"type":"file","file":"10. Notes/Second Planet Locator - Brittle Hollow.md"}
+		{"id":"a81bf86fd6fd8452","x":-17320,"y":-6563,"width":400,"height":284,"type":"file","file":"99. Attachments/Path from Gravity Cannon.png"},
+		{"id":"6e6b0d1b44cb6b61","x":-16875,"y":-6563,"width":339,"height":284,"type":"file","file":"99. Attachments/Path from Gravity Cannon 2.png"},
+		{"id":"7f45c9382ac99ff2","x":-17800,"y":-6077,"width":420,"height":267,"type":"file","file":"99. Attachments/Inside the Observatory.png"},
+		{"id":"ad3952b380a3b329","x":-17800,"y":-5753,"width":420,"height":253,"type":"file","file":"99. Attachments/Giant's Deep Cyclone Simulator.png"},
+		{"id":"b6b55af497c05c37","x":-17345,"y":-6077,"width":470,"height":231,"type":"file","file":"10. Notes/Southern Observatory - Planet Locator.md"},
+		{"id":"5321d9762221fa76","x":-17345,"y":-5810,"width":470,"height":271,"type":"file","file":"99. Attachments/Observatory - Planet Locator.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

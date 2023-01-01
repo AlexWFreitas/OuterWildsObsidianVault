@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -17188.860164325186,
-                  "y": -6245.948085069146,
-                  "zoom": -1,
+                  "x": -16848.288009830212,
+                  "y": -6181.171990227093,
+                  "zoom": -1.1102230246251565e-16,
                   "snapToGrid": true
                 }
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Second Planet Locator - Brittle Hollow.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Second Planet Locator - Brittle Hollow.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Second Planet Locator - Brittle Hollow.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
