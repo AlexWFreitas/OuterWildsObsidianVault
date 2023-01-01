@@ -693,18 +693,23 @@
 		{"id":"710fd413362fcf9a","x":360,"y":-3123,"width":405,"height":190,"type":"file","file":"10. Notes/Tektite.md"},
 		{"id":"eed0018d0931263c","x":360,"y":-2908,"width":405,"height":413,"type":"file","file":"99. Attachments/Tektite.png"},
 		{"id":"928fccd2bb34cfe1","x":793,"y":-3123,"width":380,"height":247,"type":"file","file":"10. Notes/Cassava.md"},
-		{"id":"7f60407a704e309c","x":-2160,"y":-3248,"width":250,"height":238,"type":"file","file":"10. Notes/Slate.md"},
 		{"id":"91cf54c4e8dfd07b","x":-1783,"y":-3037,"width":250,"height":141,"type":"text","text":"# Founders of Outer Wilds Ventures"},
-		{"id":"744013e07e79af92","x":-2160,"y":-2852,"width":250,"height":278,"type":"file","file":"10. Notes/Feldspar.md"},
-		{"id":"9bb0250586925426","x":-1805,"y":-2420,"width":333,"height":209,"type":"file","file":"10. Notes/Outer Wilders.md"},
-		{"id":"de5b57b47f0c4bb8","x":-1840,"y":-2718,"width":250,"height":144,"type":"file","file":"10. Notes/Chertt.md"},
-		{"id":"fa3091bea9250377","x":-1533,"y":-2751,"width":250,"height":176,"type":"file","file":"10. Notes/Riebeck.md"},
-		{"id":"c2edf919668e3964","x":-1233,"y":-2799,"width":380,"height":224,"type":"file","file":"10. Notes/Gabbro.md"},
-		{"id":"ca488e5dbce7e341","x":-1033,"y":-2380,"width":413,"height":385,"type":"file","file":"10. Notes/Esker.md"},
 		{"id":"9f8958c1904d0b89","x":-760,"y":-3275,"width":400,"height":98,"type":"file","file":"10. Notes/Gossan.md"},
 		{"id":"e9e2233d2a0299df","x":-1783,"y":-3343,"width":286,"height":190,"type":"file","file":"10. Notes/Hornfels.md"},
 		{"id":"4e0dbb326ba98bd5","x":-760,"y":-3129,"width":342,"height":400,"type":"file","file":"99. Attachments/Gossan.png"},
-		{"id":"6ee54b4c6cd98e1d","x":-1440,"y":-3337,"width":239,"height":223,"type":"file","file":"99. Attachments/Hornfels.png"}
+		{"id":"6ee54b4c6cd98e1d","x":-1440,"y":-3337,"width":239,"height":223,"type":"file","file":"99. Attachments/Hornfels.png"},
+		{"id":"7f60407a704e309c","x":-2160,"y":-3352,"width":250,"height":238,"type":"file","file":"10. Notes/Slate.md"},
+		{"id":"ef2809587ba7c750","x":-2163,"y":-3080,"width":257,"height":184,"type":"file","file":"99. Attachments/Slate.png"},
+		{"id":"744013e07e79af92","x":-2156,"y":-2785,"width":250,"height":509,"type":"file","file":"10. Notes/Feldspar.md"},
+		{"id":"9bb0250586925426","x":-1840,"y":-2099,"width":333,"height":209,"type":"file","file":"10. Notes/Outer Wilders.md"},
+		{"id":"ca488e5dbce7e341","x":-1140,"y":-1820,"width":413,"height":385,"type":"file","file":"10. Notes/Esker.md"},
+		{"id":"942314b791357a78","x":-1840,"y":-2785,"width":240,"height":278,"type":"file","file":"99. Attachments/Feldspar.png"},
+		{"id":"fa3091bea9250377","x":-1507,"y":-2827,"width":250,"height":363,"type":"file","file":"10. Notes/Riebeck.md"},
+		{"id":"7ad9c89ac7c3377d","x":-1156,"y":-2980,"width":161,"height":169,"type":"file","file":"99. Attachments/Riebeck.png"},
+		{"id":"de5b57b47f0c4bb8","x":-1140,"y":-2729,"width":250,"height":144,"type":"file","file":"10. Notes/Chertt.md"},
+		{"id":"56c9c760ff2df81a","x":-680,"y":-1820,"width":400,"height":259,"type":"file","file":"99. Attachments/Esker.png"},
+		{"id":"0fafc8c1d5e722f3","x":-821,"y":-2676,"width":232,"height":261,"type":"file","file":"99. Attachments/Chertt.png"},
+		{"id":"c2edf919668e3964","x":-1156,"y":-2276,"width":380,"height":224,"type":"file","file":"10. Notes/Gabbro.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
@@ -844,6 +849,11 @@
 		{"id":"ed8c2e95e1694207","fromNode":"fcb74ffa64f4242a","fromSide":"right","toNode":"acb91415107f179d","toSide":"left","label":"Warps to"},
 		{"id":"5cea3df0bc904f81","fromNode":"58cda20325133660","fromSide":"bottom","toNode":"b9bf85e5b28576f2","toSide":"top"},
 		{"id":"cd8af92ffb5a218e","fromNode":"9f8958c1904d0b89","fromSide":"bottom","toNode":"4e0dbb326ba98bd5","toSide":"top"},
-		{"id":"2b1b0ce4027e33ed","fromNode":"e9e2233d2a0299df","fromSide":"right","toNode":"6ee54b4c6cd98e1d","toSide":"left"}
+		{"id":"2b1b0ce4027e33ed","fromNode":"e9e2233d2a0299df","fromSide":"right","toNode":"6ee54b4c6cd98e1d","toSide":"left"},
+		{"id":"1c219e86013a586c","fromNode":"7f60407a704e309c","fromSide":"bottom","toNode":"ef2809587ba7c750","toSide":"top"},
+		{"id":"dc54301cf5220764","fromNode":"744013e07e79af92","fromSide":"right","toNode":"942314b791357a78","toSide":"left"},
+		{"id":"305a63ce1d464a05","fromNode":"fa3091bea9250377","fromSide":"right","toNode":"7ad9c89ac7c3377d","toSide":"left"},
+		{"id":"f1d00f34e74be011","fromNode":"ca488e5dbce7e341","fromSide":"right","toNode":"56c9c760ff2df81a","toSide":"left"},
+		{"id":"57d229c28e6cd135","fromNode":"de5b57b47f0c4bb8","fromSide":"right","toNode":"0fafc8c1d5e722f3","toSide":"left"}
 	]
 }

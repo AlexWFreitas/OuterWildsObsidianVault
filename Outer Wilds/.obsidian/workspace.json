@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -1518.5768177554928,
-                  "y": -2744.5355960098827,
-                  "zoom": -0.6666666666666667,
+                  "x": -1240.781633661058,
+                  "y": -2220.6919478305294,
+                  "zoom": -1,
                   "snapToGrid": true
                 }
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Chertt.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/Chertt.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "99. Attachments/Chertt.png"
               }
             }
           }
