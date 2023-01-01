@@ -7,30 +7,26 @@
 		{"id":"8d1282e1cfbe6bb2","x":-1080,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
 		{"id":"1de0801e9fa7f0c2","x":-1080,"y":-1568,"width":400,"height":50,"type":"text","text":"# Index"},
 		{"id":"f5352823a735cff7","x":-900,"y":-1320,"width":522,"height":184,"type":"text","text":"# Exploration Mechanics Canvas\n\nThis canvas contains information about certain exploration mechanics that exist on the game, they will influence on how you can explore the game's universe and therefore it's important to know the important ones."},
-		{"id":"2839055ea924024e","x":2040,"y":-285,"width":327,"height":197,"type":"file","file":"99. Attachments/Cave Shard Room A.png"},
 		{"id":"5bea9369e6fee93a","x":-1203,"y":-671,"width":455,"height":272,"type":"file","file":"10. Notes/Warp Receiver.md"},
 		{"id":"449f27d4628d5c64","x":-579,"y":-671,"width":402,"height":224,"type":"file","file":"10. Notes/Gravity Crystal.md"},
 		{"id":"793e49f85352804e","x":1053,"y":-671,"width":327,"height":296,"type":"file","file":"10. Notes/Quantum Shard.md"},
 		{"id":"e07fbc49766f30ee","x":-8,"y":-671,"width":320,"height":329,"type":"file","file":"10. Notes/Gravity Floor.md"},
 		{"id":"46babd637fc9d202","x":481,"y":-671,"width":400,"height":224,"type":"file","file":"10. Notes/Gravity Bridges.md"},
-		{"id":"ad952cef5b524bd6","x":1527,"y":44,"width":400,"height":407,"type":"file","file":"10. Notes/Quantum Observation.md"},
-		{"id":"3974e6a1ba72d25c","x":1007,"y":44,"width":420,"height":359,"type":"file","file":"10. Notes/Quantum Travel through Entanglement.md"},
-		{"id":"44a5556a61123c35","x":-2819,"y":-671,"width":364,"height":184,"type":"file","file":"10. Notes/Ghost Matter.md"},
-		{"id":"b94c1903a87e0b62","x":-2286,"y":-663,"width":345,"height":281,"type":"text","text":"# Signalscope - Music\n\nAmong the members of the [[Outer Wilds Ventures]], there are space explorers, each space explorer has an unique musical isntrument, they usually play music on this frequency to signal that they are ok, the [[Signalscope]] can be used to track these signals so that you are able to find these characters should you want to."},
 		{"id":"495e68221b895df1","x":-1772,"y":-671,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
 		{"id":"1961b1a525283d2c","x":-1203,"y":40,"width":455,"height":309,"type":"file","file":"99. Attachments/Timber Hearth - Warp Receiver.png"},
 		{"id":"67625ca9b45a3a00","x":-579,"y":40,"width":402,"height":358,"type":"file","file":"99. Attachments/Gravity Crystals Image.png"},
-		{"id":"67dd293e6b02cbbc","x":-2819,"y":72,"width":364,"height":244,"type":"file","file":"99. Attachments/Ghost Matter.png"},
-		{"id":"4c79224e5fdc6362","x":-2286,"y":72,"width":345,"height":402,"type":"file","file":"99. Attachments/Feldspar Frequency Detected.png"},
-		{"id":"93cb72405f15e5a3","x":-1772,"y":61,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
-		{"id":"3df0317ab2e23eff","x":-8,"y":61,"width":320,"height":265,"type":"file","file":"99. Attachments/Gravity Floor - 02.png"},
-		{"id":"ca29b613ecf7a173","x":481,"y":50,"width":400,"height":370,"type":"file","file":"99. Attachments/Mining Site 2b - Gravity Bridges.png"}
+		{"id":"3df0317ab2e23eff","x":-8,"y":40,"width":320,"height":265,"type":"file","file":"99. Attachments/Gravity Floor - 02.png"},
+		{"id":"ca29b613ecf7a173","x":481,"y":40,"width":400,"height":370,"type":"file","file":"99. Attachments/Mining Site 2b - Gravity Bridges.png"},
+		{"id":"3974e6a1ba72d25c","x":1007,"y":40,"width":420,"height":359,"type":"file","file":"10. Notes/Quantum Travel through Entanglement.md"},
+		{"id":"ad952cef5b524bd6","x":1540,"y":40,"width":400,"height":407,"type":"file","file":"10. Notes/Quantum Observation.md"},
+		{"id":"44a5556a61123c35","x":-2280,"y":-671,"width":364,"height":184,"type":"file","file":"10. Notes/Ghost Matter.md"},
+		{"id":"2839055ea924024e","x":2040,"y":40,"width":676,"height":407,"type":"file","file":"99. Attachments/Cave Shard Room A.png"},
+		{"id":"93cb72405f15e5a3","x":-1772,"y":40,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
+		{"id":"67dd293e6b02cbbc","x":-2280,"y":40,"width":364,"height":244,"type":"file","file":"99. Attachments/Ghost Matter.png"}
 	],
 	"edges":[
 		{"id":"d510618208ba8c36","fromNode":"44a5556a61123c35","fromSide":"bottom","toNode":"67dd293e6b02cbbc","toSide":"top"},
 		{"id":"3195cd395380b8ea","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"44a5556a61123c35","toSide":"top"},
-		{"id":"679b11092d5a060e","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"b94c1903a87e0b62","toSide":"top"},
-		{"id":"c6d088fe0e42e951","fromNode":"b94c1903a87e0b62","fromSide":"bottom","toNode":"4c79224e5fdc6362","toSide":"top"},
 		{"id":"0fd83c04367d320d","fromNode":"5bea9369e6fee93a","fromSide":"bottom","toNode":"1961b1a525283d2c","toSide":"top"},
 		{"id":"6de5bd134663444b","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"5bea9369e6fee93a","toSide":"top"},
 		{"id":"041334c2cd4d7d43","fromNode":"449f27d4628d5c64","fromSide":"bottom","toNode":"67625ca9b45a3a00","toSide":"top"},
@@ -47,6 +43,7 @@
 		{"id":"c255589a07db7f76","fromNode":"793e49f85352804e","fromSide":"bottom","toNode":"3974e6a1ba72d25c","toSide":"top"},
 		{"id":"f6711e4b10e97cda","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"793e49f85352804e","toSide":"top"},
 		{"id":"30eca9e36cb75268","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"1de0801e9fa7f0c2","toSide":"bottom"},
-		{"id":"e678f51312e19514","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"7310df499c60d097","toSide":"bottom"}
+		{"id":"e678f51312e19514","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"7310df499c60d097","toSide":"bottom"},
+		{"id":"8838eff5906eb1a0","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"495e68221b895df1","toSide":"top"}
 	]
 }

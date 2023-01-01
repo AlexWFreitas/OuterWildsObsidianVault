@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
                 "viewState": {
-                  "x": -272.5741857971446,
-                  "y": 310.3866936087941,
-                  "zoom": -0.7630653301026102,
+                  "x": 626.7924528301886,
+                  "y": 321.98301886792456,
+                  "zoom": -0.981321141845148,
                   "snapToGrid": true
                 }
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Gravity Floor - 02.png",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Gravity Floor - 02.png",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Gravity Floor - 02.png"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "1a90d01310f6ee71",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "100.Template/Canvas Template.canvas",
     "1. Canvas/1. Outer Wild Canvas.canvas",
