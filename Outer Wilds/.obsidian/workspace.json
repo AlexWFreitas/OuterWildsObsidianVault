@@ -11,11 +11,28 @@
             "id": "15625e4a23c0c56d",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "viewState": {
+                  "x": 680,
+                  "y": 12178,
+                  "zoom": -4,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "796851b56a38481c",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15625e4a23c0c56d",
+  "active": "65ebdec89ef8a94f",
   "lastOpenFiles": [
-    "1. Canvas/Feldspar Abandoned Campsite.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "1. Canvas/Feldspar Abandoned Campsite.md",
     "10. Notes/Nomai Race.md",
     "1. Canvas/Nomai Race.md",
     "1. Canvas/Orbital Probe Cannon - Launch Module.md",
