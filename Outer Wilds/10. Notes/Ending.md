@@ -1,4 +1,4 @@
-There are many possible endings depending on your actions at turning points, the images I collected here are not all the images shown on the "true" ending. 
+There are many possible endings depending on your actions at turning points.
 
 The ending is reachable by going to the [[Eye of the Universe]], by using the [[Vessel]] warp technology together with the [[Advanced Warp Core]] from the [[Ash Twin Project]] and warping to the coordinates found on the [[Probe Tracking Module - Orbital Probe Cannon]].
 
