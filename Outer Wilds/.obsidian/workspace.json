@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": 10512.250785728438,
-                  "y": 15197.876336372014,
+                  "x": 11442.250785728438,
+                  "y": 15769.876336372014,
                   "zoom": -0.9999999999999996,
                   "snapToGrid": true
                 }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Back to the Observatory.png",
+                "file": "99. Attachments/The form of a planet.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Back to the Observatory.png",
+                "file": "99. Attachments/The form of a planet.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Back to the Observatory.png"
+                "file": "99. Attachments/The form of a planet.png"
               }
             }
           }
