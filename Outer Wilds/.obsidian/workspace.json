@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
                 "viewState": {
-                  "x": 781.7241333818475,
-                  "y": 1105.3271775219762,
-                  "zoom": -1.0953052337716895,
+                  "x": -272.5741857971446,
+                  "y": 310.3866936087941,
+                  "zoom": -0.7630653301026102,
                   "snapToGrid": true
                 }
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "99. Attachments/Gravity Floor - 02.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "99. Attachments/Gravity Floor - 02.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+                "file": "99. Attachments/Gravity Floor - 02.png"
               }
             }
           }
@@ -170,11 +170,11 @@
   },
   "active": "1a90d01310f6ee71",
   "lastOpenFiles": [
-    "1. Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "100.Template/Canvas Template.canvas",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
     "1. Canvas/Feldspar Abandoned Campsite.md",
     "10. Notes/Nomai Race.md",

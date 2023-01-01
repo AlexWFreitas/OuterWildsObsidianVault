@@ -9,7 +9,10 @@
 		{"id":"bfc1062ae8a7233e","x":-960,"y":140,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"aa7cd85986f230b6","x":59,"y":690,"width":400,"height":230,"type":"group","label":"Exploration Mechanics"},
 		{"id":"7fc7fad7e31ca1b4","x":59,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas"},
-		{"id":"a97ac8adbca629d5","x":59,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Mechanics"}
+		{"id":"a97ac8adbca629d5","x":59,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Mechanics"},
+		{"id":"285b4ecda7593138","x":560,"y":690,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
+		{"id":"dc725dac3565a05e","x":560,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
+		{"id":"75a1426550799d0c","x":560,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Tools"}
 	],
 	"edges":[
 		{"id":"7f2df2bf688f9706","fromNode":"97c71d71bfeb1e8c","fromSide":"top","toNode":"c408780b71895d1b","toSide":"bottom"},
