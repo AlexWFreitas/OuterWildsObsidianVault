@@ -330,7 +330,6 @@
 		{"id":"7001794561bf119e","x":10262,"y":13875,"width":539,"height":303,"color":"2","type":"file","file":"99. Attachments/Vessel - Broken Warp Core.png"},
 		{"id":"4af1d1b398b1d8ef","x":10262,"y":13515,"width":310,"height":282,"color":"2","type":"file","file":"99. Attachments/Vessel Recording from before the voyage to the Eye of the Universe through Warp.png"},
 		{"id":"15c5a2d3fe3bad0a","x":6400,"y":11644,"width":1760,"height":1356,"color":"2","type":"group","label":"Eye of the Universe"},
-		{"id":"b3345bd83cc5d1e3","x":6440,"y":11687,"width":345,"height":728,"color":"2","type":"text","text":"# Eye of the Universe\n\n- Seems to be located on the region of the Star System where the Timber Hearthians live.\n- The signal it emits is older than the known Universe itself.\n- It's impossible to track its location through signal scanning, at least with the locators from [[Attlerock]] and [[Brittle Hollow]] and [[Ember Twin]].\n- The Eye of the Universe name probably comes from the fact that it exists before the Universe came to existence, so it was able to watch and observe the creation of the Universe.\n- It seems that the location of the Eye of the Universe is always changing and that it is unreachable through normal means, because of the Quantum Properties it displays.\n- The [[Orbital Probe Cannon Project|Orbital Probe Cannon]] together with the [[Ash Twin Project]] has been able to successfully find the [[Eye of the Universe - Hypothesis]] coordinates by launching billions of scouting probes on random directions and sending information to the past through time travel."},
 		{"id":"2a22ee7dde52302c","x":6820,"y":11687,"width":400,"height":947,"color":"2","type":"file","file":"10. Notes/Vessel.md"},
 		{"id":"c8ac9e07dde6f1f1","x":7260,"y":11687,"width":400,"height":1235,"color":"2","type":"file","file":"10. Notes/Ash Twin Project.md"},
 		{"id":"dae75f9946356324","x":7700,"y":11687,"width":400,"height":326,"color":"2","type":"file","file":"10. Notes/Probe Tracking Module - Orbital Probe Cannon.md"},
@@ -677,7 +676,8 @@
 		{"id":"19a09a92666a8a1c","x":-1520,"y":-3525,"width":250,"height":110,"type":"text","text":"# Keek\n\n- Missing Nomai that **Plume** knows"},
 		{"id":"7f60407a704e309c","x":-1933,"y":-3169,"width":250,"height":238,"type":"file","file":"10. Notes/Slate.md"},
 		{"id":"744013e07e79af92","x":-1882,"y":-2742,"width":250,"height":278,"type":"file","file":"10. Notes/Feldspar.md"},
-		{"id":"c44abc3634022a5a","x":-9620,"y":-2123,"width":240,"height":368,"color":"6","type":"file","file":"10. Notes/Nomai Festival.md"}
+		{"id":"c44abc3634022a5a","x":-9620,"y":-2123,"width":240,"height":368,"color":"6","type":"file","file":"10. Notes/Nomai Festival.md"},
+		{"id":"a295dd3d9e41b363","x":6440,"y":11687,"width":345,"height":752,"type":"file","file":"10. Notes/Eye of the Universe.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

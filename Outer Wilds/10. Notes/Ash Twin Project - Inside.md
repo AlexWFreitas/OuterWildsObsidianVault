@@ -40,5 +40,5 @@ Since there are no more messages, it's certain that most of the Nomai race died 
 
 Inside the Ash Twin Project, you are able to use a mechanism to remover the Advanced Warp Core, this would cause the Ash Twin Project to stop and cease to exist.
 
-It's possible that we need to remove this core and take it to the [[Vessel]] to activate the final warp to reach the [[Eye of the Universe - Hypothesis]], through the use of the coordinates obtained by the [[Orbital Probe Cannon Project|Orbital Probe Cannon]].
+It's possible that we need to remove this core and take it to the [[Vessel]] to activate the final warp to reach the [[Eye of the Universe]], through the use of the coordinates obtained by the [[Orbital Probe Cannon Project|Orbital Probe Cannon]].
 

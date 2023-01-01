@@ -8,7 +8,7 @@ Tags:
 
 *From what I am seeing, this is an artifact that allows you to warp into somewhere, by the looks of it, you can activate a panel that contains three boards, on these boards you can draw symbols.*
 
-*By looking at the possible symbols I got reminded of the [[Eye of the Universe - Hypothesis]] coordinates I found inside [[Probe Tracking Module - Orbital Probe Cannon|Probe Tracking Module]] and tried to input it, it accepted as the correct answer and wouldn't let me edit them.*
+*By looking at the possible symbols I got reminded of the [[Eye of the Universe]] coordinates I found inside [[Probe Tracking Module - Orbital Probe Cannon|Probe Tracking Module]] and tried to input it, it accepted as the correct answer and wouldn't let me edit them.*
 
 *Going by this logic, surely this means that this artifact will allow us to warp into the Eye of the Universe. But because the Warp Core is broken, we need to get a new one to be able to use this artifact.* 
 

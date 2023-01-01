@@ -1,2 +1,2 @@
 - District filled with writings reflecting about the purpose of the Eye of the Universe and information about their theories of thought.
-- Seems to be focused on the [[Eye of the Universe - Hypothesis]] in an almost religious way.
+- Seems to be focused on the [[Eye of the Universe]] in an almost religious way.

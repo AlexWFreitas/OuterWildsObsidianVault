@@ -11,16 +11,20 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "viewState": {
-                  "x": 202.4356708683299,
-                  "y": 30872.52822799629,
-                  "zoom": -4,
-                  "snapToGrid": true
-                }
+                "file": "10. Notes/Gloaming Galaxy.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "15625e4a23c0c56d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -115,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Gloaming Galaxy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Gloaming Galaxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Gloaming Galaxy.md"
               }
             }
           }
@@ -184,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,15 +202,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Nomai Statue.md",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Eye of the Universe - Hypothesis.md",
+    "10. Notes/Eye of the Universe.md",
+    "10. Notes/Eye District.md",
+    "10. Notes/Ending.md",
+    "10. Notes/Attlerock - Nomai Ruins.md",
+    "10. Notes/Ash Twin Project - Inside.md",
     "10. Notes/Advanced Warp Core.md",
-    "10. Notes/Southern Observatory - Surface.md",
-    "10. Notes/High Energy Lab.md",
-    "10. Notes/Riebeck's Campsite.md",
-    "10. Notes/Riebeck.md",
-    "10. Notes/Outer Wilds Ventures Frequency.md",
-    "10. Notes/Gravity Cannon - Brittle Hollow.md",
-    "10. Notes/Comet Shuttle.md"
+    "10. Notes/Southern Observatory - Planet Locator.md",
+    "10. Notes/Vessel.md",
+    "10. Notes/Tower of Quantum Knowledge.md"
   ]
 }
