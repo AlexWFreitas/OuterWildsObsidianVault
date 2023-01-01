@@ -637,7 +637,8 @@
 		{"id":"cbb4eceb44091130","x":-17220,"y":-8137,"width":420,"height":398,"type":"file","file":"10. Notes/Southern Laboratory.md"},
 		{"id":"cfef7489fdbaacd7","x":-16780,"y":-8114,"width":545,"height":344,"type":"file","file":"99. Attachments/Southern Laboratory - Surface.png"},
 		{"id":"e87747a670999b6c","x":-16100,"y":-8282,"width":1300,"height":589,"type":"group","label":"Gravity Crystal Workshop"},
-		{"id":"981a01f6bc6f035b","x":-16040,"y":-8200,"width":400,"height":400,"type":"file","file":"10. Notes/Gravity Crystal Workshop.md"}
+		{"id":"981a01f6bc6f035b","x":-16040,"y":-8200,"width":400,"height":400,"type":"file","file":"10. Notes/Gravity Crystal Workshop.md"},
+		{"id":"11a6316b54a0b5b7","x":-15620,"y":-8200,"width":400,"height":292,"type":"file","file":"99. Attachments/Gravity Crystal Workshop.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
