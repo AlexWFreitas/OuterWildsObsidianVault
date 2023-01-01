@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -4601.770273519576,
-                  "y": -3336.6469427603306,
+                  "x": -4667.476106676627,
+                  "y": -3368.8508165358544,
                   "zoom": -0.333333333333333,
                   "snapToGrid": true
                 }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Signalscope.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Signalscope.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Signalscope.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }

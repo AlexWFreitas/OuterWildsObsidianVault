@@ -1,2 +1,4 @@
 - Protective suit that allows you to go to explore the outer space.
-- Located inside the [[Space Ship]].
+- Located inside the [[Space Ship]], there is another suit on the [[Zero-G Cave]], used for training.
+- The space suit, contains [[Oxygen]] and [[Fuel]].
+- Offers a very low level of protection to outer space hazards.
