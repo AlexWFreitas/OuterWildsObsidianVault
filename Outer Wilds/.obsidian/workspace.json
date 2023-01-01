@@ -15,11 +15,23 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -17319.19307446797,
-                  "y": -7677.087964796214,
-                  "zoom": -1.9999999999999996,
+                  "x": -15056.578193734982,
+                  "y": -6028.376324525221,
+                  "zoom": -0.3333333333333334,
                   "snapToGrid": true
                 }
+              }
+            }
+          },
+          {
+            "id": "c3c9124ace86cd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/Tower of Quantum Knowledge.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
