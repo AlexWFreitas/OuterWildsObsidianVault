@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -7133.713419513049,
-                  "y": -2289.700370479136,
+                  "x": -7030.442596490076,
+                  "y": -2153.6356555150965,
                   "zoom": 3.3306690738754696e-16,
                   "snapToGrid": true
                 }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Signalscope.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Signalscope.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Signalscope.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -211,15 +211,15 @@
   },
   "active": "15625e4a23c0c56d",
   "lastOpenFiles": [
+    "10. Notes/Flashlight.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
+    "99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png",
     "10. Notes/Space Suit.md",
     "10. Notes/Space Suit 1.md",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Outer Wilds Ventures Frequency.md",
     "10. Notes/Outer Wilds Ventures Frequency 1.md",
     "10. Notes/Signalscope.md",
     "10. Notes/Eye of the Universe - Hypothesis.md",
-    "10. Notes/Quantum Moon - Drawing.md",
-    "10. Notes/Southern Observatory.md",
-    "10. Notes/Quantum Moon Locator.md"
+    "10. Notes/Quantum Moon - Drawing.md"
   ]
 }

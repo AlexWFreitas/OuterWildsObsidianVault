@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"ee5e5951d70ef32c","x":-6793,"y":-2335,"width":400,"height":400,"type":"file","file":"10. Notes/Signalscope.md"},
 		{"id":"88aabb8aeec64a42","x":-6330,"y":26542,"width":709,"height":428,"color":"3","type":"file","file":"99. Attachments/Miniature Cores.png"},
 		{"id":"937a978d47995c63","x":-4402,"y":26434,"width":661,"height":424,"color":"3","type":"file","file":"99. Attachments/Normal Energy Behavior.png"},
 		{"id":"18a4bee8863437fb","x":-4284,"y":27136,"width":543,"height":367,"color":"3","type":"file","file":"99. Attachments/Blackout - No Energy on the rest of the Planet.png"},
@@ -655,7 +654,6 @@
 		{"id":"d6458f594940ed1c","x":-5020,"y":-3989,"width":242,"height":400,"color":"3","type":"file","file":"99. Attachments/The Player with a Space Suit.png"},
 		{"id":"23a0ac3ba9e80311","x":-4740,"y":-3989,"width":400,"height":368,"color":"3","type":"file","file":"10. Notes/Signalscope.md"},
 		{"id":"4123f0f2c9101982","x":-4320,"y":-3989,"width":320,"height":308,"color":"3","type":"file","file":"99. Attachments/Deep Space Radio Frequency.png"},
-		{"id":"5ed7880a57b2ed40","x":-4735,"y":-3590,"width":395,"height":209,"color":"3","type":"file","file":"10. Notes/Health.md"},
 		{"id":"97d560ab53c65c2e","x":-5360,"y":-3272,"width":1435,"height":1020,"color":"3","type":"group","label":"Space Suit"},
 		{"id":"34c0a3beb46ccb6a","x":-5340,"y":-3229,"width":535,"height":322,"color":"3","type":"file","file":"10. Notes/Space Suit.md"},
 		{"id":"9d944ca71937a9e7","x":-5340,"y":-2865,"width":535,"height":193,"color":"3","type":"file","file":"10. Notes/Jetpack.md"},
@@ -697,11 +695,14 @@
 		{"id":"0b71e5bcde6f5fb0","x":-3240,"y":-2617,"width":242,"height":463,"color":"6","type":"file","file":"10. Notes/Deep Space Radio Frequency.md"},
 		{"id":"d18aa8629e529f69","x":-2960,"y":-2368,"width":400,"height":214,"color":"6","type":"file","file":"10. Notes/Quantum Fluctuation Frequency.md"},
 		{"id":"23d8a8a6e48f53c1","x":-2960,"y":-2617,"width":400,"height":202,"color":"6","type":"file","file":"10. Notes/Hide and Seek Frequency.md"},
-		{"id":"08de2e67fcef36e6","x":-7560,"y":-2424,"width":680,"height":570,"color":"5","type":"group","label":"Exploration Tools"},
-		{"id":"7ea5f927c26f6a6c","x":-7537,"y":-2384,"width":297,"height":260,"type":"text","text":"# Signalscope \n\nAllows you to scan Quantum Fluctuations\n\nThere is an additional channel called Outer Wilds Ventures, where you will be able to find other space explorers that are playing musical instruments at this scanner range"},
-		{"id":"1b03dabe35861a12","x":-7220,"y":-2384,"width":297,"height":407,"type":"file","file":"10. Notes/Little Scout.md"},
-		{"id":"9feb5c631f0944ab","x":-7537,"y":-2100,"width":297,"height":140,"type":"text","text":"# Nomai Translator\n\n- Allows the translation of Nomai Writing, useful when exploring"},
-		{"id":"922526bd3e9ba10f","x":-7220,"y":-1960,"width":297,"height":78,"type":"text","text":"# Flashlight\n\nAllows you to see on dark places"}
+		{"id":"08de2e67fcef36e6","x":-7560,"y":-2424,"width":1180,"height":570,"color":"5","type":"group","label":"Exploration Tools"},
+		{"id":"1b03dabe35861a12","x":-6720,"y":-2391,"width":297,"height":407,"type":"file","file":"10. Notes/Little Scout.md"},
+		{"id":"5ed7880a57b2ed40","x":-5022,"y":-3570,"width":242,"height":266,"color":"3","type":"file","file":"10. Notes/Health.md"},
+		{"id":"47b2fb309d6dfb6d","x":-5200,"y":-3480,"width":140,"height":176,"type":"file","file":"99. Attachments/Health Meter on Space Suit.png"},
+		{"id":"8649ae9c4a4df0b6","x":-4740,"y":-3589,"width":400,"height":285,"type":"file","file":"10. Notes/Flashlight.md"},
+		{"id":"033dae0ce6146044","x":-4320,"y":-3640,"width":395,"height":350,"type":"file","file":"99. Attachments/Flashlight Example.png"},
+		{"id":"ee5e5951d70ef32c","x":-7520,"y":-2384,"width":400,"height":400,"type":"file","file":"10. Notes/Signalscope.md"},
+		{"id":"9356a577f407f609","x":-7080,"y":-2384,"width":305,"height":209,"type":"file","file":"10. Notes/Nomai Translator.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
