@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15056.578193734982,
-                  "y": -6028.376324525221,
-                  "zoom": -0.3333333333333334,
+                  "x": -11941.096547925252,
+                  "y": -8514.745114243973,
+                  "zoom": -1.9999999999999998,
                   "snapToGrid": true
                 }
               }
@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Notes/Black Hole.md",
+                "file": "10. Notes/Black Hle.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
   "lastOpenFiles": [
     "10. Notes/Tower of Quantum Knowledge.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
-    "10. Notes/Black Hole.md",
+    "10. Notes/Black Hle.md",
     "10. Notes/Giant's Deep Cyclones.md",
     "10. Notes/Black Hole Forge.md",
     "10. Notes/Warp Receiver.md",

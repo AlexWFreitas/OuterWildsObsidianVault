@@ -1,5 +1,5 @@
 - There is a White Hole somewhere near the edge of the current star system. 
-- This White Hole is connected to the [[Black Hole]] at the center of [[Brittle Hollow]]. 
+- This White Hole is connected to the [[Black Hle]] at the center of [[Brittle Hollow]]. 
 - Objects that enter the Black Hole at Brittle Hollow end up expelled by this White Hole.
 - In this place, the force of gravity from the White Hole makes the light bend, causing it to look distorted from the point of view of a living being.
 - Brittle Hollow structural integrity is diminishing over time, this means that parts of Brittle Hollow eventually break and fall into the Black Hole, causing them to warp into the White Hole area.
