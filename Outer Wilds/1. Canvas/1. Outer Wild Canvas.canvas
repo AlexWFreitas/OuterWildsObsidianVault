@@ -685,12 +685,12 @@
 		{"id":"b9b361eadd732f1e","x":-7533,"y":-3718,"width":345,"height":281,"color":"5","type":"text","text":"# Signalscope - Music\n\nAmong the members of the [[Outer Wilds Ventures]], there are space explorers, each space explorer has an unique musical isntrument, they usually play music on this frequency to signal that they are ok, the [[Signalscope]] can be used to track these signals so that you are able to find these characters should you want to."},
 		{"id":"b4a781c5b63fa2af","x":-7528,"y":-3976,"width":340,"height":233,"color":"5","type":"file","file":"10. Notes/Ghost Matter.md"},
 		{"id":"6ed7dad8ecc182a4","x":-6888,"y":-3590,"width":327,"height":296,"color":"5","type":"file","file":"10. Notes/Quantum Shard.md"},
-		{"id":"0e1519378e87a3c4","x":-5400,"y":-4040,"width":920,"height":1008,"type":"group","label":"Player"},
+		{"id":"0e1519378e87a3c4","x":-5400,"y":-4040,"width":920,"height":1480,"type":"group","label":"Player"},
 		{"id":"13d42e8ad0f160d0","x":-5360,"y":-3989,"width":300,"height":479,"type":"file","file":"10. Notes/Main Character.md"},
+		{"id":"d6458f594940ed1c","x":-5020,"y":-3989,"width":242,"height":400,"type":"file","file":"99. Attachments/The Player with a Space Suit.png"},
 		{"id":"97d560ab53c65c2e","x":-5360,"y":-3460,"width":300,"height":420,"type":"group","label":"Space Suit"},
-		{"id":"d2e95e0a234c9b3b","x":-5340,"y":-3436,"width":250,"height":140,"type":"text","text":"# Space Suit\n\n- Protective suit that allows you to go to explore the outer space"},
 		{"id":"8a1e29b53f46a6fc","x":-5340,"y":-3260,"width":250,"height":201,"type":"text","text":"# Jetpack \n\n- Allows you to fly for a limited time, uses fuel\n- If out of fuel, will use oxygen instead, to fly at a lower power"},
-		{"id":"d6458f594940ed1c","x":-5040,"y":-3989,"width":242,"height":400,"type":"file","file":"99. Attachments/The Player with a Space Suit.png"}
+		{"id":"f4ba31706d22016c","x":-5340,"y":-3436,"width":380,"height":140,"type":"file","file":"10. Notes/Space Suit.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
@@ -701,7 +701,7 @@
 		{"id":"c31d41b0f00e7b77","fromNode":"fa3091bea9250377","fromSide":"bottom","toNode":"9bb0250586925426","toSide":"top"},
 		{"id":"765faf8fed311d4b","fromNode":"c2edf919668e3964","fromSide":"bottom","toNode":"9bb0250586925426","toSide":"right"},
 		{"id":"2089ba35f1025c5f","fromNode":"3178e9e720f89382","fromSide":"right","toNode":"03908790243f5011","toSide":"left"},
-		{"id":"aef5bba022a07d37","fromNode":"d2e95e0a234c9b3b","fromSide":"bottom","toNode":"8a1e29b53f46a6fc","toSide":"top"},
+		{"id":"aef5bba022a07d37","fromNode":"f4ba31706d22016c","fromSide":"bottom","toNode":"8a1e29b53f46a6fc","toSide":"top"},
 		{"id":"1da0fb5feb984913","fromNode":"00837d8df288ded2","fromSide":"bottom","toNode":"19a09a92666a8a1c","toSide":"top"},
 		{"id":"9d0ccaffdcfab739","fromNode":"ca488e5dbce7e341","fromSide":"left","toNode":"9bb0250586925426","toSide":"right"},
 		{"id":"b73693bfc58767d6","fromNode":"6bb795b5343380ff","fromSide":"bottom","toNode":"f257c6c49b2c6e77","toSide":"top"},
