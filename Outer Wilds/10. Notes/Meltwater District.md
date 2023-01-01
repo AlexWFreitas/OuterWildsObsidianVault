@@ -1,4 +1,4 @@
-- Connects to [[The Crossroads]] through a Broken Bridge.
+- Connects to [[The Crossroads]] through a bridge, the bridge might fall due to structural damage.
 - Has a wall depicting a debate about how to build a new Advanced Warp Core for the [[Ash Twin Project]]. Their options were:
 	- Retrieve the Warp Core from the [[Vessel]].
 	- Learn to build a new Warp Core.
