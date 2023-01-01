@@ -6,11 +6,11 @@ Tags:
 ---
 This place can only be reached through the use of the Quantum Moon Shrine when it's located on the North Pole.
 
-Inside it you will find that the moon's appearance is very similar to the Quantum Shards that you find all over the star system.
+Inside it you will find that the moon's appearance is very similar to the [[Quantum Shard]]s that you find all over the star system.
 
 After walking for some time, you find a current of air that is going outwards of the moon.
 
-At the same place as the current of air, there is a living being called [[Solanum]], from the Nomai's Race, when you ask who is he, he offers to give answers through the use of stone combinations.
+At the same place as the current of air, there is a living being called [[Solanum]], from the [[Nomai Race]], when you ask who is he, he offers to give answers through the use of stone combinations.
 
 # Solanum Explanations
 
