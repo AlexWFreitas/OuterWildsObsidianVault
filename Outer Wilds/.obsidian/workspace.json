@@ -11,11 +11,15 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10. Notes/Riebeck's Campsite.md",
-                "mode": "source",
-                "source": false
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "viewState": {
+                  "x": -17188.860164325186,
+                  "y": -6245.948085069146,
+                  "zoom": -1,
+                  "snapToGrid": true
+                }
               }
             }
           },
@@ -132,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Riebeck's Campsite.md",
+                "file": "10. Notes/Second Planet Locator - Brittle Hollow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Riebeck's Campsite.md",
+                "file": "10. Notes/Second Planet Locator - Brittle Hollow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Riebeck's Campsite.md"
+                "file": "10. Notes/Second Planet Locator - Brittle Hollow.md"
               }
             }
           }
@@ -196,14 +200,14 @@
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
     "10. Notes/High Energy Lab.md",
+    "10. Notes/Riebeck's Campsite.md",
+    "10. Notes/Riebeck.md",
+    "10. Notes/Outer Wilds Ventures Frequency.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Gravity Cannon - Brittle Hollow.md",
     "10. Notes/Comet Shuttle.md",
     "99. Attachments/Superdense Content inside the Comet.png",
     "10. Notes/Shuttle.md",
-    "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png",
-    "10. Notes/Gravity Floor.md",
-    "10. Notes/Gravity Crystal.md",
-    "10. Notes/Crossroads.md"
+    "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png"
   ]
 }
