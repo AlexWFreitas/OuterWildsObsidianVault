@@ -11,73 +11,9 @@
             "id": "15625e4a23c0c56d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "viewState": {
-                  "x": -1231.9783272848306,
-                  "y": -2854.0646184178504,
-                  "zoom": -4,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "d11b45dc1867513a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Space Suit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7239473c26b70d2",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png"
-              }
-            }
-          },
-          {
-            "id": "c3c9124ace86cd77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Tower of Quantum Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "298a10c4ae417e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Tower of Quantum Knowledge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db37fb44b48abbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Black Hole.md",
-                "mode": "source",
-                "source": false
+                "file": "99. Attachments/A forest of Stars.png"
               }
             }
           }
@@ -131,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -148,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/A forest of Stars.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/A forest of Stars.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "99. Attachments/A forest of Stars.png"
               }
             }
           }
@@ -196,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,15 +147,15 @@
   },
   "active": "15625e4a23c0c56d",
   "lastOpenFiles": [
-    "10. Notes/Construction Yard.md",
+    "99. Attachments/A depiction of the Universe.png",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Construction Yard.md",
     "10. Notes/Flashlight.md",
     "99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png",
     "10. Notes/Space Suit.md",
     "10. Notes/Space Suit 1.md",
     "10. Notes/Outer Wilds Ventures Frequency.md",
     "10. Notes/Outer Wilds Ventures Frequency 1.md",
-    "10. Notes/Signalscope.md",
-    "10. Notes/Eye of the Universe - Hypothesis.md"
+    "10. Notes/Signalscope.md"
   ]
 }
