@@ -10,7 +10,7 @@ If the universe is expanding, then it must have started expanding from somewhere
 
 On this world, there is something that is sending signals that are older than the universe itself, this entity is called the **Eye of the Universe** by the Nomai people.
 
-The signals it sends, doesnt give an accurate location of this entity, so the only other way that it would be possible to find it, would be through being able to see it.
+The signals it sends, doesnt give an accurate location of this entity, so the only other way that it would be possible to find it, would be by being able to see it.
 
 The signals it gives, also move in an unpredictable manner, somewhat similar to the behavior of the Quantum Shards and the Quantum Moon.
 
