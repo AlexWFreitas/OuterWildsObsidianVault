@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -16848.288009830212,
-                  "y": -6181.171990227093,
-                  "zoom": -1.1102230246251565e-16,
+                  "x": -18726.45124007665,
+                  "y": -3842.096647258651,
+                  "zoom": -1.333333333333333,
                   "snapToGrid": true
                 }
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Southern Labora",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -199,15 +200,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
+    "10. Notes/Southern Observatory - Surface.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/High Energy Lab.md",
     "10. Notes/Riebeck's Campsite.md",
     "10. Notes/Riebeck.md",
     "10. Notes/Outer Wilds Ventures Frequency.md",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Gravity Cannon - Brittle Hollow.md",
     "10. Notes/Comet Shuttle.md",
     "99. Attachments/Superdense Content inside the Comet.png",
-    "10. Notes/Shuttle.md",
-    "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png"
+    "10. Notes/Shuttle.md"
   ]
 }
