@@ -1,11 +1,14 @@
 {
 	"nodes":[
 		{"id":"b842a06711fe9399","x":-219,"y":315,"width":522,"height":184,"type":"text","text":"# Canvas Description"},
-		{"id":"cecfc6f4cfc1be04","x":-158,"y":-518,"width":401,"height":340,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
-		{"id":"100c8e31ae2153a3","x":-158,"y":-518,"width":401,"height":410,"type":"group","label":"Index"},
-		{"id":"216c50079212508f","x":-158,"y":-178,"width":280,"height":70,"type":"text","text":"# Index"}
+		{"id":"70fc22864efd3918","x":-160,"y":-380,"width":400,"height":230,"type":"group","label":"Index"},
+		{"id":"f2704ec365881917","x":-160,"y":-348,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
+		{"id":"c9de7651d795a84e","x":-160,"y":-200,"width":400,"height":50,"type":"text","text":"# Index"},
+		{"id":"48c25c8e0c32313f","x":-740,"y":-380,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"cdcfa47ff056e090","x":-740,"y":-348,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"c924d206bf87fb93","x":-740,"y":-200,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"}
 	],
 	"edges":[
-		{"id":"49ba909783813dfd","fromNode":"b842a06711fe9399","fromSide":"top","toNode":"100c8e31ae2153a3","toSide":"bottom"}
+		{"id":"cdf1af29ad19a292","fromNode":"b842a06711fe9399","fromSide":"top","toNode":"70fc22864efd3918","toSide":"bottom"}
 	]
 }
