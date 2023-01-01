@@ -4,4 +4,4 @@ To do it correctly, you need to go to the [[Meltwater District]] and enter the [
 
 After that, you go to the [[Ash Twin]] planet and look for [[Ash Twin - Brittle Hollow Tower.png|Brittle Hollow Warp Tower]], when both planets are aligned, you will be teleported straight into the [[Black Hole Forge District]].
 
-This enables you to go into the [[Black Hole Forge]] and retrieve informationa b
+This enables you to go into the [[Black Hole Forge]] and retrieve information about the [[Nomai Race]]'s  research and development of the [[Ash Twin Project]].

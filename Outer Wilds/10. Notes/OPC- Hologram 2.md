@@ -1,1 +1,1 @@
-The second hologram, shows that the Orbital Probe Cannon successfully launched a probe but after that it suffered damage from using too much power and its modules suffered heavy damage
+The second hologram, shows that the Orbital Probe Cannon successfully launched a probe but after that it suffered damage from using too much power and its modules suffered heavy damage.
