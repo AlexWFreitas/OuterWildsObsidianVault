@@ -462,7 +462,7 @@
 		{"id":"1f77b720f203482a","x":-18080,"y":-3598,"width":680,"height":160,"type":"file","file":"10. Notes/Eye District.md"},
 		{"id":"fdd0f888425d15c8","x":-19500,"y":-3600,"width":400,"height":427,"type":"file","file":"10. Notes/Meltwater District.md"},
 		{"id":"641285691b117af2","x":-18640,"y":-3578,"width":400,"height":325,"type":"file","file":"99. Attachments/Path to The Crossroads.png"},
-		{"id":"605ea9aee1555178","x":-19540,"y":-3640,"width":1360,"height":780,"type":"group","label":"Meltwater District"},
+		{"id":"605ea9aee1555178","x":-19540,"y":-3640,"width":1360,"height":920,"type":"group","label":"Meltwater District"},
 		{"id":"1850aa8cb665e6b2","x":-20630,"y":-3578,"width":250,"height":410,"type":"file","file":"10. Notes/School District.md"},
 		{"id":"a0f1de46786dbe5d","x":-13480,"y":-4900,"width":520,"height":330,"type":"file","file":"99. Attachments/Gravity Cannon - Underground View.png"},
 		{"id":"74c922588e130721","x":-13480,"y":-4500,"width":520,"height":418,"type":"file","file":"99. Attachments/Gravity Cannon Controls and Shuttle on the Gravity Cannon.png"},
@@ -470,8 +470,6 @@
 		{"id":"4a602e7a5eafa3d9","x":-12920,"y":-4846,"width":400,"height":346,"type":"file","file":"99. Attachments/Path to the Crossroads 1.png"},
 		{"id":"8c8fc546c621305a","x":-18120,"y":-3640,"width":920,"height":600,"type":"group","label":"Eye District"},
 		{"id":"c46893fa8906719d","x":-17120,"y":-3574,"width":380,"height":497,"type":"file","file":"10. Notes/Black Hole Forge District.md"},
-		{"id":"65178aeee19ab9a0","x":-18526,"y":-3200,"width":286,"height":274,"type":"file","file":"99. Attachments/Black Hole Forge Elevator Control Room.png"},
-		{"id":"8de8f6408237a262","x":-18927,"y":-3200,"width":320,"height":274,"type":"file","file":"10. Notes/Black Hole Forge - Elevator Control.md"},
 		{"id":"2e528420b312d8ed","x":-20350,"y":-3309,"width":400,"height":283,"type":"file","file":"99. Attachments/School District - Overview.png"},
 		{"id":"8745b5f357164037","x":-17563,"y":-3387,"width":326,"height":310,"type":"file","file":"99. Attachments/Pasted image 20221231185011.png"},
 		{"id":"e4fd1230ec16a358","x":-18080,"y":-3388,"width":476,"height":311,"type":"file","file":"99. Attachments/Eye District Overview.png"},
@@ -486,7 +484,6 @@
 		{"id":"5615ff5951724a67","x":-12015,"y":-7325,"width":250,"height":60,"type":"text","text":"# Warp Receiver"},
 		{"id":"e973ea5e8cf8ec6e","x":-17160,"y":-3640,"width":1120,"height":920,"type":"group","label":"Black Hole Forge District"},
 		{"id":"c3d9892517f31e3f","x":-19930,"y":-3578,"width":300,"height":529,"type":"file","file":"10. Notes/New Vessel Idea.md"},
-		{"id":"0f4ddb1282c9da29","x":-19500,"y":-3120,"width":490,"height":235,"type":"file","file":"99. Attachments/Meltwater District - Debate Wall - How to build a Warp Core.png"},
 		{"id":"a9ecbafd85ab76de","x":-12620,"y":-8103,"width":405,"height":352,"type":"file","file":"99. Attachments/White Hole Image 2.png"},
 		{"id":"553acc5ab1b7423d","x":-12180,"y":-8353,"width":400,"height":700,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after falling into the Black Hole.png"},
 		{"id":"31dde781341cb4d7","x":-13342,"y":-6251,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
@@ -652,7 +649,10 @@
 		{"id":"ccc24c8b2a137cd2","x":-30689,"y":-4379,"width":396,"height":400,"type":"file","file":"Attachments/Pasted image 20221228061936.png"},
 		{"id":"98c62ff0d45bff90","x":-31034,"y":-6055,"width":400,"height":247,"type":"file","file":"99. Attachments/Pasted image 20221228063118.png"},
 		{"id":"3cf693d0b86daeaa","x":-30834,"y":-6478,"width":399,"height":310,"type":"file","file":"99. Attachments/Hourglass Twins Quantum Moon.png"},
-		{"id":"c422732954a76a31","x":-9760,"y":-2940,"width":380,"height":301,"type":"file","file":"10. Notes/Advanced Warp Core.md"}
+		{"id":"d990642b3b1d9c7a","x":-19500,"y":-3125,"width":400,"height":335,"type":"file","file":"10. Notes/Advanced Warp Core.md","subpath":"#Advanced Warp Core"},
+		{"id":"8de8f6408237a262","x":-18522,"y":-3214,"width":320,"height":274,"type":"file","file":"10. Notes/Black Hole Forge - Elevator Control.md"},
+		{"id":"0f4ddb1282c9da29","x":-19070,"y":-3214,"width":530,"height":254,"type":"file","file":"99. Attachments/Meltwater District - Debate Wall - How to build a Warp Core.png"},
+		{"id":"65178aeee19ab9a0","x":-18460,"y":-2920,"width":172,"height":165,"type":"file","file":"99. Attachments/Black Hole Forge Elevator Control Room.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

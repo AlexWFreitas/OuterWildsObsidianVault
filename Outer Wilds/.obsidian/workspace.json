@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -9474.301228762348,
-                  "y": -2690.9540553731676,
-                  "zoom": 0.6666666666666667,
+                  "x": -18881.456817363483,
+                  "y": -2902.623810005473,
+                  "zoom": -1.1102230246251565e-16,
                   "snapToGrid": true
                 }
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Advanced Warp Core.md",
+                "file": "99. Attachments/Meltwater District - Debate Wall - How to build a Warp Core.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Advanced Warp Core.md",
+                "file": "99. Attachments/Meltwater District - Debate Wall - How to build a Warp Core.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Advanced Warp Core.md"
+                "file": "99. Attachments/Meltwater District - Debate Wall - How to build a Warp Core.png"
               }
             }
           }
@@ -200,15 +200,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Southern Observatory - Surface.md",
+    "10. Notes/Advanced Warp Core.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Southern Observatory - Surface.md",
     "10. Notes/High Energy Lab.md",
     "10. Notes/Riebeck's Campsite.md",
     "10. Notes/Riebeck.md",
     "10. Notes/Outer Wilds Ventures Frequency.md",
     "10. Notes/Gravity Cannon - Brittle Hollow.md",
     "10. Notes/Comet Shuttle.md",
-    "99. Attachments/Superdense Content inside the Comet.png",
-    "10. Notes/Shuttle.md"
+    "99. Attachments/Superdense Content inside the Comet.png"
   ]
 }
