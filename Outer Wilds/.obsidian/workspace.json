@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -10644.762311752886,
-                  "y": -4295.231183717948,
+                  "x": -7948.762311752886,
+                  "y": -2455.2311837179477,
                   "zoom": -2.9999999999999996,
                   "snapToGrid": true
                 }
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
