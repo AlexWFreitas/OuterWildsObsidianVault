@@ -1,4 +1,4 @@
-- Reachable through the Ruins with red flowers from ground level.
+- Reachable through the [[Gravity Crystal Workshop]], an area that looks like ruins tha
 - West of the [[Gravity Cannon - Brittle Hollow|Gravity Cannon]] of [[Brittle Hollow]]
 - Found an elevator that connects Crossroads with [[Gravity Cannon - Brittle Hollow]].
 - There is a drawing of a map showing four major locations on Brittle Hollow and how they are connected:
