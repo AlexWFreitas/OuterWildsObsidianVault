@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"7310df499c60d097","x":-580,"y":-1760,"width":368,"height":242,"type":"group","label":"Gameplay Index"},
-		{"id":"5b7ebeff8258d5ae","x":-580,"y":-1728,"width":368,"height":160,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"},
-		{"id":"bc00f689ae6e474a","x":-580,"y":-1568,"width":368,"height":50,"type":"text","text":"# Gameplay Index"},
-		{"id":"d49813f5480346be","x":-1080,"y":-1760,"width":400,"height":242,"type":"group","label":"Index"},
-		{"id":"8d1282e1cfbe6bb2","x":-1080,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
-		{"id":"1de0801e9fa7f0c2","x":-1080,"y":-1568,"width":400,"height":50,"type":"text","text":"# Index"},
+		{"id":"7310df499c60d097","x":-580,"y":-1760,"width":368,"height":242,"type":"group","label":"Gameplay Contents"},
+		{"id":"5b7ebeff8258d5ae","x":-580,"y":-1728,"width":368,"height":160,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas"},
+		{"id":"bc00f689ae6e474a","x":-580,"y":-1568,"width":368,"height":50,"type":"text","text":"# Gameplay Contents"},
+		{"id":"d49813f5480346be","x":-1080,"y":-1760,"width":400,"height":242,"type":"group","label":"Main Contents"},
+		{"id":"8d1282e1cfbe6bb2","x":-1080,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas"},
+		{"id":"1de0801e9fa7f0c2","x":-1080,"y":-1568,"width":400,"height":50,"type":"text","text":"# Main Contents"},
 		{"id":"f5352823a735cff7","x":-900,"y":-1320,"width":522,"height":184,"type":"text","text":"# Exploration Mechanics Canvas\n\nThis canvas contains information about certain exploration mechanics that exist on the game, they will influence on how you can explore the game's universe and therefore it's important to know the important ones."},
 		{"id":"5bea9369e6fee93a","x":-1203,"y":-671,"width":455,"height":272,"type":"file","file":"10. Notes/Warp Receiver.md"},
 		{"id":"449f27d4628d5c64","x":-579,"y":-671,"width":402,"height":224,"type":"file","file":"10. Notes/Gravity Crystal.md"},

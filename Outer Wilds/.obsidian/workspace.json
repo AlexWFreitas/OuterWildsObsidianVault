@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -1.6666666666666665,
+                  "x": 250.7409917698604,
+                  "y": 150.73640417665925,
+                  "zoom": -0.6860440895544941,
                   "snapToGrid": true
                 }
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"
+                "file": "2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas"
               }
             }
           }
@@ -170,10 +170,10 @@
   },
   "active": "1a90d01310f6ee71",
   "lastOpenFiles": [
-    "100.Template/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "100.Template/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "1. Canvas/Feldspar Abandoned Campsite.md",

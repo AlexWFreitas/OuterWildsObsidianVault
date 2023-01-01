@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"9008863cf387eb6e","x":0,"y":256,"width":522,"height":124,"type":"text","text":"# Index Canvas\n\nStarting area of the Canvas, serves as a the main hub for every type of Contents canvas"},
+		{"id":"4d721df90f3f59ad","x":60,"y":620,"width":400,"height":230,"type":"group","label":"Gameplay Contents"},
+		{"id":"dd0ac631e6707608","x":60,"y":652,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas"},
+		{"id":"62f6dbfff1b8bfd2","x":60,"y":800,"width":400,"height":50,"type":"text","text":"# Gameplay Contents"},
+		{"id":"587efabd8ffd9ba7","x":-780,"y":300,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"a56146f01b37180f","x":-780,"y":332,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"8da5e5dfedd25f43","x":-780,"y":480,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"}
+	],
+	"edges":[
+		{"id":"78c7c17ad24bda8a","fromNode":"9008863cf387eb6e","fromSide":"bottom","toNode":"4d721df90f3f59ad","toSide":"top"}
+	]
+}

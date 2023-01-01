@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"21a72143eceaa07c","x":0,"y":256,"width":522,"height":124,"type":"text","text":"# Exploration Tools\n\nThis canvas contains information about exploration tools you can use on your explorations."},
-		{"id":"c74bcf9572cd94c9","x":60,"y":-439,"width":400,"height":230,"type":"group","label":"Index"},
-		{"id":"654ca780244b91aa","x":560,"y":-439,"width":400,"height":230,"type":"group","label":"Gameplay Index"},
-		{"id":"0f022c89359e7358","x":560,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"},
-		{"id":"10602d145b047516","x":560,"y":-259,"width":400,"height":50,"type":"text","text":"# Gameplay Index"},
-		{"id":"ebc874ef2f831852","x":60,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
-		{"id":"9956466cb453bfd0","x":60,"y":-259,"width":400,"height":50,"type":"text","text":"# Index"},
+		{"id":"c74bcf9572cd94c9","x":60,"y":-439,"width":400,"height":230,"type":"group","label":"Main Contents"},
+		{"id":"654ca780244b91aa","x":560,"y":-439,"width":400,"height":230,"type":"group","label":"Gameplay Contents"},
+		{"id":"0f022c89359e7358","x":560,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas"},
+		{"id":"10602d145b047516","x":560,"y":-259,"width":400,"height":50,"type":"text","text":"# Gameplay Contents"},
+		{"id":"ebc874ef2f831852","x":60,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas"},
+		{"id":"9956466cb453bfd0","x":60,"y":-259,"width":400,"height":50,"type":"text","text":"# Main Contents"},
 		{"id":"2c4f512a2566b7f7","x":-340,"y":-80,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"17f7482dd63dccf0","x":-340,"y":100,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"37467f0402655ce7","x":-340,"y":-48,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
