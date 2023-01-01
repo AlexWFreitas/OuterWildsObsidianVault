@@ -8,6 +8,8 @@ Aliases:
 - "nomai statue Mechanisms"
 - 
 ---
+Nomai Statues were created by the [[Nomai Race]] at a [[Statue Workshop]] in [[Giant's Deep]].
+
 This workshop is the origin of the Nomai Statues.
 
 These statues are not mere works of art, they have a hidden mechanism behind them.
