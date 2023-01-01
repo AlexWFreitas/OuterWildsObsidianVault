@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15515.183864115445,
-                  "y": -6127.097000322845,
-                  "zoom": -0.3333333333333332,
+                  "x": -15677.69871819748,
+                  "y": -7817.670243837593,
+                  "zoom": -1.1102230246251565e-16,
                   "snapToGrid": true
                 }
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Crossroads - Bottom Part.png",
+                "file": "10. Notes/Gravity Crystal Workshop.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Crossroads - Bottom Part.png",
+                "file": "10. Notes/Gravity Crystal Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Crossroads - Bottom Part.png"
+                "file": "10. Notes/Gravity Crystal Workshop.md"
               }
             }
           }

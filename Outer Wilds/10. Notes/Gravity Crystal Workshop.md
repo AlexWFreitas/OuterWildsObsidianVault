@@ -1,0 +1,1 @@
+Located in [[Brittle Hollow]] surface above the [[Crossroads]]
