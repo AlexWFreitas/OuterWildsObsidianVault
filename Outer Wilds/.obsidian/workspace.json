@@ -15,11 +15,21 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -15695.58918058925,
-                  "y": -6235.933911330497,
-                  "zoom": 0.3333333333333332,
+                  "x": -12487.421862173926,
+                  "y": -8102.781777539003,
+                  "zoom": -0.6666666666666667,
                   "snapToGrid": true
                 }
+              }
+            }
+          },
+          {
+            "id": "c7239473c26b70d2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png"
               }
             }
           },
@@ -53,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Notes/Black Hle.md",
+                "file": "10. Notes/Black Hole.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Black Hole.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Black Hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Black Hole.md"
               }
             }
           }
@@ -188,15 +198,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Gravity Floor.md",
+    "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Gravity Floor.md",
     "10. Notes/Gravity Crystal.md",
     "10. Notes/Crossroads.md",
     "10. Notes/Tower of Quantum Knowledge.md",
-    "10. Notes/Black Hle.md",
+    "10. Notes/Black Hole.md",
     "10. Notes/Giant's Deep Cyclones.md",
     "10. Notes/Black Hole Forge.md",
-    "10. Notes/Warp Receiver.md",
-    "10. Notes/Black Hole Forge District.md"
+    "10. Notes/Warp Receiver.md"
   ]
 }
