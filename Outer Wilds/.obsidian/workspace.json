@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -1811.8943771973586,
-                  "y": -3090.510879831389,
-                  "zoom": 0.6666666666666665,
+                  "x": -1518.5768177554928,
+                  "y": -2744.5355960098827,
+                  "zoom": -0.6666666666666667,
                   "snapToGrid": true
                 }
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Tektite.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Tektite.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Tektite.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,15 +211,15 @@
   },
   "active": "15625e4a23c0c56d",
   "lastOpenFiles": [
-    "10. Notes/Flashlight.md",
+    "10. Notes/Construction Yard.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Flashlight.md",
     "99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png",
     "10. Notes/Space Suit.md",
     "10. Notes/Space Suit 1.md",
     "10. Notes/Outer Wilds Ventures Frequency.md",
     "10. Notes/Outer Wilds Ventures Frequency 1.md",
     "10. Notes/Signalscope.md",
-    "10. Notes/Eye of the Universe - Hypothesis.md",
-    "10. Notes/Quantum Moon - Drawing.md"
+    "10. Notes/Eye of the Universe - Hypothesis.md"
   ]
 }
