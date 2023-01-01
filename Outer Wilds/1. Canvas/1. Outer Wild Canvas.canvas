@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"13e8e206329abb02","x":9159,"y":14465,"width":400,"height":400,"type":"file","file":"10. Notes/Ending.md"},
 		{"id":"b163a0113aa59b14","x":-12560,"y":-1003,"width":27440,"height":36763,"type":"group","label":"Solar System"},
 		{"id":"b7c44de6030c334e","x":-9460,"y":-939,"width":285,"height":311,"color":"4","type":"file","file":"99. Attachments/Map Offline - 1.png"},
 		{"id":"43371666eeeb5d3f","x":-10200,"y":-939,"width":342,"height":311,"color":"4","type":"file","file":"99. Attachments/Deep Space Satellite.png"},
@@ -642,9 +641,7 @@
 		{"id":"b902fa8c920cc4fb","x":4989,"y":11692,"width":400,"height":587,"color":"4","type":"file","file":"Knowledge/Games/Outer Wilds/Sun Station.md"},
 		{"id":"dc6cdb8ca6e51d75","x":5409,"y":11692,"width":386,"height":400,"color":"4","type":"file","file":"99. Attachments/Sun Station approached from Space.png"},
 		{"id":"c885e665577dd5a8","x":5829,"y":11692,"width":438,"height":240,"color":"4","type":"file","file":"99. Attachments/View from inside the Sun Station.png"},
-		{"id":"15c5a2d3fe3bad0a","x":4960,"y":12737,"width":4040,"height":1686,"type":"group","label":"Eye of the Universe"},
-		{"id":"b3345bd83cc5d1e3","x":5000,"y":12780,"width":345,"height":728,"color":"2","type":"text","text":"# Eye of the Universe\n\n- Seems to be located on the region of the Star System where the Timber Hearthians live.\n- The signal it emits is older than the known Universe itself.\n- It's impossible to track its location through signal scanning, at least with the locators from [[Attlerock]] and [[Brittle Hollow]] and [[Ember Twin]].\n- The Eye of the Universe name probably comes from the fact that it exists before the Universe came to existence, so it was able to watch and observe the creation of the Universe.\n- It seems that the location of the Eye of the Universe is always changing and that it is unreachable through normal means, because of the Quantum Properties it displays.\n- The [[Orbital Probe Cannon Project|Orbital Probe Cannon]] together with the [[Ash Twin Project]] has been able to successfully find the [[Eye of the Universe]] coordinates by launching billions of scouting probes on random directions and sending information to the past through time travel."},
-		{"id":"f5e5961ffb54193e","x":9100,"y":14423,"width":1820,"height":1137,"type":"group","label":"Spoiler - Ending Images"},
+		{"id":"f5e5961ffb54193e","x":9100,"y":14423,"width":2180,"height":837,"type":"group","label":"Spoiler - Ending Images"},
 		{"id":"1b5c263ddf1590e5","x":13263,"y":15075,"width":399,"height":264,"type":"file","file":"99. Attachments/Pasted image 20221228223519.png"},
 		{"id":"60802a29fb1efc4f","x":9600,"y":14492,"width":400,"height":343,"type":"file","file":"99. Attachments/Final Campsite - 01.png"},
 		{"id":"c21e34cb8e5e3709","x":9600,"y":14892,"width":400,"height":339,"type":"file","file":"99. Attachments/Final Campsite - 02.png"},
@@ -652,10 +649,14 @@
 		{"id":"183cc9874e3f50b2","x":10039,"y":14835,"width":400,"height":307,"type":"file","file":"99. Attachments/Final Campsite - 04.png"},
 		{"id":"6b077bc1c04ef397","x":10480,"y":14496,"width":400,"height":308,"type":"file","file":"99. Attachments/Final Campsite - 05.png"},
 		{"id":"e0e16e18f5db280d","x":10480,"y":14861,"width":400,"height":370,"type":"file","file":"99. Attachments/Final Campsite - 06 - Together Finally.png"},
-		{"id":"3118e6dfbb4144d2","x":10040,"y":15231,"width":400,"height":266,"type":"file","file":"99. Attachments/Final Screen.png"},
 		{"id":"7001794561bf119e","x":10262,"y":13875,"width":539,"height":303,"color":"2","type":"file","file":"99. Attachments/Vessel - Broken Warp Core.png"},
 		{"id":"4af1d1b398b1d8ef","x":10262,"y":13515,"width":310,"height":282,"type":"file","file":"99. Attachments/Vessel Recording from before the voyage to the Eye of the Universe through Warp.png"},
-		{"id":"5fc246a84c3f846e","x":9160,"y":14942,"width":391,"height":400,"type":"file","file":"99. Attachments/Quantum Building on the Eye of the Universe Ending.png"}
+		{"id":"13e8e206329abb02","x":9159,"y":14465,"width":400,"height":743,"type":"file","file":"10. Notes/Ending.md"},
+		{"id":"5fc246a84c3f846e","x":10920,"y":14496,"width":321,"height":328,"type":"file","file":"99. Attachments/Quantum Building on the Eye of the Universe Ending.png"},
+		{"id":"3118e6dfbb4144d2","x":10920,"y":14929,"width":321,"height":213,"type":"file","file":"99. Attachments/Final Screen.png"},
+		{"id":"15c5a2d3fe3bad0a","x":6400,"y":11644,"width":1480,"height":1686,"type":"group","label":"Eye of the Universe"},
+		{"id":"b3345bd83cc5d1e3","x":6440,"y":11687,"width":345,"height":728,"color":"2","type":"text","text":"# Eye of the Universe\n\n- Seems to be located on the region of the Star System where the Timber Hearthians live.\n- The signal it emits is older than the known Universe itself.\n- It's impossible to track its location through signal scanning, at least with the locators from [[Attlerock]] and [[Brittle Hollow]] and [[Ember Twin]].\n- The Eye of the Universe name probably comes from the fact that it exists before the Universe came to existence, so it was able to watch and observe the creation of the Universe.\n- It seems that the location of the Eye of the Universe is always changing and that it is unreachable through normal means, because of the Quantum Properties it displays.\n- The [[Orbital Probe Cannon Project|Orbital Probe Cannon]] together with the [[Ash Twin Project]] has been able to successfully find the [[Eye of the Universe]] coordinates by launching billions of scouting probes on random directions and sending information to the past through time travel."},
+		{"id":"2a22ee7dde52302c","x":6820,"y":11687,"width":400,"height":400,"type":"file","file":"10. Notes/Vessel.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
