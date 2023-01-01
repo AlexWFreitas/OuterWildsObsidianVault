@@ -1,9 +1,9 @@
-# Surface
+# Gravity Cannon Surface
 There is a spiral cannon looking area in [[Brittle Hollow]] that contains an entrance to the underground where a space ship might be able to land.
 
 This place is a Gravity Cannon, it's an artifact that is used to launch things into space through the use of reverse gravity, another use for it, is tracking and retrieval of a space ship named [[Shuttle]].
 
-# Underground
+# Gravity Cannon Underground
 
 On the underground there is a [[Gravity Cannon - Brittle Hollow]] device, this device has a number of functions.
 - You can activate the gravity cannon to create a reverse gravitational force that pushs things away from the center of the cannon.
