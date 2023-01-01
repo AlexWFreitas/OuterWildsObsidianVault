@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
                 "viewState": {
-                  "x": -697.3008264116932,
-                  "y": -845.0067560408374,
-                  "zoom": -0.35470171790613375,
+                  "x": -91.73860355531065,
+                  "y": -358.14449687434046,
+                  "zoom": -2.0213683845728,
                   "snapToGrid": true
                 }
               }
@@ -186,9 +186,9 @@
   },
   "active": "796851b56a38481c",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "1. Canvas/1. Outer Wild Canvas.canvas",
     "1. Canvas/Feldspar Abandoned Campsite.md",
     "10. Notes/Nomai Race.md",

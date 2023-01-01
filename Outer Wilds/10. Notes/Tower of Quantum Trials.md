@@ -6,4 +6,4 @@ Tags:
 ---
 This is a place that is found by coming from outer space into the center of the biggest cyclone of Giant's Deep.
 
-This place contains a tower that teaches the basic mechanics of [[Quantum Imaging]]
+This place contains a tower that teaches the basic mechanics of [[Quantum Observation]]
