@@ -645,15 +645,13 @@
 		{"id":"a1417ea33968e1a7","x":-5620,"y":24050,"width":613,"height":412,"color":"3","type":"file","file":"99. Attachments/Stepping Stone Cave - Sample Image.png"},
 		{"id":"b4d839d097f66864","x":-7950,"y":24031,"width":442,"height":289,"color":"3","type":"file","file":"99. Attachments/Viewed from below.png"},
 		{"id":"ccfe4e5b4ab2580b","x":-8290,"y":24033,"width":330,"height":287,"color":"3","type":"file","file":"99. Attachments/Anglerfish Fossil Overlook.png"},
-		{"id":"9c6c1b7ad7502797","x":-3060,"y":-5572,"width":250,"height":110,"type":"text","text":"# Medkit and Supplies\n\n- Allows you to restore fuel and health"},
 		{"id":"f245cbc615adca7b","x":-3060,"y":-5445,"width":250,"height":210,"type":"text","text":"# Ship Log\n- Allows you to look for the discovered rumors\n- Allows you to look at the solar system map and plan a route of travel"},
 		{"id":"08de2e67fcef36e6","x":-2052,"y":-5920,"width":680,"height":570,"color":"5","type":"group","label":"Exploration Tools"},
 		{"id":"7ea5f927c26f6a6c","x":-2029,"y":-5880,"width":297,"height":260,"type":"text","text":"# Signalscope \n\nAllows you to scan Quantum Fluctuations\n\nThere is an additional channel called Outer Wilds Ventures, where you will be able to find other space explorers that are playing musical instruments at this scanner range"},
 		{"id":"9feb5c631f0944ab","x":-2029,"y":-5596,"width":297,"height":140,"type":"text","text":"# Nomai Translator\n\n- Allows the translation of Nomai Writing, useful when exploring"},
 		{"id":"1b03dabe35861a12","x":-1712,"y":-5880,"width":297,"height":407,"type":"file","file":"10. Notes/Little Scout.md"},
 		{"id":"922526bd3e9ba10f","x":-1712,"y":-5456,"width":297,"height":78,"type":"text","text":"# Flashlight\n\nAllows you to see on dark places"},
-		{"id":"905eea530d02d46e","x":-3900,"y":-5920,"width":1420,"height":747,"type":"group","label":"Space ship"},
-		{"id":"03908790243f5011","x":-2760,"y":-5902,"width":250,"height":284,"type":"text","text":"# Ship Damage / Repair\n\nThe ship can be damaged if you crash into something at  a very high speed or go into hazardous areas.\n\nSome of the damage caused can be repaired by you if you go outside the ship to take a look"},
+		{"id":"905eea530d02d46e","x":-3900,"y":-5920,"width":1420,"height":880,"type":"group","label":"Space ship"},
 		{"id":"7dd38c132c53d07a","x":-7572,"y":-2324,"width":1038,"height":878,"color":"6","type":"group","label":"Signalscope Frequencies"},
 		{"id":"a26a94a6587c2dab","x":-7534,"y":-2261,"width":513,"height":264,"color":"6","type":"file","file":"10. Notes/Outer Wilds Ventures Frequency.md"},
 		{"id":"0b71e5bcde6f5fb0","x":-6994,"y":-2261,"width":420,"height":303,"color":"6","type":"file","file":"10. Notes/Deep Space Radio Frequency.md"},
@@ -694,7 +692,7 @@
 		{"id":"f3463cc9e2ab1fc8","x":-4780,"y":-2552,"width":400,"height":268,"type":"file","file":"99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png"},
 		{"id":"78332b25f315ee9d","x":-4359,"y":-3232,"width":419,"height":263,"type":"file","file":"10. Notes/Oxygen.md"},
 		{"id":"172194b84491fa6f","x":-4359,"y":-2939,"width":419,"height":200,"type":"file","file":"10. Notes/Fuel.md"},
-		{"id":"3178e9e720f89382","x":-3860,"y":-5880,"width":480,"height":560,"type":"file","file":"10. Notes/Space Ship.md"}
+		{"id":"3178e9e720f89382","x":-3860,"y":-5880,"width":480,"height":791,"type":"file","file":"10. Notes/Space Ship.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
@@ -704,7 +702,6 @@
 		{"id":"64dbdd86e16184e3","fromNode":"de5b57b47f0c4bb8","fromSide":"bottom","toNode":"9bb0250586925426","toSide":"top"},
 		{"id":"c31d41b0f00e7b77","fromNode":"fa3091bea9250377","fromSide":"bottom","toNode":"9bb0250586925426","toSide":"top"},
 		{"id":"765faf8fed311d4b","fromNode":"c2edf919668e3964","fromSide":"bottom","toNode":"9bb0250586925426","toSide":"right"},
-		{"id":"2089ba35f1025c5f","fromNode":"3178e9e720f89382","fromSide":"right","toNode":"03908790243f5011","toSide":"left"},
 		{"id":"1da0fb5feb984913","fromNode":"00837d8df288ded2","fromSide":"bottom","toNode":"19a09a92666a8a1c","toSide":"top"},
 		{"id":"9d0ccaffdcfab739","fromNode":"ca488e5dbce7e341","fromSide":"left","toNode":"9bb0250586925426","toSide":"right"},
 		{"id":"b73693bfc58767d6","fromNode":"6bb795b5343380ff","fromSide":"bottom","toNode":"f257c6c49b2c6e77","toSide":"top"},
