@@ -4,8 +4,6 @@ Date: 2022-12-25
 Tags:
 - "outer-wilds"
 ---
-# Eye of the Universe
-
 Links: [[Expanding Universe]]
 
 If the universe is expanding, then it must have started expanding from somewhere,  that place would be its origin, something that is older than the universe itself might have seen its origin.
