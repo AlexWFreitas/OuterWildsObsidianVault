@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -27840.84159445185,
-                  "y": -5761.988155311016,
-                  "zoom": -0.3333333333333334,
+                  "x": -30068.470432887872,
+                  "y": -3764.4541028159138,
+                  "zoom": -1.1102230246251565e-16,
                   "snapToGrid": true
                 }
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Quantum Moon - Drawing.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Quantum Moon - Drawing.md",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Quantum Moon - Drawing.md"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
