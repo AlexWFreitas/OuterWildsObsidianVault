@@ -8,16 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15625e4a23c0c56d",
+            "id": "bc3acd62fe9b5124",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": 680,
-                  "y": 12178,
-                  "zoom": -4,
+                  "x": -5140.1602836483,
+                  "y": -2838.2614033035143,
+                  "zoom": -1.9999999999999993,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "15625e4a23c0c56d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
                   "snapToGrid": false
                 }
               }
@@ -27,12 +43,20 @@
             "id": "796851b56a38481c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "viewState": {
+                  "x": -647.9604094805757,
+                  "y": -1039.542300833611,
+                  "zoom": -1,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 311.5
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -98,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"
+              }
             }
           }
         ]
@@ -156,17 +184,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65ebdec89ef8a94f",
+  "active": "796851b56a38481c",
   "lastOpenFiles": [
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "1. Canvas/Feldspar Abandoned Campsite.md",
     "10. Notes/Nomai Race.md",
     "1. Canvas/Nomai Race.md",
     "1. Canvas/Orbital Probe Cannon - Launch Module.md",
     "99. Attachments/A forest of Stars.png",
     "99. Attachments/A depiction of the Universe.png",
-    "10. Notes/Construction Yard.md",
-    "10. Notes/Flashlight.md",
-    "99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png"
+    "10. Notes/Construction Yard.md"
   ]
 }

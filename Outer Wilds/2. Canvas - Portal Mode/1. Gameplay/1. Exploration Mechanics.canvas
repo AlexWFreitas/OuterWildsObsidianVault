@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"449f27d4628d5c64","x":-1556,"y":-152,"width":265,"height":272,"color":"1","type":"file","file":"10. Notes/Gravity Crystal.md"},
+		{"id":"e07fbc49766f30ee","x":-1270,"y":-152,"width":320,"height":329,"color":"1","type":"file","file":"10. Notes/Gravity Floor.md"},
+		{"id":"3974e6a1ba72d25c","x":-836,"y":13,"width":420,"height":359,"color":"1","type":"file","file":"10. Notes/Quantum Travel through Entanglement.md"},
+		{"id":"67625ca9b45a3a00","x":-1556,"y":164,"width":265,"height":236,"color":"1","type":"file","file":"99. Attachments/Gravity Crystals Image.png"},
+		{"id":"3df0317ab2e23eff","x":-1270,"y":204,"width":400,"height":331,"color":"1","type":"file","file":"99. Attachments/Gravity Floor - 02.png"},
+		{"id":"44a5556a61123c35","x":-1556,"y":-732,"width":340,"height":233,"color":"1","type":"file","file":"10. Notes/Ghost Matter.md"},
+		{"id":"67dd293e6b02cbbc","x":-1191,"y":-688,"width":241,"height":162,"color":"1","type":"file","file":"99. Attachments/Ghost Matter.png"},
+		{"id":"b94c1903a87e0b62","x":-1561,"y":-474,"width":345,"height":281,"color":"1","type":"text","text":"# Signalscope - Music\n\nAmong the members of the [[Outer Wilds Ventures]], there are space explorers, each space explorer has an unique musical isntrument, they usually play music on this frequency to signal that they are ok, the [[Signalscope]] can be used to track these signals so that you are able to find these characters should you want to."},
+		{"id":"4c79224e5fdc6362","x":-1191,"y":-474,"width":241,"height":281,"color":"1","type":"file","file":"99. Attachments/Feldspar Frequency Detected.png"},
+		{"id":"793e49f85352804e","x":-916,"y":-346,"width":327,"height":296,"color":"1","type":"file","file":"10. Notes/Quantum Shard.md"},
+		{"id":"1961b1a525283d2c","x":-576,"y":-732,"width":507,"height":344,"color":"1","type":"file","file":"99. Attachments/Timber Hearth - Warp Receiver.png"},
+		{"id":"5bea9369e6fee93a","x":-916,"y":-732,"width":323,"height":344,"color":"1","type":"file","file":"10. Notes/Warp Receiver.md"},
+		{"id":"495e68221b895df1","x":-16,"y":-726,"width":400,"height":400,"color":"1","type":"file","file":"10. Notes/Warp Tower.md"},
+		{"id":"93cb72405f15e5a3","x":-16,"y":-275,"width":400,"height":225,"color":"1","type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
+		{"id":"2839055ea924024e","x":-556,"y":-346,"width":491,"height":296,"color":"1","type":"file","file":"99. Attachments/Cave Shard Room A.png"},
+		{"id":"ad952cef5b524bd6","x":-376,"y":13,"width":400,"height":398,"color":"1","type":"file","file":"10. Notes/Quantum Imaging.md"},
+		{"id":"46babd637fc9d202","x":64,"y":13,"width":400,"height":224,"color":"1","type":"file","file":"10. Notes/Gravity Bridges.md"},
+		{"id":"ca29b613ecf7a173","x":64,"y":264,"width":400,"height":370,"color":"1","type":"file","file":"99. Attachments/Mining Site 2b - Gravity Bridges.png"},
+		{"id":"f5352823a735cff7","x":-887,"y":-1322,"width":522,"height":47,"type":"text","text":"# Exploration Mechanics Canvas"},
+		{"id":"5b7ebeff8258d5ae","x":-1609,"y":-1298,"width":441,"height":225,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"}
+	],
+	"edges":[]
+}
