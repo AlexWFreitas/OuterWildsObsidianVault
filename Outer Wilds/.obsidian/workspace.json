@@ -11,15 +11,11 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "viewState": {
-                  "x": -9024.174551669184,
-                  "y": 1073.5774692583832,
-                  "zoom": -3.333333333333333,
-                  "snapToGrid": true
-                }
+                "file": "10. Notes/Outer Wilds Ventures Frequency.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,10 +102,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nomai statue Mech",
+                "query": "Outer Wilds Ventures Frequency",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -123,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Outer Wilds Ventures Frequency.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Outer Wilds Ventures Frequency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Outer Wilds Ventures Frequency.md"
               }
             }
           }
@@ -206,15 +203,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
+    "10. Notes/Outer Wilds Ventures Frequency 1.md",
+    "10. Notes/Signalscope.md",
+    "10. Notes/Outer Wilds Ventures Frequency.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Eye of the Universe - Hypothesis.md",
     "10. Notes/Quantum Moon - Drawing.md",
     "10. Notes/Southern Observatory.md",
     "10. Notes/Quantum Moon Locator.md",
     "10. Notes/New Vessel Idea.md",
-    "10. Notes/Gloaming Galaxy.md",
-    "10. Notes/Eye of the Universe.md",
-    "10. Notes/Eye District.md",
-    "10. Notes/Ending.md",
-    "10. Notes/Attlerock - Nomai Ruins.md"
+    "10. Notes/Gloaming Galaxy.md"
   ]
 }
