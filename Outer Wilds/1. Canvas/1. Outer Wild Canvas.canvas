@@ -629,8 +629,9 @@
 		{"id":"0dc52fcce984d813","x":-27303,"y":-5733,"width":1423,"height":1194,"type":"group","label":"Brittle Hollow Quantum Moon"},
 		{"id":"36efdf8f320af512","x":-26599,"y":-5502,"width":400,"height":313,"type":"file","file":"Attachments/Pasted image 20221228062106.png"},
 		{"id":"13230151fed4affe","x":-26485,"y":-5000,"width":400,"height":300,"type":"file","file":"99. Attachments/Pasted image 20221228062255.png"},
-		{"id":"2044f502581b2029","x":-16080,"y":-6561,"width":250,"height":531,"type":"file","file":"10. Notes/The Crossroads.md"},
-		{"id":"25e3cf61df823a87","x":-16080,"y":-5917,"width":250,"height":327,"type":"file","file":"10. Notes/Riebeck's Campsite.md"}
+		{"id":"25e3cf61df823a87","x":-16120,"y":-5917,"width":250,"height":312,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
+		{"id":"6ff9fef079ec53c3","x":-15840,"y":-5917,"width":400,"height":400,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"},
+		{"id":"2044f502581b2029","x":-16120,"y":-6580,"width":280,"height":492,"type":"file","file":"10. Notes/The Crossroads.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
