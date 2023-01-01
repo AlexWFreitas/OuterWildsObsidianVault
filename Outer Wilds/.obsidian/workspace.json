@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
                 "viewState": {
-                  "x": -647.9604094805757,
-                  "y": -1039.542300833611,
-                  "zoom": -1,
+                  "x": 157.43669098620154,
+                  "y": -509.6194621420965,
+                  "zoom": -1.3547017179061336,
                   "snapToGrid": false
                 }
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas"
               }
             }
           }
@@ -186,15 +186,15 @@
   },
   "active": "796851b56a38481c",
   "lastOpenFiles": [
-    "1. Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
+    "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
     "1. Canvas/Feldspar Abandoned Campsite.md",
     "10. Notes/Nomai Race.md",
     "1. Canvas/Nomai Race.md",
     "1. Canvas/Orbital Probe Cannon - Launch Module.md",
     "99. Attachments/A forest of Stars.png",
-    "99. Attachments/A depiction of the Universe.png",
-    "10. Notes/Construction Yard.md"
+    "99. Attachments/A depiction of the Universe.png"
   ]
 }
