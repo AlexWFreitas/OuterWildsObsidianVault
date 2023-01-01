@@ -1,5 +1,5 @@
-- Reachable through the Ruins with red flowers from ground level
-- West of the **Gravity Cannon**
+- Reachable through the Ruins with red flowers from ground level.
+- West of the [[Gravity Cannon - Brittle Hollow|Gravity Cannon]] of [[Brittle Hollow]]
 - Found an elevator that connects Crossroads with Gravity Cannon
 - There is a map showing four major locations on Brittle Hollow:
 	- Southern Laboratory
