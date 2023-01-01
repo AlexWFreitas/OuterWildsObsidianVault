@@ -711,7 +711,7 @@
 		{"id":"ee5e5951d70ef32c","x":-7540,"y":-1924,"width":400,"height":368,"color":"2","type":"file","file":"10. Notes/Signalscope.md"},
 		{"id":"1b03dabe35861a12","x":-7120,"y":-1924,"width":320,"height":455,"color":"2","type":"file","file":"10. Notes/Little Scout.md"},
 		{"id":"f5a4b0e56e0f45f6","x":-6786,"y":-1924,"width":333,"height":281,"color":"2","type":"file","file":"10. Notes/Flashlight.md"},
-		{"id":"9356a577f407f609","x":-6786,"y":-1604,"width":333,"height":173,"color":"2","type":"file","file":"10. Notes/Nomai Translator.md"},
+		{"id":"9356a577f407f609","x":-6786,"y":-1604,"width":333,"height":173,"color":"2","type":"file","file":"10. Notes/Nomai Language Translator.md"},
 		{"id":"08de2e67fcef36e6","x":-7560,"y":-1964,"width":1140,"height":560,"color":"2","type":"group","label":"Exploration Tools"}
 	],
 	"edges":[

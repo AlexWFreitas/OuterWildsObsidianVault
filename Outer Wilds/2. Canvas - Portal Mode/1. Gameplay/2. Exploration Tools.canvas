@@ -1,24 +1,34 @@
 {
 	"nodes":[
 		{"id":"21a72143eceaa07c","x":0,"y":256,"width":522,"height":124,"type":"text","text":"# Exploration Tools\n\nThis canvas contains information about exploration tools you can use on your explorations."},
-		{"id":"2c4f512a2566b7f7","x":-437,"y":-220,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"37467f0402655ce7","x":-437,"y":-188,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
-		{"id":"17f7482dd63dccf0","x":-437,"y":-40,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"c74bcf9572cd94c9","x":60,"y":-439,"width":400,"height":230,"type":"group","label":"Index"},
 		{"id":"654ca780244b91aa","x":560,"y":-439,"width":400,"height":230,"type":"group","label":"Gameplay Index"},
 		{"id":"0f022c89359e7358","x":560,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"},
 		{"id":"10602d145b047516","x":560,"y":-259,"width":400,"height":50,"type":"text","text":"# Gameplay Index"},
 		{"id":"ebc874ef2f831852","x":60,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
 		{"id":"9956466cb453bfd0","x":60,"y":-259,"width":400,"height":50,"type":"text","text":"# Index"},
-		{"id":"56d4bc5f9cf41314","x":-339,"y":664,"width":400,"height":368,"type":"file","file":"10. Notes/Signalscope.md"},
-		{"id":"7392a2b6cea585eb","x":101,"y":664,"width":320,"height":455,"type":"file","file":"10. Notes/Little Scout.md"},
-		{"id":"ed785ba2eebb6e4f","x":461,"y":664,"width":333,"height":281,"type":"file","file":"10. Notes/Flashlight.md"},
-		{"id":"bdf8f9c643ed7d2d","x":834,"y":664,"width":333,"height":173,"type":"file","file":"10. Notes/Nomai Translator.md"},
-		{"id":"dcdb8cd319319327","x":461,"y":1600,"width":333,"height":295,"type":"file","file":"99. Attachments/Flashlight Example.png"}
+		{"id":"56d4bc5f9cf41314","x":-524,"y":800,"width":400,"height":368,"type":"file","file":"10. Notes/Signalscope.md"},
+		{"id":"bdf8f9c643ed7d2d","x":1156,"y":800,"width":657,"height":173,"type":"file","file":"10. Notes/Nomai Language Translator.md"},
+		{"id":"ed785ba2eebb6e4f","x":647,"y":800,"width":333,"height":281,"type":"file","file":"10. Notes/Flashlight.md"},
+		{"id":"7392a2b6cea585eb","x":51,"y":800,"width":421,"height":374,"type":"file","file":"10. Notes/Little Scout.md"},
+		{"id":"2c4f512a2566b7f7","x":-1160,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"37467f0402655ce7","x":-1160,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"17f7482dd63dccf0","x":-1160,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"e3bedaaf1cef0cad","x":-525,"y":1360,"width":400,"height":385,"color":"3","type":"file","file":"99. Attachments/Deep Space Radio Frequency.png"},
+		{"id":"dcdb8cd319319327","x":646,"y":1360,"width":333,"height":295,"type":"file","file":"99. Attachments/Flashlight Example.png"},
+		{"id":"5263ecd5ac445231","x":61,"y":1360,"width":400,"height":240,"color":"3","type":"file","file":"99. Attachments/Launching Little Scout into the Seed.png"},
+		{"id":"2fde4e279f364d28","x":1155,"y":1360,"width":657,"height":295,"type":"file","file":"99. Attachments/Nomai Language Translator.png"}
 	],
 	"edges":[
 		{"id":"37452f3c9f5ca6c5","fromNode":"21a72143eceaa07c","fromSide":"top","toNode":"c74bcf9572cd94c9","toSide":"bottom"},
 		{"id":"0de844019c782701","fromNode":"21a72143eceaa07c","fromSide":"top","toNode":"654ca780244b91aa","toSide":"bottom"},
-		{"id":"1222e6419e5181c1","fromNode":"ed785ba2eebb6e4f","fromSide":"bottom","toNode":"dcdb8cd319319327","toSide":"top"}
+		{"id":"1222e6419e5181c1","fromNode":"ed785ba2eebb6e4f","fromSide":"bottom","toNode":"dcdb8cd319319327","toSide":"top"},
+		{"id":"1e58ea53c14c80a9","fromNode":"21a72143eceaa07c","fromSide":"bottom","toNode":"7392a2b6cea585eb","toSide":"top"},
+		{"id":"80ca69987fea3551","fromNode":"56d4bc5f9cf41314","fromSide":"bottom","toNode":"e3bedaaf1cef0cad","toSide":"top"},
+		{"id":"e86270ea6f67e83e","fromNode":"7392a2b6cea585eb","fromSide":"bottom","toNode":"5263ecd5ac445231","toSide":"top"},
+		{"id":"fe0cecf451f5deb8","fromNode":"21a72143eceaa07c","fromSide":"bottom","toNode":"56d4bc5f9cf41314","toSide":"top"},
+		{"id":"356e57746a2d387b","fromNode":"21a72143eceaa07c","fromSide":"bottom","toNode":"ed785ba2eebb6e4f","toSide":"top"},
+		{"id":"6722919f1d4e188b","fromNode":"21a72143eceaa07c","fromSide":"bottom","toNode":"bdf8f9c643ed7d2d","toSide":"top"},
+		{"id":"2b2a5f2b73f1d4ff","fromNode":"bdf8f9c643ed7d2d","fromSide":"bottom","toNode":"2fde4e279f364d28","toSide":"top"}
 	]
 }

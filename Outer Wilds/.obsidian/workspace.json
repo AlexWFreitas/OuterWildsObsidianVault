@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -3742.110825568706,
-                  "y": -2569.0169130357663,
+                  "x": -4515.7023502041575,
+                  "y": -2538.778807838289,
                   "zoom": -1.3333333333333328,
                   "snapToGrid": false
                 }
@@ -31,9 +31,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "viewState": {
-                  "x": 753.7852226276718,
-                  "y": 939.3654193110943,
-                  "zoom": -1.7619719004383558,
+                  "x": 781.7241333818475,
+                  "y": 1105.3271775219762,
+                  "zoom": -1.0953052337716895,
                   "snapToGrid": true
                 }
               }
@@ -170,9 +170,9 @@
   },
   "active": "1a90d01310f6ee71",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "100.Template/Canvas Template.canvas",
     "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
