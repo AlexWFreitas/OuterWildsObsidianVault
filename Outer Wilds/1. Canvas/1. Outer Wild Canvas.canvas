@@ -695,14 +695,15 @@
 		{"id":"0b71e5bcde6f5fb0","x":-3240,"y":-2617,"width":242,"height":463,"color":"6","type":"file","file":"10. Notes/Deep Space Radio Frequency.md"},
 		{"id":"d18aa8629e529f69","x":-2960,"y":-2368,"width":400,"height":214,"color":"6","type":"file","file":"10. Notes/Quantum Fluctuation Frequency.md"},
 		{"id":"23d8a8a6e48f53c1","x":-2960,"y":-2617,"width":400,"height":202,"color":"6","type":"file","file":"10. Notes/Hide and Seek Frequency.md"},
-		{"id":"08de2e67fcef36e6","x":-7560,"y":-2424,"width":1180,"height":570,"color":"5","type":"group","label":"Exploration Tools"},
-		{"id":"1b03dabe35861a12","x":-6720,"y":-2391,"width":297,"height":407,"type":"file","file":"10. Notes/Little Scout.md"},
 		{"id":"5ed7880a57b2ed40","x":-5022,"y":-3570,"width":242,"height":266,"color":"3","type":"file","file":"10. Notes/Health.md"},
 		{"id":"47b2fb309d6dfb6d","x":-5200,"y":-3480,"width":140,"height":176,"type":"file","file":"99. Attachments/Health Meter on Space Suit.png"},
 		{"id":"8649ae9c4a4df0b6","x":-4740,"y":-3589,"width":400,"height":285,"type":"file","file":"10. Notes/Flashlight.md"},
 		{"id":"033dae0ce6146044","x":-4320,"y":-3640,"width":395,"height":350,"type":"file","file":"99. Attachments/Flashlight Example.png"},
-		{"id":"ee5e5951d70ef32c","x":-7520,"y":-2384,"width":400,"height":400,"type":"file","file":"10. Notes/Signalscope.md"},
-		{"id":"9356a577f407f609","x":-7080,"y":-2384,"width":305,"height":209,"type":"file","file":"10. Notes/Nomai Translator.md"}
+		{"id":"08de2e67fcef36e6","x":-7560,"y":-2480,"width":1140,"height":560,"color":"5","type":"group","label":"Exploration Tools"},
+		{"id":"ee5e5951d70ef32c","x":-7540,"y":-2440,"width":400,"height":368,"type":"file","file":"10. Notes/Signalscope.md"},
+		{"id":"1b03dabe35861a12","x":-7120,"y":-2440,"width":320,"height":455,"type":"file","file":"10. Notes/Little Scout.md"},
+		{"id":"f5a4b0e56e0f45f6","x":-6786,"y":-2440,"width":333,"height":281,"type":"file","file":"10. Notes/Flashlight.md"},
+		{"id":"9356a577f407f609","x":-6786,"y":-2120,"width":333,"height":173,"type":"file","file":"10. Notes/Nomai Translator.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},
