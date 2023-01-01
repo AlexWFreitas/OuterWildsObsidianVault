@@ -1,0 +1,1 @@
+- Used on the hide and seek minigame on [[Timber Hearth]] , serves as a tutorial for the [[Signalscope]] tool.

@@ -1,0 +1,2 @@
+- Frequency emitted by the [[Quantum Shard]] and the [[Quantum Moon]].
+- Allows the user to know the current position of those objects.
