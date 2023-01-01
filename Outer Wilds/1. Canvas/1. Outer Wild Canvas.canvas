@@ -565,7 +565,7 @@
 		{"id":"74a74b4b25ad0b5e","x":-13342,"y":-5911,"width":228,"height":399,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after being expelled by a White Hole.png"},
 		{"id":"6ff9fef079ec53c3","x":-15842,"y":-5950,"width":359,"height":257,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"},
 		{"id":"25e3cf61df823a87","x":-16120,"y":-5950,"width":250,"height":312,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
-		{"id":"cbb4eceb44091130","x":-17220,"y":-8137,"width":420,"height":398,"type":"file","file":"10. Notes/Southern Laboratory.md"},
+		{"id":"cbb4eceb44091130","x":-17220,"y":-8137,"width":420,"height":398,"type":"file","file":"10. Notes/Southern Observatory.md"},
 		{"id":"b6b55af497c05c37","x":-17220,"y":-6179,"width":250,"height":460,"type":"file","file":"10. Notes/Second Planet Locator - Brittle Hollow.md"},
 		{"id":"144b164ed9d0b579","x":-14880,"y":-8153,"width":900,"height":460,"type":"group","label":"Gravity Cannon - Surface"},
 		{"id":"0c70f64a540ff349","x":-14840,"y":-8084,"width":360,"height":359,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md","subpath":"#Gravity Cannon Surface"},
@@ -577,7 +577,7 @@
 		{"id":"66b58c53ed3ecc3c","x":-13799,"y":-8229,"width":972,"height":508,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Surface Entrance.png"},
 		{"id":"f19f9bfc65d91e2b","x":-20760,"y":-4720,"width":4960,"height":2040,"type":"group","label":"Hanging City"},
 		{"id":"5615ff5951724a67","x":-12015,"y":-7325,"width":250,"height":60,"type":"text","text":"# Warp Receiver"},
-		{"id":"2e15ee4d79bf2a8f","x":-17780,"y":-6563,"width":250,"height":422,"type":"file","file":"10. Notes/Southern Laboratory.md"},
+		{"id":"2e15ee4d79bf2a8f","x":-17780,"y":-6563,"width":250,"height":422,"type":"file","file":"10. Notes/Southern Observatory.md"},
 		{"id":"5e9cf6957f674602","x":-19423,"y":-8941,"width":1686,"height":1248,"type":"group","label":"Escape Pod 01"},
 		{"id":"c1e4e205de320543","x":-18144,"y":-5633,"width":216,"height":209,"type":"file","file":"99. Attachments/Northern Glacier Path.png"},
 		{"id":"72fcad477e94bae1","x":-18364,"y":-6553,"width":400,"height":290,"type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
@@ -644,7 +644,11 @@
 		{"id":"2d33622c11a42717","x":-23960,"y":-9960,"width":2240,"height":2160,"type":"group","label":"Brittle Hollow"},
 		{"id":"1caca54ef48791b3","x":-11842,"y":-1120,"width":26962,"height":19440,"type":"group","label":"World of Outer Wilds"},
 		{"id":"1c6aaf8fcc9e0b35","x":-13957,"y":-4956,"width":1477,"height":916,"type":"group","label":"Gravity Cannon Underground"},
-		{"id":"08c38cc0ab3dfbc0","x":-13920,"y":-4900,"width":400,"height":486,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md","subpath":"#Gravity Cannon Underground"}
+		{"id":"08c38cc0ab3dfbc0","x":-13920,"y":-4900,"width":400,"height":582,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md","subpath":"#Gravity Cannon Underground"},
+		{"id":"a0f1de46786dbe5d","x":-13480,"y":-4900,"width":520,"height":330,"type":"file","file":"99. Attachments/Gravity Cannon - Underground View.png"},
+		{"id":"74c922588e130721","x":-13480,"y":-4500,"width":520,"height":418,"type":"file","file":"99. Attachments/Gravity Cannon Controls and Shuttle on the Gravity Cannon.png"},
+		{"id":"69496e0bb2966d81","x":-12920,"y":-4414,"width":400,"height":258,"type":"file","file":"99. Attachments/Path to the Crossroads 2.png"},
+		{"id":"4a602e7a5eafa3d9","x":-12920,"y":-4846,"width":400,"height":346,"type":"file","file":"99. Attachments/Path to the Crossroads 1.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

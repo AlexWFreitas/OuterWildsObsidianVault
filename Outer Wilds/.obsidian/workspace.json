@@ -11,15 +11,11 @@
             "id": "959ec39c6d32fc07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
-                "viewState": {
-                  "x": -13234.941887695208,
-                  "y": -4654.916528563336,
-                  "zoom": -0.6666666666666665,
-                  "snapToGrid": true
-                }
+                "file": "10. Notes/Riebeck's Campsite.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -98,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#-",
+                "query": "Southern Labora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Riebeck's Campsite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Riebeck's Campsite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Riebeck's Campsite.md"
               }
             }
           }
@@ -198,15 +195,15 @@
   },
   "active": "959ec39c6d32fc07",
   "lastOpenFiles": [
-    "10. Notes/Gravity Cannon - Brittle Hollow.md",
+    "10. Notes/High Energy Lab.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Gravity Cannon - Brittle Hollow.md",
     "10. Notes/Comet Shuttle.md",
     "99. Attachments/Superdense Content inside the Comet.png",
     "10. Notes/Shuttle.md",
     "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png",
     "10. Notes/Gravity Floor.md",
     "10. Notes/Gravity Crystal.md",
-    "10. Notes/Crossroads.md",
-    "10. Notes/Tower of Quantum Knowledge.md"
+    "10. Notes/Crossroads.md"
   ]
 }
