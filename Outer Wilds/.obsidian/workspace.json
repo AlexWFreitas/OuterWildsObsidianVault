@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -28731.187774932107,
-                  "y": -2358.9746604855795,
+                  "x": -28777.841865935537,
+                  "y": -4879.27320417758,
                   "zoom": 1.1102230246251565e-16,
                   "snapToGrid": true
                 }
@@ -115,13 +115,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Brittle Hollow Quantum Moon - Shuttle.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Brittle Hollow Quantum Moon - Shuttle.png",
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Brittle Hollow Quantum Moon - Shuttle.png"
+                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
