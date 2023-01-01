@@ -640,7 +640,8 @@
 		{"id":"33c2a2e091e9c4c1","x":-13799,"y":-8493,"width":600,"height":215,"type":"file","file":"10. Notes/Quantum Shard.md"},
 		{"id":"66b58c53ed3ecc3c","x":-13799,"y":-8229,"width":972,"height":508,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Surface Entrance.png"},
 		{"id":"0984de1360accca3","x":-13160,"y":-8768,"width":333,"height":400,"type":"file","file":"99. Attachments/Quantum Shard above the Tower of Quantum Knowledge.png"},
-		{"id":"144b164ed9d0b579","x":-14680,"y":-8294,"width":400,"height":400,"type":"group","label":"Untitled group"}
+		{"id":"144b164ed9d0b579","x":-14880,"y":-8294,"width":960,"height":601,"type":"group","label":"Gravity Cannon - Surface"},
+		{"id":"0c70f64a540ff349","x":-14840,"y":-8229,"width":250,"height":282,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

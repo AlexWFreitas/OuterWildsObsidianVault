@@ -15,11 +15,23 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -14310.925173655865,
-                  "y": -7852.267138950969,
-                  "zoom": -1.9999999999999998,
+                  "x": -14341.907519626313,
+                  "y": -7629.362901863187,
+                  "zoom": -1,
                   "snapToGrid": true
                 }
+              }
+            }
+          },
+          {
+            "id": "d0f391dd201302ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/Gravity Cannon - Brittle Hollow.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -69,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Gravity Cannon - Brittle Hollow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas",
+                "file": "10. Notes/Gravity Cannon - Brittle Hollow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas/1. Outer Wild Canvas.canvas"
+                "file": "10. Notes/Gravity Cannon - Brittle Hollow.md"
               }
             }
           }
@@ -196,17 +209,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "959ec39c6d32fc07",
+  "active": "d0f391dd201302ab",
   "lastOpenFiles": [
-    "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png",
+    "10. Notes/Comet Shuttle.md",
+    "99. Attachments/Superdense Content inside the Comet.png",
+    "10. Notes/Shuttle.md",
+    "10. Notes/Gravity Cannon - Brittle Hollow.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png",
     "10. Notes/Gravity Floor.md",
     "10. Notes/Gravity Crystal.md",
     "10. Notes/Crossroads.md",
-    "10. Notes/Tower of Quantum Knowledge.md",
-    "10. Notes/Black Hole.md",
-    "10. Notes/Giant's Deep Cyclones.md",
-    "10. Notes/Black Hole Forge.md",
-    "10. Notes/Warp Receiver.md"
+    "10. Notes/Tower of Quantum Knowledge.md"
   ]
 }
