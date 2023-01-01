@@ -1,8 +1,8 @@
 - Reachable through the Ruins with red flowers from ground level.
 - West of the [[Gravity Cannon - Brittle Hollow|Gravity Cannon]] of [[Brittle Hollow]]
 - Found an elevator that connects Crossroads with [[Gravity Cannon - Brittle Hollow]].
-- There is a map showing four major locations on Brittle Hollow:
+- There is a drawing showing four major locations on Brittle Hollow:
 	- [[Southern Laboratory]]
-	- [[Tower of Quantum Knowledge]]]]
+	- [[Tower of Quantum Knowledge]]
 	- [[Gravity Cannon - Brittle Hollow]]
 	- [[Hanging City]]
