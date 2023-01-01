@@ -17,11 +17,11 @@
 		{"id":"67625ca9b45a3a00","x":-224,"y":-333,"width":402,"height":358,"color":"1","type":"file","file":"99. Attachments/Gravity Crystals Image.png"},
 		{"id":"ca29b613ecf7a173","x":806,"y":-315,"width":400,"height":370,"color":"1","type":"file","file":"99. Attachments/Mining Site 2b - Gravity Bridges.png"},
 		{"id":"3974e6a1ba72d25c","x":1314,"y":-315,"width":420,"height":359,"color":"1","type":"file","file":"10. Notes/Quantum Travel through Entanglement.md"},
+		{"id":"bb117633b5c2ac04","x":-664,"y":-1800,"width":50,"height":50,"type":"text","text":""},
+		{"id":"8d1282e1cfbe6bb2","x":-460,"y":-2385,"width":82,"height":85,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
+		{"id":"5b7ebeff8258d5ae","x":-460,"y":-2200,"width":82,"height":80,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"},
 		{"id":"ad952cef5b524bd6","x":1857,"y":-315,"width":400,"height":407,"color":"1","type":"file","file":"10. Notes/Quantum Observation.md"},
-		{"id":"2839055ea924024e","x":2380,"y":-315,"width":327,"height":197,"color":"1","type":"file","file":"99. Attachments/Cave Shard Room A.png"},
-		{"id":"8d1282e1cfbe6bb2","x":-1280,"y":-1860,"width":50,"height":50,"type":"file","file":"2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas"},
-		{"id":"5b7ebeff8258d5ae","x":-300,"y":-1640,"width":50,"height":50,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas"},
-		{"id":"755a672c2c71ad82","x":-1340,"y":-1980,"width":250,"height":60,"type":"text","text":"# Index"}
+		{"id":"2839055ea924024e","x":2380,"y":-315,"width":327,"height":197,"color":"1","type":"file","file":"99. Attachments/Cave Shard Room A.png"}
 	],
 	"edges":[
 		{"id":"d510618208ba8c36","fromNode":"44a5556a61123c35","fromSide":"bottom","toNode":"67dd293e6b02cbbc","toSide":"top"},
@@ -43,7 +43,8 @@
 		{"id":"439bb419b6027bb3","fromNode":"793e49f85352804e","fromSide":"bottom","toNode":"ad952cef5b524bd6","toSide":"top"},
 		{"id":"c255589a07db7f76","fromNode":"793e49f85352804e","fromSide":"bottom","toNode":"3974e6a1ba72d25c","toSide":"top"},
 		{"id":"f6711e4b10e97cda","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"793e49f85352804e","toSide":"top"},
-		{"id":"589d436b1a736739","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"8d1282e1cfbe6bb2","toSide":"bottom","label":"Index"},
-		{"id":"dbdaa4cadf1e36e8","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"5b7ebeff8258d5ae","toSide":"bottom","label":"Gameplay Index"}
+		{"id":"589d436b1a736739","fromNode":"bb117633b5c2ac04","fromSide":"right","toNode":"8d1282e1cfbe6bb2","toSide":"left","label":"Index"},
+		{"id":"dbdaa4cadf1e36e8","fromNode":"bb117633b5c2ac04","fromSide":"right","toNode":"5b7ebeff8258d5ae","toSide":"left","label":"Gameplay Index"},
+		{"id":"2efb3a1825d59330","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"bb117633b5c2ac04","toSide":"bottom","label":"Navigation"}
 	]
 }

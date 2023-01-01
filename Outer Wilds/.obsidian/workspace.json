@@ -24,39 +24,23 @@
             }
           },
           {
-            "id": "15625e4a23c0c56d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "796851b56a38481c",
+            "id": "1a90d01310f6ee71",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
                 "viewState": {
-                  "x": -785.2370009246798,
-                  "y": -1533.2352088528628,
-                  "zoom": -0.024156510700214517,
+                  "x": -237.3108065357694,
+                  "y": -1450.040661391286,
+                  "zoom": -1.690823177366881,
                   "snapToGrid": true
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +168,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "796851b56a38481c",
+  "active": "1a90d01310f6ee71",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Index.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/0. Index/0. Index Canvas.canvas",
     "1. Canvas/Feldspar Abandoned Campsite.md",
     "10. Notes/Nomai Race.md",
     "1. Canvas/Nomai Race.md",
