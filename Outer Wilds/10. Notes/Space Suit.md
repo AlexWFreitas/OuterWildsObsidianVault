@@ -1,1 +1,2 @@
-.
+- Protective suit that allows you to go to explore the outer space.
+- Located inside the [[Space Ship]].

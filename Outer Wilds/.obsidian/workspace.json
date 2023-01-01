@@ -15,11 +15,23 @@
               "state": {
                 "file": "1. Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -5034.762138602965,
-                  "y": -3087.0660919784523,
+                  "x": -4601.770273519576,
+                  "y": -3336.6469427603306,
                   "zoom": -0.333333333333333,
                   "snapToGrid": true
                 }
+              }
+            }
+          },
+          {
+            "id": "d11b45dc1867513a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/Space Suit.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Space Suit.md",
+                "file": "10. Notes/Signalscope.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Space Suit.md",
+                "file": "10. Notes/Signalscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Space Suit.md"
+                "file": "10. Notes/Signalscope.md"
               }
             }
           }
@@ -199,15 +211,15 @@
   },
   "active": "15625e4a23c0c56d",
   "lastOpenFiles": [
+    "10. Notes/Space Suit.md",
+    "10. Notes/Space Suit 1.md",
+    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Outer Wilds Ventures Frequency.md",
     "10. Notes/Outer Wilds Ventures Frequency 1.md",
     "10. Notes/Signalscope.md",
-    "1. Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Eye of the Universe - Hypothesis.md",
     "10. Notes/Quantum Moon - Drawing.md",
     "10. Notes/Southern Observatory.md",
-    "10. Notes/Quantum Moon Locator.md",
-    "10. Notes/New Vessel Idea.md",
-    "10. Notes/Gloaming Galaxy.md"
+    "10. Notes/Quantum Moon Locator.md"
   ]
 }
