@@ -1,1 +1,0 @@
-One of the surface islands of this planet, contains a campsite where Gabbro's is staying, while playing a flute

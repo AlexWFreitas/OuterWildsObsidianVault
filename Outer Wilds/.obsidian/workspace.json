@@ -11,10 +11,8 @@
             "id": "15625e4a23c0c56d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "99. Attachments/A forest of Stars.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Outer Wilds Ventures Frequency",
+                "query": "Nomai Race",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/A forest of Stars.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/A forest of Stars.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "99. Attachments/A forest of Stars.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +141,15 @@
   },
   "active": "15625e4a23c0c56d",
   "lastOpenFiles": [
-    "99. Attachments/A depiction of the Universe.png",
+    "1. Canvas/Feldspar Abandoned Campsite.md",
     "1. Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Nomai Race.md",
+    "1. Canvas/Nomai Race.md",
+    "1. Canvas/Orbital Probe Cannon - Launch Module.md",
+    "99. Attachments/A forest of Stars.png",
+    "99. Attachments/A depiction of the Universe.png",
     "10. Notes/Construction Yard.md",
     "10. Notes/Flashlight.md",
-    "99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png",
-    "10. Notes/Space Suit.md",
-    "10. Notes/Space Suit 1.md",
-    "10. Notes/Outer Wilds Ventures Frequency.md",
-    "10. Notes/Outer Wilds Ventures Frequency 1.md",
-    "10. Notes/Signalscope.md"
+    "99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png"
   ]
 }
