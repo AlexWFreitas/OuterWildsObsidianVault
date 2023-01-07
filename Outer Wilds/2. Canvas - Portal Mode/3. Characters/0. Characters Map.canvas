@@ -7,7 +7,6 @@
 		{"id":"77c42cf08811a814","x":0,"y":-2253,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"d2309506aa32c050","x":0,"y":-2105,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"62760d67c3eac83c","x":-60,"y":-1590,"width":522,"height":184,"type":"text","text":"# Canvas Description"},
-		{"id":"cd66c678e9c40d1d","x":120,"y":-408,"width":413,"height":385,"type":"file","file":"10. Notes/Esker.md"},
 		{"id":"973895daf1df5073","x":120,"y":101,"width":413,"height":267,"type":"file","file":"99. Attachments/Esker.png"},
 		{"id":"6a26c5fa6b28d77b","x":1462,"y":101,"width":250,"height":281,"type":"file","file":"99. Attachments/Chertt.png"},
 		{"id":"4929d730a5e32126","x":2880,"y":-976,"width":380,"height":296,"type":"file","file":"10. Notes/Cassava.md"},
@@ -40,8 +39,9 @@
 		{"id":"701260f1dea78950","x":-2580,"y":-180,"width":400,"height":50,"type":"text","text":"# Player"},
 		{"id":"59bb1b3836a5f267","x":-2280,"y":-987,"width":242,"height":400,"type":"file","file":"99. Attachments/The Player with a Space Suit.png"},
 		{"id":"3f11e088e0f89dd7","x":-360,"y":-920,"width":920,"height":1379,"color":"4","type":"group","label":"Space Explorers and Outer Wilds Ventures Founders"},
-		{"id":"33d951b9d91928b7","x":-1231,"y":-700,"width":223,"height":141,"type":"text","text":"# Founders of Outer Wilds Ventures"},
-		{"id":"604a0bef3c4276bf","x":-1720,"y":-864,"width":400,"height":154,"type":"file","file":"10. Notes/Outer Wilds Ventures.md"}
+		{"id":"33d951b9d91928b7","x":-1231,"y":-700,"width":551,"height":60,"type":"text","text":"# Founders of Outer Wilds Ventures"},
+		{"id":"604a0bef3c4276bf","x":-1720,"y":-864,"width":400,"height":154,"type":"file","file":"10. Notes/Outer Wilds Ventures.md"},
+		{"id":"cd66c678e9c40d1d","x":120,"y":-428,"width":413,"height":385,"type":"file","file":"10. Notes/Esker.md"}
 	],
 	"edges":[
 		{"id":"c25a85c340f7de64","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"dc32734e556ee1e0","toSide":"top"},
@@ -63,7 +63,7 @@
 		{"id":"751cbc66f796a9f1","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"98680891e7d69474","toSide":"top"},
 		{"id":"7bad856d5edd8952","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"d1b97e9c5349020b","toSide":"top"},
 		{"id":"bb538ac590f8d018","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"cb6c7e90e49fa487","toSide":"top"},
-		{"id":"40e232417edbc393","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"cd66c678e9c40d1d","toSide":"top"},
+		{"id":"40e232417edbc393","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"cd66c678e9c40d1d","toSide":"top","label":"?"},
 		{"id":"87f720e399bbb53e","fromNode":"a135cdd4c894e66d","fromSide":"bottom","toNode":"5d04d5c7baf03305","toSide":"top"},
 		{"id":"986ca2bcb739c0d2","fromNode":"86bbdce725b90f03","fromSide":"right","toNode":"59bb1b3836a5f267","toSide":"left"},
 		{"id":"5f5c58f806237394","fromNode":"86bbdce725b90f03","fromSide":"bottom","toNode":"c98f1c5480fb96d0","toSide":"top"},
