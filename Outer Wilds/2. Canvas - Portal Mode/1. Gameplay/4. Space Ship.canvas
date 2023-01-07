@@ -7,19 +7,20 @@
 		{"id":"0b98366081f3c6d3","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"92c805045031e30c","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"add80176fa999d5e","x":3,"y":256,"width":522,"height":184,"type":"text","text":"# Space Ship\n\nThis canvas contains information about the Space Ship from Outer Wilds."},
-		{"id":"a45d4f064615c718","x":1778,"y":1494,"width":400,"height":251,"type":"file","file":"99. Attachments/Ship Log - Rumor Mode.png"},
-		{"id":"363022b806951682","x":1778,"y":1786,"width":400,"height":246,"type":"file","file":"99. Attachments/Ship Log - Map Mode.png"},
-		{"id":"3cabdb3e8ec7758f","x":1778,"y":2085,"width":400,"height":250,"type":"file","file":"99. Attachments/Ship Log - Map Mode - Planet Details.png"},
-		{"id":"c1096f27e095316d","x":1778,"y":2385,"width":400,"height":236,"type":"file","file":"99. Attachments/Planetary Chart.png"},
-		{"id":"e7edbabbd31e3771","x":-225,"y":683,"width":979,"height":649,"type":"file","file":"10. Notes/Space Ship.md"},
 		{"id":"c9887f9da6b6cc0c","x":900,"y":40,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
 		{"id":"945c96cce4c48967","x":900,"y":72,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
 		{"id":"2031efa2f5aad19e","x":900,"y":220,"width":400,"height":50,"type":"text","text":"# Player - Space Suit"},
-		{"id":"22a7edf2bc23f1ea","x":-483,"y":2840,"width":258,"height":240,"type":"file","file":"99. Attachments/Fuel Storage - May cause explosions when leaking.png"},
-		{"id":"c1a9b76212ae95f2","x":-83,"y":1614,"width":706,"height":590,"type":"file","file":"99. Attachments/Space Ship at the Launch Tower.png"},
-		{"id":"39c706e1376edc27","x":194,"y":2457,"width":152,"height":239,"type":"file","file":"99. Attachments/Gravity Bridge towards the Ship.png"},
-		{"id":"0a1f230f25ec138a","x":2178,"y":3200,"width":434,"height":246,"type":"file","file":"99. Attachments/Restore Health, Fuel and Oxygen, also notice the slides showing how to use the Little Scout.png"},
-		{"id":"772f830618fff162","x":48,"y":2916,"width":433,"height":328,"type":"file","file":"99. Attachments/Ship's interior.png"}
+		{"id":"e7edbabbd31e3771","x":-225,"y":683,"width":979,"height":649,"type":"file","file":"10. Notes/Space Ship.md"},
+		{"id":"c1a9b76212ae95f2","x":-89,"y":1611,"width":706,"height":590,"type":"file","file":"99. Attachments/Space Ship at the Launch Tower.png"},
+		{"id":"22a7edf2bc23f1ea","x":-1032,"y":1682,"width":484,"height":449,"type":"file","file":"99. Attachments/Fuel Storage - May cause explosions when leaking.png"},
+		{"id":"39c706e1376edc27","x":50,"y":2480,"width":429,"height":675,"type":"file","file":"99. Attachments/Gravity Bridge towards the Ship.png"},
+		{"id":"772f830618fff162","x":-101,"y":3420,"width":732,"height":554,"type":"file","file":"99. Attachments/Ship's interior.png"},
+		{"id":"0a1f230f25ec138a","x":1520,"y":3420,"width":737,"height":418,"type":"file","file":"99. Attachments/Restore Health, Fuel and Oxygen, also notice the slides showing how to use the Little Scout.png"},
+		{"id":"6336455092f8a483","x":1520,"y":3974,"width":669,"height":575,"type":"file","file":"99. Attachments/Space Suit inside the Space Ship.png"},
+		{"id":"c1096f27e095316d","x":-3133,"y":4880,"width":1287,"height":758,"type":"file","file":"99. Attachments/Planetary Chart.png"},
+		{"id":"363022b806951682","x":-1711,"y":4880,"width":1233,"height":758,"type":"file","file":"99. Attachments/Ship Log - Map Mode.png"},
+		{"id":"3cabdb3e8ec7758f","x":-343,"y":4880,"width":1215,"height":758,"type":"file","file":"99. Attachments/Ship Log - Map Mode - Planet Details.png"},
+		{"id":"a45d4f064615c718","x":1008,"y":4880,"width":1209,"height":758,"type":"file","file":"99. Attachments/Ship Log - Rumor Mode.png"}
 	],
 	"edges":[
 		{"id":"1e8d4fdef3fa84dc","fromNode":"add80176fa999d5e","fromSide":"top","toNode":"dd8aae8e6ed2c982","toSide":"bottom"},
@@ -27,6 +28,13 @@
 		{"id":"4eba93ac4c9c8010","fromNode":"add80176fa999d5e","fromSide":"right","toNode":"c9887f9da6b6cc0c","toSide":"left"},
 		{"id":"44cfef6717a6a6a6","fromNode":"e7edbabbd31e3771","fromSide":"bottom","toNode":"c1a9b76212ae95f2","toSide":"top"},
 		{"id":"66453e5f217e2a74","fromNode":"c1a9b76212ae95f2","fromSide":"bottom","toNode":"39c706e1376edc27","toSide":"top"},
-		{"id":"70643083a000a8f4","fromNode":"39c706e1376edc27","fromSide":"bottom","toNode":"772f830618fff162","toSide":"top"}
+		{"id":"70643083a000a8f4","fromNode":"39c706e1376edc27","fromSide":"bottom","toNode":"772f830618fff162","toSide":"top"},
+		{"id":"e21d4b57d88bff74","fromNode":"c1a9b76212ae95f2","fromSide":"left","toNode":"22a7edf2bc23f1ea","toSide":"right"},
+		{"id":"c39f980aa4d08f6b","fromNode":"772f830618fff162","fromSide":"right","toNode":"0a1f230f25ec138a","toSide":"left"},
+		{"id":"1447872bccf19861","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"a45d4f064615c718","toSide":"top"},
+		{"id":"d2cea663bd8f46da","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"c1096f27e095316d","toSide":"top"},
+		{"id":"132cc71c264cde5b","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"3cabdb3e8ec7758f","toSide":"top"},
+		{"id":"1dd08f2374a3229d","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"363022b806951682","toSide":"top"},
+		{"id":"cc4dda150b706ceb","fromNode":"772f830618fff162","fromSide":"right","toNode":"6336455092f8a483","toSide":"left"}
 	]
 }
