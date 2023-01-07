@@ -1,1 +1,40 @@
-{}
+{
+	"nodes":[
+		{"id":"68d6dc1ee49b9c40","x":3,"y":256,"width":522,"height":335,"type":"text","text":"# Information Central\n\nThis is a canvas containing information about topics of the game that I found important to gather, things like the main story plot, unsolved mysteries, relationship between the information collected and things that would help understand the universe of the game a little better.\n\nThis information most likely won't have any sort of organization or structure and will probably be very diverse. \n\nThe information stored here might also be replicated on other canvasses."},
+		{"id":"a7b9fccb0a726150","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"a6fa5b8b895eb412","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"f387f69ec558d2b4","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"94158a4377f9a95e","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"0b85f1fc984cc09c","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"f0df3f70992dc5ef","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"595bb3e005e2a4ad","x":-1977,"y":1742,"width":880,"height":505,"color":"6","type":"file","file":"99. Attachments/Star System of Outer Wilds.png"},
+		{"id":"9f51889b5d8da641","x":-1057,"y":1769,"width":400,"height":557,"color":"6","type":"file","file":"10. Notes/Origin and Death of the Universe.md"},
+		{"id":"d3728fe66efd1c23","x":-1977,"y":1197,"width":441,"height":374,"color":"6","type":"file","file":"10. Notes/General Info.md"},
+		{"id":"1c831c59e2a4e82c","x":-1497,"y":1204,"width":440,"height":422,"color":"6","type":"file","file":"10. Notes/Star Life Cycle.md"},
+		{"id":"8f9a05fa8fe3835f","x":-1803,"y":2358,"width":1146,"height":590,"color":"6","type":"file","file":"99. Attachments/Outer Wilds - Solar System.png"},
+		{"id":"49052edfa032934e","x":-317,"y":2247,"width":490,"height":461,"color":"6","type":"file","file":"10. Notes/Nomai Statue.md"},
+		{"id":"7bb6719fc8c18560","x":-597,"y":1769,"width":260,"height":1129,"color":"6","type":"file","file":"10. Notes/Eye of the Universe - Hypothesis.md"},
+		{"id":"7d32dd4876ff3867","x":1383,"y":1218,"width":340,"height":632,"color":"6","type":"text","text":"# ~~Is Eye of the Universe the Quantum Moon?~~\n\n- On the Attlerock Satellite, it seems that the Eye Signal Locator is pointing to different places and varying wildly, maybe the place that is referred as Eye of the Universe has the same properties as the Quantum Shard and is related to the Quantum Moon?\n- Another hypothesis is that because those strange shards are appearing on other astral bodies, maybe this means that the Dark Bramble is possibly the Quantum Moon.\n- After exploring Brittle Hollow's Southern Observatory, this hypothesis confirmed to be false.\n- Another reason that makes this hypothesis is false is that the [[Quantum Moon]] can be seen orbiting around the [[Dark Bramble]] sometimes."},
+		{"id":"4b883fe900d84051","x":-1017,"y":1197,"width":320,"height":512,"color":"6","type":"file","file":"10. Notes/Gravity.md"},
+		{"id":"bcdbb8b9c3c03967","x":463,"y":1890,"width":360,"height":763,"color":"6","type":"file","file":"10. Notes/The Interloper.md"},
+		{"id":"11583cc580ccf292","x":863,"y":1676,"width":400,"height":1235,"color":"6","type":"file","file":"10. Notes/Ash Twin Project.md"},
+		{"id":"0c1644141c22d1c1","x":1343,"y":1189,"width":420,"height":700,"color":"6","type":"group","label":"Incorrect Hypotheses"},
+		{"id":"f26d92a0ef2a9f0c","x":203,"y":2190,"width":240,"height":368,"color":"6","type":"file","file":"10. Notes/Nomai Festival.md"},
+		{"id":"be785d83e48be883","x":-317,"y":1252,"width":490,"height":923,"color":"6","type":"file","file":"10. Notes/Nomai Race.md"},
+		{"id":"5ba1bfd29cf4c5e1","x":1777,"y":2063,"width":174,"height":178,"color":"6","type":"file","file":"99. Attachments/Brittle Hollow Symbol.png"},
+		{"id":"abf91cb909fbaf47","x":1777,"y":2286,"width":184,"height":175,"color":"6","type":"file","file":"99. Attachments/Eye of the Universe Symbol.png"},
+		{"id":"3b48406608c55ff5","x":1571,"y":2282,"width":180,"height":178,"color":"6","type":"file","file":"99. Attachments/Dark Bramble Symbol.png"},
+		{"id":"fd01e4f52a1e5654","x":1363,"y":2282,"width":184,"height":177,"color":"6","type":"file","file":"99. Attachments/Giant's Deep Symbol.png"},
+		{"id":"7e389a117453d51e","x":1567,"y":2063,"width":184,"height":178,"color":"6","type":"file","file":"99. Attachments/Timber Hearth Symbol.png"},
+		{"id":"8497e8d30d426707","x":-617,"y":1189,"width":1920,"height":1760,"color":"6","type":"group","label":"Main Plot"},
+		{"id":"3d47832832497fd4","x":-597,"y":1252,"width":250,"height":455,"color":"6","type":"file","file":"10. Notes/Expanding Universe.md"},
+		{"id":"ade8b61b76cf2b77","x":1343,"y":1989,"width":660,"height":511,"color":"6","type":"group","label":"Planet Symbols"},
+		{"id":"bd2f4053695c1597","x":1363,"y":2063,"width":184,"height":180,"color":"6","type":"file","file":"99. Attachments/Hourglass Twins Symbol.png"},
+		{"id":"566e6cfc09e1035a","x":463,"y":1252,"width":320,"height":581,"color":"6","type":"file","file":"10. Notes/Supernova.md"},
+		{"id":"b3ad03cbff6aced1","x":203,"y":1252,"width":240,"height":893,"color":"6","type":"file","file":"10. Notes/Time Loop.md"},
+		{"id":"ea3d76ab77a2394d","x":823,"y":1252,"width":400,"height":374,"color":"6","type":"file","file":"10. Notes/Orbital Probe Cannon Project.md"}
+	],
+	"edges":[
+		{"id":"5963a04e7f4e99d2","fromNode":"68d6dc1ee49b9c40","fromSide":"top","toNode":"a7b9fccb0a726150","toSide":"bottom"}
+	]
+}
