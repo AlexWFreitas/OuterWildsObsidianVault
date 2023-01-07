@@ -11,14 +11,14 @@
       "query": "tag:#exploration-tools",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     },
     {
       "query": "tag:#outer-wilds",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14701138
       }
     }
   ],
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.36288736930121557,
+  "centerStrength": 0.578125,
+  "repelStrength": 11.5625,
+  "linkStrength": 0.739583333333333,
+  "linkDistance": 302,
+  "scale": 0.25883865621816626,
   "close": false
 }
