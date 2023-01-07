@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": 1316.6491373801919,
-                  "y": 1072.1904153354633,
-                  "zoom": -1.5209704341551051,
+                  "x": 680,
+                  "y": 12178,
+                  "zoom": -4,
                   "snapToGrid": true
                 }
               }
@@ -33,7 +33,7 @@
                 "viewState": {
                   "x": -174.9753943656861,
                   "y": 1293.2633312701207,
-                  "zoom": -1.3944761767965277,
+                  "zoom": -2.3944761767965277,
                   "snapToGrid": true
                 }
               }
@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc3acd62fe9b5124",
+  "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas",
-    "100.Template/Canvas Template.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "10. Notes/Dark Bramble.md",
+    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "10. Notes/Solar System - General Info.md",
-    "10. Notes/Space Ship.md",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas"
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas"
   ]
 }
