@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-28
 Tags:
 - "outer-wilds"
+- "character"
+- "nomai"
+- "quantum-moon"
 ---
 An alien from the Nomai Race that used the [[Shuttle]] from the [[Brittle Hollow]] and was able to land on the [[Quantum Moon]] as a pilgrimage journey.
 
