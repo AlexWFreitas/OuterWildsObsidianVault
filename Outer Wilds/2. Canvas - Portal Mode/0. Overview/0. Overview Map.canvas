@@ -1,14 +1,35 @@
 {
 	"nodes":[
 		{"id":"9008863cf387eb6e","x":0,"y":256,"width":522,"height":150,"type":"text","text":"# Overview\n\nStarting area of the Outer Wilds Canvas, serves as a the main hub for every other canvas inside this cluster."},
-		{"id":"4d721df90f3f59ad","x":60,"y":620,"width":400,"height":230,"type":"group","label":"Gameplay Map"},
-		{"id":"dd0ac631e6707608","x":60,"y":652,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas"},
-		{"id":"62f6dbfff1b8bfd2","x":60,"y":800,"width":400,"height":50,"type":"text","text":"# Gameplay Map"},
-		{"id":"587efabd8ffd9ba7","x":-780,"y":300,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"a56146f01b37180f","x":-780,"y":332,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
-		{"id":"8da5e5dfedd25f43","x":-780,"y":480,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"}
+		{"id":"587efabd8ffd9ba7","x":-840,"y":0,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"a56146f01b37180f","x":-840,"y":32,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"8da5e5dfedd25f43","x":-840,"y":180,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"379ba0799bb34904","x":-2160,"y":800,"width":2040,"height":1480,"type":"group","label":"Gameplay Map"},
+		{"id":"b9406451742f6dfc","x":-2074,"y":1415,"width":400,"height":230,"type":"group","label":"Exploration Mechanics"},
+		{"id":"160af1bb14a36c03","x":-2074,"y":1447,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas"},
+		{"id":"4d721df90f3f59ad","x":-1375,"y":920,"width":400,"height":230,"type":"group","label":"Gameplay Map"},
+		{"id":"dd0ac631e6707608","x":-1375,"y":952,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas"},
+		{"id":"62f6dbfff1b8bfd2","x":-1375,"y":1100,"width":400,"height":50,"type":"text","text":"# Gameplay Map"},
+		{"id":"44249077adcb3d4b","x":-1575,"y":1840,"width":400,"height":230,"type":"group","label":"SignalScope Frequencies"},
+		{"id":"b2680e00327594b5","x":-1575,"y":1872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas"},
+		{"id":"2587aa1a25d823e0","x":-1575,"y":2020,"width":400,"height":50,"type":"text","text":"# SignalScope Frequencies"},
+		{"id":"a74b08fa8a2eb523","x":-1074,"y":1415,"width":400,"height":230,"type":"group","label":"Player"},
+		{"id":"443192fa06e90bf6","x":-1074,"y":1447,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
+		{"id":"8062e58803a92760","x":-1074,"y":1595,"width":400,"height":50,"type":"text","text":"# Player"},
+		{"id":"3d94e0b1d1d3f76a","x":-1575,"y":1415,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
+		{"id":"f2719273434428a7","x":-1575,"y":1447,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
+		{"id":"97e1f6a17ba895b2","x":-1575,"y":1595,"width":400,"height":50,"type":"text","text":"# Exploration Tools"},
+		{"id":"2bb2308d7a845b9c","x":-594,"y":1415,"width":400,"height":230,"type":"group","label":"Space Ship"},
+		{"id":"9953bcac0e758484","x":-594,"y":1447,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas"},
+		{"id":"c5509f19ede17803","x":-594,"y":1595,"width":400,"height":50,"type":"text","text":"# Space Ship"},
+		{"id":"83d42387022ea472","x":-2074,"y":1595,"width":400,"height":50,"type":"text","text":"# Exploration Mechanics"}
 	],
 	"edges":[
-		{"id":"78c7c17ad24bda8a","fromNode":"9008863cf387eb6e","fromSide":"bottom","toNode":"4d721df90f3f59ad","toSide":"top"}
+		{"id":"78c7c17ad24bda8a","fromNode":"9008863cf387eb6e","fromSide":"bottom","toNode":"379ba0799bb34904","toSide":"top"},
+		{"id":"3d0d5fa73ec27ad7","fromNode":"97e1f6a17ba895b2","fromSide":"bottom","toNode":"44249077adcb3d4b","toSide":"top"},
+		{"id":"5fc2b128ebc96d94","fromNode":"62f6dbfff1b8bfd2","fromSide":"bottom","toNode":"b9406451742f6dfc","toSide":"top"},
+		{"id":"85320f79994b2411","fromNode":"62f6dbfff1b8bfd2","fromSide":"bottom","toNode":"3d94e0b1d1d3f76a","toSide":"top"},
+		{"id":"5c8ff036722b2cf8","fromNode":"62f6dbfff1b8bfd2","fromSide":"bottom","toNode":"a74b08fa8a2eb523","toSide":"top"},
+		{"id":"cdd6bc9ce8389702","fromNode":"62f6dbfff1b8bfd2","fromSide":"bottom","toNode":"2bb2308d7a845b9c","toSide":"top"}
 	]
 }

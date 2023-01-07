@@ -7,16 +7,28 @@
 		{"id":"21795511c31f4900","x":-960,"y":-40,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"0a62ae41536dabbc","x":-960,"y":-8,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"bfc1062ae8a7233e","x":-960,"y":140,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"aa7cd85986f230b6","x":59,"y":690,"width":400,"height":230,"type":"group","label":"Exploration Mechanics"},
-		{"id":"7fc7fad7e31ca1b4","x":59,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas"},
-		{"id":"a97ac8adbca629d5","x":59,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Mechanics"},
-		{"id":"285b4ecda7593138","x":560,"y":690,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
-		{"id":"dc725dac3565a05e","x":560,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
-		{"id":"75a1426550799d0c","x":560,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Tools"}
+		{"id":"290b7b4ecd50eb0c","x":840,"y":690,"width":400,"height":230,"type":"group","label":"Space Ship"},
+		{"id":"7d597f7a905697ff","x":840,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas"},
+		{"id":"41d768ab9cd472c3","x":840,"y":870,"width":400,"height":50,"type":"text","text":"# Space Ship"},
+		{"id":"19c90f421ffc3d86","x":360,"y":690,"width":400,"height":230,"type":"group","label":"Player"},
+		{"id":"d125fd47e85a34c8","x":360,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
+		{"id":"eb72b817d4fe577c","x":360,"y":870,"width":400,"height":50,"type":"text","text":"# Player"},
+		{"id":"285b4ecda7593138","x":-141,"y":690,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
+		{"id":"dc725dac3565a05e","x":-141,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
+		{"id":"75a1426550799d0c","x":-141,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Tools"},
+		{"id":"aa7cd85986f230b6","x":-640,"y":690,"width":400,"height":230,"type":"group","label":"Exploration Mechanics"},
+		{"id":"a97ac8adbca629d5","x":-640,"y":870,"width":400,"height":50,"type":"text","text":"# Exploration Mechanics"},
+		{"id":"ef047b37bf494cdf","x":-141,"y":1220,"width":400,"height":230,"type":"group","label":"SignalScope Frequencies"},
+		{"id":"9dd27c07fe5a7aa0","x":-141,"y":1252,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas"},
+		{"id":"613175d4df3b1a87","x":-141,"y":1400,"width":400,"height":50,"type":"text","text":"# SignalScope Frequencies"},
+		{"id":"7fc7fad7e31ca1b4","x":-640,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas"}
 	],
 	"edges":[
 		{"id":"7f2df2bf688f9706","fromNode":"97c71d71bfeb1e8c","fromSide":"top","toNode":"c408780b71895d1b","toSide":"bottom"},
 		{"id":"a13b529ca9a56345","fromNode":"97c71d71bfeb1e8c","fromSide":"bottom","toNode":"aa7cd85986f230b6","toSide":"top"},
-		{"id":"102dbd7a05878644","fromNode":"97c71d71bfeb1e8c","fromSide":"bottom","toNode":"285b4ecda7593138","toSide":"top"}
+		{"id":"102dbd7a05878644","fromNode":"97c71d71bfeb1e8c","fromSide":"bottom","toNode":"285b4ecda7593138","toSide":"top"},
+		{"id":"c9650c396654af2b","fromNode":"75a1426550799d0c","fromSide":"bottom","toNode":"ef047b37bf494cdf","toSide":"top"},
+		{"id":"e23355b34f5df446","fromNode":"97c71d71bfeb1e8c","fromSide":"bottom","toNode":"19c90f421ffc3d86","toSide":"top"},
+		{"id":"d052e27eb7d4a774","fromNode":"97c71d71bfeb1e8c","fromSide":"bottom","toNode":"290b7b4ecd50eb0c","toSide":"top"}
 	]
 }

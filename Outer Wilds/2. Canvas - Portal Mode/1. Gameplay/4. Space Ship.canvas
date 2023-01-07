@@ -18,9 +18,9 @@
 		{"id":"363022b806951682","x":-1711,"y":4880,"width":1233,"height":758,"type":"file","file":"99. Attachments/Ship Log - Map Mode.png"},
 		{"id":"3cabdb3e8ec7758f","x":-343,"y":4880,"width":1215,"height":758,"type":"file","file":"99. Attachments/Ship Log - Map Mode - Planet Details.png"},
 		{"id":"a45d4f064615c718","x":1008,"y":4880,"width":1209,"height":758,"type":"file","file":"99. Attachments/Ship Log - Rumor Mode.png"},
-		{"id":"9ff42c2c184c00b8","x":2520,"y":3980,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
-		{"id":"9205c58dcf45ee85","x":2520,"y":4012,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
-		{"id":"5e5eb00a001876d2","x":2520,"y":4160,"width":400,"height":50,"type":"text","text":"# Player - Space Suit"}
+		{"id":"9ff42c2c184c00b8","x":2760,"y":3980,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
+		{"id":"9205c58dcf45ee85","x":2760,"y":4012,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
+		{"id":"5e5eb00a001876d2","x":2760,"y":4160,"width":400,"height":50,"type":"text","text":"# Player - Space Suit"}
 	],
 	"edges":[
 		{"id":"1e8d4fdef3fa84dc","fromNode":"add80176fa999d5e","fromSide":"top","toNode":"dd8aae8e6ed2c982","toSide":"bottom"},
@@ -35,6 +35,6 @@
 		{"id":"132cc71c264cde5b","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"3cabdb3e8ec7758f","toSide":"top"},
 		{"id":"1dd08f2374a3229d","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"363022b806951682","toSide":"top"},
 		{"id":"cc4dda150b706ceb","fromNode":"772f830618fff162","fromSide":"right","toNode":"6336455092f8a483","toSide":"left"},
-		{"id":"6cd61bc259a83ad9","fromNode":"6336455092f8a483","fromSide":"right","toNode":"9ff42c2c184c00b8","toSide":"left"}
+		{"id":"6cd61bc259a83ad9","fromNode":"6336455092f8a483","fromSide":"right","toNode":"9ff42c2c184c00b8","toSide":"left","label":"Contains"}
 	]
 }

@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "viewState": {
-                  "x": 2382.983842595915,
-                  "y": 2309.447549481362,
-                  "zoom": -0.8782274804565571,
+                  "x": 295,
+                  "y": 727,
+                  "zoom": -1.4270101409449198,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
               }
             }
           }
@@ -201,13 +201,13 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "99. Attachments/Ship Log - Rumor Mode.png",
     "10. Notes/Space Ship.md",
     "10. Notes/Fuel.md"
