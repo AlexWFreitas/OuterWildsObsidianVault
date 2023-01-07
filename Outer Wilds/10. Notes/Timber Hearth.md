@@ -11,4 +11,4 @@ Starting planet.
 
 When you "restart" you respawn here.
 
-Home of the Outer Wild Ventures and the people who work on it.
+Home of the [[Outer Wilds Ventures]] and the people who work on it.
