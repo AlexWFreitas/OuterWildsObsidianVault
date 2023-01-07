@@ -29,12 +29,28 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+                "viewState": {
+                  "x": 140.10019525752108,
+                  "y": 1098.217726514074,
+                  "zoom": -0.5573764255900191,
+                  "snapToGrid": true
+                }
+              }
+            }
+          },
+          {
+            "id": "7ce90fc8b8e879b8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "viewState": {
-                  "x": 578.6727925163574,
-                  "y": 1111.928920474852,
-                  "zoom": -1.04331584649132,
-                  "snapToGrid": true
+                  "x": 958.1230382937717,
+                  "y": 443.73463471232674,
+                  "zoom": -0.37664917982465335,
+                  "snapToGrid": false
                 }
               }
             }
@@ -56,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "7ce90fc8b8e879b8",
   "lastOpenFiles": [
+    "10. Notes/Space Suit.md",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+    "10. Notes/Health.md",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "10. Notes/Main Character.md",
     "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "100.Template/Canvas Template.canvas",
-    "100.Template/0. Outer Wilds T.md",
-    "10. Notes/Outer Wilds Ventures Frequency.md",
     "10. Notes/Quantum Fluctuation Frequency.md",
-    "10. Notes/Deep Space Radio Frequency.md",
-    "10. Notes/Distress Signal.md"
+    "10. Notes/Distress Signal.md",
+    "10. Notes/Deep Space Radio Frequency.md"
   ]
 }

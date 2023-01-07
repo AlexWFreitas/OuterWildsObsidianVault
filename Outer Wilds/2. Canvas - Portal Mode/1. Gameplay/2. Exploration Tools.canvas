@@ -1,23 +1,26 @@
 {
 	"nodes":[
 		{"id":"21a72143eceaa07c","x":0,"y":256,"width":522,"height":124,"type":"text","text":"# Exploration Tools\n\nThis canvas contains information about exploration tools you can use on your explorations."},
-		{"id":"654ca780244b91aa","x":560,"y":-439,"width":400,"height":230,"type":"group","label":"Gameplay Map"},
-		{"id":"0f022c89359e7358","x":560,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas"},
-		{"id":"10602d145b047516","x":560,"y":-259,"width":400,"height":50,"type":"text","text":"# Gameplay Map"},
 		{"id":"2c4f512a2566b7f7","x":-340,"y":-80,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"17f7482dd63dccf0","x":-340,"y":100,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"37467f0402655ce7","x":-340,"y":-48,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"4ad1ecf67f21b705","x":60,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"bc1bf755b7b7f312","x":60,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
-		{"id":"71879a5d457ce8c2","x":60,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"56d4bc5f9cf41314","x":-524,"y":800,"width":400,"height":422,"type":"file","file":"10. Notes/Signalscope.md"},
-		{"id":"bdf8f9c643ed7d2d","x":1156,"y":800,"width":657,"height":143,"type":"file","file":"10. Notes/Nomai Language Translator.md"},
-		{"id":"ed785ba2eebb6e4f","x":647,"y":800,"width":333,"height":281,"type":"file","file":"10. Notes/Flashlight.md"},
-		{"id":"7392a2b6cea585eb","x":51,"y":800,"width":421,"height":437,"type":"file","file":"10. Notes/Little Scout.md"},
+		{"id":"7392a2b6cea585eb","x":51,"y":800,"width":471,"height":398,"type":"file","file":"10. Notes/Little Scout.md"},
 		{"id":"e3bedaaf1cef0cad","x":-524,"y":1428,"width":400,"height":385,"type":"file","file":"99. Attachments/Deep Space Radio Frequency.png"},
-		{"id":"dcdb8cd319319327","x":647,"y":1428,"width":333,"height":295,"type":"file","file":"99. Attachments/Flashlight Example.png"},
-		{"id":"5263ecd5ac445231","x":62,"y":1428,"width":400,"height":240,"type":"file","file":"99. Attachments/Launching Little Scout into the Seed.png"},
-		{"id":"2fde4e279f364d28","x":1156,"y":1428,"width":657,"height":295,"type":"file","file":"99. Attachments/Nomai Language Translator.png"}
+		{"id":"5263ecd5ac445231","x":87,"y":1428,"width":400,"height":240,"type":"file","file":"99. Attachments/Launching Little Scout into the Seed.png"},
+		{"id":"654ca780244b91aa","x":560,"y":-439,"width":400,"height":230,"type":"group","label":"Gameplay Map"},
+		{"id":"0f022c89359e7358","x":560,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas"},
+		{"id":"10602d145b047516","x":560,"y":-259,"width":400,"height":50,"type":"text","text":"# Gameplay Map"},
+		{"id":"71879a5d457ce8c2","x":60,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"bdf8f9c643ed7d2d","x":1266,"y":800,"width":524,"height":172,"type":"file","file":"10. Notes/Nomai Language Translator.md"},
+		{"id":"2fde4e279f364d28","x":1200,"y":1428,"width":657,"height":295,"type":"file","file":"99. Attachments/Nomai Language Translator.png"},
+		{"id":"ed785ba2eebb6e4f","x":720,"y":800,"width":333,"height":281,"type":"file","file":"10. Notes/Flashlight.md"},
+		{"id":"dcdb8cd319319327","x":720,"y":1428,"width":333,"height":295,"type":"file","file":"99. Attachments/Flashlight Example.png"},
+		{"id":"5b7943fc66d07ccc","x":760,"y":107,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
+		{"id":"1722bce18e2cef99","x":760,"y":287,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"f50ff76c2b91b5db","x":760,"y":139,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"}
 	],
 	"edges":[
 		{"id":"0de844019c782701","fromNode":"21a72143eceaa07c","fromSide":"top","toNode":"654ca780244b91aa","toSide":"bottom"},
@@ -29,6 +32,7 @@
 		{"id":"356e57746a2d387b","fromNode":"21a72143eceaa07c","fromSide":"bottom","toNode":"ed785ba2eebb6e4f","toSide":"top"},
 		{"id":"6722919f1d4e188b","fromNode":"21a72143eceaa07c","fromSide":"bottom","toNode":"bdf8f9c643ed7d2d","toSide":"top"},
 		{"id":"2b2a5f2b73f1d4ff","fromNode":"bdf8f9c643ed7d2d","fromSide":"bottom","toNode":"2fde4e279f364d28","toSide":"top"},
-		{"id":"667e2e582ec83e30","fromNode":"21a72143eceaa07c","fromSide":"top","toNode":"4ad1ecf67f21b705","toSide":"bottom"}
+		{"id":"667e2e582ec83e30","fromNode":"21a72143eceaa07c","fromSide":"top","toNode":"4ad1ecf67f21b705","toSide":"bottom"},
+		{"id":"ea56393894fe62f5","fromNode":"21a72143eceaa07c","fromSide":"right","toNode":"5b7943fc66d07ccc","toSide":"left"}
 	]
 }
