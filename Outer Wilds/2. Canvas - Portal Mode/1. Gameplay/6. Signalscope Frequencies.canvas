@@ -11,7 +11,11 @@
 		{"id":"26a5083d009c54c2","x":977,"y":-680,"width":400,"height":229,"type":"file","file":"10. Notes/Quantum Fluctuation Frequency.md"},
 		{"id":"16466d1301be52d7","x":-861,"y":-680,"width":400,"height":202,"type":"file","file":"10. Notes/Hide and Seek Frequency.md"},
 		{"id":"ee5060c79989ef3c","x":-305,"y":-680,"width":459,"height":263,"type":"file","file":"10. Notes/Deep Space Radio Frequency.md"},
-		{"id":"c08af86a5ddae4a2","x":310,"y":-680,"width":513,"height":160,"type":"file","file":"10. Notes/Distress Signal.md"}
+		{"id":"c08af86a5ddae4a2","x":310,"y":-680,"width":513,"height":172,"type":"file","file":"10. Notes/Distress Signal.md"},
+		{"id":"d36e0ea03dcd3b03","x":-235,"y":-233,"width":320,"height":308,"color":"3","type":"file","file":"99. Attachments/Deep Space Radio Frequency.png"},
+		{"id":"b95e8e895a38eab8","x":-1400,"y":-1200,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
+		{"id":"6c349aa1c1ebe72f","x":-1400,"y":-1168,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
+		{"id":"d13e23f834c13251","x":-1400,"y":-1020,"width":400,"height":50,"type":"text","text":"# Exploration Tools"}
 	],
 	"edges":[
 		{"id":"05d0f591e51cfc3e","fromNode":"1ebfa4243e1674ff","fromSide":"top","toNode":"53c06c8d1916f0e6","toSide":"bottom"},
@@ -19,6 +23,8 @@
 		{"id":"516c349fa5ba712f","fromNode":"1ebfa4243e1674ff","fromSide":"bottom","toNode":"c08af86a5ddae4a2","toSide":"top"},
 		{"id":"403d7bb617653fe2","fromNode":"1ebfa4243e1674ff","fromSide":"bottom","toNode":"16466d1301be52d7","toSide":"top"},
 		{"id":"7ffd5306c832be2e","fromNode":"1ebfa4243e1674ff","fromSide":"bottom","toNode":"9f88f9981889b325","toSide":"top"},
-		{"id":"1f849b6184092252","fromNode":"1ebfa4243e1674ff","fromSide":"bottom","toNode":"26a5083d009c54c2","toSide":"top"}
+		{"id":"1f849b6184092252","fromNode":"1ebfa4243e1674ff","fromSide":"bottom","toNode":"26a5083d009c54c2","toSide":"top"},
+		{"id":"64a33e8c05201232","fromNode":"ee5060c79989ef3c","fromSide":"bottom","toNode":"d36e0ea03dcd3b03","toSide":"top"},
+		{"id":"4d280905f3563acc","fromNode":"1ebfa4243e1674ff","fromSide":"left","toNode":"6c349aa1c1ebe72f","toSide":"right"}
 	]
 }

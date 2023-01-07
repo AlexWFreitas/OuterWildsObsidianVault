@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"6e355954530108d6","x":3,"y":256,"width":522,"height":184,"type":"text","text":"# Player\n\nThis canvas contains information about the player's character and the overall gameplay mechanics related to it."},
+		{"id":"7843f8f20f32d112","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"a9dfba5546b4514f","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"95ad6dcde184e90e","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"3ddfe3521d2c9ef1","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"2703809b784f798c","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"ba45130c2ba2516b","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"79eb97514efa8a99","x":-125,"y":1116,"width":242,"height":266,"color":"3","type":"file","file":"10. Notes/Health.md"},
+		{"id":"f81c9ef79299043e","x":-463,"y":697,"width":300,"height":479,"color":"3","type":"file","file":"10. Notes/Main Character.md"},
+		{"id":"e1be42c68976015a","x":-303,"y":1206,"width":140,"height":176,"color":"3","type":"file","file":"99. Attachments/Health Meter on Space Suit.png"},
+		{"id":"947e0fcd1fa1975c","x":-123,"y":697,"width":242,"height":399,"color":"3","type":"file","file":"99. Attachments/The Player with a Space Suit.png"},
+		{"id":"0c93816238a646e9","x":157,"y":697,"width":400,"height":368,"color":"3","type":"file","file":"10. Notes/Signalscope.md"},
+		{"id":"8400d972c236e4ff","x":157,"y":1097,"width":400,"height":285,"color":"3","type":"file","file":"10. Notes/Flashlight.md"},
+		{"id":"517fcdb3369e8fe2","x":577,"y":697,"width":320,"height":308,"color":"3","type":"file","file":"99. Attachments/Deep Space Radio Frequency.png"},
+		{"id":"76376546067cf41d","x":577,"y":1046,"width":395,"height":350,"color":"3","type":"file","file":"99. Attachments/Flashlight Example.png"},
+		{"id":"5fdb8d879cab5b9a","x":1513,"y":1399,"width":1435,"height":1020,"color":"3","type":"group","label":"Space Suit"},
+		{"id":"6e2082b77c3632ee","x":1533,"y":1442,"width":535,"height":322,"color":"3","type":"file","file":"10. Notes/Space Suit.md"},
+		{"id":"58ce9db43afa249a","x":1533,"y":1806,"width":535,"height":193,"color":"3","type":"file","file":"10. Notes/Jetpack.md"},
+		{"id":"2a74eb3f97783bb2","x":2093,"y":1832,"width":400,"height":240,"color":"3","type":"file","file":"99. Attachments/Launching Little Scout into the Seed.png"},
+		{"id":"e6c35c733a3c8d4e","x":1533,"y":2044,"width":535,"height":335,"color":"3","type":"file","file":"10. Notes/Little Scout.md"},
+		{"id":"5adf2bd0cecdaefb","x":2093,"y":2119,"width":400,"height":268,"color":"3","type":"file","file":"99. Attachments/Integrated HUD with Gravity, Compass and Resources Remaining.png"},
+		{"id":"58c3e31d572cd61b","x":2514,"y":1439,"width":419,"height":263,"color":"3","type":"file","file":"10. Notes/Oxygen.md"},
+		{"id":"d72e851d1007727b","x":2093,"y":1442,"width":400,"height":344,"color":"3","type":"file","file":"99. Attachments/Space Suit inside the Space Ship.png"},
+		{"id":"408653bcb9319231","x":2514,"y":1732,"width":419,"height":200,"color":"3","type":"file","file":"10. Notes/Fuel.md"}
+	],
+	"edges":[
+		{"id":"6a21878e0a930bd0","fromNode":"6e355954530108d6","fromSide":"top","toNode":"7843f8f20f32d112","toSide":"bottom"}
+	]
+}

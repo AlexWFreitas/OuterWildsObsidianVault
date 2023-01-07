@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": 680,
-                  "y": 12178,
-                  "zoom": -4,
+                  "x": -3950.093644666293,
+                  "y": -2598.5166019818835,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": false
                 }
               }
@@ -31,23 +31,11 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
                 "viewState": {
-                  "x": -53,
-                  "y": -737.0984025559105,
-                  "zoom": -1.0073560135957063,
-                  "snapToGrid": false
+                  "x": -592.8187569616238,
+                  "y": -984.5719821894174,
+                  "zoom": -0.15926630634767747,
+                  "snapToGrid": true
                 }
-              }
-            }
-          },
-          {
-            "id": "8b1d0a40468f8ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Distress Signal.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Distress Signal.md",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Distress Signal.md",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Distress Signal.md"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas"
               }
             }
           }
@@ -195,17 +183,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b1d0a40468f8ad3",
+  "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
-    "10. Notes/Deep Space Radio Frequency.md",
-    "10. Notes/Hide and Seek Frequency.md",
-    "10. Notes/Outer Wilds Ventures Frequency.md",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "100.Template/0. Outer Wilds T.md",
+    "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "100.Template/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
-    "99. Attachments/Nomai Language Translator.png"
+    "100.Template/0. Outer Wilds T.md",
+    "10. Notes/Outer Wilds Ventures Frequency.md",
+    "10. Notes/Quantum Fluctuation Frequency.md",
+    "10. Notes/Deep Space Radio Frequency.md",
+    "10. Notes/Distress Signal.md"
   ]
 }
