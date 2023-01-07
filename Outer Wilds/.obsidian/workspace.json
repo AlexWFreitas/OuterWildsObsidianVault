@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -9642.472093547869,
-                  "y": -2457.677154014603,
-                  "zoom": -1.6666666666666665,
+                  "x": -735.5380150634033,
+                  "y": -2361.5501462282045,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": false
                 }
               }
@@ -29,22 +29,14 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
                 "viewState": {
-                  "x": -227.44919218652376,
-                  "y": 3870.421219673994,
-                  "zoom": -0.9714679025270136,
+                  "x": -174.9753943656861,
+                  "y": 1293.2633312701207,
+                  "zoom": -1.3944761767965277,
                   "snapToGrid": true
                 }
               }
-            }
-          },
-          {
-            "id": "228a25ae43d80987",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -79,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
+              }
             }
           }
         ]
@@ -203,16 +198,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "228a25ae43d80987",
+  "active": "bc3acd62fe9b5124",
   "lastOpenFiles": [
-    "10. Notes/Dark Bramble.md",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+    "10. Notes/Dark Bramble.md",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "10. Notes/Solar System - General Info.md",
     "10. Notes/Space Ship.md",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "100.Template/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"
   ]
