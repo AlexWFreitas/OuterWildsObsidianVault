@@ -1,0 +1,1 @@
+There is a Scout Launcher that allows you to test a [[Little Scout]] and how it works on the [[Timber Hearth - Village]].
