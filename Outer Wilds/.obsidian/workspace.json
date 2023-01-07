@@ -15,28 +15,44 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -4515.7023502041575,
-                  "y": -2538.778807838289,
-                  "zoom": -1.3333333333333328,
+                  "x": 680,
+                  "y": 12178,
+                  "zoom": -4,
                   "snapToGrid": false
                 }
               }
             }
           },
           {
-            "id": "1a90d01310f6ee71",
+            "id": "977459045900a83c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "viewState": {
+                  "x": 1648.023353673899,
+                  "y": 305.47694969546535,
+                  "zoom": -1.4787810102045784,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "f2a957d77ae3368b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Notes/Gravity Bridges.md",
+                "file": "10. Notes/Quantum Shard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nomai Race",
+                "query": "date.now",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10. Notes/Quantum Shard.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10. Notes/Quantum Shard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10. Notes/Quantum Shard.md"
+              }
             }
           }
         ]
@@ -155,22 +176,21 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a90d01310f6ee71",
+  "active": "f2a957d77ae3368b",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "10. Notes/Gravity Bridges.md",
+    "10. Notes/Quantum Travel through Entanglement.md",
+    "10. Notes/Quantum Observation.md",
+    "10. Notes/Quantum Shard.md",
+    "10. Notes/Quantum Moon.md",
     "10. Notes/Gravity Floor.md",
-    "10. Notes/Gravity Crystal.md",
-    "10. Notes/Warp Receiver.md",
-    "10. Notes/Warp Tower.md",
-    "10. Notes/Ghost Matter.md",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+    "10. Notes/Zero-G Cave.md",
+    "10. Notes/Timber Hearth - Village.md",
+    "10. Notes/Timber Hearth - Nomai Ruins.md",
+    "10. Notes/Timber Hearth - Observatory.md"
   ]
 }

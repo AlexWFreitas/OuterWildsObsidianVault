@@ -1,9 +1,10 @@
 ---
 Type: Game Note
-Date: <% tp.date.now() %>
+Date: 2023-01-07
 Tags:
 - "outer-wilds"
 - "mechanics"
+- "brittle-hollow"
 Aliases:
 - 
 ---

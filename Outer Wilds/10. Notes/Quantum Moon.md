@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "quantum-behavior"
 ---
 - The Quantum Moon has the same behavior as the Quantum Shard, this means that if you stop watching it, it will move to somewhere else.
 - There are writings about the Quantum Moon being seen on Ember Twin, Brittle Hollow and Timber Hearth, also Giant's Deep.
