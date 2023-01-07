@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas",
+                "file": "0. START HERE/0. Starting Area.canvas",
                 "viewState": {
-                  "x": 1073.055376813099,
-                  "y": -269.97580959576214,
-                  "zoom": -2.1366643609052702,
+                  "x": 494.3312983368053,
+                  "y": -657.1806751134442,
+                  "zoom": -1.803331027571937,
                   "snapToGrid": false
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas",
+                "file": "0. START HERE/0. Starting Area.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas",
+                "file": "0. START HERE/0. Starting Area.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas"
+                "file": "0. START HERE/0. Starting Area.canvas"
               }
             }
           }
@@ -199,10 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "65ebdec89ef8a94f",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "0. START HERE/Starting Area.canvas",
+    "0. START HERE/0. Starting Area.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
