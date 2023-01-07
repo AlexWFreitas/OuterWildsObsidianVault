@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "eye-of-the-universe"
 ---
 Links: [[Expanding Universe]]
 

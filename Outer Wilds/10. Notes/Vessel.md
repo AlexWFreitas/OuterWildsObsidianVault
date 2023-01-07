@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-26
 Tags:
 - "outer-wilds"
+- "vessel"
+- "eye-of-the-universe"
 ---
 The Vessel is a space ship that each [[Nomai Race]] clan uses to travel through the universe.
 

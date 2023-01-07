@@ -29,13 +29,25 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas",
                 "viewState": {
-                  "x": 358.21264622946126,
-                  "y": 2954.6754167088056,
-                  "zoom": -0.7412464906768155,
+                  "x": -141.9607676240824,
+                  "y": -268.3724280926798,
+                  "zoom": -0.09065866029026803,
                   "snapToGrid": true
                 }
+              }
+            }
+          },
+          {
+            "id": "b66190856e2479c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/Feldspar.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "10. Notes/Feldspar.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "10. Notes/Feldspar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+                "file": "10. Notes/Feldspar.md"
               }
             }
           }
@@ -199,17 +211,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "b66190856e2479c9",
   "lastOpenFiles": [
-    "10. Notes/Advanced Warp Core.md",
+    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas",
+    "10. Notes/Outer Wilds Ventures.md",
+    "10. Notes/Gossan.md",
+    "10. Notes/Slate.md",
+    "10. Notes/Hornfels.md",
+    "10. Notes/Main Character.md",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
-    "10. Notes/Nomai Festival.md",
-    "10. Notes/Orbital Probe Cannon Project.md",
-    "10. Notes/Time Loop.md",
-    "10. Notes/Nomai Statue.md",
-    "10. Notes/Supernova.md",
-    "10. Notes/Sun Station.md",
-    "10. Notes/Ash Twin Project.md",
-    "10. Notes/Warp Receiver.md"
+    "10. Notes/Vessel.md",
+    "10. Notes/Dark Bramble.md",
+    "10. Notes/Escape Pods.md"
   ]
 }

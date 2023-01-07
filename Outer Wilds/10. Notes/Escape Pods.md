@@ -1,3 +1,13 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "vessel"
+- "nomai"
+Aliases:
+- 
+---
 The Escape Pods were used as emergency escape pods, they were launched from the [[Vessel]] after it crashed on [[Dark Bramble]] suffering severe damage and killing many of the [[Escall Clan]] members.
 - [[Escape Pod 01]] was sent to [[Brittle Hollow]].
 - [[Escape Pod 02]] has been sent to the [[Hourglass Twins]] eventually landing in [[Ember Twin]].
