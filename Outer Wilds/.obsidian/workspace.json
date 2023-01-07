@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "100.Template/Canvas Template.canvas",
                 "viewState": {
-                  "x": 680,
-                  "y": 12178,
-                  "zoom": -4,
+                  "x": -218.5,
+                  "y": 59.5,
+                  "zoom": -0.019377422887827594,
                   "snapToGrid": false
                 }
               }
@@ -29,50 +29,17 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
                 "viewState": {
-                  "x": -215.82271248481482,
-                  "y": 1056.630571743283,
-                  "zoom": 0.0009181246690573852,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "4b9b97f490275c60",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-                "viewState": {
-                  "x": 641.4817610062893,
-                  "y": 1322.8515723270439,
-                  "zoom": -1.3324152086642758,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "9287c3fbb60fbfca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-                "viewState": {
-                  "x": 644,
-                  "y": 653,
-                  "zoom": -1.3324152086642758,
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
                   "snapToGrid": false
                 }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "100.Template/Canvas Template.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "100.Template/Canvas Template.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+                "file": "100.Template/Canvas Template.canvas"
               }
             }
           }
@@ -199,17 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9287c3fbb60fbfca",
+  "active": "bc3acd62fe9b5124",
   "lastOpenFiles": [
-    "10. Notes/Signalscope.md",
+    "100.Template/0. Outer Wilds T.md",
+    "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+    "100.Template/Canvas Template.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "10. Notes/Little Scout.md",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "10. Notes/Gravity Bridges.md",
-    "10. Notes/Quantum Shard.md",
-    "10. Notes/Quantum Travel through Entanglement.md"
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
+    "99. Attachments/Nomai Language Translator.png",
+    "10. Notes/Nomai Language Translator.md",
+    "10. Notes/Flashlight.md",
+    "10. Notes/Little Scout.md"
   ]
 }

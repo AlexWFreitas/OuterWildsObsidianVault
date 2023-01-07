@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"1ebfa4243e1674ff","x":-337,"y":-1167,"width":522,"height":184,"type":"text","text":"# Canvas Description"},
+		{"id":"53c06c8d1916f0e6","x":-278,"y":-1862,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"551d82665144b281","x":-278,"y":-1830,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"5ec5bb91e7ee7d3c","x":-278,"y":-1682,"width":400,"height":50,"type":"text","text":"# Overview"},
+		{"id":"018dc8940f613b9c","x":-857,"y":-1862,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"801890e0aeccb65f","x":-857,"y":-1830,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"fa53ae4d093402b9","x":-857,"y":-1682,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"678aac1c21b5a07b","x":-728,"y":-578,"width":1300,"height":560,"color":"6","type":"group","label":"Signalscope Frequencies"},
+		{"id":"9f88f9981889b325","x":-690,"y":-515,"width":513,"height":264,"color":"6","type":"file","file":"10. Notes/Outer Wilds Ventures Frequency.md"},
+		{"id":"c08af86a5ddae4a2","x":-690,"y":-212,"width":513,"height":160,"color":"6","type":"file","file":"10. Notes/Distress Signal.md"},
+		{"id":"ee5060c79989ef3c","x":-148,"y":-515,"width":242,"height":463,"color":"6","type":"file","file":"10. Notes/Deep Space Radio Frequency.md"},
+		{"id":"16466d1301be52d7","x":132,"y":-515,"width":400,"height":202,"color":"6","type":"file","file":"10. Notes/Hide and Seek Frequency.md"},
+		{"id":"26a5083d009c54c2","x":132,"y":-266,"width":400,"height":214,"color":"6","type":"file","file":"10. Notes/Quantum Fluctuation Frequency.md"}
+	],
+	"edges":[
+		{"id":"05d0f591e51cfc3e","fromNode":"1ebfa4243e1674ff","fromSide":"top","toNode":"53c06c8d1916f0e6","toSide":"bottom"}
+	]
+}
