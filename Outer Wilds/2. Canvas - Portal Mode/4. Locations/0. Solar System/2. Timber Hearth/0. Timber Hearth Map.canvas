@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"2ee2497aada9eb2f","x":3,"y":256,"width":522,"height":124,"type":"text","text":"# Timber Hearth\n\nThis canvas contains information about [[Timber Hearth]], the starting area of the game."},
+		{"id":"83ddb3fa46e2a5d3","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"6f9de79dd9af5bc4","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"48d314c56f62edf3","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"5c7c37aea9c822f3","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"9ca1f0eb2f3b5606","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"e40ed32aac31d977","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"3ae1c5c37cbc895c","x":-1600,"y":680,"width":1898,"height":400,"type":"group","label":"Surface"},
+		{"id":"4f16c1f666f40026","x":400,"y":680,"width":1898,"height":400,"type":"group","label":"Underground"}
+	],
+	"edges":[
+		{"id":"36815425e014e2e8","fromNode":"2ee2497aada9eb2f","fromSide":"top","toNode":"83ddb3fa46e2a5d3","toSide":"bottom"}
+	]
+}
