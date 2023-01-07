@@ -31,10 +31,10 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": -1646.8536358318506,
-                  "y": 1958.2644519792477,
-                  "zoom": -0.6666666666666667,
-                  "snapToGrid": false
+                  "x": -1307.2577211403027,
+                  "y": 2949.282785710547,
+                  "zoom": -1,
+                  "snapToGrid": true
                 }
               }
             }
