@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"3c8c57b30a4bac2a","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
-		{"id":"a9b67df6d27ed265","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
-		{"id":"92eab54db28c0729","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
-		{"id":"62e21f81d26a63d9","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"e0a406391549aeab","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
-		{"id":"cce63abc16c34fc5","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"22a1288697cc1ef6","x":-325,"y":-822,"width":522,"height":184,"type":"text","text":"# Starting Area - Read me\n\nThis is the starting canvas of this project.\n\nI made this vaul"}
+		{"id":"22a1288697cc1ef6","x":-485,"y":-1009,"width":790,"height":460,"color":"6","type":"text","text":"# Starting Area - README\n\nHello, my name is Alex \"otarU\" and my twitter handle is \"gosUotarU\".\n\nI am going to talk about why I created this Canvas first.\n\nI started playing the game Outer Wilds around December 16th on the Xbox Game Pass because the game was leaving the Game Pass game list and many people recommended others to play it.\n\nAt first I didn't want to take notes of anything and just enjoy the game, but I felt lost on what was happening and understanding the universe of the game and the main plot. I thought I had to make changes on how I was exploring the game.\n\nSo I started to take notes about the game to understand it better and to avoid going back to areas I already explored, eventually on December 20th, Obsidian released a surprise update with the Canvas Feature, I was amazed by it, because I wanted to have a feature like a Canvas for a long time and I was using Excalidraw for that.\n\nT"},
+		{"id":"3c8c57b30a4bac2a","x":-1550,"y":-344,"width":400,"height":230,"color":"6","type":"group","label":"Overview Map"},
+		{"id":"a9b67df6d27ed265","x":-1550,"y":-312,"width":400,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"92eab54db28c0729","x":-1550,"y":-164,"width":400,"height":50,"color":"6","type":"text","text":"# Overview Map"},
+		{"id":"62e21f81d26a63d9","x":-2138,"y":-344,"width":400,"height":230,"color":"6","type":"group","label":"Canvas Card T"},
+		{"id":"e0a406391549aeab","x":-2138,"y":-312,"width":400,"height":148,"color":"6","type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"cce63abc16c34fc5","x":-2138,"y":-164,"width":400,"height":50,"color":"6","type":"text","text":"# Canvas Card - T"}
 	],
 	"edges":[]
 }
