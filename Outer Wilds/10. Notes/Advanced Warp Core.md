@@ -1,5 +1,4 @@
 # Advanced Warp Core
-
 There is a warp core that is more advanced than the normal ones, they are called [[Advanced Warp Core]] and they are used on places like the [[Vessel]].
 
 There should be an [[Advanced Warp Core]] on the crashed [[Vessel]] inside [[Dark Bramble]].

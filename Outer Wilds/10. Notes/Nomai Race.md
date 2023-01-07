@@ -1,4 +1,4 @@
-Ancient Alien Race that is very technologically advanced.
+Ancient Alien Race that was very technologically advanced.
 
 Left many clues and messages all over the galaxy about their travels and objectives.
 
