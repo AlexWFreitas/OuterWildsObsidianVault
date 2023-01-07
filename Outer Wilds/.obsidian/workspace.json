@@ -27,15 +27,11 @@
             "id": "1a90d01310f6ee71",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview.canvas",
-                "viewState": {
-                  "x": -129,
-                  "y": 553,
-                  "zoom": 0,
-                  "snapToGrid": true
-                }
+                "file": "10. Notes/Gravity Bridges.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,15 +162,15 @@
   },
   "active": "1a90d01310f6ee71",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "10. Notes/Gravity Bridges.md",
+    "10. Notes/Gravity Floor.md",
+    "10. Notes/Gravity Crystal.md",
+    "10. Notes/Warp Receiver.md",
+    "10. Notes/Warp Tower.md",
+    "10. Notes/Ghost Matter.md",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas",
     "2. Canvas - Portal Mode/0. Overview/0. Overview.canvas",
-    "100.Template/Canvas Template.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "1. Canvas/Feldspar Abandoned Campsite.md",
-    "10. Notes/Nomai Race.md",
-    "1. Canvas/Nomai Race.md",
-    "1. Canvas/Orbital Probe Cannon - Launch Module.md"
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
   ]
 }
