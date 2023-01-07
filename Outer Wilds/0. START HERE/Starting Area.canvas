@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3c8c57b30a4bac2a","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"a9b67df6d27ed265","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"92eab54db28c0729","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"62e21f81d26a63d9","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"e0a406391549aeab","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"cce63abc16c34fc5","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"22a1288697cc1ef6","x":-325,"y":-822,"width":522,"height":184,"type":"text","text":"# Starting Area - Read me\n\nThis is the starting canvas of this project.\n\nI made this vaul"}
+	],
+	"edges":[]
+}

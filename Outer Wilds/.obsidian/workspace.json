@@ -29,12 +29,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+                "file": "0. START HERE/Starting Area.canvas",
                 "viewState": {
-                  "x": -53,
-                  "y": -893.5,
-                  "zoom": -1.1592663063476774,
-                  "snapToGrid": true
+                  "x": -168.06065572657752,
+                  "y": -544.3508346515716,
+                  "zoom": -1.1102230246251565e-16,
+                  "snapToGrid": false
                 }
               }
             }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+                "file": "0. START HERE/Starting Area.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+                "file": "0. START HERE/Starting Area.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas"
+                "file": "0. START HERE/Starting Area.canvas"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "100.Template/Canvas Template.canvas",
+    "0. START HERE/Starting Area.canvas",
+    "10. Notes/Esker.md",
+    "10. Notes/Esker 1.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Locations Map.canvas",
+    "100.Template/0. Outer Wilds T.md",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
-    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas"
+    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"
   ]
 }
