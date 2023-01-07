@@ -31,9 +31,9 @@
               "state": {
                 "file": "0. START HERE/Starting Area.canvas",
                 "viewState": {
-                  "x": 786.7526487479515,
-                  "y": 221.19149604981658,
-                  "zoom": -1.185101904122335,
+                  "x": 1073.055376813099,
+                  "y": -269.97580959576214,
+                  "zoom": -2.1366643609052702,
                   "snapToGrid": false
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Example Layout.png",
+                "file": "0. START HERE/Starting Area.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Example Layout.png",
+                "file": "0. START HERE/Starting Area.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Example Layout.png"
+                "file": "0. START HERE/Starting Area.canvas"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
     "0. START HERE/Starting Area.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "100.Template/Canvas Template.canvas",
     "10. Notes/Esker.md",
     "10. Notes/Esker 1.md",
     "2. Canvas - Portal Mode/4. Locations/0. Locations Map.canvas",
-    "100.Template/0. Outer Wilds T.md",
-    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+    "100.Template/0. Outer Wilds T.md"
   ]
 }
