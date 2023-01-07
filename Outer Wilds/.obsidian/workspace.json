@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "viewState": {
-                  "x": -592.8187569616238,
-                  "y": -984.5719821894174,
-                  "zoom": -0.15926630634767747,
+                  "x": 578.6727925163574,
+                  "y": 1111.928920474852,
+                  "zoom": -1.04331584649132,
                   "snapToGrid": true
                 }
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
               }
             }
           }
@@ -185,9 +185,9 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "100.Template/Canvas Template.canvas",
     "100.Template/0. Outer Wilds T.md",

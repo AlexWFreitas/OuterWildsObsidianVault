@@ -7,6 +7,8 @@ Tags:
 Aliases:
 - 
 ---
+Available through the use of a [[Space Suit]] or a [[Space Ship]].
+
 Allows you to launch a flying scout drone on a straight line, this allows you to take photos of distant places and explore unnacessible areas.
 
 The scout can warp back to the user through the use of Nomai inspired technology.
