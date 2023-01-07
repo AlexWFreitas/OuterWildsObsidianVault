@@ -31,9 +31,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": -1299.4476483971903,
-                  "y": 2738.8544747181845,
-                  "zoom": 0.36186543080631955,
+                  "x": 280.57431413092684,
+                  "y": 4089.822311522167,
+                  "zoom": -1.9714679025270134,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/The Interloper.md",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/The Interloper.md",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/The Interloper.md"
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
               }
             }
           }

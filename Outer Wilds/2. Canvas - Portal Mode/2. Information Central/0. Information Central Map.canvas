@@ -23,24 +23,30 @@
 		{"id":"7e389a117453d51e","x":1575,"y":3523,"width":184,"height":178,"type":"file","file":"99. Attachments/Timber Hearth Symbol.png"},
 		{"id":"bd2f4053695c1597","x":1371,"y":3523,"width":184,"height":180,"type":"file","file":"99. Attachments/Hourglass Twins Symbol.png"},
 		{"id":"fd01e4f52a1e5654","x":1371,"y":3742,"width":184,"height":177,"type":"file","file":"99. Attachments/Giant's Deep Symbol.png"},
-		{"id":"8497e8d30d426707","x":-2560,"y":2280,"width":3560,"height":2680,"type":"group","label":"Main Plot"},
-		{"id":"ea3d76ab77a2394d","x":-240,"y":2439,"width":400,"height":374,"type":"file","file":"10. Notes/Orbital Probe Cannon Project.md"},
-		{"id":"11583cc580ccf292","x":-200,"y":2863,"width":400,"height":1235,"type":"file","file":"10. Notes/Ash Twin Project.md"},
-		{"id":"b3ad03cbff6aced1","x":-1625,"y":4091,"width":490,"height":533,"type":"file","file":"10. Notes/Time Loop.md"},
-		{"id":"49052edfa032934e","x":-1625,"y":3458,"width":490,"height":461,"type":"file","file":"10. Notes/Nomai Statue.md"},
-		{"id":"be785d83e48be883","x":-2480,"y":2352,"width":490,"height":923,"type":"file","file":"10. Notes/Nomai Race.md"},
-		{"id":"566e6cfc09e1035a","x":-900,"y":4098,"width":320,"height":581,"type":"file","file":"10. Notes/Supernova.md"},
-		{"id":"f26d92a0ef2a9f0c","x":-1920,"y":2352,"width":240,"height":368,"type":"file","file":"10. Notes/Nomai Festival.md"},
-		{"id":"bcdbb8b9c3c03967","x":-1600,"y":2352,"width":400,"height":691,"type":"file","file":"10. Notes/The Interloper.md"}
+		{"id":"8497e8d30d426707","x":-2720,"y":2280,"width":3560,"height":2980,"type":"group","label":"Main Plot"},
+		{"id":"11583cc580ccf292","x":-1890,"y":3530,"width":680,"height":779,"type":"file","file":"10. Notes/Ash Twin Project.md"},
+		{"id":"b3ad03cbff6aced1","x":-890,"y":4109,"width":490,"height":533,"type":"file","file":"10. Notes/Time Loop.md"},
+		{"id":"bcdbb8b9c3c03967","x":-2560,"y":3336,"width":400,"height":731,"type":"file","file":"10. Notes/The Interloper.md"},
+		{"id":"c0834f8ffb84e276","x":-2640,"y":2385,"width":400,"height":400,"type":"file","file":"10. Notes/Ghost Matter.md"},
+		{"id":"f26d92a0ef2a9f0c","x":-1080,"y":2385,"width":240,"height":368,"type":"file","file":"10. Notes/Nomai Festival.md"},
+		{"id":"be785d83e48be883","x":-1795,"y":2377,"width":490,"height":923,"type":"file","file":"10. Notes/Nomai Race.md"},
+		{"id":"49052edfa032934e","x":-890,"y":3400,"width":490,"height":461,"type":"file","file":"10. Notes/Nomai Statue.md"},
+		{"id":"ea3d76ab77a2394d","x":-800,"y":4800,"width":400,"height":374,"type":"file","file":"10. Notes/Orbital Probe Cannon Project.md"},
+		{"id":"566e6cfc09e1035a","x":-2560,"y":4510,"width":560,"height":413,"type":"file","file":"10. Notes/Supernova.md"}
 	],
 	"edges":[
 		{"id":"5963a04e7f4e99d2","fromNode":"68d6dc1ee49b9c40","fromSide":"top","toNode":"a7b9fccb0a726150","toSide":"bottom"},
 		{"id":"a1bed35e14503a57","fromNode":"68d6dc1ee49b9c40","fromSide":"bottom","toNode":"d3728fe66efd1c23","toSide":"top"},
 		{"id":"2c68f8b648963793","fromNode":"d3728fe66efd1c23","fromSide":"bottom","toNode":"15f72fd46f469bdf","toSide":"top","label":"Applies"},
 		{"id":"d7c3d6ab5ecd101a","fromNode":"15f72fd46f469bdf","fromSide":"right","toNode":"8497e8d30d426707","toSide":"left","label":"Affects"},
-		{"id":"4b40086460a09574","fromNode":"be785d83e48be883","fromSide":"bottom","toNode":"49052edfa032934e","toSide":"top"},
-		{"id":"93fe5a41be374692","fromNode":"566e6cfc09e1035a","fromSide":"left","toNode":"b3ad03cbff6aced1","toSide":"right"},
+		{"id":"4b40086460a09574","fromNode":"be785d83e48be883","fromSide":"bottom","toNode":"49052edfa032934e","toSide":"top","label":"Created"},
 		{"id":"6f80c91035c9a6db","fromNode":"be785d83e48be883","fromSide":"right","toNode":"f26d92a0ef2a9f0c","toSide":"left"},
-		{"id":"fe821582d775470d","fromNode":"be785d83e48be883","fromSide":"right","toNode":"bcdbb8b9c3c03967","toSide":"left","label":"Extinction Cause"}
+		{"id":"fe821582d775470d","fromNode":"c0834f8ffb84e276","fromSide":"right","toNode":"be785d83e48be883","toSide":"left","label":"Extinction Cause"},
+		{"id":"d7d24fbae7cb4f26","fromNode":"bcdbb8b9c3c03967","fromSide":"bottom","toNode":"566e6cfc09e1035a","toSide":"top","color":"#ffffff","label":"Causes?"},
+		{"id":"414bba729022b6e5","fromNode":"11583cc580ccf292","fromSide":"right","toNode":"b3ad03cbff6aced1","toSide":"left","color":"4","label":"\"Causes\""},
+		{"id":"5a6aae68fde99823","fromNode":"49052edfa032934e","fromSide":"left","toNode":"11583cc580ccf292","toSide":"right","color":"2","label":"Sends Memories"},
+		{"id":"cf69f3e7f294b42b","fromNode":"bcdbb8b9c3c03967","fromSide":"top","toNode":"c0834f8ffb84e276","toSide":"bottom","label":"Source of"},
+		{"id":"15d1c20f0a5d2830","fromNode":"ea3d76ab77a2394d","fromSide":"left","toNode":"11583cc580ccf292","toSide":"bottom","color":"5","label":"Uses"},
+		{"id":"51b048a2a1d2be5d","fromNode":"566e6cfc09e1035a","fromSide":"right","toNode":"11583cc580ccf292","toSide":"bottom","color":"4","label":"Activates"}
 	]
 }
