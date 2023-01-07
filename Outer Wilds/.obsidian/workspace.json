@@ -31,9 +31,9 @@
               "state": {
                 "file": "0. START HERE/Starting Area.canvas",
                 "viewState": {
-                  "x": 74.05088809359091,
-                  "y": 1083.1846117841908,
-                  "zoom": 0.4815647625443315,
+                  "x": 786.7526487479515,
+                  "y": 221.19149604981658,
+                  "zoom": -1.185101904122335,
                   "snapToGrid": false
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas",
+                "file": "99. Attachments/Example Layout.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas",
+                "file": "99. Attachments/Example Layout.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. START HERE/Starting Area.canvas"
+                "file": "99. Attachments/Example Layout.png"
               }
             }
           }
