@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"5f2e51f9fe3d648e","x":-304,"y":1758,"width":400,"height":400,"type":"file","file":"99. Attachments/Ship Log - Map Mode.png"},
+		{"id":"a5c2be7045c71f8b","x":3,"y":256,"width":522,"height":154,"type":"text","text":"# Solar System\n\nThis game happens inside a Solar System that you are able to explore, this map contains other maps related to each location that you can explore inside this solar system."},
+		{"id":"d11c9fe67d5d8c55","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"9de4b09916e34fe2","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"91a5e516cfc64257","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"3e1ab08ab9c52e1e","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"607dd34a9b09604b","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"074254b33a0f20ef","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"b3bcf5957431030b","x":87,"y":565,"width":355,"height":311,"color":"#946b6b","type":"file","file":"10. Notes/Solar System - General Info.md"},
+		{"id":"d341b333285cfbcc","x":731,"y":565,"width":588,"height":313,"color":"#946b6b","type":"file","file":"10. Notes/Deep Space Satellite.md"},
+		{"id":"4be97dfabf89fcfc","x":731,"y":1071,"width":342,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Deep Space Satellite.png"},
+		{"id":"cea1dde24f10c4fd","x":1177,"y":1071,"width":285,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Map Offline - 1.png"},
+		{"id":"906ff23c45d24833","x":1560,"y":1071,"width":360,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Opposite Axis Orbit Trace.png"}
+	],
+	"edges":[
+		{"id":"2657aabf28936dc6","fromNode":"a5c2be7045c71f8b","fromSide":"top","toNode":"d11c9fe67d5d8c55","toSide":"bottom"},
+		{"id":"c0d290d5714ed323","fromNode":"d341b333285cfbcc","fromSide":"bottom","toNode":"4be97dfabf89fcfc","toSide":"top"},
+		{"id":"0666d1a9b99ba984","fromNode":"d341b333285cfbcc","fromSide":"bottom","toNode":"cea1dde24f10c4fd","toSide":"top"},
+		{"id":"dd988ca7785ec65c","fromNode":"d341b333285cfbcc","fromSide":"bottom","toNode":"906ff23c45d24833","toSide":"top"},
+		{"id":"800ce5c993c5c646","fromNode":"a5c2be7045c71f8b","fromSide":"bottom","toNode":"b3bcf5957431030b","toSide":"top"},
+		{"id":"f2ec2b65a7ff8834","fromNode":"a5c2be7045c71f8b","fromSide":"bottom","toNode":"d341b333285cfbcc","toSide":"top"}
+	]
+}
