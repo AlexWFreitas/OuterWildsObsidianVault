@@ -29,12 +29,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
                 "viewState": {
-                  "x": 140.10019525752108,
-                  "y": 1098.217726514074,
-                  "zoom": -0.5573764255900191,
-                  "snapToGrid": true
+                  "x": 268,
+                  "y": 732,
+                  "zoom": -1,
+                  "snapToGrid": false
                 }
               }
             }
@@ -50,7 +50,7 @@
                   "x": 958.1230382937717,
                   "y": 443.73463471232674,
                   "zoom": -0.37664917982465335,
-                  "snapToGrid": false
+                  "snapToGrid": true
                 }
               }
             }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas"
               }
             }
           }
@@ -199,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ce90fc8b8e879b8",
+  "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "10. Notes/Space Suit.md",
+    "100.Template/Canvas Template.canvas",
+    "100.Template/0. Outer Wilds T.md",
+    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "10. Notes/Health.md",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "10. Notes/Main Character.md",
     "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
-    "10. Notes/Quantum Fluctuation Frequency.md",
-    "10. Notes/Distress Signal.md",
-    "10. Notes/Deep Space Radio Frequency.md"
+    "10. Notes/Health.md",
+    "10. Notes/Space Suit.md",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+    "10. Notes/Main Character.md"
   ]
 }

@@ -18,9 +18,9 @@
 		{"id":"2fde4e279f364d28","x":1200,"y":1428,"width":657,"height":295,"type":"file","file":"99. Attachments/Nomai Language Translator.png"},
 		{"id":"ed785ba2eebb6e4f","x":720,"y":800,"width":333,"height":281,"type":"file","file":"10. Notes/Flashlight.md"},
 		{"id":"dcdb8cd319319327","x":720,"y":1428,"width":333,"height":295,"type":"file","file":"99. Attachments/Flashlight Example.png"},
-		{"id":"5b7943fc66d07ccc","x":760,"y":107,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
-		{"id":"1722bce18e2cef99","x":760,"y":287,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"f50ff76c2b91b5db","x":760,"y":139,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"}
+		{"id":"5b7943fc66d07ccc","x":920,"y":-20,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
+		{"id":"1722bce18e2cef99","x":920,"y":160,"width":400,"height":50,"type":"text","text":"# Player - Space Suit"},
+		{"id":"f50ff76c2b91b5db","x":920,"y":12,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"}
 	],
 	"edges":[
 		{"id":"0de844019c782701","fromNode":"21a72143eceaa07c","fromSide":"top","toNode":"654ca780244b91aa","toSide":"bottom"},
