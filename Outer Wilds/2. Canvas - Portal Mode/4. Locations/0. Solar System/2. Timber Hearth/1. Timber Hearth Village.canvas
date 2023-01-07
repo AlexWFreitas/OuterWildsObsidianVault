@@ -6,13 +6,11 @@
 		{"id":"c7e50ba1bef613f1","x":-715,"y":-2104,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"5bd0855cabec3c3a","x":-715,"y":-2072,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"5008612ab2f46ddc","x":-715,"y":-1924,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"6a0ed7cfc245304e","x":-200,"y":-1400,"width":547,"height":120,"type":"text","text":"# Timber Hearth Village Canvas\n\nStarting area of the game, home of the [[Outer Wilds Ventures]] project.\n"},
-		{"id":"088f2050ca21d239","x":-192,"y":-1120,"width":531,"height":160,"type":"file","file":"10. Notes/Timber Hearth - Village.md"},
 		{"id":"231670b497102ff9","x":-1960,"y":-625,"width":480,"height":265,"type":"file","file":"10. Notes/Timber Hearth - Observatory.md"},
 		{"id":"b50a4af778a33f62","x":-1180,"y":-228,"width":280,"height":222,"type":"file","file":"99. Attachments/Observatory - Upper Floor.png"},
 		{"id":"773c69eb2eb5ea5c","x":-1645,"y":-193,"width":400,"height":236,"type":"file","file":"99. Attachments/Observatory Museum.png"},
-		{"id":"dd7a23731c83c4f6","x":-1795,"y":130,"width":150,"height":60,"type":"text","text":"# Splitter"},
 		{"id":"4e14cf1c53aeb626","x":-2155,"y":-228,"width":360,"height":305,"type":"file","file":"99. Attachments/Observatory.png"},
+		{"id":"dd7a23731c83c4f6","x":-1795,"y":130,"width":150,"height":60,"type":"text","text":"# Splitter"},
 		{"id":"8ab7e6699804c560","x":-1920,"y":388,"width":400,"height":263,"type":"file","file":"10. Notes/Quantum Shard.md"},
 		{"id":"decf076ab049920b","x":-1280,"y":388,"width":400,"height":509,"type":"file","file":"10. Notes/Nomai Statue.md"},
 		{"id":"b5b63d9bf914feb2","x":-1920,"y":724,"width":400,"height":273,"type":"file","file":"99. Attachments/Quantum Shard on Observatory.png"},
@@ -21,21 +19,23 @@
 		{"id":"9e666e6b898df337","x":-2960,"y":623,"width":400,"height":293,"type":"file","file":"99. Attachments/Outer Wilds Ventures Founders.png"},
 		{"id":"8e5b71214b295abc","x":-2458,"y":388,"width":400,"height":216,"type":"file","file":"10. Notes/Hornfels.md"},
 		{"id":"4a3f5e40e9f9cff3","x":-2458,"y":690,"width":400,"height":374,"type":"file","file":"99. Attachments/Hornfels.png"},
-		{"id":"dfab474ba796322a","x":-360,"y":-625,"width":250,"height":241,"type":"file","file":"10. Notes/Timber Hearth - Launch Tower.md"},
+		{"id":"6a0ed7cfc245304e","x":-200,"y":-1400,"width":547,"height":120,"type":"text","text":"# Timber Hearth Village Canvas\n\nStarting area of the game, home of the [[Outer Wilds Ventures]] project.\n"},
+		{"id":"088f2050ca21d239","x":-192,"y":-1120,"width":531,"height":160,"type":"file","file":"10. Notes/Timber Hearth - Village.md"},
+		{"id":"dfab474ba796322a","x":-360,"y":-625,"width":520,"height":128,"type":"file","file":"10. Notes/Timber Hearth - Launch Tower.md"},
 		{"id":"442123ca8f4484dd","x":473,"y":-1286,"width":505,"height":333,"type":"file","file":"99. Attachments/Overview of the Timber Hearth Village.png"},
-		{"id":"f4838bf43d32e454","x":74,"y":-228,"width":505,"height":445,"type":"file","file":"99. Attachments/Timber Hearth - Launch Tower.png"},
 		{"id":"58f0fbfaf7b6f5a9","x":641,"y":-625,"width":400,"height":174,"type":"file","file":"10. Notes/Slate.md"},
 		{"id":"07d7a3e26bcd2c72","x":1121,"y":-625,"width":400,"height":154,"type":"file","file":"10. Notes/Scout Launcher.md"},
 		{"id":"2a57937fdf64ec66","x":1121,"y":-340,"width":399,"height":308,"type":"file","file":"99. Attachments/Scout Launcher.png"},
 		{"id":"aaed13efefcf002d","x":641,"y":-340,"width":400,"height":287,"type":"file","file":"99. Attachments/Slate.png"},
-		{"id":"44e83c83ac89b7e2","x":-700,"y":-151,"width":685,"height":682,"type":"file","file":"10. Notes/Space Ship.md"},
-		{"id":"316cd5c2cc197f68","x":-612,"y":694,"width":504,"height":407,"type":"file","file":"99. Attachments/Space Ship.png"},
 		{"id":"14f2ab84fa5e6937","x":1998,"y":-625,"width":250,"height":213,"type":"file","file":"10. Notes/Zero-G Cave.md"},
 		{"id":"6350dd8e796246b1","x":2322,"y":-293,"width":250,"height":193,"type":"file","file":"99. Attachments/Zero-G Cave Interior.png"},
 		{"id":"e50e737933618e53","x":1999,"y":-228,"width":250,"height":322,"type":"file","file":"10. Notes/Gossan.md"},
 		{"id":"0beaa895f9c7f118","x":2323,"y":15,"width":249,"height":175,"type":"file","file":"99. Attachments/Dummy spaceship to train repairing while on outer space.png"},
 		{"id":"71ced616d3dabaa8","x":1999,"y":190,"width":252,"height":295,"type":"file","file":"99. Attachments/Gossan.png"},
-		{"id":"1221eb5a2726fd9f","x":1680,"y":-272,"width":243,"height":172,"type":"file","file":"99. Attachments/Zero-G Cave Entrance.png"}
+		{"id":"1221eb5a2726fd9f","x":1680,"y":-272,"width":243,"height":172,"type":"file","file":"99. Attachments/Zero-G Cave Entrance.png"},
+		{"id":"f4838bf43d32e454","x":80,"y":-340,"width":505,"height":445,"type":"file","file":"99. Attachments/Timber Hearth - Launch Tower.png"},
+		{"id":"44e83c83ac89b7e2","x":-702,"y":-236,"width":685,"height":682,"type":"file","file":"10. Notes/Space Ship.md"},
+		{"id":"316cd5c2cc197f68","x":-611,"y":590,"width":504,"height":407,"type":"file","file":"99. Attachments/Space Ship.png"}
 	],
 	"edges":[
 		{"id":"ce9db72dbf1a10dd","fromNode":"6a0ed7cfc245304e","fromSide":"top","toNode":"6f69eca20dd99bda","toSide":"bottom"},
@@ -67,6 +67,7 @@
 		{"id":"a18a7bcf0264c8f2","fromNode":"14f2ab84fa5e6937","fromSide":"bottom","toNode":"e50e737933618e53","toSide":"top"},
 		{"id":"19ce1e476adec924","fromNode":"14f2ab84fa5e6937","fromSide":"bottom","toNode":"1221eb5a2726fd9f","toSide":"top"},
 		{"id":"d049598528835fd2","fromNode":"6350dd8e796246b1","fromSide":"bottom","toNode":"0beaa895f9c7f118","toSide":"top"},
-		{"id":"d3ddc1d3405b901b","fromNode":"e50e737933618e53","fromSide":"bottom","toNode":"71ced616d3dabaa8","toSide":"top"}
+		{"id":"d3ddc1d3405b901b","fromNode":"e50e737933618e53","fromSide":"bottom","toNode":"71ced616d3dabaa8","toSide":"top"},
+		{"id":"9b28bf4b6f9079f8","fromNode":"088f2050ca21d239","fromSide":"bottom","toNode":"14f2ab84fa5e6937","toSide":"top"}
 	]
 }
