@@ -42,7 +42,7 @@
 		{"id":"fd01e4f52a1e5654","x":2740,"y":2533,"width":184,"height":177,"type":"file","file":"99. Attachments/Giant's Deep Symbol.png"},
 		{"id":"0c1644141c22d1c1","x":3480,"y":2240,"width":420,"height":700,"type":"group","label":"Incorrect Hypotheses"},
 		{"id":"7d32dd4876ff3867","x":3520,"y":2269,"width":340,"height":632,"type":"text","text":"# ~~Is Eye of the Universe the Quantum Moon?~~\n\n- On the Attlerock Satellite, it seems that the Eye Signal Locator is pointing to different places and varying wildly, maybe the place that is referred as Eye of the Universe has the same properties as the Quantum Shard and is related to the Quantum Moon?\n- Another hypothesis is that because those strange shards are appearing on other astral bodies, maybe this means that the Dark Bramble is possibly the Quantum Moon.\n- After exploring Brittle Hollow's Southern Observatory, this hypothesis confirmed to be false.\n- Another reason that makes this hypothesis is false is that the [[Quantum Moon]] can be seen orbiting around the [[Dark Bramble]] sometimes."},
-		{"id":"495f2f7b31d0e786","x":-160,"y":3380,"width":121,"height":60,"type":"text","text":"# Cross"}
+		{"id":"495f2f7b31d0e786","x":-160,"y":3390,"width":60,"height":50,"type":"text","text":"# +"}
 	],
 	"edges":[
 		{"id":"5963a04e7f4e99d2","fromNode":"68d6dc1ee49b9c40","fromSide":"top","toNode":"a7b9fccb0a726150","toSide":"bottom"},

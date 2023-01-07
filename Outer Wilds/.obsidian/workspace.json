@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "0. START HERE/0. Starting Area.canvas",
                 "viewState": {
-                  "x": -62.4870322824172,
-                  "y": 3454.983778841631,
-                  "zoom": -0.40791315734348216,
+                  "x": -218.84604687319245,
+                  "y": -1791.1985153662538,
+                  "zoom": 0.5300023057613961,
                   "snapToGrid": true
                 }
               }
@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -199,17 +198,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "bc3acd62fe9b5124",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
     "0. START HERE/0. Starting Area.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "100.Template/Canvas Template.canvas",
     "10. Notes/Esker.md",
     "10. Notes/Esker 1.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Locations Map.canvas",
-    "100.Template/0. Outer Wilds T.md"
+    "2. Canvas - Portal Mode/4. Locations/0. Locations Map.canvas"
   ]
 }
