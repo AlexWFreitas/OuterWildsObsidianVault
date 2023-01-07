@@ -6,7 +6,18 @@
 		{"id":"0e40e703fcef9bbe","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"5130f6f29cd45d32","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"0b98366081f3c6d3","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
-		{"id":"92c805045031e30c","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"}
+		{"id":"92c805045031e30c","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"22a7edf2bc23f1ea","x":-486,"y":1778,"width":258,"height":240,"color":"5","type":"file","file":"99. Attachments/Fuel Storage - May cause explosions when leaking.png"},
+		{"id":"39c706e1376edc27","x":-166,"y":1778,"width":152,"height":239,"color":"5","type":"file","file":"99. Attachments/Gravity Bridge towards the Ship.png"},
+		{"id":"0a1f230f25ec138a","x":34,"y":1340,"width":434,"height":246,"color":"5","type":"file","file":"99. Attachments/Restore Health, Fuel and Oxygen, also notice the slides showing how to use the Little Scout.png"},
+		{"id":"772f830618fff162","x":34,"y":1646,"width":433,"height":328,"color":"5","type":"file","file":"99. Attachments/Ship's interior.png"},
+		{"id":"5598eb70995afcf3","x":-526,"y":798,"width":1500,"height":1260,"color":"5","type":"group","label":"Space ship"},
+		{"id":"e7edbabbd31e3771","x":-486,"y":862,"width":480,"height":865,"color":"5","type":"file","file":"10. Notes/Space Ship.md"},
+		{"id":"c1a9b76212ae95f2","x":34,"y":899,"width":434,"height":363,"color":"5","type":"file","file":"99. Attachments/Space Ship at the Launch Tower.png"},
+		{"id":"a45d4f064615c718","x":514,"y":847,"width":400,"height":251,"color":"5","type":"file","file":"99. Attachments/Ship Log - Rumor Mode.png"},
+		{"id":"363022b806951682","x":514,"y":1139,"width":400,"height":246,"color":"5","type":"file","file":"99. Attachments/Ship Log - Map Mode.png"},
+		{"id":"3cabdb3e8ec7758f","x":514,"y":1438,"width":400,"height":250,"color":"5","type":"file","file":"99. Attachments/Ship Log - Map Mode - Planet Details.png"},
+		{"id":"c1096f27e095316d","x":514,"y":1738,"width":400,"height":236,"color":"5","type":"file","file":"99. Attachments/Planetary Chart.png"}
 	],
 	"edges":[
 		{"id":"1e8d4fdef3fa84dc","fromNode":"add80176fa999d5e","fromSide":"top","toNode":"dd8aae8e6ed2c982","toSide":"bottom"}

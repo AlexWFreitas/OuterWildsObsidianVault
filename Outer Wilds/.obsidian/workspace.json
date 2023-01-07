@@ -15,8 +15,8 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -3950.093644666293,
-                  "y": -2598.5166019818835,
+                  "x": -3390.6886985129695,
+                  "y": -2543.080075786509,
                   "zoom": -1.3333333333333333,
                   "snapToGrid": false
                 }
@@ -31,8 +31,8 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
                 "viewState": {
-                  "x": 268,
-                  "y": 732,
+                  "x": 382,
+                  "y": 46,
                   "zoom": -1,
                   "snapToGrid": false
                 }
@@ -61,7 +61,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -201,15 +201,15 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "100.Template/Canvas Template.canvas",
     "100.Template/0. Outer Wilds T.md",
-    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/6. Signalscope Frequencies.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
     "10. Notes/Health.md",
-    "10. Notes/Space Suit.md",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "10. Notes/Main Character.md"
+    "10. Notes/Space Suit.md"
   ]
 }
