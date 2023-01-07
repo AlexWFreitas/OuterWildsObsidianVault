@@ -4,6 +4,7 @@ Date: 2023-01-07
 Tags:
 - "outer-wilds"
 - "player"
+- "character"
 Aliases:
 - 
 ---

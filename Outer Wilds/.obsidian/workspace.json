@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -3390.6886985129695,
-                  "y": -2543.080075786509,
-                  "zoom": -1.3333333333333333,
+                  "x": -9642.472093547869,
+                  "y": -2457.677154014603,
+                  "zoom": -1.6666666666666665,
                   "snapToGrid": false
                 }
               }
@@ -29,12 +29,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
                 "viewState": {
-                  "x": 295,
-                  "y": 727,
-                  "zoom": -1.4270101409449198,
-                  "snapToGrid": true
+                  "x": 70.04847851099845,
+                  "y": 1149.2178140260057,
+                  "zoom": -1.727809510129861,
+                  "snapToGrid": false
                 }
               }
             }
@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -199,17 +198,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "bc3acd62fe9b5124",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
     "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "99. Attachments/Ship Log - Rumor Mode.png",
-    "10. Notes/Space Ship.md",
-    "10. Notes/Fuel.md"
+    "10. Notes/Main Character.md",
+    "10. Notes/Oxygen.md",
+    "10. Notes/Fuel.md",
+    "10. Notes/Jetpack.md",
+    "10. Notes/Space Suit.md",
+    "10. Notes/Health.md",
+    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+    "10. Notes/Quantum Fluctuation Frequency.md"
   ]
 }
