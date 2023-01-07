@@ -7,10 +7,15 @@
 		{"id":"5c7c37aea9c822f3","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"9ca1f0eb2f3b5606","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"e40ed32aac31d977","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"3ae1c5c37cbc895c","x":-1600,"y":680,"width":1898,"height":400,"type":"group","label":"Surface"},
-		{"id":"4f16c1f666f40026","x":400,"y":680,"width":1898,"height":400,"type":"group","label":"Underground"}
+		{"id":"4f16c1f666f40026","x":1680,"y":1320,"width":1898,"height":400,"type":"group","label":"Underground"},
+		{"id":"3ae1c5c37cbc895c","x":-1800,"y":1240,"width":1315,"height":840,"type":"group","label":"Surface"},
+		{"id":"c5c9c4eac589fc4f","x":-1760,"y":1280,"width":160,"height":60,"type":"text","text":"# Surface"},
+		{"id":"3fc75ad214c8c299","x":-177,"y":600,"width":880,"height":380,"type":"group","label":"General Info"},
+		{"id":"72052fcacf78e3c4","x":263,"y":660,"width":392,"height":278,"type":"file","file":"99. Attachments/Timber Hearth Planet.png"},
+		{"id":"fe6a9ebd66595fa7","x":-137,"y":692,"width":360,"height":215,"type":"file","file":"10. Notes/Timber Hearth.md"}
 	],
 	"edges":[
-		{"id":"36815425e014e2e8","fromNode":"2ee2497aada9eb2f","fromSide":"top","toNode":"83ddb3fa46e2a5d3","toSide":"bottom"}
+		{"id":"36815425e014e2e8","fromNode":"2ee2497aada9eb2f","fromSide":"top","toNode":"83ddb3fa46e2a5d3","toSide":"bottom"},
+		{"id":"2b6ec8da11d52d46","fromNode":"2ee2497aada9eb2f","fromSide":"bottom","toNode":"3fc75ad214c8c299","toSide":"top"}
 	]
 }
