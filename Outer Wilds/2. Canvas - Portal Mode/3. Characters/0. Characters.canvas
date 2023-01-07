@@ -30,16 +30,18 @@
 		{"id":"46ecd304efe9962c","x":-1680,"y":-45,"width":257,"height":184,"type":"file","file":"99. Attachments/Slate.png"},
 		{"id":"d5dabdcd7065e484","x":-1300,"y":-45,"width":360,"height":336,"type":"file","file":"99. Attachments/Hornfels.png"},
 		{"id":"474d416c4c83395a","x":-1880,"y":-1040,"width":4160,"height":1560,"type":"group","label":"Timber Hearthians - Outer Wilds Ventures"},
-		{"id":"fe4a0101823b8f8d","x":-1760,"y":-920,"width":2320,"height":1379,"color":"6","type":"group","label":"Outer Wilds Ventures Founders"},
+		{"id":"fe4a0101823b8f8d","x":-1760,"y":-920,"width":1400,"height":1379,"color":"6","type":"group","label":"Outer Wilds Ventures Founders"},
 		{"id":"98680891e7d69474","x":-1673,"y":-408,"width":250,"height":238,"type":"file","file":"10. Notes/Slate.md"},
-		{"id":"33d951b9d91928b7","x":-1423,"y":-840,"width":223,"height":141,"type":"text","text":"# Founders of Outer Wilds Ventures"},
-		{"id":"36562cded0653213","x":-400,"y":-920,"width":2160,"height":1379,"color":"5","type":"group","label":"Space Explorers"},
+		{"id":"36562cded0653213","x":560,"y":-920,"width":1200,"height":1379,"color":"5","type":"group","label":"Space Explorers"},
 		{"id":"9973f81acc8a9066","x":-2760,"y":-1040,"width":760,"height":960,"type":"group","label":"Main Character"},
 		{"id":"86bbdce725b90f03","x":-2720,"y":-987,"width":400,"height":400,"type":"file","file":"10. Notes/Main Character.md"},
 		{"id":"c98f1c5480fb96d0","x":-2580,"y":-360,"width":400,"height":230,"type":"group","label":"Player"},
 		{"id":"afc979944691d361","x":-2580,"y":-328,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
 		{"id":"701260f1dea78950","x":-2580,"y":-180,"width":400,"height":50,"type":"text","text":"# Player"},
-		{"id":"59bb1b3836a5f267","x":-2280,"y":-987,"width":242,"height":400,"type":"file","file":"99. Attachments/The Player with a Space Suit.png"}
+		{"id":"59bb1b3836a5f267","x":-2280,"y":-987,"width":242,"height":400,"type":"file","file":"99. Attachments/The Player with a Space Suit.png"},
+		{"id":"3f11e088e0f89dd7","x":-360,"y":-920,"width":920,"height":1379,"color":"4","type":"group","label":"Space Explorers and Outer Wilds Ventures Founders"},
+		{"id":"33d951b9d91928b7","x":-1231,"y":-700,"width":223,"height":141,"type":"text","text":"# Founders of Outer Wilds Ventures"},
+		{"id":"604a0bef3c4276bf","x":-1720,"y":-864,"width":400,"height":154,"type":"file","file":"10. Notes/Outer Wilds Ventures.md"}
 	],
 	"edges":[
 		{"id":"c25a85c340f7de64","fromNode":"33d951b9d91928b7","fromSide":"bottom","toNode":"dc32734e556ee1e0","toSide":"top"},
@@ -67,6 +69,7 @@
 		{"id":"5f5c58f806237394","fromNode":"86bbdce725b90f03","fromSide":"bottom","toNode":"c98f1c5480fb96d0","toSide":"top"},
 		{"id":"b0ff1802c4deb19e","fromNode":"62760d67c3eac83c","fromSide":"bottom","toNode":"9973f81acc8a9066","toSide":"top"},
 		{"id":"bbe868806a3a4d11","fromNode":"62760d67c3eac83c","fromSide":"bottom","toNode":"474d416c4c83395a","toSide":"top"},
-		{"id":"93c34d8cad6fa9dd","fromNode":"62760d67c3eac83c","fromSide":"bottom","toNode":"55572ebb4eae03cf","toSide":"top"}
+		{"id":"93c34d8cad6fa9dd","fromNode":"62760d67c3eac83c","fromSide":"bottom","toNode":"55572ebb4eae03cf","toSide":"top"},
+		{"id":"921c29c1f33b746d","fromNode":"604a0bef3c4276bf","fromSide":"right","toNode":"33d951b9d91928b7","toSide":"top"}
 	]
 }
