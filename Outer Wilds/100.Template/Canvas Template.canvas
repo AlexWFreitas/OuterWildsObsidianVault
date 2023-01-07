@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"b842a06711fe9399","x":-219,"y":315,"width":522,"height":184,"type":"text","text":"# Canvas Description"},
-		{"id":"48c25c8e0c32313f","x":-740,"y":-380,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"cdcfa47ff056e090","x":-740,"y":-348,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
-		{"id":"c924d206bf87fb93","x":-740,"y":-200,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"70fc22864efd3918","x":-162,"y":-380,"width":400,"height":230,"type":"group","label":"Overview"},
-		{"id":"f2704ec365881917","x":-162,"y":-348,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
-		{"id":"c9de7651d795a84e","x":-162,"y":-200,"width":400,"height":50,"type":"text","text":"# Overview"}
+		{"id":"70fc22864efd3918","x":-159,"y":-380,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"f2704ec365881917","x":-159,"y":-348,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"c9de7651d795a84e","x":-159,"y":-200,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"48c25c8e0c32313f","x":-747,"y":-380,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"cdcfa47ff056e090","x":-747,"y":-348,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"c924d206bf87fb93","x":-747,"y":-200,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"}
 	],
 	"edges":[
 		{"id":"cdf1af29ad19a292","fromNode":"b842a06711fe9399","fromSide":"top","toNode":"70fc22864efd3918","toSide":"bottom"}
