@@ -31,9 +31,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
                 "viewState": {
-                  "x": -543.782707275247,
-                  "y": 696.7703842663283,
-                  "zoom": -2.176296006746994,
+                  "x": -380.5584066710891,
+                  "y": -100.3833279516556,
+                  "zoom": -1.8429626734136606,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Nomai Statue on Observatory.png",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Nomai Statue on Observatory.png",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Nomai Statue on Observatory.png"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas"
               }
             }
           }

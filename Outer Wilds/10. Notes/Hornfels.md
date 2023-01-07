@@ -9,6 +9,8 @@ Tags:
 Aliases:
 - 
 ---
-Used to be Ground Control for the Outer Wild Ventures
+Used to be Ground Control for the Outer Wild Ventures.
 
-Now is the Observatory's Museum Curator
+One of the [[Outer Wilds Ventures]] founders.
+
+Now is the [[Timber Hearth - Observatory|Observatory]]'s Museum Curator
