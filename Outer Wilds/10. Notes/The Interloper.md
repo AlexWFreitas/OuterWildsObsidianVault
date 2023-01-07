@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "interloper"
 ---
 *I suspect that this is the Weird Moon mentioned in Nomai writings that appears sometimes near planets, its orbit is different from the other astral bodies on this star system*.
 

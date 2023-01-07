@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "nomai"
+Aliases:
+- 
+---
 Ancient Alien Race that was very technologically advanced.
 
 Left many clues and messages all over the galaxy about their travels and objectives.

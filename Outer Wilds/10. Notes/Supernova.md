@@ -1,4 +1,13 @@
-
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "ash-twin-project"
+- "sun"
+Aliases:
+- 
+---
 Related to [[Star Life Cycle]] and [[Origin and Death of the Universe]].
 
 An event that happens on this world after around twenty minutes inside a time loop.

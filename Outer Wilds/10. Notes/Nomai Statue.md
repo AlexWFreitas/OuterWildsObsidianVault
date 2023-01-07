@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "ash-twin-project"
+- "nomai"
 Aliases:
 - "Nomai Statue Mechanisms"
 - "nomai statue Mechanisms"

@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "nomai"
+- "ash-twin-project"
 ---
 There seems to be a time loop active because of the ancient race.
 

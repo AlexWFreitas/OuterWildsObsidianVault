@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "science"
+Aliases:
+- 
+---
 A star generates light and heat by fusing hydrogen into helium.
 
 When it runs out of hydrogen, the star starts to contract, this causes the star to become a red giant, this makes the core hotter and expands the outer layers of the star.

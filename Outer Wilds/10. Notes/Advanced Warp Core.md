@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "nomai"
+Aliases:
+- 
+---
 # Advanced Warp Core
 There is a warp core that is more advanced than the normal ones, they are called [[Advanced Warp Core]] and they are used on places like the [[Vessel]].
 

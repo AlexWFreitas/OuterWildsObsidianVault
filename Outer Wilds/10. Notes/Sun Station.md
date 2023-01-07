@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ash-twin-project"
+- "sun"
 ---
 
 The Sun Station is a orbiting station that is close to the sun of the Outer Wilds Star System

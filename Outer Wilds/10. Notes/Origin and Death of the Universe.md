@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "science"
+Aliases:
+- 
+---
 There are theories that say that the universe was formed by unknown means, but that initially it was hot and very dense.
 
 Over time the universe expanded, and got colder, the universe particles joined together and created planets, stars and galaxies.

@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": -53,
-                  "y": -893.5,
-                  "zoom": -1.1592663063476774,
+                  "x": 358.21264622946126,
+                  "y": 2954.6754167088056,
+                  "zoom": -0.7412464906768155,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas"
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "10. Notes/Distress Signal.md",
-    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
-    "10. Notes/Deep Space Radio Frequency.md",
-    "10. Notes/Outer Wilds Ventures Frequency.md",
-    "10. Notes/Hide and Seek Frequency.md",
-    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
+    "10. Notes/Advanced Warp Core.md",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
-    "0. START HERE/0. Starting Area.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
+    "10. Notes/Nomai Festival.md",
+    "10. Notes/Orbital Probe Cannon Project.md",
+    "10. Notes/Time Loop.md",
+    "10. Notes/Nomai Statue.md",
+    "10. Notes/Supernova.md",
+    "10. Notes/Sun Station.md",
+    "10. Notes/Ash Twin Project.md",
+    "10. Notes/Warp Receiver.md"
   ]
 }

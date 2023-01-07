@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "ash-twin-project"
+- "eye-of-the-universe"
+- "nomai"
 Aliases:
 - "Orbital Probe Cannon"
 ---
