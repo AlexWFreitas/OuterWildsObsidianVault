@@ -32,7 +32,7 @@
                 "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
                   "x": -227.44919218652376,
-                  "y": 4052.7788445323595,
+                  "y": 3870.421219673994,
                   "zoom": -0.9714679025270136,
                   "snapToGrid": true
                 }
@@ -43,12 +43,8 @@
             "id": "228a25ae43d80987",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Dark Bramble.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -84,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -211,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "228a25ae43d80987",
   "lastOpenFiles": [
     "10. Notes/Dark Bramble.md",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
