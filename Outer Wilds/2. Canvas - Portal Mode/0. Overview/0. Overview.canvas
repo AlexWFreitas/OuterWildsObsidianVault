@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9008863cf387eb6e","x":0,"y":256,"width":522,"height":124,"type":"text","text":"# Overview\n\nStarting area of the Canvas, serves as a the main hub for every type of Contents canvas"},
+		{"id":"9008863cf387eb6e","x":0,"y":256,"width":522,"height":150,"type":"text","text":"# Overview\n\nStarting area of the Outer Wilds Canvas, serves as a the main hub for every other canvas inside this cluster."},
 		{"id":"4d721df90f3f59ad","x":60,"y":620,"width":400,"height":230,"type":"group","label":"Gameplay Contents"},
 		{"id":"dd0ac631e6707608","x":60,"y":652,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas"},
 		{"id":"62f6dbfff1b8bfd2","x":60,"y":800,"width":400,"height":50,"type":"text","text":"# Gameplay Contents"},
