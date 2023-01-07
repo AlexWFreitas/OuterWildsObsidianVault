@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "mechanics"
+Aliases:
+- 
+---
 The space ship is initially located at the [[Timber Hearth - Launch Tower]], every space explorer from [[Outer Wilds Ventures]] currently on space has one.
 
 The space ship is equipped with a [[Space Suit]], a ship log and allows you to navigate through space to reach other planets and locations in the universe.
