@@ -15,9 +15,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/3. Characters/0. Characters.canvas",
                 "viewState": {
-                  "x": -2467.1304931367467,
-                  "y": 164.58599463954658,
-                  "zoom": -1.6357121682428013,
+                  "x": -5856.191983387853,
+                  "y": -807.2711016751902,
+                  "zoom": -0.9690455015761348,
                   "snapToGrid": true
                 }
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Feldspar.md",
+                "file": "2. Canvas - Portal Mode/3. Characters/0. Characters.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Feldspar.md",
+                "file": "2. Canvas - Portal Mode/3. Characters/0. Characters.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Feldspar.md"
+                "file": "2. Canvas - Portal Mode/3. Characters/0. Characters.canvas"
               }
             }
           }
