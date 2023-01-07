@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -6789.891596101859,
-                  "y": 1121.6047208067878,
-                  "zoom": -0.6666666666666667,
+                  "x": -6374.820932950578,
+                  "y": 2103.3103531481593,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": false
                 }
               }
@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
                 "viewState": {
-                  "x": -564.1974103213245,
-                  "y": 1601.7029774382381,
-                  "zoom": -1.686044089554494,
+                  "x": -543.782707275247,
+                  "y": 696.7703842663283,
+                  "zoom": -2.176296006746994,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "99. Attachments/Nomai Statue on Observatory.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "99. Attachments/Nomai Statue on Observatory.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
+                "file": "99. Attachments/Nomai Statue on Observatory.png"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "bc3acd62fe9b5124",
   "lastOpenFiles": [
+    "100.Template/Canvas Template.canvas",
+    "100.Template/0. Outer Wilds T.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "100.Template/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "100.Template/0. Outer Wilds T.md",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
-    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas",
-    "10. Notes/Main Character.md",
-    "10. Notes/Cassava.md"
+    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas"
   ]
 }
