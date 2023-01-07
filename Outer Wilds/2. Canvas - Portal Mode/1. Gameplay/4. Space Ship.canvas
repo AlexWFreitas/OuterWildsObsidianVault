@@ -7,9 +7,6 @@
 		{"id":"0b98366081f3c6d3","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"92c805045031e30c","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"add80176fa999d5e","x":3,"y":256,"width":522,"height":184,"type":"text","text":"# Space Ship\n\nThis canvas contains information about the Space Ship from Outer Wilds."},
-		{"id":"c9887f9da6b6cc0c","x":900,"y":40,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
-		{"id":"945c96cce4c48967","x":900,"y":72,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
-		{"id":"2031efa2f5aad19e","x":900,"y":220,"width":400,"height":50,"type":"text","text":"# Player - Space Suit"},
 		{"id":"e7edbabbd31e3771","x":-225,"y":683,"width":979,"height":649,"type":"file","file":"10. Notes/Space Ship.md"},
 		{"id":"c1a9b76212ae95f2","x":-89,"y":1611,"width":706,"height":590,"type":"file","file":"99. Attachments/Space Ship at the Launch Tower.png"},
 		{"id":"22a7edf2bc23f1ea","x":-1032,"y":1682,"width":484,"height":449,"type":"file","file":"99. Attachments/Fuel Storage - May cause explosions when leaking.png"},
@@ -20,12 +17,14 @@
 		{"id":"c1096f27e095316d","x":-3133,"y":4880,"width":1287,"height":758,"type":"file","file":"99. Attachments/Planetary Chart.png"},
 		{"id":"363022b806951682","x":-1711,"y":4880,"width":1233,"height":758,"type":"file","file":"99. Attachments/Ship Log - Map Mode.png"},
 		{"id":"3cabdb3e8ec7758f","x":-343,"y":4880,"width":1215,"height":758,"type":"file","file":"99. Attachments/Ship Log - Map Mode - Planet Details.png"},
-		{"id":"a45d4f064615c718","x":1008,"y":4880,"width":1209,"height":758,"type":"file","file":"99. Attachments/Ship Log - Rumor Mode.png"}
+		{"id":"a45d4f064615c718","x":1008,"y":4880,"width":1209,"height":758,"type":"file","file":"99. Attachments/Ship Log - Rumor Mode.png"},
+		{"id":"9ff42c2c184c00b8","x":2520,"y":3980,"width":400,"height":230,"type":"group","label":"Player - Space Suit"},
+		{"id":"9205c58dcf45ee85","x":2520,"y":4012,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"},
+		{"id":"5e5eb00a001876d2","x":2520,"y":4160,"width":400,"height":50,"type":"text","text":"# Player - Space Suit"}
 	],
 	"edges":[
 		{"id":"1e8d4fdef3fa84dc","fromNode":"add80176fa999d5e","fromSide":"top","toNode":"dd8aae8e6ed2c982","toSide":"bottom"},
 		{"id":"d18e241a193053af","fromNode":"add80176fa999d5e","fromSide":"bottom","toNode":"e7edbabbd31e3771","toSide":"top"},
-		{"id":"4eba93ac4c9c8010","fromNode":"add80176fa999d5e","fromSide":"right","toNode":"c9887f9da6b6cc0c","toSide":"left"},
 		{"id":"44cfef6717a6a6a6","fromNode":"e7edbabbd31e3771","fromSide":"bottom","toNode":"c1a9b76212ae95f2","toSide":"top"},
 		{"id":"66453e5f217e2a74","fromNode":"c1a9b76212ae95f2","fromSide":"bottom","toNode":"39c706e1376edc27","toSide":"top"},
 		{"id":"70643083a000a8f4","fromNode":"39c706e1376edc27","fromSide":"bottom","toNode":"772f830618fff162","toSide":"top"},
@@ -35,6 +34,7 @@
 		{"id":"d2cea663bd8f46da","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"c1096f27e095316d","toSide":"top"},
 		{"id":"132cc71c264cde5b","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"3cabdb3e8ec7758f","toSide":"top"},
 		{"id":"1dd08f2374a3229d","fromNode":"772f830618fff162","fromSide":"bottom","toNode":"363022b806951682","toSide":"top"},
-		{"id":"cc4dda150b706ceb","fromNode":"772f830618fff162","fromSide":"right","toNode":"6336455092f8a483","toSide":"left"}
+		{"id":"cc4dda150b706ceb","fromNode":"772f830618fff162","fromSide":"right","toNode":"6336455092f8a483","toSide":"left"},
+		{"id":"6cd61bc259a83ad9","fromNode":"6336455092f8a483","fromSide":"right","toNode":"9ff42c2c184c00b8","toSide":"left"}
 	]
 }

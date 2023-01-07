@@ -11,18 +11,18 @@
 		{"id":"6e2082b77c3632ee","x":1676,"y":960,"width":535,"height":419,"type":"file","file":"10. Notes/Space Suit.md"},
 		{"id":"f81c9ef79299043e","x":40,"y":960,"width":448,"height":335,"type":"file","file":"10. Notes/Main Character.md"},
 		{"id":"79eb97514efa8a99","x":877,"y":960,"width":410,"height":296,"type":"file","file":"10. Notes/Health.md"},
-		{"id":"7429d7e2e5067c4e","x":1280,"y":-160,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
-		{"id":"69e8e6f83818ec84","x":1280,"y":-128,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
-		{"id":"67fc99b3e30b3999","x":1280,"y":20,"width":400,"height":50,"type":"text","text":"# Exploration Tools"},
-		{"id":"4ab865f0eba028b4","x":1280,"y":240,"width":400,"height":230,"type":"group","label":"Space Ship"},
-		{"id":"4a863ff2e71d31db","x":1280,"y":272,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas"},
-		{"id":"a2d6da46c40941a4","x":1280,"y":420,"width":400,"height":50,"type":"text","text":"# Space Ship"},
 		{"id":"3ddfe3521d2c9ef1","x":-525,"y":-880,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"2703809b784f798c","x":-525,"y":-848,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"ba45130c2ba2516b","x":-525,"y":-700,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"7843f8f20f32d112","x":63,"y":-880,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"a9dfba5546b4514f","x":63,"y":-848,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
-		{"id":"95ad6dcde184e90e","x":63,"y":-700,"width":400,"height":50,"type":"text","text":"# Overview Map"}
+		{"id":"95ad6dcde184e90e","x":63,"y":-700,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"9f9b010b79a518fb","x":2000,"y":2520,"width":400,"height":230,"type":"group","label":"Exploration Tools"},
+		{"id":"b3b96c218bc1a4fc","x":2000,"y":2552,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"},
+		{"id":"0a8c5b346f0acc1b","x":2000,"y":2700,"width":400,"height":50,"type":"text","text":"# Exploration Tools"},
+		{"id":"874b11f317342f90","x":1320,"y":2520,"width":400,"height":230,"type":"group","label":"Space Ship"},
+		{"id":"e3256dda8f2380de","x":1320,"y":2552,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas"},
+		{"id":"0e07754d70d08c3d","x":1320,"y":2700,"width":400,"height":50,"type":"text","text":"# Space Ship"}
 	],
 	"edges":[
 		{"id":"6a21878e0a930bd0","fromNode":"6e355954530108d6","fromSide":"top","toNode":"7843f8f20f32d112","toSide":"bottom"},
@@ -39,7 +39,7 @@
 		{"id":"e147a58dc6485782","fromNode":"6e2082b77c3632ee","fromSide":"bottom","toNode":"58c3e31d572cd61b","toSide":"top"},
 		{"id":"7ea916aff60a04ad","fromNode":"58ce9db43afa249a","fromSide":"right","toNode":"408653bcb9319231","toSide":"left"},
 		{"id":"7d448952f6b41693","fromNode":"408653bcb9319231","fromSide":"bottom","toNode":"5adf2bd0cecdaefb","toSide":"top"},
-		{"id":"e55c09afd1b40c62","fromNode":"6e355954530108d6","fromSide":"right","toNode":"69e8e6f83818ec84","toSide":"left"},
-		{"id":"4a6e671588ffe6e3","fromNode":"6e355954530108d6","fromSide":"right","toNode":"4ab865f0eba028b4","toSide":"left"}
+		{"id":"ef1d7f419f1ca0ba","fromNode":"d72e851d1007727b","fromSide":"bottom","toNode":"9f9b010b79a518fb","toSide":"top"},
+		{"id":"331f403254713a0e","fromNode":"874b11f317342f90","fromSide":"top","toNode":"d72e851d1007727b","toSide":"bottom"}
 	]
 }
