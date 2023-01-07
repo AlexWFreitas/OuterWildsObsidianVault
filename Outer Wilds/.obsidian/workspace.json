@@ -13,22 +13,14 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": 680,
-                  "y": -2702,
-                  "zoom": -4,
-                  "snapToGrid": true
+                  "x": 375.7644654088049,
+                  "y": 3924.838679245283,
+                  "zoom": -2.7412464906768155,
+                  "snapToGrid": false
                 }
               }
-            }
-          },
-          {
-            "id": "21d71a6fe5d4cdfe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -63,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+              }
             }
           }
         ]
@@ -187,17 +182,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21d71a6fe5d4cdfe",
+  "active": "bc3acd62fe9b5124",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "100.Template/0. Outer Wilds T.md",
     "10. Notes/Main Character.md",
     "10. Notes/Cassava.md",
     "10. Notes/Solanum.md",
     "10. Notes/Tektite.md",
     "10. Notes/Riebeck.md",
     "10. Notes/Chertt.md",
-    "10. Notes/Gabbro.md",
-    "10. Notes/Outer Wilders.md",
-    "10. Notes/Slate.md"
+    "10. Notes/Gabbro.md"
   ]
 }

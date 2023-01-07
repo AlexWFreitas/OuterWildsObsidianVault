@@ -2,5 +2,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "10. Notes",
   "attachmentFolderPath": "99. Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "100.Template/"
+  ]
 }
