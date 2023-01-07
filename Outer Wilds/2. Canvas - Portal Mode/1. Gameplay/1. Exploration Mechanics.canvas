@@ -3,9 +3,6 @@
 		{"id":"7310df499c60d097","x":-580,"y":-1760,"width":368,"height":242,"type":"group","label":"Gameplay Contents"},
 		{"id":"5b7ebeff8258d5ae","x":-580,"y":-1728,"width":368,"height":160,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas"},
 		{"id":"bc00f689ae6e474a","x":-580,"y":-1568,"width":368,"height":50,"type":"text","text":"# Gameplay Contents"},
-		{"id":"d49813f5480346be","x":-1080,"y":-1760,"width":400,"height":242,"type":"group","label":"Main Contents"},
-		{"id":"8d1282e1cfbe6bb2","x":-1080,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Main Contents/0. Main Contents.canvas"},
-		{"id":"1de0801e9fa7f0c2","x":-1080,"y":-1568,"width":400,"height":50,"type":"text","text":"# Main Contents"},
 		{"id":"f5352823a735cff7","x":-900,"y":-1320,"width":522,"height":184,"type":"text","text":"# Exploration Mechanics Canvas\n\nThis canvas contains information about certain exploration mechanics that exist on the game, they will influence on how you can explore the game's universe and therefore it's important to know the important ones."},
 		{"id":"5bea9369e6fee93a","x":-1203,"y":-671,"width":455,"height":272,"type":"file","file":"10. Notes/Warp Receiver.md"},
 		{"id":"449f27d4628d5c64","x":-579,"y":-671,"width":402,"height":224,"type":"file","file":"10. Notes/Gravity Crystal.md"},
@@ -22,7 +19,10 @@
 		{"id":"44a5556a61123c35","x":-2280,"y":-671,"width":364,"height":184,"type":"file","file":"10. Notes/Ghost Matter.md"},
 		{"id":"2839055ea924024e","x":2040,"y":40,"width":676,"height":407,"type":"file","file":"99. Attachments/Cave Shard Room A.png"},
 		{"id":"93cb72405f15e5a3","x":-1772,"y":40,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
-		{"id":"67dd293e6b02cbbc","x":-2280,"y":40,"width":364,"height":244,"type":"file","file":"99. Attachments/Ghost Matter.png"}
+		{"id":"67dd293e6b02cbbc","x":-2280,"y":40,"width":364,"height":244,"type":"file","file":"99. Attachments/Ghost Matter.png"},
+		{"id":"2cc637ab008bf9ec","x":-1080,"y":-1760,"width":400,"height":242,"type":"group","label":"Overview"},
+		{"id":"6080da3c30dabeaa","x":-1080,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview.canvas"},
+		{"id":"1edc8aa9667eaba1","x":-1080,"y":-1568,"width":400,"height":50,"type":"text","text":"# Overview"}
 	],
 	"edges":[
 		{"id":"d510618208ba8c36","fromNode":"44a5556a61123c35","fromSide":"bottom","toNode":"67dd293e6b02cbbc","toSide":"top"},
@@ -42,8 +42,8 @@
 		{"id":"439bb419b6027bb3","fromNode":"793e49f85352804e","fromSide":"bottom","toNode":"ad952cef5b524bd6","toSide":"top"},
 		{"id":"c255589a07db7f76","fromNode":"793e49f85352804e","fromSide":"bottom","toNode":"3974e6a1ba72d25c","toSide":"top"},
 		{"id":"f6711e4b10e97cda","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"793e49f85352804e","toSide":"top"},
-		{"id":"30eca9e36cb75268","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"1de0801e9fa7f0c2","toSide":"bottom"},
 		{"id":"e678f51312e19514","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"7310df499c60d097","toSide":"bottom"},
-		{"id":"8838eff5906eb1a0","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"495e68221b895df1","toSide":"top"}
+		{"id":"8838eff5906eb1a0","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"495e68221b895df1","toSide":"top"},
+		{"id":"c23b3b1105b13bcb","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"2cc637ab008bf9ec","toSide":"bottom"}
 	]
 }
