@@ -31,9 +31,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": 280.57431413092684,
-                  "y": 4089.822311522167,
-                  "zoom": -1.9714679025270134,
+                  "x": -1160.420034044608,
+                  "y": 3523.2396020079873,
+                  "zoom": -1.304801235860347,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "10. Notes/Supernova.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "10. Notes/Supernova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+                "file": "10. Notes/Supernova.md"
               }
             }
           }
