@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": -169.853704661601,
-                  "y": 554.9343363864876,
-                  "zoom": -2.170354430711732,
+                  "x": -62.4870322824172,
+                  "y": 3454.983778841631,
+                  "zoom": -0.40791315734348216,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
               }
             }
           }
@@ -201,8 +201,8 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "0. START HERE/0. Starting Area.canvas",
     "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "0. START HERE/0. Starting Area.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
