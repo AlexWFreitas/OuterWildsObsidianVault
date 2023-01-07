@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-07
+Tags:
+- "outer-wilds"
+- "exploration-tools"
+Aliases:
+- 
+---
 Allows you to launch a flying scout drone on a straight line, this allows you to take photos of distant places and explore unnacessible areas.
 
 The scout can warp back to the user through the use of Nomai inspired technology.

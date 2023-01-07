@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"97c71d71bfeb1e8c","x":0,"y":256,"width":522,"height":124,"type":"text","text":"# Gameplay Contents\n\nThis canvas serves as a map to the other gameplay related canvases."},
-		{"id":"c408780b71895d1b","x":59,"y":-439,"width":400,"height":230,"type":"group","label":"Overview"},
-		{"id":"73a705d5c7cf6641","x":59,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview.canvas"},
-		{"id":"e00fbfc4e697650d","x":59,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview"},
+		{"id":"97c71d71bfeb1e8c","x":0,"y":256,"width":528,"height":129,"type":"text","text":"# Gameplay Map\n\nThis canvas serves as a map to the other gameplay related canvases."},
+		{"id":"c408780b71895d1b","x":59,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"73a705d5c7cf6641","x":59,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"e00fbfc4e697650d","x":59,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"21795511c31f4900","x":-960,"y":-40,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"0a62ae41536dabbc","x":-960,"y":-8,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
 		{"id":"bfc1062ae8a7233e","x":-960,"y":140,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},

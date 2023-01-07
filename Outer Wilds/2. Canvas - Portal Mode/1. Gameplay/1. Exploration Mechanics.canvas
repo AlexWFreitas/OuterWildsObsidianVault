@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"7310df499c60d097","x":-580,"y":-1760,"width":368,"height":242,"type":"group","label":"Gameplay Contents"},
-		{"id":"5b7ebeff8258d5ae","x":-580,"y":-1728,"width":368,"height":160,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Contents.canvas"},
-		{"id":"bc00f689ae6e474a","x":-580,"y":-1568,"width":368,"height":50,"type":"text","text":"# Gameplay Contents"},
-		{"id":"f5352823a735cff7","x":-900,"y":-1320,"width":522,"height":184,"type":"text","text":"# Exploration Mechanics Canvas\n\nThis canvas contains information about certain exploration mechanics that exist on the game, they will influence on how you can explore the game's universe and therefore it's important to know the important ones."},
+		{"id":"7310df499c60d097","x":-580,"y":-1760,"width":368,"height":242,"type":"group","label":"Gameplay Map"},
+		{"id":"5b7ebeff8258d5ae","x":-580,"y":-1728,"width":368,"height":160,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas"},
+		{"id":"bc00f689ae6e474a","x":-580,"y":-1568,"width":368,"height":50,"type":"text","text":"# Gameplay Map"},
+		{"id":"f5352823a735cff7","x":-900,"y":-1320,"width":522,"height":184,"type":"text","text":"# Exploration Mechanics\n\nThis canvas contains information about certain exploration mechanics that exist on the game, they will influence on how you can explore the game's universe and therefore it's important to know the important ones."},
 		{"id":"5bea9369e6fee93a","x":-1203,"y":-671,"width":455,"height":272,"type":"file","file":"10. Notes/Warp Receiver.md"},
 		{"id":"449f27d4628d5c64","x":-579,"y":-671,"width":402,"height":224,"type":"file","file":"10. Notes/Gravity Crystal.md"},
 		{"id":"495e68221b895df1","x":-1772,"y":-671,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
-		{"id":"2cc637ab008bf9ec","x":-1080,"y":-1760,"width":400,"height":242,"type":"group","label":"Overview"},
-		{"id":"6080da3c30dabeaa","x":-1080,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview.canvas"},
-		{"id":"1edc8aa9667eaba1","x":-1080,"y":-1568,"width":400,"height":50,"type":"text","text":"# Overview"},
+		{"id":"a031046df369b6e1","x":-1053,"y":-1760,"width":400,"height":242,"type":"group","label":"Overview Map"},
+		{"id":"7b9a99a654e92b3f","x":-1053,"y":-1568,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"29e18e402e6f3905","x":-1053,"y":-1728,"width":400,"height":160,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"793e49f85352804e","x":1053,"y":-671,"width":327,"height":296,"type":"file","file":"10. Notes/Quantum Shard.md"},
 		{"id":"e07fbc49766f30ee","x":-8,"y":-671,"width":320,"height":329,"type":"file","file":"10. Notes/Gravity Floor.md"},
 		{"id":"46babd637fc9d202","x":481,"y":-671,"width":400,"height":224,"type":"file","file":"10. Notes/Gravity Bridges.md"},
@@ -44,6 +44,6 @@
 		{"id":"f6711e4b10e97cda","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"793e49f85352804e","toSide":"top"},
 		{"id":"e678f51312e19514","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"7310df499c60d097","toSide":"bottom"},
 		{"id":"8838eff5906eb1a0","fromNode":"f5352823a735cff7","fromSide":"bottom","toNode":"495e68221b895df1","toSide":"top"},
-		{"id":"c23b3b1105b13bcb","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"2cc637ab008bf9ec","toSide":"bottom"}
+		{"id":"de00b5a1a162e7e8","fromNode":"f5352823a735cff7","fromSide":"top","toNode":"a031046df369b6e1","toSide":"bottom"}
 	]
 }

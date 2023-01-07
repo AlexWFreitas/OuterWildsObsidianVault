@@ -24,35 +24,55 @@
             }
           },
           {
-            "id": "977459045900a83c",
+            "id": "2f88ce3b6439ec22",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "viewState": {
-                  "x": 1648.023353673899,
-                  "y": 305.47694969546535,
-                  "zoom": -1.4787810102045784,
+                  "x": -215.82271248481482,
+                  "y": 1056.630571743283,
+                  "zoom": 0.0009181246690573852,
                   "snapToGrid": false
                 }
               }
             }
           },
           {
-            "id": "f2a957d77ae3368b",
+            "id": "4b9b97f490275c60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10. Notes/Quantum Shard.md",
-                "mode": "source",
-                "source": false
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "viewState": {
+                  "x": 641.4817610062893,
+                  "y": 1322.8515723270439,
+                  "zoom": -1.3324152086642758,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "9287c3fbb60fbfca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+                "viewState": {
+                  "x": 644,
+                  "y": 653,
+                  "zoom": -1.3324152086642758,
+                  "snapToGrid": false
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Quantum Shard.md",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Quantum Shard.md",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Quantum Shard.md"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
               }
             }
           }
@@ -180,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a957d77ae3368b",
+  "active": "9287c3fbb60fbfca",
   "lastOpenFiles": [
+    "10. Notes/Signalscope.md",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
+    "10. Notes/Little Scout.md",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "10. Notes/Quantum Travel through Entanglement.md",
-    "10. Notes/Quantum Observation.md",
+    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "10. Notes/Gravity Bridges.md",
     "10. Notes/Quantum Shard.md",
-    "10. Notes/Quantum Moon.md",
-    "10. Notes/Gravity Floor.md",
-    "10. Notes/Zero-G Cave.md",
-    "10. Notes/Timber Hearth - Village.md",
-    "10. Notes/Timber Hearth - Nomai Ruins.md",
-    "10. Notes/Timber Hearth - Observatory.md"
+    "10. Notes/Quantum Travel through Entanglement.md"
   ]
 }
