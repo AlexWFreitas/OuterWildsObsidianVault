@@ -29,11 +29,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
                 "viewState": {
-                  "x": -86.31691422864725,
-                  "y": 3169.600843982554,
-                  "zoom": 0.3333333333333334,
+                  "x": -53,
+                  "y": -893.5,
+                  "zoom": -1.1592663063476774,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas"
               }
             }
           }
@@ -201,15 +201,15 @@
   },
   "active": "21d71a6fe5d4cdfe",
   "lastOpenFiles": [
-    "0. START HERE/0. Starting Area.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "10. Notes/Distress Signal.md",
+    "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
+    "10. Notes/Deep Space Radio Frequency.md",
+    "10. Notes/Outer Wilds Ventures Frequency.md",
+    "10. Notes/Hide and Seek Frequency.md",
+    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "100.Template/Canvas Template.canvas",
-    "10. Notes/Esker.md",
-    "10. Notes/Esker 1.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Locations Map.canvas"
+    "0. START HERE/0. Starting Area.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
   ]
 }
