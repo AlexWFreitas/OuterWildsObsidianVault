@@ -31,9 +31,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
                 "viewState": {
-                  "x": -1562.7650589474965,
-                  "y": 2598.453945959442,
-                  "zoom": -1.336515904602786,
+                  "x": -1393.7497442624904,
+                  "y": 5283.218550069778,
+                  "zoom": -1.0031825712694526,
                   "snapToGrid": true
                 }
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "10. Notes/Timber Hearth - Mining Site 2a.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "10. Notes/Timber Hearth - Mining Site 2a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
+                "file": "10. Notes/Timber Hearth - Mining Site 2a.md"
               }
             }
           }
