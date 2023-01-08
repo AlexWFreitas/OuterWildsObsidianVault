@@ -11,14 +11,14 @@
 		{"id":"94b0eada1ee6f3ae","x":600,"y":-83,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
 		{"id":"e09e16f94bf45716","x":600,"y":65,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"f7c6d13fa349ffd1","x":-29,"y":280,"width":646,"height":350,"type":"file","file":"10. Notes/Hourglass Twins.md"},
-		{"id":"8697ed32ff04f0dd","x":-306,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin Map.canvas"},
+		{"id":"8697ed32ff04f0dd","x":-306,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
 		{"id":"cc0386d98891a7c8","x":-306,"y":1020,"width":400,"height":50,"type":"text","text":"# Ember Twin"},
 		{"id":"3f687245da2d5870","x":520,"y":840,"width":400,"height":230,"type":"group","label":"Ash Twin"},
-		{"id":"26b0a41c7adddf15","x":520,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas"},
+		{"id":"26b0a41c7adddf15","x":520,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas"},
 		{"id":"3287abbdb4d3f14e","x":520,"y":1020,"width":400,"height":50,"type":"text","text":"# Ash Twin"},
 		{"id":"9e8e062685c6351c","x":520,"y":1260,"width":400,"height":230,"type":"group","label":"Ash Twin Project"},
 		{"id":"4b6527533bb84e3c","x":520,"y":1440,"width":400,"height":50,"type":"text","text":"# Ash Twin Project"},
-		{"id":"20ba9b8eab9e682e","x":520,"y":1292,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/3. Ash Twin Project.canvas"},
+		{"id":"20ba9b8eab9e682e","x":520,"y":1292,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas"},
 		{"id":"fa9f7eb97f88ec86","x":800,"y":334,"width":649,"height":386,"type":"file","file":"99. Attachments/View from the North Pole.png"}
 	],
 	"edges":[
