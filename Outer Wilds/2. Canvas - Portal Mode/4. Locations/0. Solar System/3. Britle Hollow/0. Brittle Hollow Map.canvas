@@ -6,19 +6,25 @@
 		{"id":"de5c724f4b84b4a3","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"00c3c920d217e9f0","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"d9a4c16472a4e1c2","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"d8c208480f31f10f","x":23,"y":160,"width":480,"height":238,"type":"file","file":"10. Notes/Brittle Hollow.md"},
-		{"id":"8453e3497a88d854","x":183,"y":1600,"width":160,"height":60,"type":"text","text":"# Splitter"},
-		{"id":"3e47a4f35b623282","x":520,"y":690,"width":1982,"height":1350,"type":"group","label":"Main Gameplay Mechanisms"},
-		{"id":"1a821a23a86d6a5c","x":-560,"y":690,"width":423,"height":600,"type":"group","label":"Hollow Lantern"},
-		{"id":"59c89266316020f1","x":-517,"y":737,"width":348,"height":184,"type":"file","file":"10. Notes/Hollow Lantern.md"},
-		{"id":"a66568374722153d","x":-517,"y":982,"width":348,"height":272,"type":"file","file":"99. Attachments/Hollow Lantern.png"},
-		{"id":"93ae2c0bb8a8067f","x":560,"y":760,"width":600,"height":840,"type":"group","label":"Gravity Crystals"},
-		{"id":"6b44ca1c752a1d4b","x":600,"y":800,"width":520,"height":224,"type":"file","file":"10. Notes/Gravity Crystal.md"},
-		{"id":"5aa111705afdae2d","x":600,"y":1093,"width":520,"height":463,"type":"file","file":"99. Attachments/Gravity Crystals Image.png"},
-		{"id":"f86f20db1d38b47b","x":1440,"y":760,"width":569,"height":1240,"type":"group","label":"Gravity Floor"},
-		{"id":"250c7558f9dde97c","x":1489,"y":829,"width":311,"height":248,"type":"file","file":"10. Notes/Gravity Floor.md"},
-		{"id":"757415836d8cf9d4","x":1489,"y":1126,"width":311,"height":257,"type":"file","file":"99. Attachments/Gravity Floor - 02.png"},
-		{"id":"d31f7d15789e2954","x":1489,"y":1467,"width":311,"height":251,"type":"file","file":"99. Attachments/Gravity Floor on White Hole Station.png"}
+		{"id":"d8c208480f31f10f","x":23,"y":160,"width":480,"height":262,"type":"file","file":"10. Notes/Brittle Hollow.md"},
+		{"id":"8453e3497a88d854","x":183,"y":1960,"width":160,"height":60,"type":"text","text":"# Splitter"},
+		{"id":"1a821a23a86d6a5c","x":-336,"y":600,"width":423,"height":600,"type":"group","label":"Hollow Lantern"},
+		{"id":"59c89266316020f1","x":-293,"y":647,"width":348,"height":184,"type":"file","file":"10. Notes/Hollow Lantern.md"},
+		{"id":"a66568374722153d","x":-293,"y":892,"width":348,"height":272,"type":"file","file":"99. Attachments/Hollow Lantern.png"},
+		{"id":"3e47a4f35b623282","x":463,"y":600,"width":1360,"height":1190,"type":"group","label":"Brittle Hollow Info"},
+		{"id":"f86f20db1d38b47b","x":1383,"y":670,"width":400,"height":1080,"type":"group","label":"Gravity Floor"},
+		{"id":"250c7558f9dde97c","x":1432,"y":739,"width":311,"height":329,"type":"file","file":"10. Notes/Gravity Floor.md"},
+		{"id":"757415836d8cf9d4","x":1432,"y":1120,"width":311,"height":257,"type":"file","file":"99. Attachments/Gravity Floor - 02.png"},
+		{"id":"d31f7d15789e2954","x":1432,"y":1445,"width":311,"height":251,"type":"file","file":"99. Attachments/Gravity Floor on White Hole Station.png"},
+		{"id":"93ae2c0bb8a8067f","x":503,"y":670,"width":600,"height":840,"type":"group","label":"Gravity Crystals"},
+		{"id":"6b44ca1c752a1d4b","x":543,"y":710,"width":520,"height":224,"type":"file","file":"10. Notes/Gravity Crystal.md"},
+		{"id":"5aa111705afdae2d","x":543,"y":1003,"width":520,"height":463,"type":"file","file":"99. Attachments/Gravity Crystals Image.png"},
+		{"id":"cdccd17f1268ee4a","x":-980,"y":600,"width":440,"height":820,"type":"group","label":"Black Hole"},
+		{"id":"01a95e3667338728","x":-938,"y":1028,"width":367,"height":354,"type":"file","file":"99. Attachments/Black Hole.png"},
+		{"id":"061b999b943cbe29","x":-938,"y":651,"width":367,"height":343,"type":"file","file":"10. Notes/Black Hole.md"},
+		{"id":"f57722f9a3c824f0","x":-1560,"y":1760,"width":187,"height":54,"type":"text","text":"# Warps to"},
+		{"id":"36e4c82e65c5a2ee","x":-980,"y":1720,"width":500,"height":520,"type":"group","label":"White Hole Sector"},
+		{"id":"6b676017053528d3","x":-980,"y":1760,"width":409,"height":400,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas"}
 	],
 	"edges":[
 		{"id":"ebcbc418670df15a","fromNode":"d8c208480f31f10f","fromSide":"top","toNode":"97ecbaefb1235978","toSide":"bottom"},
@@ -26,6 +32,8 @@
 		{"id":"4322a4fb4020ce48","fromNode":"d8c208480f31f10f","fromSide":"bottom","toNode":"3e47a4f35b623282","toSide":"top"},
 		{"id":"8cb3d84afb1860a1","fromNode":"d8c208480f31f10f","fromSide":"bottom","toNode":"1a821a23a86d6a5c","toSide":"top"},
 		{"id":"9357f515279eddc2","fromNode":"6b44ca1c752a1d4b","fromSide":"bottom","toNode":"5aa111705afdae2d","toSide":"top"},
-		{"id":"9b8e7ef67813b715","fromNode":"93ae2c0bb8a8067f","fromSide":"right","toNode":"f86f20db1d38b47b","toSide":"left","label":"Used on"}
+		{"id":"9b8e7ef67813b715","fromNode":"93ae2c0bb8a8067f","fromSide":"right","toNode":"f86f20db1d38b47b","toSide":"left","color":"3","label":"Related?"},
+		{"id":"388b5a6943c1597e","fromNode":"d8c208480f31f10f","fromSide":"bottom","toNode":"cdccd17f1268ee4a","toSide":"top"},
+		{"id":"6356afa0d1f25635","fromNode":"cdccd17f1268ee4a","fromSide":"bottom","toNode":"36e4c82e65c5a2ee","toSide":"top"}
 	]
 }

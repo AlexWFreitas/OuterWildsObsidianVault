@@ -1,2 +1,2 @@
-- A hazardous planet that has characteristics similar to the name it has. It is Brittle as fragile and Hollow on the inside
+- A hazardous planet that has characteristics similar to the name it has, fragile as something **Brittle** and empty on the inside as something **Hollow**.
 - This planet has a moon called [[Hollow Lantern]], this moon is some type of volcanic moon that launches projectiles towards [[Brittle Hollow]], causing damage to the planet's integrity.
