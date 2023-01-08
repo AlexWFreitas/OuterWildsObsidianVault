@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
                 "viewState": {
-                  "x": -1112.6186448855267,
-                  "y": 8701.30924034924,
-                  "zoom": -4,
+                  "x": -818.8883240699777,
+                  "y": -2255.521304244765,
+                  "zoom": -1.9999999999999993,
                   "snapToGrid": false
                 }
               }
@@ -34,6 +34,22 @@
                   "x": 96.55544997412403,
                   "y": 38.03182038522401,
                   "zoom": -0.6860440895544941,
+                  "snapToGrid": true
+                }
+              }
+            }
+          },
+          {
+            "id": "6a261a53ebd3c3e0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "viewState": {
+                  "x": 2143.526787737017,
+                  "y": 1591.5861651011592,
+                  "zoom": -1,
                   "snapToGrid": true
                 }
               }
@@ -154,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
+                "file": "99. Attachments/Cyclone Images.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
+                "file": "99. Attachments/Cyclone Images.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"
+                "file": "99. Attachments/Cyclone Images.png"
               }
             }
           }
@@ -215,58 +231,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "93d6cbc1b8a71a07",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5044bc01951b9d8e",
-        "type": "window",
-        "children": [
-          {
-            "id": "f99234a7e8f8241c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ee6b85d9d7f13979",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
-                    "viewState": {
-                      "x": 794.1959506880758,
-                      "y": 3326.833488723199,
-                      "zoom": -1.3686190186001208,
-                      "snapToGrid": false
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3106,
-        "y": 14,
-        "width": 1414,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "77779fa6dc0e48bd",
+  "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "100. Templates/Canvas Template.canvas",
+    "100. Templates/0. Outer Wilds T.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/6. Gravity Crystal Workshop.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/7. Brittle Hollow - Gravity Cannon.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas"
   ]
 }

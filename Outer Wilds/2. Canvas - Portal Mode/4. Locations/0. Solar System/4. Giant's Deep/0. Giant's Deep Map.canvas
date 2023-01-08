@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"59229b9be92c1dfb","x":94,"y":-115,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"96efc45702ad4759","x":94,"y":-83,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"22cd173badf3de64","x":94,"y":65,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"0af790bc31ea2af0","x":-494,"y":-115,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"f1c6370aade78858","x":-494,"y":-83,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"6672807e9112b9ec","x":-494,"y":65,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"390e9884b959c7fe","x":-260,"y":520,"width":1108,"height":512,"type":"group","label":"Giant's Deep"},
+		{"id":"7479a77bf67676a1","x":-212,"y":572,"width":392,"height":418,"type":"file","file":"10. Notes/Giant's Deep.md"},
+		{"id":"a7775e8142dcdb74","x":209,"y":572,"width":585,"height":418,"type":"file","file":"99. Attachments/Cyclone launched Island and view from Outerspace.png"},
+		{"id":"ba0f936194017862","x":823,"y":1192,"width":1897,"height":608,"type":"group","label":"General Info"},
+		{"id":"e7ebb1e4d2c1f9b7","x":2398,"y":1291,"width":251,"height":400,"type":"file","file":"99. Attachments/Pasted image 20221224195037.png"},
+		{"id":"9c548ecf6c87696d","x":2101,"y":1291,"width":250,"height":455,"type":"file","file":"10. Notes/Cyclone-safe Platforms.md"},
+		{"id":"b18016f72242c0c3","x":1337,"y":1280,"width":723,"height":411,"type":"file","file":"99. Attachments/Cyclone Images.png"},
+		{"id":"821f384ce8b68e1e","x":880,"y":1280,"width":417,"height":407,"type":"file","file":"10. Notes/Giant's Deep Cyclones.md"}
+	],
+	"edges":[
+		{"id":"d19bcb43c29f6c7a","fromNode":"22cd173badf3de64","fromSide":"bottom","toNode":"390e9884b959c7fe","toSide":"top"}
+	]
+}
