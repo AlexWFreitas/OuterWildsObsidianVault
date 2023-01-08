@@ -30,7 +30,8 @@
 		{"id":"8cd551ff1b2714e4","x":388,"y":-109,"width":420,"height":274,"type":"file","file":"99. Attachments/Eye District Overview.png"},
 		{"id":"b315dc9d6253b20d","x":840,"y":-358,"width":326,"height":310,"type":"file","file":"99. Attachments/Eye Symbol.png"},
 		{"id":"4402f74a5de9a09c","x":1760,"y":-358,"width":400,"height":509,"type":"file","file":"10. Notes/Black Hole Forge District - Warp Receiver.md"},
-		{"id":"b230d963c3fa1720","x":1348,"y":200,"width":380,"height":449,"type":"file","file":"99. Attachments/Black Hole Forge District from Below.png"}
+		{"id":"b230d963c3fa1720","x":1348,"y":200,"width":380,"height":449,"type":"file","file":"99. Attachments/Black Hole Forge District from Below.png"},
+		{"id":"9ebf9650665e42ce","x":1760,"y":200,"width":704,"height":449,"type":"file","file":"99. Attachments/Using the Gravity Floor to walk on it.png"}
 	],
 	"edges":[
 		{"id":"76cd50903ff4605f","fromNode":"abdacf08fc89f1cd","fromSide":"bottom","toNode":"94448df8d45ca4d9","toSide":"top","color":"1","label":"Blocked - 4F"},
