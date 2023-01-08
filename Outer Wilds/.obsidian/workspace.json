@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Untitled.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
+                  "x": -362.2943481619293,
+                  "y": 2414.4182393475544,
+                  "zoom": -0.8122915754419604,
                   "snapToGrid": true
                 }
               }
@@ -63,8 +63,8 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "viewState": {
-                  "x": -899.2703858718884,
-                  "y": 3005.7361047926242,
+                  "x": 937.8237366535448,
+                  "y": 376.02008369404194,
                   "zoom": -1.3333333333333333,
                   "snapToGrid": true
                 }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Ash Twin Project.md",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Ash Twin Project.md",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Ash Twin Project.md"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"
               }
             }
           }
@@ -232,17 +231,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77779fa6dc0e48bd",
+  "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
+    "10. Notes/Warp Receiver - Giant's Deep.md",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Untitled.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
+    "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Untitled.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
-    "100. Templates/Canvas Template.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "100. Templates/0. Outer Wilds T.md"
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
   ]
 }
