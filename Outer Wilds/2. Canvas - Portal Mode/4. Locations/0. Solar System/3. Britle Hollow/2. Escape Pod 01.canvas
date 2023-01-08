@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"6de78bcee44bd4e2","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"931b9ddb83e92e2f","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"1f871eaa2bcd95ad","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"0a72667d599ec8c1","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"5115e40af0b2b600","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"e0ce5853045ba2e0","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"f8263777088e251a","x":-257,"y":40,"width":1040,"height":1280,"type":"group","label":"Escape Pod 01"},
+		{"id":"33807c9b0ca77b3f","x":-217,"y":80,"width":440,"height":620,"type":"file","file":"10. Notes/Escape Pod 01.md"},
+		{"id":"d3246384a0c69521","x":263,"y":80,"width":480,"height":403,"type":"file","file":"99. Attachments/Escape Pod 01 and Distress Signal Emitter.png"},
+		{"id":"be33b2bd578663c2","x":263,"y":520,"width":480,"height":325,"type":"file","file":"99. Attachments/Inside the Escape Pod.png"},
+		{"id":"1a6399f3dcc9fff0","x":-217,"y":760,"width":440,"height":495,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter - Back door of Escape Pod 01.png"},
+		{"id":"37cb2121accd1962","x":263,"y":880,"width":480,"height":409,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter.png"},
+		{"id":"711fafb3acbf7fab","x":149,"y":1513,"width":228,"height":60,"type":"text","text":"# Information"},
+		{"id":"5a1408b089c7d9e8","x":-400,"y":1732,"width":510,"height":328,"type":"file","file":"10. Notes/Escape Pods.md"},
+		{"id":"c1132773f01468b7","x":400,"y":1732,"width":760,"height":563,"type":"file","file":"10. Notes/Vessel.md"},
+		{"id":"c8a3f100eced1d7d","x":1520,"y":1545,"width":186,"height":56,"type":"text","text":"# Leads to"}
+	],
+	"edges":[
+		{"id":"c88f61f33334fee4","fromNode":"f8263777088e251a","fromSide":"top","toNode":"6de78bcee44bd4e2","toSide":"bottom"},
+		{"id":"9b8ecd72d2b19651","fromNode":"f8263777088e251a","fromSide":"bottom","toNode":"711fafb3acbf7fab","toSide":"top"},
+		{"id":"d2e97b8b3ef7c6c0","fromNode":"711fafb3acbf7fab","fromSide":"bottom","toNode":"c1132773f01468b7","toSide":"top"},
+		{"id":"6ff2f81af59a00cf","fromNode":"711fafb3acbf7fab","fromSide":"bottom","toNode":"5a1408b089c7d9e8","toSide":"top"},
+		{"id":"20cb0a0efad7977b","fromNode":"f8263777088e251a","fromSide":"bottom","toNode":"c8a3f100eced1d7d","toSide":"top"}
+	]
+}
