@@ -54,8 +54,11 @@
 		{"id":"e0b76efe67567905","x":1320,"y":520,"width":400,"height":230,"type":"group","label":"Orbital Probe Cannon"},
 		{"id":"b2e4825a082ed32f","x":1320,"y":552,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas"},
 		{"id":"bed7226f79e36f7c","x":1320,"y":700,"width":400,"height":50,"type":"text","text":"# Orbital Probe Cannon"},
-		{"id":"012e2a6d8519ad30","x":308,"y":4920,"width":400,"height":326,"type":"file","file":"10. Notes/Probe Tracking Module - Orbital Probe Cannon.md"},
-		{"id":"ffd6a1dba871c2c2","x":410,"y":5328,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ffd6a1dba871c2c2","x":150,"y":5408,"width":310,"height":72,"type":"text","text":"# More Information"},
+		{"id":"873eed246a7dc3da","x":380,"y":5600,"width":400,"height":230,"type":"group","label":"Orbital Probe Cannon"},
+		{"id":"d3bdd3fe4a113bad","x":380,"y":5780,"width":400,"height":50,"type":"text","text":"# Orbital Probe Cannon"},
+		{"id":"a9c855b4036e1f68","x":380,"y":5632,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas"},
+		{"id":"012e2a6d8519ad30","x":308,"y":4900,"width":400,"height":374,"type":"file","file":"10. Notes/Probe Tracking Module - Orbital Probe Cannon.md"}
 	],
 	"edges":[
 		{"id":"a12035c8261faf0f","fromNode":"390e9884b959c7fe","fromSide":"bottom","toNode":"ba0f936194017862","toSide":"top"},
@@ -72,6 +75,8 @@
 		{"id":"68fb5b4790a45a48","fromNode":"390e9884b959c7fe","fromSide":"top","toNode":"7896b005ef914853","toSide":"bottom"},
 		{"id":"4e93c0ac6f84adaf","fromNode":"5832b591387dc380","fromSide":"bottom","toNode":"3010666f44ff4539","toSide":"top","color":"1","label":"Locked from Inside"},
 		{"id":"1da339bb0555055e","fromNode":"390e9884b959c7fe","fromSide":"right","toNode":"b2e4825a082ed32f","toSide":"left","label":"Orbited By"},
-		{"id":"f18f0065c1be59ad","fromNode":"c63ececa9762fb7c","fromSide":"bottom","toNode":"012e2a6d8519ad30","toSide":"top"}
+		{"id":"f18f0065c1be59ad","fromNode":"c63ececa9762fb7c","fromSide":"bottom","toNode":"012e2a6d8519ad30","toSide":"top"},
+		{"id":"cbcee58ff983b6e8","fromNode":"012e2a6d8519ad30","fromSide":"bottom","toNode":"ffd6a1dba871c2c2","toSide":"top"},
+		{"id":"ef0fdeb6038ad3d0","fromNode":"ffd6a1dba871c2c2","fromSide":"bottom","toNode":"873eed246a7dc3da","toSide":"top"}
 	]
 }

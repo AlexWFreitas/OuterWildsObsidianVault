@@ -6,11 +6,11 @@
 		{"id":"3e1ab08ab9c52e1e","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"607dd34a9b09604b","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"074254b33a0f20ef","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"a5c2be7045c71f8b","x":3,"y":256,"width":522,"height":154,"type":"text","text":"# Solar System\n\nThis game happens inside a Solar System that you are able to explore, this map contains other maps related to each location that you can explore inside this solar system."},
 		{"id":"a30f7ced9348ff1b","x":-2209,"y":3440,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"1e1e92a94cf07dd0","x":-2209,"y":3472,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"628625410b9c5e63","x":-2209,"y":3620,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"7af99fbd0ce4de39","x":-1522,"y":3440,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"a5c2be7045c71f8b","x":3,"y":256,"width":522,"height":154,"type":"text","text":"# Solar System\n\nThis game happens inside a Solar System that you are able to explore, this map contains other maps related to each location that you can explore inside this solar system."},
 		{"id":"adbe434f7dfd3838","x":-1522,"y":3472,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"ba08f6c0198d0291","x":-1522,"y":3620,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"c54c11bc752f9909","x":-640,"y":3440,"width":634,"height":436,"type":"group","label":"Timber Hearth"},
@@ -19,13 +19,16 @@
 		{"id":"d770185dc21ec1b7","x":80,"y":3440,"width":634,"height":436,"type":"group","label":"Brittle Hollow"},
 		{"id":"3b0da09df612252a","x":80,"y":3472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
 		{"id":"cc908d39b958106a","x":80,"y":3826,"width":634,"height":50,"type":"text","text":"# Brittle Hollow"},
+		{"id":"60760506e7cef5b7","x":-1175,"y":1306,"width":2880,"height":1696,"type":"file","file":"99. Attachments/Planetary Chart.png"},
 		{"id":"484bfc8b87dc8aa5","x":2080,"y":3440,"width":1236,"height":826,"type":"group","label":"Deep Space Satellite"},
 		{"id":"d341b333285cfbcc","x":2127,"y":3518,"width":909,"height":263,"color":"#946b6b","type":"file","file":"10. Notes/Deep Space Satellite.md"},
 		{"id":"906ff23c45d24833","x":2127,"y":3906,"width":360,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Opposite Axis Orbit Trace.png"},
 		{"id":"4be97dfabf89fcfc","x":2576,"y":3906,"width":342,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Deep Space Satellite.png"},
 		{"id":"cea1dde24f10c4fd","x":2991,"y":3906,"width":285,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Map Offline - 1.png"},
-		{"id":"60760506e7cef5b7","x":-1175,"y":1306,"width":2880,"height":1696,"type":"file","file":"99. Attachments/Planetary Chart.png"},
-		{"id":"b3bcf5957431030b","x":86,"y":706,"width":355,"height":311,"color":"#946b6b","type":"file","file":"10. Notes/Solar System - General Info.md"}
+		{"id":"b3bcf5957431030b","x":86,"y":706,"width":355,"height":311,"color":"#946b6b","type":"file","file":"10. Notes/Solar System - General Info.md"},
+		{"id":"d1da6732a784944f","x":800,"y":3440,"width":634,"height":436,"type":"group","label":"Giant's Deep"},
+		{"id":"07fc806469511c0a","x":800,"y":3472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"},
+		{"id":"c4b60389f1985656","x":800,"y":3826,"width":634,"height":50,"type":"text","text":"# Giant's Deep"}
 	],
 	"edges":[
 		{"id":"2657aabf28936dc6","fromNode":"a5c2be7045c71f8b","fromSide":"top","toNode":"d11c9fe67d5d8c55","toSide":"bottom"},
@@ -36,6 +39,7 @@
 		{"id":"a779ae25deb25fd6","fromNode":"b3bcf5957431030b","fromSide":"bottom","toNode":"60760506e7cef5b7","toSide":"top"},
 		{"id":"9a034b072186b44d","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"484bfc8b87dc8aa5","toSide":"top"},
 		{"id":"4f87fa809cb3fe66","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"c54c11bc752f9909","toSide":"top"},
-		{"id":"80f59e9ded4df4ad","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"d770185dc21ec1b7","toSide":"top"}
+		{"id":"80f59e9ded4df4ad","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"d770185dc21ec1b7","toSide":"top"},
+		{"id":"7340b8d00b212e17","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"d1da6732a784944f","toSide":"top"}
 	]
 }

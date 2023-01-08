@@ -11,16 +11,8 @@
             "id": "8ea2fd894832fcb5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
-                "viewState": {
-                  "x": 109.11167593002119,
-                  "y": 1268.4786957552337,
-                  "zoom": -1.9999999999999993,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -45,11 +37,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
                 "viewState": {
-                  "x": 551.980445779156,
-                  "y": 5077.648930410785,
-                  "zoom": -0.15158031471764477,
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"
               }
             }
           }
@@ -233,13 +225,13 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
-    "10. Notes/Warp Receiver - Giant's Deep.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
-    "100. Templates/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Untitled.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Untitled.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
+    "10. Notes/Warp Receiver - Giant's Deep.md",
+    "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
