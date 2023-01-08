@@ -1,23 +1,25 @@
 {
 	"nodes":[
 		{"id":"768188392ebdbda0","x":78,"y":-931,"width":400,"height":230,"type":"group","label":"Overview Map"},
-		{"id":"8245ff289e98eff7","x":78,"y":-899,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"5548608ddb6e7730","x":78,"y":-751,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"24459a53fc81bd78","x":-510,"y":-931,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"c88a0a6ea47511d1","x":-510,"y":-899,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"6b5eec0b89b3edb9","x":-510,"y":-751,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"253cf609141e4551","x":1282,"y":437,"width":277,"height":280,"type":"file","file":"99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png"},
-		{"id":"7d7dec683d628db2","x":1602,"y":437,"width":620,"height":378,"type":"file","file":"99. Attachments/Crossroads - Main Area.png"},
-		{"id":"6dc163f5f9487a20","x":1602,"y":881,"width":620,"height":420,"type":"file","file":"99. Attachments/Crossroads - Bottom Part.png"},
-		{"id":"3ee5dffae00370d3","x":-113,"y":-320,"width":782,"height":374,"type":"file","file":"10. Notes/The Crossroads.md"},
-		{"id":"3af45a6b1fe412cb","x":-520,"y":280,"width":480,"height":252,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
-		{"id":"c2171ad2ab9cc77a","x":-658,"y":717,"width":277,"height":291,"type":"file","file":"99. Attachments/Riebeck.png"},
-		{"id":"9c1e89e0145c7e35","x":-219,"y":717,"width":359,"height":257,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"}
+		{"id":"8245ff289e98eff7","x":78,"y":-899,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"c88a0a6ea47511d1","x":-510,"y":-899,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"d884cfc25944cc44","x":-72,"y":-400,"width":700,"height":1389,"type":"group","label":"The Crossroads"},
+		{"id":"7d7dec683d628db2","x":-32,"y":109,"width":620,"height":378,"type":"file","file":"99. Attachments/Crossroads - Main Area.png"},
+		{"id":"6dc163f5f9487a20","x":-32,"y":529,"width":620,"height":420,"type":"file","file":"99. Attachments/Crossroads - Bottom Part.png"},
+		{"id":"3ee5dffae00370d3","x":-32,"y":-331,"width":620,"height":398,"type":"file","file":"10. Notes/The Crossroads.md"},
+		{"id":"253cf609141e4551","x":1040,"y":158,"width":277,"height":280,"type":"file","file":"99. Attachments/Crossroads Connections.png"},
+		{"id":"c2171ad2ab9cc77a","x":-100,"y":1797,"width":277,"height":291,"type":"file","file":"99. Attachments/Riebeck.png"},
+		{"id":"3af45a6b1fe412cb","x":38,"y":1360,"width":480,"height":252,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
+		{"id":"9c1e89e0145c7e35","x":339,"y":1797,"width":359,"height":257,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"}
 	],
 	"edges":[
-		{"id":"6d9dea8eee75db4b","fromNode":"3ee5dffae00370d3","fromSide":"bottom","toNode":"3af45a6b1fe412cb","toSide":"top"},
-		{"id":"cc92c99866b02687","fromNode":"3ee5dffae00370d3","fromSide":"top","toNode":"768188392ebdbda0","toSide":"bottom"},
 		{"id":"9220f0164e4c1a5d","fromNode":"3af45a6b1fe412cb","fromSide":"bottom","toNode":"c2171ad2ab9cc77a","toSide":"top"},
-		{"id":"c9f696e630e0e821","fromNode":"3af45a6b1fe412cb","fromSide":"bottom","toNode":"9c1e89e0145c7e35","toSide":"top"}
+		{"id":"c9f696e630e0e821","fromNode":"3af45a6b1fe412cb","fromSide":"bottom","toNode":"9c1e89e0145c7e35","toSide":"top"},
+		{"id":"ecc40f1993815c8e","fromNode":"5548608ddb6e7730","fromSide":"bottom","toNode":"d884cfc25944cc44","toSide":"top"},
+		{"id":"56a95d05379793d9","fromNode":"d884cfc25944cc44","fromSide":"bottom","toNode":"3af45a6b1fe412cb","toSide":"top"},
+		{"id":"e4b480b9f68f1a26","fromNode":"d884cfc25944cc44","fromSide":"right","toNode":"253cf609141e4551","toSide":"left"}
 	]
 }
