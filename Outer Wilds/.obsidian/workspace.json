@@ -29,11 +29,27 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "100. Templates/Canvas Template.canvas",
                 "viewState": {
-                  "x": 1455.0239945743497,
-                  "y": 2985.887086210548,
-                  "zoom": -2.333333333333333,
+                  "x": -222,
+                  "y": 59.5,
+                  "zoom": -0.6860440895544941,
+                  "snapToGrid": true
+                }
+              }
+            }
+          },
+          {
+            "id": "7fccb3a4ef521c54",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
+                "viewState": {
+                  "x": 484.2368872787114,
+                  "y": -56.166784012806175,
+                  "zoom": -0.5971957437034041,
                   "snapToGrid": true
                 }
               }
@@ -72,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "10. Notes/Esker's Signalscope Watching Platform.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "10. Notes/Esker's Signalscope Watching Platform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
+                "file": "10. Notes/Esker's Signalscope Watching Platform.md"
               }
             }
           }
@@ -199,17 +215,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ce90fc8b8e879b8",
+  "active": "7fccb3a4ef521c54",
   "lastOpenFiles": [
-    "10. Notes/Deep Space Radio Frequency.md",
+    "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
-    "101. Backup/0. Timber Hearth Map Backup.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
+    "101. Backup/0. Timber Hearth Map Backup.canvas",
+    "10. Notes/Deep Space Radio Frequency.md",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "100. Templates/Canvas Template.canvas",
-    "100. Templates/0. Outer Wilds T.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"
+    "100. Templates/0. Outer Wilds T.md"
   ]
 }
