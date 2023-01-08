@@ -1,1 +1,22 @@
-{}
+{
+	"nodes":[
+		{"id":"0733e6d3bc81e2e4","x":3,"y":256,"width":522,"height":184,"type":"text","text":"# Canvas Description"},
+		{"id":"6de78bcee44bd4e2","x":63,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"931b9ddb83e92e2f","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"1f871eaa2bcd95ad","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"0a72667d599ec8c1","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"5115e40af0b2b600","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"e0ce5853045ba2e0","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"f8263777088e251a","x":-480,"y":680,"width":1686,"height":1248,"color":"1","type":"group","label":"Escape Pod 01"},
+		{"id":"33807c9b0ca77b3f","x":-434,"y":724,"width":440,"height":620,"color":"1","type":"file","file":"10. Notes/Escape Pod 01.md"},
+		{"id":"c1132773f01468b7","x":766,"y":724,"width":400,"height":923,"color":"1","type":"file","file":"10. Notes/Vessel.md"},
+		{"id":"5a1408b089c7d9e8","x":486,"y":724,"width":250,"height":544,"color":"1","type":"file","file":"10. Notes/Escape Pods.md"},
+		{"id":"d3246384a0c69521","x":46,"y":724,"width":400,"height":336,"color":"1","type":"file","file":"99. Attachments/Escape Pod 01 and Distress Signal Emitter.png"},
+		{"id":"be33b2bd578663c2","x":46,"y":1108,"width":400,"height":271,"color":"1","type":"file","file":"99. Attachments/Inside the Escape Pod.png"},
+		{"id":"37cb2121accd1962","x":46,"y":1428,"width":400,"height":341,"color":"1","type":"file","file":"99. Attachments/Path to the Abandoned Shelter.png"},
+		{"id":"1a6399f3dcc9fff0","x":-434,"y":1379,"width":440,"height":495,"color":"1","type":"file","file":"99. Attachments/Path to the Abandoned Shelter - Back door of Escape Pod 01.png"}
+	],
+	"edges":[
+		{"id":"c88f61f33334fee4","fromNode":"0733e6d3bc81e2e4","fromSide":"top","toNode":"6de78bcee44bd4e2","toSide":"bottom"}
+	]
+}

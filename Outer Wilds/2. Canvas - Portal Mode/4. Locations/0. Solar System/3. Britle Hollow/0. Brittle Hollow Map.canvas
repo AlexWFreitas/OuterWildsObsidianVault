@@ -22,9 +22,9 @@
 		{"id":"cdccd17f1268ee4a","x":-980,"y":600,"width":440,"height":820,"type":"group","label":"Black Hole"},
 		{"id":"01a95e3667338728","x":-938,"y":1028,"width":367,"height":354,"type":"file","file":"99. Attachments/Black Hole.png"},
 		{"id":"061b999b943cbe29","x":-938,"y":651,"width":367,"height":343,"type":"file","file":"10. Notes/Black Hole.md"},
-		{"id":"f57722f9a3c824f0","x":-1560,"y":1760,"width":187,"height":54,"type":"text","text":"# Warps to"},
-		{"id":"36e4c82e65c5a2ee","x":-980,"y":1720,"width":500,"height":520,"type":"group","label":"White Hole Sector"},
-		{"id":"6b676017053528d3","x":-980,"y":1760,"width":409,"height":400,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas"}
+		{"id":"36e4c82e65c5a2ee","x":-1800,"y":760,"width":500,"height":501,"type":"group","label":"White Hole Sector"},
+		{"id":"f57722f9a3c824f0","x":-1800,"y":1200,"width":500,"height":61,"type":"text","text":"# White Hole Sector"},
+		{"id":"6b676017053528d3","x":-1800,"y":800,"width":500,"height":400,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas"}
 	],
 	"edges":[
 		{"id":"ebcbc418670df15a","fromNode":"d8c208480f31f10f","fromSide":"top","toNode":"97ecbaefb1235978","toSide":"bottom"},
@@ -34,6 +34,6 @@
 		{"id":"9357f515279eddc2","fromNode":"6b44ca1c752a1d4b","fromSide":"bottom","toNode":"5aa111705afdae2d","toSide":"top"},
 		{"id":"9b8e7ef67813b715","fromNode":"93ae2c0bb8a8067f","fromSide":"right","toNode":"f86f20db1d38b47b","toSide":"left","color":"3","label":"Related?"},
 		{"id":"388b5a6943c1597e","fromNode":"d8c208480f31f10f","fromSide":"bottom","toNode":"cdccd17f1268ee4a","toSide":"top"},
-		{"id":"6356afa0d1f25635","fromNode":"cdccd17f1268ee4a","fromSide":"bottom","toNode":"36e4c82e65c5a2ee","toSide":"top"}
+		{"id":"6356afa0d1f25635","fromNode":"cdccd17f1268ee4a","fromSide":"left","toNode":"6b676017053528d3","toSide":"right","label":"Warps To"}
 	]
 }
