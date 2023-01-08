@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
                 "viewState": {
-                  "x": 1467.4778699014744,
-                  "y": 1603.7478910143673,
-                  "zoom": -0.22621121750108258,
+                  "x": 172.85481623778446,
+                  "y": -220.50916150315473,
+                  "zoom": -0.3241169844450264,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas"
               }
             }
           }
@@ -233,10 +233,10 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
     "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "100. Templates/0. Outer Wilds T.md",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
