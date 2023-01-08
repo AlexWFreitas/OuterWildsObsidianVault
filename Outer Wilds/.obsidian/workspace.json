@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "viewState": {
-                  "x": -1097.519976650214,
-                  "y": 3138.5193672662026,
-                  "zoom": -2.400789950728729,
+                  "x": 463.7206470646155,
+                  "y": -1871.0294843620923,
+                  "zoom": -3.067456617395396,
                   "snapToGrid": true
                 }
               }
@@ -63,9 +63,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
                 "viewState": {
-                  "x": 2378.6814856375395,
-                  "y": 185.18760212317932,
-                  "zoom": -1,
+                  "x": -653.4660322886637,
+                  "y": -1784.2615917411865,
+                  "zoom": -1.6666666666666665,
                   "snapToGrid": true
                 }
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Using the Gravity Floor to walk on it.png",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Using the Gravity Floor to walk on it.png",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Using the Gravity Floor to walk on it.png"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas"
               }
             }
           }
@@ -231,10 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77779fa6dc0e48bd",
+  "active": "7fccb3a4ef521c54",
   "lastOpenFiles": [
-    "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
+    "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
