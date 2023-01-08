@@ -6,24 +6,26 @@
 		{"id":"6b2137bd2daaa560","x":-740,"y":-800,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"02cf25a7f329d9d8","x":-740,"y":-768,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"bbbfcb15548d1061","x":-740,"y":-620,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"5f27cce1360afd50","x":-642,"y":-80,"width":1380,"height":512,"type":"group","label":"Southern Observatory - Surface"},
+		{"id":"5f27cce1360afd50","x":-642,"y":-80,"width":1380,"height":960,"type":"group","label":"Southern Observatory - Surface"},
 		{"id":"263476d072a54ff8","x":-602,"y":-23,"width":630,"height":404,"type":"file","file":"10. Notes/Southern Observatory.md"},
 		{"id":"341c62bc17b7e224","x":58,"y":-23,"width":640,"height":404,"type":"file","file":"99. Attachments/Southern Laboratory - Surface.png"},
-		{"id":"3a3d5a959743b07e","x":-692,"y":840,"width":1432,"height":960,"type":"group","label":"Southern Observatory - Underground"},
-		{"id":"0e8850f16ca6f340","x":-652,"y":900,"width":420,"height":524,"type":"file","file":"10. Notes/Southern Observatory.md"},
-		{"id":"5971f7bdf4f9392d","x":-407,"y":2060,"width":470,"height":231,"type":"file","file":"10. Notes/Southern Observatory - Planet Locator.md"},
-		{"id":"b962e0aad9bffdad","x":-407,"y":2380,"width":470,"height":271,"type":"file","file":"99. Attachments/Observatory - Planet Locator.png"},
-		{"id":"565baf6b4dd1ec3e","x":310,"y":900,"width":394,"height":280,"type":"file","file":"99. Attachments/Path from Gravity Cannon.png"},
-		{"id":"8c594e00c4e2aa82","x":310,"y":1240,"width":394,"height":330,"type":"file","file":"99. Attachments/Path from Gravity Cannon 2.png"},
-		{"id":"2a84b7b1ba96317e","x":-652,"y":1493,"width":420,"height":267,"type":"file","file":"99. Attachments/Inside the Observatory.png"},
-		{"id":"7d1c858ab286d788","x":-172,"y":1240,"width":420,"height":330,"type":"file","file":"99. Attachments/Coming from the Tower of Quantum Knowledge.png"},
-		{"id":"0e5fcad18bf0bb9b","x":-172,"y":927,"width":420,"height":253,"type":"file","file":"99. Attachments/Giant's Deep Cyclone Simulator.png"}
+		{"id":"2a84b7b1ba96317e","x":-592,"y":440,"width":620,"height":394,"type":"file","file":"99. Attachments/Inside the Observatory.png"},
+		{"id":"0e5fcad18bf0bb9b","x":58,"y":449,"width":640,"height":385,"type":"file","file":"99. Attachments/Giant's Deep Cyclone Simulator.png"},
+		{"id":"3a3d5a959743b07e","x":-473,"y":1440,"width":1042,"height":940,"type":"group","label":"Southern Observatory - Underground Entrance"},
+		{"id":"86b6d271c099f319","x":-423,"y":1520,"width":400,"height":335,"type":"file","file":"10. Notes/Southern Observatory - Underground Entrance.md"},
+		{"id":"8c594e00c4e2aa82","x":49,"y":1520,"width":471,"height":395,"type":"file","file":"99. Attachments/Path from Gravity Cannon 2.png"},
+		{"id":"7d1c858ab286d788","x":-433,"y":1993,"width":420,"height":330,"type":"file","file":"99. Attachments/Coming from the Tower of Quantum Knowledge.png"},
+		{"id":"565baf6b4dd1ec3e","x":55,"y":1993,"width":465,"height":330,"type":"file","file":"99. Attachments/Path from Gravity Cannon.png"},
+		{"id":"45c59188b4e772fa","x":-1260,"y":1440,"width":520,"height":680,"type":"group","label":"Planet Locator"},
+		{"id":"0b2879db8ea239af","x":-1232,"y":1506,"width":470,"height":231,"type":"file","file":"10. Notes/Southern Observatory - Planet Locator.md"},
+		{"id":"54fca85fce7d758a","x":-1232,"y":1800,"width":469,"height":271,"type":"file","file":"99. Attachments/Observatory - Planet Locator.png"}
 	],
 	"edges":[
 		{"id":"08195f4831c90f3e","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"c6e12958537a58f5","toSide":"bottom"},
-		{"id":"b879e1c525295455","fromNode":"3a3d5a959743b07e","fromSide":"top","toNode":"5f27cce1360afd50","toSide":"bottom","label":"Entrance"},
-		{"id":"cacd6b2c7790edbf","fromNode":"565baf6b4dd1ec3e","fromSide":"bottom","toNode":"8c594e00c4e2aa82","toSide":"top"},
-		{"id":"74c3725c2fcd545e","fromNode":"3a3d5a959743b07e","fromSide":"bottom","toNode":"5971f7bdf4f9392d","toSide":"top"},
-		{"id":"7d43ca4b9ab0a926","fromNode":"5971f7bdf4f9392d","fromSide":"bottom","toNode":"b962e0aad9bffdad","toSide":"top"}
+		{"id":"b879e1c525295455","fromNode":"3a3d5a959743b07e","fromSide":"top","toNode":"5f27cce1360afd50","toSide":"bottom","color":"5","label":"Entrance"},
+		{"id":"a0d6667321aa7d68","fromNode":"7d1c858ab286d788","fromSide":"top","toNode":"86b6d271c099f319","toSide":"bottom"},
+		{"id":"794cc1c682fde5b1","fromNode":"565baf6b4dd1ec3e","fromSide":"top","toNode":"8c594e00c4e2aa82","toSide":"bottom"},
+		{"id":"08cec6bc29a3c2c5","fromNode":"8c594e00c4e2aa82","fromSide":"left","toNode":"86b6d271c099f319","toSide":"right"},
+		{"id":"e84db4e14de1e511","fromNode":"5f27cce1360afd50","fromSide":"bottom","toNode":"45c59188b4e772fa","toSide":"top","color":"4","label":"Contains"}
 	]
 }

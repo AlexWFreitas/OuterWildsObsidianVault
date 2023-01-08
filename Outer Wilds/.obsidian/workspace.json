@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
                 "viewState": {
-                  "x": 4401.78728253649,
-                  "y": 212.30467412554253,
-                  "zoom": -1.666666666666666,
+                  "x": 54,
+                  "y": 53.5,
+                  "zoom": -0.8349155491934592,
                   "snapToGrid": true
                 }
               }
@@ -63,9 +63,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
                 "viewState": {
-                  "x": 155.4707362464357,
-                  "y": 1117.223790796559,
-                  "zoom": -0.6666666666666667,
+                  "x": 614.6331498149925,
+                  "y": 678.1879127337522,
+                  "zoom": -1.9999999999999993,
                   "snapToGrid": true
                 }
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas"
               }
             }
           }
@@ -231,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77779fa6dc0e48bd",
+  "active": "7fccb3a4ef521c54",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
