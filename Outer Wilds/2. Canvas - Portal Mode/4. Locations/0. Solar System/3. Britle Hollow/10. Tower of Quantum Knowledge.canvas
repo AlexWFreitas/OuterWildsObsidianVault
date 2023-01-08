@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"467869513d469193","x":-180,"y":-620,"width":680,"height":700,"type":"group","label":"Tower of Quantum Knowledge - Surface"},
+		{"id":"42e2d9fb799ba965","x":-139,"y":-561,"width":600,"height":229,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Surface"},
+		{"id":"e406a244b43d1521","x":268,"y":-1240,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"f255895ec4b40d07","x":268,"y":-1208,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"4c8c1bed09702796","x":268,"y":-1060,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"1f946f9b00f07ecf","x":-320,"y":-1240,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"c9da9b2617571d4b","x":-320,"y":-1208,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"8cebda65eeeb760f","x":-320,"y":-1060,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"8cf787f004e765c2","x":-139,"y":-260,"width":600,"height":313,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Surface Entrance.png"},
+		{"id":"60694b161409ee0a","x":-849,"y":440,"width":2018,"height":1189,"type":"group","label":"Tower of Quantum Knowledge"},
+		{"id":"fe2819b4958f8417","x":-791,"y":519,"width":500,"height":401,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Underground"},
+		{"id":"14f6d4302cb14961","x":-251,"y":519,"width":480,"height":363,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor Outside.png"},
+		{"id":"97bc3ecec7b3ddd7","x":709,"y":829,"width":430,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Middle Floor.png"},
+		{"id":"943ebc748c968591","x":-251,"y":920,"width":480,"height":326,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - At the Bottom Entrance - Blocked.png"},
+		{"id":"f81e59ab802fb2e0","x":289,"y":1169,"width":228,"height":399,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after being expelled by a White Hole.png"},
+		{"id":"742de815a74b866d","x":289,"y":519,"width":400,"height":274,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Lower Floor.png"},
+		{"id":"dfb480a230a50e43","x":289,"y":829,"width":400,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
+		{"id":"905990fd534033a2","x":709,"y":519,"width":400,"height":271,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor.png"},
+		{"id":"2e5941626bf97765","x":-348,"y":1883,"width":228,"height":77,"type":"text","text":"# Information"},
+		{"id":"e0cd47727c07ce1d","x":-484,"y":2120,"width":500,"height":616,"type":"file","file":"10. Notes/Quantum Moon.md"}
+	],
+	"edges":[
+		{"id":"a9ca0af7b8200eb8","fromNode":"467869513d469193","fromSide":"bottom","toNode":"60694b161409ee0a","toSide":"top","label":"Underground"},
+		{"id":"4e094fc469397df2","fromNode":"2e5941626bf97765","fromSide":"bottom","toNode":"e0cd47727c07ce1d","toSide":"top"},
+		{"id":"5b7595897bc99f7c","fromNode":"60694b161409ee0a","fromSide":"bottom","toNode":"2e5941626bf97765","toSide":"top"}
+	]
+}
