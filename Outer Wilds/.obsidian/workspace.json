@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "viewState": {
-                  "x": 5111.285436883247,
-                  "y": 2812.438043875775,
-                  "zoom": -1.4007899507287291,
+                  "x": -1097.519976650214,
+                  "y": 3138.5193672662026,
+                  "zoom": -2.400789950728729,
                   "snapToGrid": true
                 }
               }
@@ -61,11 +61,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
                 "viewState": {
-                  "x": 232.56273418441822,
-                  "y": 1689.7155059083377,
-                  "zoom": -1.0949135801184384,
+                  "x": -807.3319320616652,
+                  "y": -1161.5356701378632,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
+                "file": "10. Notes/Hanging City.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
+                "file": "10. Notes/Hanging City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas"
+                "file": "10. Notes/Hanging City.md"
               }
             }
           }
@@ -233,15 +233,15 @@
   },
   "active": "77779fa6dc0e48bd",
   "lastOpenFiles": [
+    "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
-    "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/6. Gravity Crystal Workshop.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas"
   ]
 }
