@@ -63,9 +63,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas",
                 "viewState": {
-                  "x": 419.9318677923107,
-                  "y": -51.81499325125554,
-                  "zoom": -1.1102230246251565e-16,
+                  "x": 1711.7956076706805,
+                  "y": 637.0092084373255,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/The Crossroads.md",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/The Crossroads.md",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/The Crossroads.md"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas"
               }
             }
           }
