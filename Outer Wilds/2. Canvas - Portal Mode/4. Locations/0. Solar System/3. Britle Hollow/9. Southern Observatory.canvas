@@ -25,13 +25,13 @@
 		{"id":"779cba663af24921","x":900,"y":-800,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
 		{"id":"ec5d8eb84568b9a1","x":900,"y":-768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
 		{"id":"3437467bf1cc9797","x":900,"y":-620,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"},
-		{"id":"769473eda5cf9c34","x":1044,"y":381,"width":196,"height":60,"type":"text","text":"# Connected"},
-		{"id":"e86427ffd81eff7b","x":1440,"y":80,"width":400,"height":230,"type":"group","label":"Gravity Cannon"},
-		{"id":"3c86e6e171d809dd","x":1440,"y":112,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/7. Brittle Hollow - Gravity Cannon.canvas"},
-		{"id":"0c56658077ae329c","x":1440,"y":260,"width":400,"height":50,"type":"text","text":"# Gravity Cannon"},
-		{"id":"c0e2d8426840cab2","x":1440,"y":480,"width":540,"height":236,"type":"group","label":"Tower of Quantum Knowledge"},
-		{"id":"4df1e16a5e546589","x":1440,"y":518,"width":540,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
-		{"id":"8ad1c6336e655d10","x":1440,"y":666,"width":540,"height":50,"type":"text","text":"# Tower of Quantum Knowledge"}
+		{"id":"30746456a5a6f8fc","x":-49,"y":2560,"width":196,"height":60,"type":"text","text":"# Connected"},
+		{"id":"df6d1cede1d351b6","x":160,"y":2880,"width":540,"height":236,"type":"group","label":"Tower of Quantum Knowledge"},
+		{"id":"d0dc3edc1939f8cb","x":160,"y":2918,"width":540,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"67a697616a3e6bba","x":160,"y":3066,"width":540,"height":50,"type":"text","text":"# Tower of Quantum Knowledge"},
+		{"id":"02e92ab81ef10a7b","x":-520,"y":2880,"width":400,"height":230,"type":"group","label":"Gravity Cannon"},
+		{"id":"c9280586b3641fc5","x":-520,"y":3060,"width":400,"height":50,"type":"text","text":"# Gravity Cannon"},
+		{"id":"2bf2de7d0612ab9f","x":-520,"y":2912,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/7. Brittle Hollow - Gravity Cannon.canvas"}
 	],
 	"edges":[
 		{"id":"08195f4831c90f3e","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"c6e12958537a58f5","toSide":"bottom"},
@@ -42,8 +42,8 @@
 		{"id":"e84db4e14de1e511","fromNode":"5f27cce1360afd50","fromSide":"bottom","toNode":"45c59188b4e772fa","toSide":"top","color":"4","label":"Contains"},
 		{"id":"d85c2e6bb0234c0c","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"fef5673dd91da3cd","toSide":"bottom"},
 		{"id":"0ee1f750d3ee51c6","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"779cba663af24921","toSide":"bottom"},
-		{"id":"6bb63895f63210d5","fromNode":"5f27cce1360afd50","fromSide":"right","toNode":"769473eda5cf9c34","toSide":"left"},
-		{"id":"73213f13bf39ebf8","fromNode":"769473eda5cf9c34","fromSide":"top","toNode":"e86427ffd81eff7b","toSide":"left"},
-		{"id":"75bd504ae770ccd2","fromNode":"769473eda5cf9c34","fromSide":"bottom","toNode":"c0e2d8426840cab2","toSide":"left"}
+		{"id":"7f578255af5eda79","fromNode":"30746456a5a6f8fc","fromSide":"bottom","toNode":"02e92ab81ef10a7b","toSide":"top"},
+		{"id":"f0546831f895edab","fromNode":"30746456a5a6f8fc","fromSide":"bottom","toNode":"df6d1cede1d351b6","toSide":"top"},
+		{"id":"849cea2af13ed9dd","fromNode":"30746456a5a6f8fc","fromSide":"top","toNode":"3a3d5a959743b07e","toSide":"bottom"}
 	]
 }
