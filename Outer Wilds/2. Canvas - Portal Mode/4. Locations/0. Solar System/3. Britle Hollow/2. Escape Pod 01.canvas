@@ -11,17 +11,25 @@
 		{"id":"d3246384a0c69521","x":263,"y":80,"width":480,"height":403,"type":"file","file":"99. Attachments/Escape Pod 01 and Distress Signal Emitter.png"},
 		{"id":"be33b2bd578663c2","x":263,"y":520,"width":480,"height":325,"type":"file","file":"99. Attachments/Inside the Escape Pod.png"},
 		{"id":"1a6399f3dcc9fff0","x":-217,"y":760,"width":440,"height":495,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter - Back door of Escape Pod 01.png"},
-		{"id":"37cb2121accd1962","x":263,"y":880,"width":480,"height":409,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter.png"},
+		{"id":"37cb2121accd1962","x":263,"y":880,"width":479,"height":409,"type":"file","file":"99. Attachments/Path to the Abandoned Shelter.png"},
 		{"id":"711fafb3acbf7fab","x":149,"y":1513,"width":228,"height":60,"type":"text","text":"# Information"},
 		{"id":"5a1408b089c7d9e8","x":-400,"y":1732,"width":510,"height":328,"type":"file","file":"10. Notes/Escape Pods.md"},
 		{"id":"c1132773f01468b7","x":400,"y":1732,"width":760,"height":563,"type":"file","file":"10. Notes/Vessel.md"},
-		{"id":"c8a3f100eced1d7d","x":1520,"y":1545,"width":186,"height":56,"type":"text","text":"# Leads to"}
+		{"id":"c8a3f100eced1d7d","x":1520,"y":1545,"width":186,"height":56,"type":"text","text":"# Leads to"},
+		{"id":"22c4c44139246240","x":640,"y":-439,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"f04cf06e6d40de49","x":640,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"7b1f20838945fbe8","x":640,"y":-259,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"5d3732d8ddea8b3b","x":1160,"y":-439,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"ae90728ae2f5fb4b","x":1160,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"d3d1089ff4c4b6bf","x":1160,"y":-259,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"c88f61f33334fee4","fromNode":"f8263777088e251a","fromSide":"top","toNode":"6de78bcee44bd4e2","toSide":"bottom"},
 		{"id":"9b8ecd72d2b19651","fromNode":"f8263777088e251a","fromSide":"bottom","toNode":"711fafb3acbf7fab","toSide":"top"},
 		{"id":"d2e97b8b3ef7c6c0","fromNode":"711fafb3acbf7fab","fromSide":"bottom","toNode":"c1132773f01468b7","toSide":"top"},
 		{"id":"6ff2f81af59a00cf","fromNode":"711fafb3acbf7fab","fromSide":"bottom","toNode":"5a1408b089c7d9e8","toSide":"top"},
-		{"id":"20cb0a0efad7977b","fromNode":"f8263777088e251a","fromSide":"bottom","toNode":"c8a3f100eced1d7d","toSide":"top"}
+		{"id":"20cb0a0efad7977b","fromNode":"f8263777088e251a","fromSide":"bottom","toNode":"c8a3f100eced1d7d","toSide":"top"},
+		{"id":"ab97538d9c8c6787","fromNode":"f8263777088e251a","fromSide":"top","toNode":"22c4c44139246240","toSide":"bottom"},
+		{"id":"6440683ad1d1ead0","fromNode":"f8263777088e251a","fromSide":"top","toNode":"5d3732d8ddea8b3b","toSide":"bottom"}
 	]
 }

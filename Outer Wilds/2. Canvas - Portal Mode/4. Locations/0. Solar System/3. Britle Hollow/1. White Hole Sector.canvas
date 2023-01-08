@@ -19,7 +19,13 @@
 		{"id":"770b0082b02d7701","x":-960,"y":1200,"width":400,"height":359,"type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"},
 		{"id":"0b1bf948c3d21412","x":-273,"y":143,"width":172,"height":60,"type":"text","text":"# Warps To"},
 		{"id":"f66653a72520bbee","x":120,"y":335,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
-		{"id":"30d1ddcab92abb53","x":238,"y":143,"width":165,"height":60,"type":"text","text":"# Inspired"}
+		{"id":"30d1ddcab92abb53","x":238,"y":143,"width":165,"height":60,"type":"text","text":"# Inspired"},
+		{"id":"03c6fd028d89301b","x":880,"y":-1800,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"b4b50a976548e54f","x":880,"y":-1768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"43f4e569795c1d0c","x":880,"y":-1620,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"007a3fbf6f725b3c","x":1400,"y":-1800,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"e7c17fe046e357dd","x":1400,"y":-1768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"7a3952d44063def1","x":1400,"y":-1620,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"9dc5b7f7aa3870ef","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"f7af2e1b7d50a06e","toSide":"top"},
@@ -35,6 +41,8 @@
 		{"id":"b8676845c7dde390","fromNode":"8e3d17981a80565a","fromSide":"top","toNode":"71066bc012e93cc3","toSide":"bottom"},
 		{"id":"66f71f682d10db14","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"0b1bf948c3d21412","toSide":"top"},
 		{"id":"3d5151b4ebd8fe96","fromNode":"0b1bf948c3d21412","fromSide":"bottom","toNode":"2f26d9904e5f7717","toSide":"top"},
-		{"id":"6ea585749e370559","fromNode":"30d1ddcab92abb53","fromSide":"bottom","toNode":"f66653a72520bbee","toSide":"top"}
+		{"id":"6ea585749e370559","fromNode":"30d1ddcab92abb53","fromSide":"bottom","toNode":"f66653a72520bbee","toSide":"top"},
+		{"id":"79d6bed1c095db23","fromNode":"8e3d17981a80565a","fromSide":"top","toNode":"007a3fbf6f725b3c","toSide":"bottom"},
+		{"id":"7d43d0854a4ea45d","fromNode":"8e3d17981a80565a","fromSide":"top","toNode":"03c6fd028d89301b","toSide":"bottom"}
 	]
 }

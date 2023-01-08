@@ -7,10 +7,18 @@
 		{"id":"24cf8d035a1f2c7c","x":-480,"y":-528,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"58c986b44dcee1f4","x":-480,"y":-380,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"57105dbf11f3ad81","x":36,"y":380,"width":545,"height":398,"type":"file","file":"99. Attachments/Gravity Crystal Workshop.png"},
-		{"id":"19c02900ba119c54","x":36,"y":-80,"width":545,"height":248,"type":"file","file":"10. Notes/Gravity Crystal Workshop.md"}
+		{"id":"19c02900ba119c54","x":36,"y":-80,"width":545,"height":248,"type":"file","file":"10. Notes/Gravity Crystal Workshop.md"},
+		{"id":"d208e93833d6c269","x":620,"y":-560,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"207e393b64c14ff5","x":620,"y":-528,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"ee492784ade4eba4","x":620,"y":-380,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"e229c9a2fcb090d1","x":1140,"y":-560,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"e38fda9467cd2d63","x":1140,"y":-528,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"63529c34a1475325","x":1140,"y":-380,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"f8d89b73dc7b41ec","fromNode":"19c02900ba119c54","fromSide":"bottom","toNode":"57105dbf11f3ad81","toSide":"top"},
-		{"id":"d875ff8d6ba356e5","fromNode":"19c02900ba119c54","fromSide":"top","toNode":"1351c88664692dc5","toSide":"bottom"}
+		{"id":"d875ff8d6ba356e5","fromNode":"19c02900ba119c54","fromSide":"top","toNode":"1351c88664692dc5","toSide":"bottom"},
+		{"id":"f254ec40046e459a","fromNode":"19c02900ba119c54","fromSide":"top","toNode":"d208e93833d6c269","toSide":"bottom"},
+		{"id":"608b64b9e6eb200b","fromNode":"19c02900ba119c54","fromSide":"top","toNode":"e229c9a2fcb090d1","toSide":"bottom"}
 	]
 }

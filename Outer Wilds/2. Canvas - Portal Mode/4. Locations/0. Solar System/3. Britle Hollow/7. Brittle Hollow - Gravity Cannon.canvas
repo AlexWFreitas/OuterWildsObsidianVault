@@ -13,7 +13,13 @@
 		{"id":"a8204e888fae31c1","x":853,"y":1663,"width":400,"height":346,"type":"file","file":"99. Attachments/Path to the Crossroads 1.png"},
 		{"id":"eccaabaad539a095","x":853,"y":2129,"width":400,"height":258,"type":"file","file":"99. Attachments/Path to the Crossroads 2.png"},
 		{"id":"89e1313642ffaf3b","x":66,"y":1969,"width":520,"height":418,"type":"file","file":"99. Attachments/Gravity Cannon Controls and Shuttle on the Gravity Cannon.png"},
-		{"id":"3a4ec41f1bb50872","x":66,"y":1480,"width":520,"height":330,"type":"file","file":"99. Attachments/Gravity Cannon - Underground View.png"}
+		{"id":"3a4ec41f1bb50872","x":66,"y":1480,"width":520,"height":330,"type":"file","file":"99. Attachments/Gravity Cannon - Underground View.png"},
+		{"id":"2d0b6c9502739ec6","x":680,"y":-590,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"c757a9de5b8afe35","x":680,"y":-558,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"f9bceeececa0f6a5","x":680,"y":-410,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"248927d9408622d7","x":1200,"y":-590,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"7e7ca18a60990bdc","x":1200,"y":-558,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"23a47c1be9f46564","x":1200,"y":-410,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"a24226b718f0f0b0","fromNode":"c61a76c01b9a1d4d","fromSide":"bottom","toNode":"e41e6d4bc8b6ce3c","toSide":"top"},
@@ -23,6 +29,8 @@
 		{"id":"54a26054dccbaa2f","fromNode":"3a4ec41f1bb50872","fromSide":"bottom","toNode":"89e1313642ffaf3b","toSide":"top"},
 		{"id":"764d713a03b13d3f","fromNode":"b7d6b9bb1463d579","fromSide":"bottom","toNode":"a8204e888fae31c1","toSide":"top"},
 		{"id":"7494ca3c3b7a34cc","fromNode":"a8204e888fae31c1","fromSide":"bottom","toNode":"eccaabaad539a095","toSide":"top"},
-		{"id":"744e140e50e6775d","fromNode":"ad2f3ae8c93a63de","fromSide":"bottom","toNode":"b7d6b9bb1463d579","toSide":"top"}
+		{"id":"744e140e50e6775d","fromNode":"ad2f3ae8c93a63de","fromSide":"bottom","toNode":"b7d6b9bb1463d579","toSide":"top"},
+		{"id":"ac4b8887f67d346e","fromNode":"c61a76c01b9a1d4d","fromSide":"top","toNode":"2d0b6c9502739ec6","toSide":"bottom"},
+		{"id":"525be9bff8f6ad52","fromNode":"c61a76c01b9a1d4d","fromSide":"top","toNode":"248927d9408622d7","toSide":"bottom"}
 	]
 }

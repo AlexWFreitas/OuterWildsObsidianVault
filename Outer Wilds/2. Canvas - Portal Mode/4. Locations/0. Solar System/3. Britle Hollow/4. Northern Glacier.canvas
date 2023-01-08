@@ -8,11 +8,19 @@
 		{"id":"bbb36ce4928e26db","x":-440,"y":-540,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"0437c3c18da45471","x":148,"y":-280,"width":400,"height":209,"type":"file","file":"10. Notes/Northern Glacier.md"},
 		{"id":"5c40dc8af1a7fc04","x":148,"y":40,"width":400,"height":290,"type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
-		{"id":"82f36f3ccfee8bfc","x":148,"y":440,"width":400,"height":387,"type":"file","file":"99. Attachments/Northern Glacier Path.png"}
+		{"id":"82f36f3ccfee8bfc","x":148,"y":440,"width":400,"height":387,"type":"file","file":"99. Attachments/Northern Glacier Path.png"},
+		{"id":"011a57979c7322a9","x":680,"y":-720,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"4639e6c4d2192bd5","x":680,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"cb49ff7c05552db6","x":680,"y":-540,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"7464b6f03838f61a","x":1180,"y":-720,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"243483c79dff549e","x":1180,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"47e67d285bd31c8a","x":1180,"y":-540,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"d7478122d8a79535","fromNode":"0437c3c18da45471","fromSide":"bottom","toNode":"5c40dc8af1a7fc04","toSide":"top"},
 		{"id":"bda2a3af19e25cc0","fromNode":"5c40dc8af1a7fc04","fromSide":"bottom","toNode":"82f36f3ccfee8bfc","toSide":"top"},
-		{"id":"66e98fcdb69f34b5","fromNode":"0437c3c18da45471","fromSide":"top","toNode":"19b67f383097a84c","toSide":"bottom"}
+		{"id":"66e98fcdb69f34b5","fromNode":"0437c3c18da45471","fromSide":"top","toNode":"19b67f383097a84c","toSide":"bottom"},
+		{"id":"f014cc549c9e397f","fromNode":"0437c3c18da45471","fromSide":"top","toNode":"011a57979c7322a9","toSide":"bottom"},
+		{"id":"bd65254ecca57e98","fromNode":"0437c3c18da45471","fromSide":"top","toNode":"7464b6f03838f61a","toSide":"bottom"}
 	]
 }

@@ -13,13 +13,21 @@
 		{"id":"253cf609141e4551","x":1040,"y":158,"width":277,"height":280,"type":"file","file":"99. Attachments/Crossroads Connections.png"},
 		{"id":"c2171ad2ab9cc77a","x":-100,"y":1797,"width":277,"height":291,"type":"file","file":"99. Attachments/Riebeck.png"},
 		{"id":"3af45a6b1fe412cb","x":38,"y":1360,"width":480,"height":252,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
-		{"id":"9c1e89e0145c7e35","x":339,"y":1797,"width":359,"height":257,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"}
+		{"id":"9c1e89e0145c7e35","x":339,"y":1797,"width":359,"height":257,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"},
+		{"id":"ec6fc026c215f839","x":600,"y":-931,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"6a8947f26173d065","x":600,"y":-899,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"a1ec2659c0dc7196","x":600,"y":-751,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"ae2bc18a9bf01fe7","x":1120,"y":-931,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"e3a6661dbf27f2e1","x":1120,"y":-899,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"20785effaf9df134","x":1120,"y":-751,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"9220f0164e4c1a5d","fromNode":"3af45a6b1fe412cb","fromSide":"bottom","toNode":"c2171ad2ab9cc77a","toSide":"top"},
 		{"id":"c9f696e630e0e821","fromNode":"3af45a6b1fe412cb","fromSide":"bottom","toNode":"9c1e89e0145c7e35","toSide":"top"},
-		{"id":"ecc40f1993815c8e","fromNode":"5548608ddb6e7730","fromSide":"bottom","toNode":"d884cfc25944cc44","toSide":"top"},
 		{"id":"56a95d05379793d9","fromNode":"d884cfc25944cc44","fromSide":"bottom","toNode":"3af45a6b1fe412cb","toSide":"top"},
-		{"id":"e4b480b9f68f1a26","fromNode":"d884cfc25944cc44","fromSide":"right","toNode":"253cf609141e4551","toSide":"left"}
+		{"id":"e4b480b9f68f1a26","fromNode":"d884cfc25944cc44","fromSide":"right","toNode":"253cf609141e4551","toSide":"left"},
+		{"id":"ad594eb11a9eb681","fromNode":"d884cfc25944cc44","fromSide":"top","toNode":"ec6fc026c215f839","toSide":"bottom"},
+		{"id":"673419bb8367099c","fromNode":"d884cfc25944cc44","fromSide":"top","toNode":"768188392ebdbda0","toSide":"bottom"},
+		{"id":"2cdb3c20abf0ef9e","fromNode":"d884cfc25944cc44","fromSide":"top","toNode":"ae2bc18a9bf01fe7","toSide":"bottom"}
 	]
 }

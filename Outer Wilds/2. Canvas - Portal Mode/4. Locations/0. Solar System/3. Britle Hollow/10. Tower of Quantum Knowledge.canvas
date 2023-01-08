@@ -1,29 +1,37 @@
 {
 	"nodes":[
-		{"id":"467869513d469193","x":-180,"y":-620,"width":680,"height":700,"type":"group","label":"Tower of Quantum Knowledge - Surface"},
-		{"id":"42e2d9fb799ba965","x":-139,"y":-561,"width":600,"height":229,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Surface"},
 		{"id":"e406a244b43d1521","x":268,"y":-1240,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"f255895ec4b40d07","x":268,"y":-1208,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"4c8c1bed09702796","x":268,"y":-1060,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"1f946f9b00f07ecf","x":-320,"y":-1240,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"c9da9b2617571d4b","x":-320,"y":-1208,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"8cebda65eeeb760f","x":-320,"y":-1060,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"8cf787f004e765c2","x":-139,"y":-260,"width":600,"height":313,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Surface Entrance.png"},
 		{"id":"60694b161409ee0a","x":-849,"y":440,"width":1649,"height":1100,"type":"group","label":"Tower of Quantum Knowledge"},
 		{"id":"fe2819b4958f8417","x":-791,"y":519,"width":401,"height":488,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Underground"},
-		{"id":"14f6d4302cb14961","x":-325,"y":519,"width":611,"height":462,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor Outside.png"},
 		{"id":"f81e59ab802fb2e0","x":-791,"y":1041,"width":231,"height":404,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after being expelled by a White Hole.png"},
-		{"id":"943ebc748c968591","x":-531,"y":1041,"width":411,"height":279,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - At the Bottom Entrance - Blocked.png"},
+		{"id":"943ebc748c968591","x":-531,"y":1041,"width":410,"height":279,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - At the Bottom Entrance - Blocked.png"},
+		{"id":"467869513d469193","x":-180,"y":-620,"width":680,"height":700,"type":"group","label":"Tower of Quantum Knowledge - Surface"},
+		{"id":"42e2d9fb799ba965","x":-139,"y":-561,"width":600,"height":229,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Surface"},
+		{"id":"8cf787f004e765c2","x":-139,"y":-260,"width":599,"height":313,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Surface Entrance.png"},
+		{"id":"14f6d4302cb14961","x":-325,"y":519,"width":610,"height":462,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor Outside.png"},
 		{"id":"97bc3ecec7b3ddd7","x":320,"y":865,"width":430,"height":288,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Middle Floor.png"},
 		{"id":"905990fd534033a2","x":320,"y":519,"width":430,"height":291,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Top Floor.png"},
 		{"id":"742de815a74b866d","x":320,"y":1205,"width":430,"height":294,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Lower Floor.png"},
 		{"id":"dfb480a230a50e43","x":-100,"y":1041,"width":388,"height":279,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge - Looking downwards.png"},
 		{"id":"2e5941626bf97765","x":-134,"y":1720,"width":214,"height":77,"type":"text","text":"# Information"},
-		{"id":"e0cd47727c07ce1d","x":-341,"y":1960,"width":629,"height":516,"type":"file","file":"10. Notes/Quantum Moon.md"}
+		{"id":"e0cd47727c07ce1d","x":-341,"y":1960,"width":629,"height":516,"type":"file","file":"10. Notes/Quantum Moon.md"},
+		{"id":"1b1d23d4e92ff117","x":800,"y":-1240,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"8a095f6e203da1dc","x":800,"y":-1208,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"0f778b3011f5a873","x":800,"y":-1060,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"bcf10742defa147a","x":1320,"y":-1240,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"f744de271a11ca89","x":1320,"y":-1208,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"a3541b76da7d87a7","x":1320,"y":-1060,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"a9ca0af7b8200eb8","fromNode":"467869513d469193","fromSide":"bottom","toNode":"60694b161409ee0a","toSide":"top","label":"Underground"},
 		{"id":"4e094fc469397df2","fromNode":"2e5941626bf97765","fromSide":"bottom","toNode":"e0cd47727c07ce1d","toSide":"top"},
-		{"id":"5b7595897bc99f7c","fromNode":"60694b161409ee0a","fromSide":"bottom","toNode":"2e5941626bf97765","toSide":"top"}
+		{"id":"5b7595897bc99f7c","fromNode":"60694b161409ee0a","fromSide":"bottom","toNode":"2e5941626bf97765","toSide":"top"},
+		{"id":"a1dd6e982bc801eb","fromNode":"467869513d469193","fromSide":"top","toNode":"e406a244b43d1521","toSide":"bottom"},
+		{"id":"b74f85f683be03cc","fromNode":"467869513d469193","fromSide":"top","toNode":"1b1d23d4e92ff117","toSide":"bottom"}
 	]
 }

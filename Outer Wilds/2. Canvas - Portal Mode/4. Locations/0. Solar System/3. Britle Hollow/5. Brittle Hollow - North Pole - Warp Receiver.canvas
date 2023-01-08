@@ -7,14 +7,20 @@
 		{"id":"392913571cff999b","x":-471,"y":-713,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"2d1143bcd09821e5","x":-471,"y":-565,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"a36aca931a64edc6","x":429,"y":120,"width":543,"height":329,"type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
-		{"id":"d467987951d0c44e","x":429,"y":632,"width":543,"height":552,"type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
 		{"id":"666fb17e1cfcadc2","x":-271,"y":120,"width":454,"height":58,"type":"text","text":"# Secret Path to Hanging City"},
 		{"id":"803ef8e28e1601cb","x":-271,"y":341,"width":454,"height":330,"type":"file","file":"99. Attachments/North Pole - Secret Path - Hanging City.png"},
+		{"id":"40cc6adc1166878a","x":66,"y":-280,"width":503,"height":184,"type":"file","file":"10. Notes/North Pole.md"},
+		{"id":"d467987951d0c44e","x":429,"y":632,"width":543,"height":552,"type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
 		{"id":"fb3e8259c32ab58a","x":1209,"y":120,"width":500,"height":359,"type":"file","file":"99. Attachments/Brittle Hollow - North Pole Surroundings.png"},
 		{"id":"f09e7ea974707d2c","x":-271,"y":840,"width":454,"height":284,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 02.png"},
 		{"id":"67888519c79dbd78","x":-271,"y":1800,"width":454,"height":368,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 04.png"},
 		{"id":"a210838f1584cace","x":-271,"y":1320,"width":454,"height":326,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 03.png"},
-		{"id":"40cc6adc1166878a","x":66,"y":-280,"width":503,"height":184,"type":"file","file":"10. Notes/North Pole.md"}
+		{"id":"8343e6654fc56931","x":640,"y":-745,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"e7875c17a7d1c0b5","x":640,"y":-713,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"b98186f2191ae3f1","x":640,"y":-565,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"f9cce8ffe0cbd005","x":1160,"y":-745,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"e682aae050c9ce88","x":1160,"y":-713,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"f1e7a93fc67c89ce","x":1160,"y":-565,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"ba5ba6c4c6140f5e","fromNode":"a36aca931a64edc6","fromSide":"bottom","toNode":"d467987951d0c44e","toSide":"top"},
@@ -25,6 +31,8 @@
 		{"id":"49aec8fabf17e0f7","fromNode":"803ef8e28e1601cb","fromSide":"bottom","toNode":"f09e7ea974707d2c","toSide":"top"},
 		{"id":"30af1656cb35e5f1","fromNode":"a210838f1584cace","fromSide":"bottom","toNode":"67888519c79dbd78","toSide":"top"},
 		{"id":"6b7cccec3ad7a9a3","fromNode":"40cc6adc1166878a","fromSide":"bottom","toNode":"666fb17e1cfcadc2","toSide":"top"},
-		{"id":"780e376b2185e6f4","fromNode":"666fb17e1cfcadc2","fromSide":"bottom","toNode":"803ef8e28e1601cb","toSide":"top"}
+		{"id":"780e376b2185e6f4","fromNode":"666fb17e1cfcadc2","fromSide":"bottom","toNode":"803ef8e28e1601cb","toSide":"top"},
+		{"id":"44af3c356bdf47d4","fromNode":"40cc6adc1166878a","fromSide":"top","toNode":"8343e6654fc56931","toSide":"bottom"},
+		{"id":"b8a756e435fa6bb9","fromNode":"40cc6adc1166878a","fromSide":"top","toNode":"f9cce8ffe0cbd005","toSide":"bottom"}
 	]
 }

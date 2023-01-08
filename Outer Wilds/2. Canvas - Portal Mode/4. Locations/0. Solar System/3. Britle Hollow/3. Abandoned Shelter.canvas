@@ -11,7 +11,13 @@
 		{"id":"f3be5d014d9da33f","x":-283,"y":1560,"width":400,"height":361,"type":"file","file":"10. Notes/Escape Pods.md"},
 		{"id":"9876dc21f412345d","x":-1200,"y":1560,"width":800,"height":563,"type":"file","file":"10. Notes/Vessel.md"},
 		{"id":"b58ef698770f5331","x":-720,"y":1080,"width":590,"height":260,"type":"file","file":"99. Attachments/Painting explaining the Vessel Catastrophe.png"},
-		{"id":"783d2d1781af3299","x":104,"y":1080,"width":380,"height":260,"type":"file","file":"99. Attachments/Abandoned Shelter.png"}
+		{"id":"783d2d1781af3299","x":104,"y":1080,"width":380,"height":260,"type":"file","file":"99. Attachments/Abandoned Shelter.png"},
+		{"id":"435d84101f8060a1","x":640,"y":-115,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"4154cf1b74845458","x":640,"y":-83,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"7db1edda95e7047b","x":640,"y":65,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"cab7974c353835c4","x":1200,"y":-115,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"2b62725068b74c60","x":1200,"y":-83,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"bb5212ee9ddc6ccb","x":1200,"y":65,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"e166e0f9de480ab6","fromNode":"33887f355c5518fc","fromSide":"bottom","toNode":"b58ef698770f5331","toSide":"top"},
@@ -19,6 +25,8 @@
 		{"id":"73d4233977f7975b","fromNode":"33887f355c5518fc","fromSide":"bottom","toNode":"b13f519f7ccaa1d0","toSide":"top"},
 		{"id":"280c310d356085fc","fromNode":"b58ef698770f5331","fromSide":"bottom","toNode":"9876dc21f412345d","toSide":"top"},
 		{"id":"fb43af8bf5d1e196","fromNode":"b58ef698770f5331","fromSide":"bottom","toNode":"f3be5d014d9da33f","toSide":"top"},
-		{"id":"fd1c5c8b825c4f35","fromNode":"33887f355c5518fc","fromSide":"top","toNode":"a494d9d4d2d22077","toSide":"bottom"}
+		{"id":"fd1c5c8b825c4f35","fromNode":"33887f355c5518fc","fromSide":"top","toNode":"a494d9d4d2d22077","toSide":"bottom"},
+		{"id":"d0f1d7d26171fe93","fromNode":"33887f355c5518fc","fromSide":"top","toNode":"cab7974c353835c4","toSide":"bottom"},
+		{"id":"04f761d0c9729ff3","fromNode":"33887f355c5518fc","fromSide":"top","toNode":"435d84101f8060a1","toSide":"bottom"}
 	]
 }

@@ -9,16 +9,22 @@
 		{"id":"5f27cce1360afd50","x":-642,"y":-80,"width":1380,"height":960,"type":"group","label":"Southern Observatory - Surface"},
 		{"id":"263476d072a54ff8","x":-602,"y":-23,"width":630,"height":404,"type":"file","file":"10. Notes/Southern Observatory.md"},
 		{"id":"341c62bc17b7e224","x":58,"y":-23,"width":640,"height":404,"type":"file","file":"99. Attachments/Southern Laboratory - Surface.png"},
-		{"id":"2a84b7b1ba96317e","x":-592,"y":440,"width":620,"height":394,"type":"file","file":"99. Attachments/Inside the Observatory.png"},
+		{"id":"2a84b7b1ba96317e","x":-592,"y":440,"width":619,"height":394,"type":"file","file":"99. Attachments/Inside the Observatory.png"},
 		{"id":"0e5fcad18bf0bb9b","x":58,"y":449,"width":640,"height":385,"type":"file","file":"99. Attachments/Giant's Deep Cyclone Simulator.png"},
 		{"id":"3a3d5a959743b07e","x":-473,"y":1440,"width":1042,"height":940,"type":"group","label":"Southern Observatory - Underground Entrance"},
 		{"id":"86b6d271c099f319","x":-423,"y":1520,"width":400,"height":335,"type":"file","file":"10. Notes/Southern Observatory - Underground Entrance.md"},
 		{"id":"8c594e00c4e2aa82","x":49,"y":1520,"width":471,"height":395,"type":"file","file":"99. Attachments/Path from Gravity Cannon 2.png"},
-		{"id":"7d1c858ab286d788","x":-433,"y":1993,"width":420,"height":330,"type":"file","file":"99. Attachments/Coming from the Tower of Quantum Knowledge.png"},
+		{"id":"7d1c858ab286d788","x":-433,"y":1993,"width":419,"height":330,"type":"file","file":"99. Attachments/Coming from the Tower of Quantum Knowledge.png"},
 		{"id":"565baf6b4dd1ec3e","x":55,"y":1993,"width":465,"height":330,"type":"file","file":"99. Attachments/Path from Gravity Cannon.png"},
 		{"id":"45c59188b4e772fa","x":-1260,"y":1440,"width":520,"height":680,"type":"group","label":"Planet Locator"},
 		{"id":"0b2879db8ea239af","x":-1232,"y":1506,"width":470,"height":231,"type":"file","file":"10. Notes/Southern Observatory - Planet Locator.md"},
-		{"id":"54fca85fce7d758a","x":-1232,"y":1800,"width":469,"height":271,"type":"file","file":"99. Attachments/Observatory - Planet Locator.png"}
+		{"id":"54fca85fce7d758a","x":-1232,"y":1800,"width":469,"height":271,"type":"file","file":"99. Attachments/Observatory - Planet Locator.png"},
+		{"id":"fef5673dd91da3cd","x":380,"y":-800,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"83eb6e9e7ef32304","x":380,"y":-768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"56e3908c4d83c97e","x":380,"y":-620,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"779cba663af24921","x":900,"y":-800,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
+		{"id":"ec5d8eb84568b9a1","x":900,"y":-768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"3437467bf1cc9797","x":900,"y":-620,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
 	],
 	"edges":[
 		{"id":"08195f4831c90f3e","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"c6e12958537a58f5","toSide":"bottom"},
@@ -26,6 +32,8 @@
 		{"id":"a0d6667321aa7d68","fromNode":"7d1c858ab286d788","fromSide":"top","toNode":"86b6d271c099f319","toSide":"bottom"},
 		{"id":"794cc1c682fde5b1","fromNode":"565baf6b4dd1ec3e","fromSide":"top","toNode":"8c594e00c4e2aa82","toSide":"bottom"},
 		{"id":"08cec6bc29a3c2c5","fromNode":"8c594e00c4e2aa82","fromSide":"left","toNode":"86b6d271c099f319","toSide":"right"},
-		{"id":"e84db4e14de1e511","fromNode":"5f27cce1360afd50","fromSide":"bottom","toNode":"45c59188b4e772fa","toSide":"top","color":"4","label":"Contains"}
+		{"id":"e84db4e14de1e511","fromNode":"5f27cce1360afd50","fromSide":"bottom","toNode":"45c59188b4e772fa","toSide":"top","color":"4","label":"Contains"},
+		{"id":"d85c2e6bb0234c0c","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"fef5673dd91da3cd","toSide":"bottom"},
+		{"id":"0ee1f750d3ee51c6","fromNode":"5f27cce1360afd50","fromSide":"top","toNode":"779cba663af24921","toSide":"bottom"}
 	]
 }
