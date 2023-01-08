@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": 7662.453728863552,
-                  "y": 20396.85192088307,
-                  "zoom": -2.666666666666666,
+                  "x": -4475.121885708673,
+                  "y": 21477.000017620205,
+                  "zoom": -4,
                   "snapToGrid": false
                 }
               }
@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin Map.canvas",
                 "viewState": {
-                  "x": 1363.9622641509436,
-                  "y": -1596.899371069183,
-                  "zoom": -2.8118845805381185,
+                  "x": -995.3759247982953,
+                  "y": -3771.7966224626025,
+                  "zoom": -2.9999999999999996,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin Map.canvas"
               }
             }
           }
@@ -233,15 +233,15 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/3. Ash Twin Project.canvas",
     "100. Templates/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin Map.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas",
+    "0. START HERE/0. Starting Area.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/3. Ash Twin Project.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin.canvas",
-    "10. Notes/Hourglass Twins.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
   ]
 }

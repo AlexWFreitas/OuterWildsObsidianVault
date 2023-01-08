@@ -15,9 +15,17 @@
 		{"id":"2034ba59e120ca8a","x":372,"y":-418,"width":519,"height":357,"type":"file","file":"99. Attachments/Inside Ash Twin Project.png"},
 		{"id":"da9dc36ff7815a7a","x":932,"y":-1440,"width":595,"height":1704,"type":"file","file":"10. Notes/Ash Twin Project - Inside.md"},
 		{"id":"ecf8b14357a2d198","x":1572,"y":-1433,"width":431,"height":553,"type":"file","file":"99. Attachments/Ash Twin Project - Gravity Decoupling Mechanism.png"},
-		{"id":"86d422fd6bfec942","x":1572,"y":-807,"width":431,"height":304,"type":"file","file":"99. Attachments/Ash Twin Project - Advanced Warp Core.png"}
+		{"id":"86d422fd6bfec942","x":1572,"y":-807,"width":431,"height":304,"type":"file","file":"99. Attachments/Ash Twin Project - Advanced Warp Core.png"},
+		{"id":"66473302358293ed","x":1160,"y":-2471,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"f899e645b2b49eda","x":1160,"y":-2439,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"60e85b51e68714de","x":1160,"y":-2291,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"16d2747998cf3d7c","x":1720,"y":-2471,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
+		{"id":"c516d463dbc51b40","x":1720,"y":-2439,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"6abbd4c8b5fae824","x":1720,"y":-2291,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"}
 	],
 	"edges":[
-		{"id":"6d7d0756b88fa698","fromNode":"8ad29f32ff1276d1","fromSide":"top","toNode":"74d5011ad606d204","toSide":"bottom"}
+		{"id":"6d7d0756b88fa698","fromNode":"8ad29f32ff1276d1","fromSide":"top","toNode":"74d5011ad606d204","toSide":"bottom"},
+		{"id":"0e350a1134329656","fromNode":"8ad29f32ff1276d1","fromSide":"top","toNode":"66473302358293ed","toSide":"bottom"},
+		{"id":"95c8d7ecf1dd0cd2","fromNode":"8ad29f32ff1276d1","fromSide":"top","toNode":"16d2747998cf3d7c","toSide":"bottom"}
 	]
 }
