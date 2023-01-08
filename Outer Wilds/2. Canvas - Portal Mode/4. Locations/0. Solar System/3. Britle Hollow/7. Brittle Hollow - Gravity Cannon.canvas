@@ -19,7 +19,14 @@
 		{"id":"f9bceeececa0f6a5","x":680,"y":-410,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"248927d9408622d7","x":1200,"y":-590,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
 		{"id":"7e7ca18a60990bdc","x":1200,"y":-558,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
-		{"id":"23a47c1be9f46564","x":1200,"y":-410,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
+		{"id":"23a47c1be9f46564","x":1200,"y":-410,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"},
+		{"id":"91139c8556e8fed3","x":1120,"y":2600,"width":400,"height":230,"type":"group","label":"The Crossroads"},
+		{"id":"c8108dd01a0337d7","x":1120,"y":2632,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas"},
+		{"id":"d1043d113fd4bf6d","x":1120,"y":2780,"width":400,"height":50,"type":"text","text":"# The Crossroads"},
+		{"id":"d96c75422af73541","x":-760,"y":1480,"width":480,"height":66,"type":"text","text":"# Path to Southern Observatory"},
+		{"id":"43253fabffdbf448","x":-720,"y":1720,"width":400,"height":230,"type":"group","label":"Southern Observatory"},
+		{"id":"c7cbfc372445374c","x":-720,"y":1752,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas"},
+		{"id":"35d4869935a20915","x":-720,"y":1900,"width":400,"height":50,"type":"text","text":"# Southern Observatory"}
 	],
 	"edges":[
 		{"id":"a24226b718f0f0b0","fromNode":"c61a76c01b9a1d4d","fromSide":"bottom","toNode":"e41e6d4bc8b6ce3c","toSide":"top"},
@@ -31,6 +38,9 @@
 		{"id":"7494ca3c3b7a34cc","fromNode":"a8204e888fae31c1","fromSide":"bottom","toNode":"eccaabaad539a095","toSide":"top"},
 		{"id":"744e140e50e6775d","fromNode":"ad2f3ae8c93a63de","fromSide":"bottom","toNode":"b7d6b9bb1463d579","toSide":"top"},
 		{"id":"ac4b8887f67d346e","fromNode":"c61a76c01b9a1d4d","fromSide":"top","toNode":"2d0b6c9502739ec6","toSide":"bottom"},
-		{"id":"525be9bff8f6ad52","fromNode":"c61a76c01b9a1d4d","fromSide":"top","toNode":"248927d9408622d7","toSide":"bottom"}
+		{"id":"525be9bff8f6ad52","fromNode":"c61a76c01b9a1d4d","fromSide":"top","toNode":"248927d9408622d7","toSide":"bottom"},
+		{"id":"1aa8cffcb304d109","fromNode":"eccaabaad539a095","fromSide":"bottom","toNode":"91139c8556e8fed3","toSide":"top"},
+		{"id":"3da78cd5e24f923a","fromNode":"ad2f3ae8c93a63de","fromSide":"bottom","toNode":"d96c75422af73541","toSide":"top"},
+		{"id":"843ccfdc26030a47","fromNode":"d96c75422af73541","fromSide":"bottom","toNode":"43253fabffdbf448","toSide":"top"}
 	]
 }

@@ -106,7 +106,6 @@
 		{"id":"7f2de48af38f5201","fromNode":"8d00cc36568c545d","fromSide":"bottom","toNode":"33f083ddc213bd5d","toSide":"top","label":"Underground"},
 		{"id":"7b1b776ffa1c834d","fromNode":"54aa011a08e4f7a7","fromSide":"bottom","toNode":"b011f2a958adf9f7","toSide":"top"},
 		{"id":"c5bc8f684c4f5ae9","fromNode":"8453e3497a88d854","fromSide":"bottom","toNode":"7253fa22e028d24d","toSide":"top"},
-		{"id":"7ae63f76d50df404","fromNode":"f57722f9a3c824f0","fromSide":"bottom","toNode":"f831c6eae656bf1e","toSide":"top","label":"Warps to"},
-		{"id":"4143d4bf34cf6933","fromNode":"d8c208480f31f10f","fromSide":"top","toNode":"125d71d04f9d90d6","toSide":"bottom"}
+		{"id":"7ae63f76d50df404","fromNode":"f57722f9a3c824f0","fromSide":"bottom","toNode":"f831c6eae656bf1e","toSide":"top","label":"Warps to"}
 	]
 }

@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
                 "viewState": {
-                  "x": -272.71938271091443,
-                  "y": 356.0776792724427,
-                  "zoom": -0.7479480538847723,
+                  "x": 360,
+                  "y": 790,
+                  "zoom": -1.8744691179161412,
                   "snapToGrid": true
                 }
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas"
               }
             }
           }
@@ -235,8 +235,8 @@
                   "state": {
                     "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
                     "viewState": {
-                      "x": -613.1208732112955,
-                      "y": 1989.2369478426958,
+                      "x": 1602.4347871660634,
+                      "y": 3081.5213818049597,
                       "zoom": -1.3686190186001208,
                       "snapToGrid": false
                     }
@@ -258,15 +258,15 @@
   },
   "active": "77779fa6dc0e48bd",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/7. Brittle Hollow - Gravity Cannon.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/6. Gravity Crystal Workshop.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/3. Abandoned Shelter.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/2. Escape Pod 01.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
-    "100. Templates/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas"
   ]
 }
