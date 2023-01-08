@@ -32,7 +32,7 @@
                 "file": "100. Templates/Canvas Template.canvas",
                 "viewState": {
                   "x": -222,
-                  "y": 59.5,
+                  "y": 231.36966080430523,
                   "zoom": -0.6860440895544941,
                   "snapToGrid": true
                 }
@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
                 "viewState": {
-                  "x": -298.43605539604596,
-                  "y": -432.6461220863262,
-                  "zoom": -1.918250800717898,
+                  "x": 400.2113922631121,
+                  "y": 441.7597495724555,
+                  "zoom": -1.3333333333333333,
                   "snapToGrid": true
                 }
               }
@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/White Hole Station - Warp Room.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "99. Attachments/White Hole Station - Warp Room.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
+                "file": "99. Attachments/White Hole Station - Warp Room.png"
               }
             }
           }
@@ -224,17 +225,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ea2fd894832fcb5",
+  "active": "7fccb3a4ef521c54",
   "lastOpenFiles": [
+    "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
     "99. Attachments/Esker's Campsite.png",
-    "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
-    "101. Backup/0. Timber Hearth Map Backup.canvas",
-    "10. Notes/Deep Space Radio Frequency.md",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+    "101. Backup/0. Timber Hearth Map Backup.canvas"
   ]
 }

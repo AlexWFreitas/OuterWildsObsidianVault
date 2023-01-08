@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"71066bc012e93cc3","x":308,"y":-1800,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"747218cf70ecb591","x":308,"y":-1768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"066f8fce75689149","x":308,"y":-1620,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"829960041b3f3af8","x":-280,"y":-1800,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"b2b91b6c3389b562","x":-280,"y":-1768,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"56a518deff4b8096","x":-280,"y":-1620,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"8e3d17981a80565a","x":303,"y":-1240,"width":405,"height":545,"color":"1","type":"file","file":"10. Notes/White Hole.md"},
+		{"id":"dca9114a510923f0","x":338,"y":-40,"width":400,"height":293,"color":"1","type":"file","file":"99. Attachments/White Hole - Visual distortion caused by gravity bending light.png"},
+		{"id":"ee463ed75b46374b","x":338,"y":299,"width":400,"height":700,"color":"1","type":"file","file":"99. Attachments/Tower of Quantum Knowledge after falling into the Black Hole.png"},
+		{"id":"d3486ce02e98e427","x":-502,"y":-440,"width":400,"height":339,"color":"1","type":"file","file":"10. Notes/White Hole Station.md"},
+		{"id":"f7af2e1b7d50a06e","x":-501,"y":5,"width":399,"height":307,"color":"1","type":"file","file":"99. Attachments/White Hole Station.png"},
+		{"id":"56a9be21ee920c16","x":1240,"y":-277,"width":405,"height":352,"color":"1","type":"file","file":"99. Attachments/White Hole Image 2.png"},
+		{"id":"f66653a72520bbee","x":-1040,"y":3,"width":400,"height":296,"color":"1","type":"file","file":"10. Notes/Warp Tower.md"},
+		{"id":"0767eca6bc32934f","x":-501,"y":412,"width":400,"height":237,"color":"1","type":"file","file":"99. Attachments/White Hole Station - Warp Room.png"},
+		{"id":"89c25b9a3bf33c78","x":-1040,"y":424,"width":400,"height":225,"color":"1","type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
+		{"id":"770b0082b02d7701","x":-1040,"y":730,"width":400,"height":359,"color":"1","type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"}
+	],
+	"edges":[
+		{"id":"ba64fdbe157bbdaf","fromNode":"066f8fce75689149","fromSide":"bottom","toNode":"8e3d17981a80565a","toSide":"top"},
+		{"id":"9dc5b7f7aa3870ef","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"f7af2e1b7d50a06e","toSide":"top"},
+		{"id":"8895d946b1b9a751","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"f66653a72520bbee","toSide":"top"},
+		{"id":"314bb4781cd55b9c","fromNode":"f66653a72520bbee","fromSide":"bottom","toNode":"89c25b9a3bf33c78","toSide":"top"},
+		{"id":"e68b4373c23043fb","fromNode":"89c25b9a3bf33c78","fromSide":"bottom","toNode":"770b0082b02d7701","toSide":"top"},
+		{"id":"5ade5c1896bc8fc9","fromNode":"89c25b9a3bf33c78","fromSide":"right","toNode":"0767eca6bc32934f","toSide":"left"},
+		{"id":"eb32f7d93c7b09cc","fromNode":"f7af2e1b7d50a06e","fromSide":"bottom","toNode":"0767eca6bc32934f","toSide":"top"}
+	]
+}
