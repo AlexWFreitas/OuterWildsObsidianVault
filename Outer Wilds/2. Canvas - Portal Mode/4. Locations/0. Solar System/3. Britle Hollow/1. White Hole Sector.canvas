@@ -6,21 +6,24 @@
 		{"id":"829960041b3f3af8","x":-280,"y":-1800,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"b2b91b6c3389b562","x":-280,"y":-1768,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"56a518deff4b8096","x":-280,"y":-1620,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"8e3d17981a80565a","x":303,"y":-1240,"width":405,"height":545,"color":"1","type":"file","file":"10. Notes/White Hole.md"},
-		{"id":"dca9114a510923f0","x":-530,"y":-1197,"width":628,"height":460,"color":"1","type":"file","file":"99. Attachments/White Hole - Visual distortion caused by gravity bending light.png"},
-		{"id":"56a9be21ee920c16","x":820,"y":-1197,"width":529,"height":460,"color":"1","type":"file","file":"99. Attachments/White Hole Image 2.png"},
-		{"id":"d3486ce02e98e427","x":58,"y":-440,"width":400,"height":339,"color":"1","type":"file","file":"10. Notes/White Hole Station.md"},
+		{"id":"8e3d17981a80565a","x":303,"y":-1240,"width":405,"height":545,"type":"file","file":"10. Notes/White Hole.md"},
+		{"id":"dca9114a510923f0","x":-530,"y":-1197,"width":628,"height":460,"type":"file","file":"99. Attachments/White Hole - Visual distortion caused by gravity bending light.png"},
+		{"id":"56a9be21ee920c16","x":820,"y":-1197,"width":529,"height":460,"type":"file","file":"99. Attachments/White Hole Image 2.png"},
+		{"id":"d3486ce02e98e427","x":58,"y":-440,"width":400,"height":339,"type":"file","file":"10. Notes/White Hole Station.md"},
 		{"id":"8575bbf0bb913896","x":633,"y":-440,"width":652,"height":353,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Underground"},
-		{"id":"ee463ed75b46374b","x":633,"y":60,"width":652,"height":1142,"color":"1","type":"file","file":"99. Attachments/Tower of Quantum Knowledge after falling into the Black Hole.png"},
-		{"id":"f66653a72520bbee","x":-480,"y":143,"width":400,"height":296,"color":"1","type":"file","file":"10. Notes/Warp Tower.md"},
-		{"id":"f7af2e1b7d50a06e","x":59,"y":145,"width":399,"height":307,"color":"1","type":"file","file":"99. Attachments/White Hole Station.png"},
-		{"id":"0767eca6bc32934f","x":59,"y":553,"width":400,"height":237,"color":"1","type":"file","file":"99. Attachments/White Hole Station - Warp Room.png"},
-		{"id":"89c25b9a3bf33c78","x":59,"y":896,"width":400,"height":225,"color":"1","type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
-		{"id":"770b0082b02d7701","x":59,"y":1202,"width":400,"height":359,"color":"1","type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"}
+		{"id":"ee463ed75b46374b","x":633,"y":60,"width":652,"height":1142,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after falling into the Black Hole.png"},
+		{"id":"2f26d9904e5f7717","x":-387,"y":335,"width":400,"height":400,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"89c25b9a3bf33c78","x":-960,"y":894,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
+		{"id":"f7af2e1b7d50a06e","x":-960,"y":143,"width":399,"height":307,"type":"file","file":"99. Attachments/White Hole Station.png"},
+		{"id":"0767eca6bc32934f","x":-960,"y":551,"width":400,"height":237,"type":"file","file":"99. Attachments/White Hole Station - Warp Room.png"},
+		{"id":"770b0082b02d7701","x":-960,"y":1200,"width":400,"height":359,"type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"},
+		{"id":"0b1bf948c3d21412","x":-273,"y":143,"width":172,"height":60,"type":"text","text":"# Warps To"},
+		{"id":"f66653a72520bbee","x":120,"y":335,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
+		{"id":"30d1ddcab92abb53","x":238,"y":143,"width":165,"height":60,"type":"text","text":"# Inspired"}
 	],
 	"edges":[
 		{"id":"9dc5b7f7aa3870ef","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"f7af2e1b7d50a06e","toSide":"top"},
-		{"id":"8895d946b1b9a751","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"f66653a72520bbee","toSide":"top","label":"Inspired"},
+		{"id":"8895d946b1b9a751","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"30d1ddcab92abb53","toSide":"top"},
 		{"id":"e68b4373c23043fb","fromNode":"89c25b9a3bf33c78","fromSide":"bottom","toNode":"770b0082b02d7701","toSide":"top"},
 		{"id":"eb32f7d93c7b09cc","fromNode":"f7af2e1b7d50a06e","fromSide":"bottom","toNode":"0767eca6bc32934f","toSide":"top"},
 		{"id":"9f9a38356fe2b5a1","fromNode":"8e3d17981a80565a","fromSide":"left","toNode":"dca9114a510923f0","toSide":"right"},
@@ -29,6 +32,9 @@
 		{"id":"2d4cc8cb127ad84c","fromNode":"8e3d17981a80565a","fromSide":"bottom","toNode":"d3486ce02e98e427","toSide":"top"},
 		{"id":"232eaf784db1734a","fromNode":"8e3d17981a80565a","fromSide":"bottom","toNode":"8575bbf0bb913896","toSide":"top"},
 		{"id":"729b6a7c4d0995f1","fromNode":"0767eca6bc32934f","fromSide":"bottom","toNode":"89c25b9a3bf33c78","toSide":"top"},
-		{"id":"b8676845c7dde390","fromNode":"8e3d17981a80565a","fromSide":"top","toNode":"747218cf70ecb591","toSide":"bottom"}
+		{"id":"b8676845c7dde390","fromNode":"8e3d17981a80565a","fromSide":"top","toNode":"747218cf70ecb591","toSide":"bottom"},
+		{"id":"66f71f682d10db14","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"0b1bf948c3d21412","toSide":"top"},
+		{"id":"3d5151b4ebd8fe96","fromNode":"0b1bf948c3d21412","fromSide":"bottom","toNode":"2f26d9904e5f7717","toSide":"top"},
+		{"id":"6ea585749e370559","fromNode":"30d1ddcab92abb53","fromSide":"bottom","toNode":"f66653a72520bbee","toSide":"top"}
 	]
 }

@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "viewState": {
-                  "x": 752.433787983403,
-                  "y": -1131.3908058892296,
-                  "zoom": -0.9543328950524255,
+                  "x": -2747.5770993300084,
+                  "y": -3895.406565065754,
+                  "zoom": -1.4007899507287291,
                   "snapToGrid": true
                 }
               }
@@ -59,9 +59,15 @@
             "id": "539930f2e69f1a11",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "99. Attachments/Esker's Campsite.png"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
+                "viewState": {
+                  "x": -31,
+                  "y": -324,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -164,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas"
               }
             }
           }
@@ -228,13 +234,13 @@
   "active": "7fccb3a4ef521c54",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+    "99. Attachments/Esker's Campsite.png",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
     "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
-    "99. Attachments/Esker's Campsite.png",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
     "101. Backup/0. Timber Hearth Map Backup.canvas"
   ]
