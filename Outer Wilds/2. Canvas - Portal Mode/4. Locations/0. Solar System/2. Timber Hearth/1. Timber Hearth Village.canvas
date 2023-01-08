@@ -4,7 +4,7 @@
 		{"id":"2c3748d77e6bb0cc","x":-127,"y":-2072,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"cd0a3fa39fa5f191","x":-127,"y":-1924,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"c7e50ba1bef613f1","x":-715,"y":-2104,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"5bd0855cabec3c3a","x":-715,"y":-2072,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"5bd0855cabec3c3a","x":-715,"y":-2072,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"5008612ab2f46ddc","x":-715,"y":-1924,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"231670b497102ff9","x":-1960,"y":-625,"width":480,"height":265,"type":"file","file":"10. Notes/Timber Hearth - Observatory.md"},
 		{"id":"b50a4af778a33f62","x":-1180,"y":-228,"width":280,"height":222,"type":"file","file":"99. Attachments/Observatory - Upper Floor.png"},

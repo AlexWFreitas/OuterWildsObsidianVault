@@ -5,7 +5,7 @@
 		{"id":"73a705d5c7cf6641","x":59,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"e00fbfc4e697650d","x":59,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"21795511c31f4900","x":-960,"y":-40,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"0a62ae41536dabbc","x":-960,"y":-8,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"0a62ae41536dabbc","x":-960,"y":-8,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"bfc1062ae8a7233e","x":-960,"y":140,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"290b7b4ecd50eb0c","x":840,"y":690,"width":400,"height":230,"type":"group","label":"Space Ship"},
 		{"id":"7d597f7a905697ff","x":840,"y":722,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas"},

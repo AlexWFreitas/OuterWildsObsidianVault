@@ -4,7 +4,7 @@
 		{"id":"a3f634910332971c","x":63,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"0e40e703fcef9bbe","x":63,"y":-259,"width":400,"height":50,"type":"text","text":"# Overview Map"},
 		{"id":"5130f6f29cd45d32","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"0b98366081f3c6d3","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"0b98366081f3c6d3","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"92c805045031e30c","x":-525,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"add80176fa999d5e","x":3,"y":256,"width":522,"height":184,"type":"text","text":"# Space Ship\n\nThis canvas contains information about the Space Ship from Outer Wilds."},
 		{"id":"e7edbabbd31e3771","x":-225,"y":683,"width":979,"height":649,"type":"file","file":"10. Notes/Space Ship.md"},

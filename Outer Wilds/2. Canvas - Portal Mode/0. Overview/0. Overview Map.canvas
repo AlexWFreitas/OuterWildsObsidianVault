@@ -31,7 +31,7 @@
 		{"id":"201faa7370416704","x":-1391,"y":1120,"width":891,"height":505,"type":"group","label":"General Info"},
 		{"id":"e211d12958a040f7","x":-1340,"y":1185,"width":800,"height":398,"type":"file","file":"10. Notes/Outer Wilds - General Info.md"},
 		{"id":"587efabd8ffd9ba7","x":-500,"y":180,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"a56146f01b37180f","x":-500,"y":212,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"a56146f01b37180f","x":-500,"y":212,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"8da5e5dfedd25f43","x":-500,"y":360,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"}
 	],
 	"edges":[

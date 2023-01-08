@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"02d4b6bf9f2089e2","x":-588,"y":-2285,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"e37bf77f100d5c84","x":-588,"y":-2253,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"e37bf77f100d5c84","x":-588,"y":-2253,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"89b3aa8ca39def7f","x":-588,"y":-2105,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"8061fd92b477708c","x":0,"y":-2285,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"77c42cf08811a814","x":0,"y":-2253,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},

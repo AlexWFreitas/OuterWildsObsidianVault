@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"6e355954530108d6","x":3,"y":256,"width":522,"height":184,"type":"text","text":"# Player\n\nThis canvas contains information about the player's character and the overall gameplay mechanics related to it."},
 		{"id":"3ddfe3521d2c9ef1","x":-525,"y":-880,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"2703809b784f798c","x":-525,"y":-848,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"2703809b784f798c","x":-525,"y":-848,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"ba45130c2ba2516b","x":-525,"y":-700,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"7843f8f20f32d112","x":63,"y":-880,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"a9dfba5546b4514f","x":63,"y":-848,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},

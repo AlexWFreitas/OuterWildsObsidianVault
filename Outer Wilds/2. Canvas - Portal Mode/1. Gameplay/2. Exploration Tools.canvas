@@ -4,7 +4,7 @@
 		{"id":"4ad1ecf67f21b705","x":60,"y":-439,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"bc1bf755b7b7f312","x":60,"y":-407,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"2c4f512a2566b7f7","x":-640,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"37467f0402655ce7","x":-640,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"37467f0402655ce7","x":-640,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"17f7482dd63dccf0","x":-640,"y":-259,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"56d4bc5f9cf41314","x":-571,"y":880,"width":400,"height":422,"type":"file","file":"10. Notes/Signalscope.md"},
 		{"id":"e3bedaaf1cef0cad","x":-571,"y":1508,"width":400,"height":385,"type":"file","file":"99. Attachments/Deep Space Radio Frequency.png"},

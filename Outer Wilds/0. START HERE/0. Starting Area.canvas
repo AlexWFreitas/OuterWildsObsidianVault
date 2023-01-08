@@ -8,7 +8,7 @@
 		{"id":"ba548964f25bbd0d","x":-710,"y":-2104,"width":825,"height":624,"type":"file","file":"1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"},
 		{"id":"f27baac5029787ea","x":-710,"y":-1480,"width":825,"height":71,"color":"3","type":"text","text":"# Outer Wilds Canvas - Single Canvas Version"},
 		{"id":"62e21f81d26a63d9","x":-1382,"y":-1121,"width":400,"height":230,"type":"group","label":"Canvas Portal Template"},
-		{"id":"e0a406391549aeab","x":-1382,"y":-1089,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"e0a406391549aeab","x":-1382,"y":-1089,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"cce63abc16c34fc5","x":-1382,"y":-941,"width":400,"height":50,"type":"text","text":"# Canvas Portal Template"},
 		{"id":"16df07887f161902","x":1695,"y":-1260,"width":1161,"height":895,"type":"file","file":"99. Attachments/Example Layout.png"}
 	],

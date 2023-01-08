@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"94158a4377f9a95e","x":-525,"y":-439,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
-		{"id":"0b85f1fc984cc09c","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100.Template/Canvas Template.canvas"},
+		{"id":"0b85f1fc984cc09c","x":-525,"y":-407,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"15f72fd46f469bdf","x":-3777,"y":2240,"width":1337,"height":870,"type":"group","label":"Scientific Concepts"},
 		{"id":"1c831c59e2a4e82c","x":-3734,"y":2302,"width":440,"height":422,"type":"file","file":"10. Notes/Star Life Cycle.md"},
 		{"id":"3d47832832497fd4","x":-3734,"y":2788,"width":440,"height":272,"type":"file","file":"10. Notes/Expanding Universe.md"},
