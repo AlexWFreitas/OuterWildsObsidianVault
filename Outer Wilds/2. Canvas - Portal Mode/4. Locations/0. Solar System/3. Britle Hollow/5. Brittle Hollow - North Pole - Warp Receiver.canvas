@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"518418a56114a4ab","x":117,"y":-745,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"10279876b54f38d0","x":117,"y":-713,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"08e2c09f1113fecd","x":117,"y":-565,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"0f0f412dd6853022","x":-471,"y":-745,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"392913571cff999b","x":-471,"y":-713,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"2d1143bcd09821e5","x":-471,"y":-565,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"fb3e8259c32ab58a","x":-360,"y":320,"width":400,"height":287,"color":"1","type":"file","file":"99. Attachments/Brittle Hollow - North Pole Surroundings.png"},
+		{"id":"a36aca931a64edc6","x":80,"y":320,"width":320,"height":559,"color":"1","type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
+		{"id":"d467987951d0c44e","x":440,"y":320,"width":393,"height":400,"color":"1","type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
+		{"id":"40cc6adc1166878a","x":117,"y":-280,"width":400,"height":233,"color":"1","type":"file","file":"10. Notes/North Pole.md"}
+	],
+	"edges":[]
+}

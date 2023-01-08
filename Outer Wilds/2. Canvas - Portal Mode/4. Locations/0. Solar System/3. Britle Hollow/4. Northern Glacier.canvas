@@ -8,7 +8,7 @@
 		{"id":"bbb36ce4928e26db","x":-440,"y":-540,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"0437c3c18da45471","x":148,"y":-280,"width":400,"height":209,"color":"1","type":"file","file":"10. Notes/Northern Glacier.md"},
 		{"id":"5c40dc8af1a7fc04","x":148,"y":40,"width":400,"height":290,"color":"1","type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
-		{"id":"82f36f3ccfee8bfc","x":148,"y":420,"width":400,"height":387,"color":"1","type":"file","file":"99. Attachments/Northern Glacier Path.png"}
+		{"id":"82f36f3ccfee8bfc","x":148,"y":440,"width":400,"height":387,"color":"1","type":"file","file":"99. Attachments/Northern Glacier Path.png"}
 	],
 	"edges":[
 		{"id":"c20edea1c0d9093c","fromNode":"7a204898182d8451","fromSide":"bottom","toNode":"0437c3c18da45471","toSide":"top"},
