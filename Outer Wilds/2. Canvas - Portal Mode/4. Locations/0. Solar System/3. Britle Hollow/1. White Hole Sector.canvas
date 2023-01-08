@@ -12,12 +12,10 @@
 		{"id":"d3486ce02e98e427","x":58,"y":-440,"width":400,"height":339,"type":"file","file":"10. Notes/White Hole Station.md"},
 		{"id":"8575bbf0bb913896","x":633,"y":-440,"width":652,"height":353,"type":"file","file":"10. Notes/Tower of Quantum Knowledge.md","subpath":"#Tower of Quantum Knowledge - Underground"},
 		{"id":"ee463ed75b46374b","x":633,"y":60,"width":652,"height":1142,"type":"file","file":"99. Attachments/Tower of Quantum Knowledge after falling into the Black Hole.png"},
-		{"id":"2f26d9904e5f7717","x":-387,"y":335,"width":400,"height":400,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
 		{"id":"89c25b9a3bf33c78","x":-960,"y":894,"width":400,"height":225,"type":"file","file":"99. Attachments/Warp Tower - Aligned.png"},
 		{"id":"f7af2e1b7d50a06e","x":-960,"y":143,"width":399,"height":307,"type":"file","file":"99. Attachments/White Hole Station.png"},
 		{"id":"0767eca6bc32934f","x":-960,"y":551,"width":400,"height":237,"type":"file","file":"99. Attachments/White Hole Station - Warp Room.png"},
 		{"id":"770b0082b02d7701","x":-960,"y":1200,"width":400,"height":359,"type":"file","file":"99. Attachments/Warp Tower Aligned - Ceiling View.png"},
-		{"id":"0b1bf948c3d21412","x":-273,"y":143,"width":172,"height":60,"type":"text","text":"# Warps To"},
 		{"id":"f66653a72520bbee","x":120,"y":335,"width":400,"height":296,"type":"file","file":"10. Notes/Warp Tower.md"},
 		{"id":"30d1ddcab92abb53","x":238,"y":143,"width":165,"height":60,"type":"text","text":"# Inspired"},
 		{"id":"03c6fd028d89301b","x":880,"y":-1800,"width":400,"height":230,"type":"group","label":"Solar System Map"},
@@ -25,7 +23,9 @@
 		{"id":"43f4e569795c1d0c","x":880,"y":-1620,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"007a3fbf6f725b3c","x":1400,"y":-1800,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
 		{"id":"e7c17fe046e357dd","x":1400,"y":-1768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
-		{"id":"7a3952d44063def1","x":1400,"y":-1620,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
+		{"id":"7a3952d44063def1","x":1400,"y":-1620,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"},
+		{"id":"2f26d9904e5f7717","x":-387,"y":450,"width":400,"height":400,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
+		{"id":"0b1bf948c3d21412","x":-313,"y":143,"width":253,"height":97,"type":"text","text":"# Warps to Warp Receiver"}
 	],
 	"edges":[
 		{"id":"9dc5b7f7aa3870ef","fromNode":"d3486ce02e98e427","fromSide":"bottom","toNode":"f7af2e1b7d50a06e","toSide":"top"},

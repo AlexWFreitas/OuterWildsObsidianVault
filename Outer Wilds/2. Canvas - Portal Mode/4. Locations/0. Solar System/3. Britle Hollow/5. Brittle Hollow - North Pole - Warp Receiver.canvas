@@ -20,7 +20,13 @@
 		{"id":"b98186f2191ae3f1","x":640,"y":-565,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"f9cce8ffe0cbd005","x":1160,"y":-745,"width":400,"height":230,"type":"group","label":"Brittle Hollow Map"},
 		{"id":"e682aae050c9ce88","x":1160,"y":-713,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas"},
-		{"id":"f1e7a93fc67c89ce","x":1160,"y":-565,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"}
+		{"id":"f1e7a93fc67c89ce","x":1160,"y":-565,"width":400,"height":50,"type":"text","text":"# Brittle Hollow Map"},
+		{"id":"bf508fc10fdd1279","x":-120,"y":2320,"width":400,"height":230,"type":"group","label":"Hanging City"},
+		{"id":"7b5bdaa01eca59f9","x":-120,"y":2500,"width":400,"height":50,"type":"text","text":"# Hanging City"},
+		{"id":"a27fb26ad594a13d","x":-120,"y":2352,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas"},
+		{"id":"b383c7dbc7c61c5a","x":-1320,"y":-360,"width":500,"height":501,"type":"group","label":"White Hole Sector"},
+		{"id":"b837e1dbd234a782","x":-1320,"y":-320,"width":500,"height":400,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas"},
+		{"id":"0987a9c27f5d37ba","x":-1320,"y":80,"width":500,"height":61,"type":"text","text":"# White Hole Sector"}
 	],
 	"edges":[
 		{"id":"ba5ba6c4c6140f5e","fromNode":"a36aca931a64edc6","fromSide":"bottom","toNode":"d467987951d0c44e","toSide":"top"},
@@ -33,6 +39,8 @@
 		{"id":"6b7cccec3ad7a9a3","fromNode":"40cc6adc1166878a","fromSide":"bottom","toNode":"666fb17e1cfcadc2","toSide":"top"},
 		{"id":"780e376b2185e6f4","fromNode":"666fb17e1cfcadc2","fromSide":"bottom","toNode":"803ef8e28e1601cb","toSide":"top"},
 		{"id":"44af3c356bdf47d4","fromNode":"40cc6adc1166878a","fromSide":"top","toNode":"8343e6654fc56931","toSide":"bottom"},
-		{"id":"b8a756e435fa6bb9","fromNode":"40cc6adc1166878a","fromSide":"top","toNode":"f9cce8ffe0cbd005","toSide":"bottom"}
+		{"id":"b8a756e435fa6bb9","fromNode":"40cc6adc1166878a","fromSide":"top","toNode":"f9cce8ffe0cbd005","toSide":"bottom"},
+		{"id":"a4dadbbc7ead52c6","fromNode":"67888519c79dbd78","fromSide":"bottom","toNode":"bf508fc10fdd1279","toSide":"top"},
+		{"id":"e07941ab038d7116","fromNode":"b837e1dbd234a782","fromSide":"right","toNode":"40cc6adc1166878a","toSide":"left","label":"Warps to"}
 	]
 }
