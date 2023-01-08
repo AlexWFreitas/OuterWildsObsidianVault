@@ -6,13 +6,13 @@
 		{"id":"4da3b9c12f5ad70c","x":-440,"y":-720,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"04e387d86deb5e20","x":-440,"y":-688,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"bbb36ce4928e26db","x":-440,"y":-540,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"0437c3c18da45471","x":148,"y":-280,"width":400,"height":209,"color":"1","type":"file","file":"10. Notes/Northern Glacier.md"},
-		{"id":"5c40dc8af1a7fc04","x":148,"y":40,"width":400,"height":290,"color":"1","type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
-		{"id":"82f36f3ccfee8bfc","x":148,"y":440,"width":400,"height":387,"color":"1","type":"file","file":"99. Attachments/Northern Glacier Path.png"}
+		{"id":"0437c3c18da45471","x":148,"y":-280,"width":400,"height":209,"type":"file","file":"10. Notes/Northern Glacier.md"},
+		{"id":"5c40dc8af1a7fc04","x":148,"y":40,"width":400,"height":290,"type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
+		{"id":"82f36f3ccfee8bfc","x":148,"y":440,"width":400,"height":387,"type":"file","file":"99. Attachments/Northern Glacier Path.png"}
 	],
 	"edges":[
-		{"id":"c20edea1c0d9093c","fromNode":"7a204898182d8451","fromSide":"bottom","toNode":"0437c3c18da45471","toSide":"top"},
 		{"id":"d7478122d8a79535","fromNode":"0437c3c18da45471","fromSide":"bottom","toNode":"5c40dc8af1a7fc04","toSide":"top"},
-		{"id":"bda2a3af19e25cc0","fromNode":"5c40dc8af1a7fc04","fromSide":"bottom","toNode":"82f36f3ccfee8bfc","toSide":"top"}
+		{"id":"bda2a3af19e25cc0","fromNode":"5c40dc8af1a7fc04","fromSide":"bottom","toNode":"82f36f3ccfee8bfc","toSide":"top"},
+		{"id":"66e98fcdb69f34b5","fromNode":"0437c3c18da45471","fromSide":"top","toNode":"19b67f383097a84c","toSide":"bottom"}
 	]
 }

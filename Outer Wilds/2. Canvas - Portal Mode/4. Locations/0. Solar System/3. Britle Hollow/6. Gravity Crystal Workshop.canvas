@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1351c88664692dc5","x":108,"y":-560,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"a2bc9091d9216058","x":108,"y":-528,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"41e08481ca2eaebd","x":108,"y":-380,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"4d540872fd710f12","x":-480,"y":-560,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"24cf8d035a1f2c7c","x":-480,"y":-528,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"58c986b44dcee1f4","x":-480,"y":-380,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"57105dbf11f3ad81","x":36,"y":380,"width":545,"height":398,"type":"file","file":"99. Attachments/Gravity Crystal Workshop.png"},
+		{"id":"19c02900ba119c54","x":36,"y":-80,"width":545,"height":248,"type":"file","file":"10. Notes/Gravity Crystal Workshop.md"}
+	],
+	"edges":[
+		{"id":"f8d89b73dc7b41ec","fromNode":"19c02900ba119c54","fromSide":"bottom","toNode":"57105dbf11f3ad81","toSide":"top"},
+		{"id":"d875ff8d6ba356e5","fromNode":"19c02900ba119c54","fromSide":"top","toNode":"1351c88664692dc5","toSide":"bottom"}
+	]
+}

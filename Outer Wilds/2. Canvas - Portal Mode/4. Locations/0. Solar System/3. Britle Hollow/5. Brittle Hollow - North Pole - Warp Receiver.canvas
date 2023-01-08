@@ -6,15 +6,15 @@
 		{"id":"0f0f412dd6853022","x":-471,"y":-745,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
 		{"id":"392913571cff999b","x":-471,"y":-713,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"2d1143bcd09821e5","x":-471,"y":-565,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
-		{"id":"40cc6adc1166878a","x":117,"y":-280,"width":503,"height":184,"color":"1","type":"file","file":"10. Notes/North Pole.md"},
-		{"id":"a36aca931a64edc6","x":429,"y":120,"width":543,"height":329,"color":"1","type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
-		{"id":"d467987951d0c44e","x":429,"y":632,"width":543,"height":552,"color":"1","type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
+		{"id":"a36aca931a64edc6","x":429,"y":120,"width":543,"height":329,"type":"file","file":"10. Notes/Warp Receiver - Brittle Hollow - White Hole Station.md"},
+		{"id":"d467987951d0c44e","x":429,"y":632,"width":543,"height":552,"type":"file","file":"99. Attachments/Warp Receiver - Brittle Hollow.png"},
 		{"id":"666fb17e1cfcadc2","x":-271,"y":120,"width":454,"height":58,"type":"text","text":"# Secret Path to Hanging City"},
-		{"id":"803ef8e28e1601cb","x":-271,"y":341,"width":454,"height":330,"color":"1","type":"file","file":"99. Attachments/North Pole - Secret Path - Hanging City.png"},
-		{"id":"fb3e8259c32ab58a","x":1209,"y":120,"width":500,"height":359,"color":"1","type":"file","file":"99. Attachments/Brittle Hollow - North Pole Surroundings.png"},
-		{"id":"f09e7ea974707d2c","x":-271,"y":840,"width":454,"height":284,"color":"1","type":"file","file":"99. Attachments/Secret Path to Hanging City - 02.png"},
-		{"id":"67888519c79dbd78","x":-271,"y":1800,"width":454,"height":368,"color":"1","type":"file","file":"99. Attachments/Secret Path to Hanging City - 04.png"},
-		{"id":"a210838f1584cace","x":-271,"y":1320,"width":454,"height":326,"color":"1","type":"file","file":"99. Attachments/Secret Path to Hanging City - 03.png"}
+		{"id":"803ef8e28e1601cb","x":-271,"y":341,"width":454,"height":330,"type":"file","file":"99. Attachments/North Pole - Secret Path - Hanging City.png"},
+		{"id":"fb3e8259c32ab58a","x":1209,"y":120,"width":500,"height":359,"type":"file","file":"99. Attachments/Brittle Hollow - North Pole Surroundings.png"},
+		{"id":"f09e7ea974707d2c","x":-271,"y":840,"width":454,"height":284,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 02.png"},
+		{"id":"67888519c79dbd78","x":-271,"y":1800,"width":454,"height":368,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 04.png"},
+		{"id":"a210838f1584cace","x":-271,"y":1320,"width":454,"height":326,"type":"file","file":"99. Attachments/Secret Path to Hanging City - 03.png"},
+		{"id":"40cc6adc1166878a","x":66,"y":-280,"width":503,"height":184,"type":"file","file":"10. Notes/North Pole.md"}
 	],
 	"edges":[
 		{"id":"ba5ba6c4c6140f5e","fromNode":"a36aca931a64edc6","fromSide":"bottom","toNode":"d467987951d0c44e","toSide":"top"},
