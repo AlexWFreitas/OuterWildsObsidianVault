@@ -47,8 +47,8 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "viewState": {
-                  "x": -2176.273987248331,
-                  "y": -2614.023670927478,
+                  "x": 1282.730205623785,
+                  "y": -1869.4136080343965,
                   "zoom": -2.400789950728729,
                   "snapToGrid": true
                 }
@@ -63,9 +63,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
                 "viewState": {
-                  "x": 473.7303147604721,
-                  "y": 20.15873679831799,
-                  "zoom": -1.3333333333333333,
+                  "x": 379.6928278843002,
+                  "y": 1018.6983149184491,
+                  "zoom": -1.6666666666666665,
                   "snapToGrid": true
                 }
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 461.5
   },
   "right": {
     "id": "66414f9fc3b62f69",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas"
               }
             }
           }
@@ -231,12 +231,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "539930f2e69f1a11",
+  "active": "7fccb3a4ef521c54",
   "lastOpenFiles": [
-    "100. Templates/Canvas Template.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/5. Brittle Hollow - North Pole - Warp Receiver.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/Untitled.canvas",
+    "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/4. Northern Glacier.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/3. Abandoned Shelter.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/2. Escape Pod 01.canvas",
