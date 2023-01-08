@@ -16,14 +16,6 @@
 		{"id":"948025014e165a9b","x":-6040,"y":360,"width":720,"height":1420,"type":"group","label":"Secret Warp - Ash Twin Project"},
 		{"id":"65fbf2520bf3cf76","x":-5286,"y":360,"width":520,"height":971,"type":"file","file":"10. Notes/Ash Twin Project.md"},
 		{"id":"f396ebf79f45cd22","x":-4086,"y":993,"width":431,"height":304,"type":"file","file":"99. Attachments/Ash Twin Project - Advanced Warp Core.png"},
-		{"id":"053018e9c6c5c621","x":-4800,"y":-1456,"width":2020,"height":1356,"type":"group","label":"Warp Towers"},
-		{"id":"e740678b9f6e80f7","x":-4760,"y":-1400,"width":400,"height":965,"type":"file","file":"10. Notes/Warp Tower - Ash Twin.md"},
-		{"id":"1c386cf1e1915121","x":-4305,"y":-1400,"width":400,"height":335,"type":"file","file":"99. Attachments/Ash Twin - Hourglass Twins Tower.png"},
-		{"id":"02181c4a2bf0680d","x":-4305,"y":-997,"width":400,"height":494,"type":"file","file":"99. Attachments/Ash Twin - Timber Hearth Tower.png"},
-		{"id":"2b11cd8335dcb37f","x":-4305,"y":-460,"width":400,"height":323,"type":"file","file":"99. Attachments/Ash Twin - Giant's Deep Tower.png"},
-		{"id":"7d9b43a37ba0d1ff","x":-3840,"y":-1398,"width":1009,"height":509,"type":"file","file":"99. Attachments/Proposed Tower Designs and Icons for each Planet.png"},
-		{"id":"0859e20d033745c9","x":-3840,"y":-816,"width":470,"height":416,"type":"file","file":"99. Attachments/Ash Twin - Brittle Hollow Tower.png"},
-		{"id":"c8d45ac5de0202ca","x":-3300,"y":-807,"width":472,"height":407,"type":"file","file":"99. Attachments/Ash Twin - Sun Station Tower.png"},
 		{"id":"a39dc846308bc2be","x":-462,"y":-2220,"width":1180,"height":1500,"type":"group","label":"Ash Twin"},
 		{"id":"78d435f78591e931","x":-422,"y":-2148,"width":500,"height":311,"type":"file","file":"10. Notes/Ash Twin.md"},
 		{"id":"ab27c5e8eda5da28","x":115,"y":-2148,"width":555,"height":312,"type":"file","file":"99. Attachments/Ash Twin near the end of a cycle.png"},
@@ -37,7 +29,15 @@
 		{"id":"9e65c876c0d62fab","x":1430,"y":-1422,"width":247,"height":50,"type":"text","text":"# Giant's Deep"},
 		{"id":"5b04a57208b0d979","x":1430,"y":-1292,"width":290,"height":50,"type":"text","text":"# Ash Twin Project"},
 		{"id":"d51d70bc2b194068","x":1430,"y":-1549,"width":404,"height":47,"type":"text","text":"# Black Hole Forge District"},
-		{"id":"b053a5a6192496d1","x":1430,"y":-1160,"width":220,"height":51,"type":"text","text":"# Ember Twin"}
+		{"id":"b053a5a6192496d1","x":1430,"y":-1160,"width":220,"height":51,"type":"text","text":"# Ember Twin"},
+		{"id":"2b11cd8335dcb37f","x":-642,"y":2580,"width":400,"height":323,"type":"file","file":"99. Attachments/Ash Twin - Giant's Deep Tower.png"},
+		{"id":"02181c4a2bf0680d","x":-642,"y":2043,"width":400,"height":494,"type":"file","file":"99. Attachments/Ash Twin - Timber Hearth Tower.png"},
+		{"id":"0859e20d033745c9","x":-177,"y":2224,"width":470,"height":416,"type":"file","file":"99. Attachments/Ash Twin - Brittle Hollow Tower.png"},
+		{"id":"1c386cf1e1915121","x":-642,"y":1640,"width":400,"height":335,"type":"file","file":"99. Attachments/Ash Twin - Hourglass Twins Tower.png"},
+		{"id":"c8d45ac5de0202ca","x":363,"y":2233,"width":472,"height":407,"type":"file","file":"99. Attachments/Ash Twin - Sun Station Tower.png"},
+		{"id":"053018e9c6c5c621","x":-432,"y":-160,"width":1120,"height":1356,"type":"group","label":"Warp Towers"},
+		{"id":"e740678b9f6e80f7","x":-372,"y":-104,"width":1007,"height":677,"type":"file","file":"10. Notes/Warp Towers - Ash Twin.md"},
+		{"id":"7d9b43a37ba0d1ff","x":-372,"y":636,"width":1009,"height":509,"type":"file","file":"99. Attachments/Proposed Tower Designs and Icons for each Planet.png"}
 	],
 	"edges":[
 		{"id":"d67064692f94c69b","fromNode":"a39dc846308bc2be","fromSide":"top","toNode":"278db37398081ddc","toSide":"bottom"},
@@ -46,6 +46,7 @@
 		{"id":"753a4e0a63fc1872","fromNode":"8e9fd67e0990cd78","fromSide":"right","toNode":"7ad342788da07e86","toSide":"left"},
 		{"id":"9f1728be7bd862d2","fromNode":"8e9fd67e0990cd78","fromSide":"right","toNode":"9e65c876c0d62fab","toSide":"left"},
 		{"id":"8b2baf37364c5db0","fromNode":"8e9fd67e0990cd78","fromSide":"right","toNode":"5b04a57208b0d979","toSide":"left"},
-		{"id":"53f322c8b974082a","fromNode":"8e9fd67e0990cd78","fromSide":"right","toNode":"b053a5a6192496d1","toSide":"left"}
+		{"id":"53f322c8b974082a","fromNode":"8e9fd67e0990cd78","fromSide":"right","toNode":"b053a5a6192496d1","toSide":"left"},
+		{"id":"5b0c70e2983ac9f8","fromNode":"a39dc846308bc2be","fromSide":"bottom","toNode":"053018e9c6c5c621","toSide":"top"}
 	]
 }

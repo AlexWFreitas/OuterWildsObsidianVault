@@ -8,4 +8,4 @@ Another point is that because these solar towers are besides the sun and the sun
 
 On the equatorial line of the planet there are a bunch of Towers connected by bridges that contain Teleporters similar to the one in **White Hole Station**, this is part of the [[Ash Twin Project]] as they needed those towers for quick transport to bring resources needed for the project as they needed.
 
-These towers are known as [[Warp Tower - Ash Twin]]s and they can be used to get to all the main planets of this star system.
+These towers are known as [[Warp Towers - Ash Twin]]s and they can be used to get to all the main planets of this star system.

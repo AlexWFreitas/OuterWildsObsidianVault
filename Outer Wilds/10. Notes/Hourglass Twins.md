@@ -3,7 +3,7 @@ Type: Game Note
 Date: 2023-01-07
 Tags:
 - "outer-wilds"
-- "ember-twin
+- "ember-twin"
 - "ash-twin"
 Aliases:
 - 

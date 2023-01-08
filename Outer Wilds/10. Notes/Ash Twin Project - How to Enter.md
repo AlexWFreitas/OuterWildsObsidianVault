@@ -12,7 +12,7 @@ This means that the only way to arrive there is either through quantum warping o
 
 From the possible options, we know that there is no quantum shards on the Ash Twin Planet.
 
-This leaves us with the option of using The [[Warp Tower - Ash Twin]], on this planet we have five warp towers.
+This leaves us with the option of using The [[Warp Towers - Ash Twin]], on this planet we have five warp towers.
 
 1. Sun Station
 2. Timber Hearth
