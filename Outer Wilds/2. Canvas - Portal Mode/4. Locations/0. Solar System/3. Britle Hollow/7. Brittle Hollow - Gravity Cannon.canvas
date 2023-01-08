@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"9f9297a6ca08c31a","x":125,"y":-590,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"0fe359f32aec3c5c","x":125,"y":-558,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"d61d98f6a9b6d7e6","x":125,"y":-410,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"bc73b7acaedb10e4","x":-463,"y":-590,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"00b8459699b342c0","x":-463,"y":-558,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"40ad1509f98acbb0","x":-463,"y":-410,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"c61a76c01b9a1d4d","x":-43,"y":-180,"width":735,"height":200,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md","subpath":"#Gravity Cannon Surface"},
+		{"id":"e41e6d4bc8b6ce3c","x":35,"y":200,"width":580,"height":489,"type":"file","file":"99. Attachments/Gravity Cannon - Surface - Brittle Hollow.png"},
+		{"id":"ad2f3ae8c93a63de","x":-132,"y":940,"width":915,"height":328,"type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md","subpath":"#Gravity Cannon Underground"},
+		{"id":"b7d6b9bb1463d579","x":866,"y":1480,"width":374,"height":57,"type":"text","text":"# Path to The Crossroads"},
+		{"id":"a8204e888fae31c1","x":853,"y":1663,"width":400,"height":346,"type":"file","file":"99. Attachments/Path to the Crossroads 1.png"},
+		{"id":"eccaabaad539a095","x":853,"y":2129,"width":400,"height":258,"type":"file","file":"99. Attachments/Path to the Crossroads 2.png"},
+		{"id":"89e1313642ffaf3b","x":66,"y":1969,"width":520,"height":418,"type":"file","file":"99. Attachments/Gravity Cannon Controls and Shuttle on the Gravity Cannon.png"},
+		{"id":"3a4ec41f1bb50872","x":66,"y":1480,"width":520,"height":330,"type":"file","file":"99. Attachments/Gravity Cannon - Underground View.png"}
+	],
+	"edges":[
+		{"id":"a24226b718f0f0b0","fromNode":"c61a76c01b9a1d4d","fromSide":"bottom","toNode":"e41e6d4bc8b6ce3c","toSide":"top"},
+		{"id":"0742553d62d16869","fromNode":"c61a76c01b9a1d4d","fromSide":"top","toNode":"9f9297a6ca08c31a","toSide":"bottom"},
+		{"id":"974f7fc0304c6144","fromNode":"e41e6d4bc8b6ce3c","fromSide":"bottom","toNode":"ad2f3ae8c93a63de","toSide":"top"},
+		{"id":"ecf6eb7f0daf9d39","fromNode":"ad2f3ae8c93a63de","fromSide":"bottom","toNode":"3a4ec41f1bb50872","toSide":"top"},
+		{"id":"54a26054dccbaa2f","fromNode":"3a4ec41f1bb50872","fromSide":"bottom","toNode":"89e1313642ffaf3b","toSide":"top"},
+		{"id":"764d713a03b13d3f","fromNode":"b7d6b9bb1463d579","fromSide":"bottom","toNode":"a8204e888fae31c1","toSide":"top"},
+		{"id":"7494ca3c3b7a34cc","fromNode":"a8204e888fae31c1","fromSide":"bottom","toNode":"eccaabaad539a095","toSide":"top"},
+		{"id":"744e140e50e6775d","fromNode":"ad2f3ae8c93a63de","fromSide":"bottom","toNode":"b7d6b9bb1463d579","toSide":"top"}
+	]
+}

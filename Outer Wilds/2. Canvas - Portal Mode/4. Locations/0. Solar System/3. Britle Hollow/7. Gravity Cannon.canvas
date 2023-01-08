@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"af89e3e4939716c5","x":-450,"y":-230,"width":900,"height":460,"color":"1","type":"group","label":"Gravity Cannon - Surface"},
-		{"id":"c61a76c01b9a1d4d","x":-410,"y":-161,"width":360,"height":359,"color":"1","type":"file","file":"10. Notes/Gravity Cannon - Brittle Hollow.md","subpath":"#Gravity Cannon Surface"},
-		{"id":"e41e6d4bc8b6ce3c","x":-11,"y":-161,"width":425,"height":358,"color":"1","type":"file","file":"99. Attachments/Gravity Cannon - Surface - Brittle Hollow.png"}
-	],
-	"edges":[]
-}

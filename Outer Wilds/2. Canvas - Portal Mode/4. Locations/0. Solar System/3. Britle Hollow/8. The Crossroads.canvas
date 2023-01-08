@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"768188392ebdbda0","x":78,"y":-931,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"8245ff289e98eff7","x":78,"y":-899,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"5548608ddb6e7730","x":78,"y":-751,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"24459a53fc81bd78","x":-510,"y":-931,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"c88a0a6ea47511d1","x":-510,"y":-899,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"6b5eec0b89b3edb9","x":-510,"y":-751,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"9c1e89e0145c7e35","x":1200,"y":1067,"width":359,"height":257,"type":"file","file":"99. Attachments/Riebeck's Campsite.png"},
+		{"id":"253cf609141e4551","x":1282,"y":437,"width":277,"height":280,"type":"file","file":"99. Attachments/Drawing with Map from Crossroads and main Locations of Brittle Hollow.png"},
+		{"id":"c2171ad2ab9cc77a","x":1282,"y":735,"width":277,"height":291,"type":"file","file":"99. Attachments/Riebeck.png"},
+		{"id":"7d7dec683d628db2","x":1602,"y":437,"width":620,"height":378,"type":"file","file":"99. Attachments/Crossroads - Main Area.png"},
+		{"id":"6dc163f5f9487a20","x":1602,"y":881,"width":620,"height":420,"type":"file","file":"99. Attachments/Crossroads - Bottom Part.png"},
+		{"id":"3af45a6b1fe412cb","x":153,"y":881,"width":250,"height":312,"type":"file","file":"10. Notes/Riebeck's Campsite.md"},
+		{"id":"3ee5dffae00370d3","x":-113,"y":-320,"width":782,"height":348,"type":"file","file":"10. Notes/The Crossroads.md"}
+	],
+	"edges":[
+		{"id":"6d9dea8eee75db4b","fromNode":"3ee5dffae00370d3","fromSide":"bottom","toNode":"3af45a6b1fe412cb","toSide":"top","label":"Contains"}
+	]
+}
