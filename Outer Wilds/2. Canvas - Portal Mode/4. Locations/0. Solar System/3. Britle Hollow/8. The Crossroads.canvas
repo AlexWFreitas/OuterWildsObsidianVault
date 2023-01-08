@@ -25,16 +25,16 @@
 		{"id":"69566d6f0031a7af","x":1040,"y":-240,"width":480,"height":230,"type":"group","label":"Gravity Crystal Workshop"},
 		{"id":"cfe2b0d2dd70f73f","x":1040,"y":-208,"width":480,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/6. Gravity Crystal Workshop.canvas"},
 		{"id":"6c1a8ddde13d4adf","x":1040,"y":-60,"width":480,"height":50,"type":"text","text":"# Gravity Crystal Workshop"},
-		{"id":"253cf609141e4551","x":1742,"y":160,"width":277,"height":280,"type":"file","file":"99. Attachments/Crossroads Connections.png"},
-		{"id":"ddce47baccfed04a","x":2220,"y":680,"width":400,"height":230,"type":"group","label":"Hanging City"},
-		{"id":"0188b9020024416a","x":2220,"y":712,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas"},
-		{"id":"5f535045171658f2","x":2220,"y":860,"width":400,"height":50,"type":"text","text":"# Hanging City"},
 		{"id":"92e95d8d249fdebe","x":980,"y":680,"width":540,"height":236,"type":"group","label":"Tower of Quantum Knowledge"},
 		{"id":"ae95bb7048fbd2b0","x":980,"y":866,"width":540,"height":50,"type":"text","text":"# Tower of Quantum Knowledge"},
 		{"id":"578f853017a89841","x":980,"y":718,"width":540,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"4743fec6fbac82ea","x":1400,"y":1180,"width":400,"height":230,"type":"group","label":"Southern Observatory"},
 		{"id":"51f0a4f2508554a7","x":1400,"y":1212,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas"},
-		{"id":"a64ea4fcf405b4c5","x":1400,"y":1360,"width":400,"height":50,"type":"text","text":"# Southern Observatory"}
+		{"id":"a64ea4fcf405b4c5","x":1400,"y":1360,"width":400,"height":50,"type":"text","text":"# Southern Observatory"},
+		{"id":"253cf609141e4551","x":1462,"y":158,"width":277,"height":280,"type":"file","file":"99. Attachments/Crossroads Connections.png"},
+		{"id":"ddce47baccfed04a","x":2080,"y":295,"width":400,"height":230,"type":"group","label":"Hanging City"},
+		{"id":"5f535045171658f2","x":2080,"y":475,"width":400,"height":50,"type":"text","text":"# Hanging City"},
+		{"id":"0188b9020024416a","x":2080,"y":327,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas"}
 	],
 	"edges":[
 		{"id":"9220f0164e4c1a5d","fromNode":"3af45a6b1fe412cb","fromSide":"bottom","toNode":"c2171ad2ab9cc77a","toSide":"top"},
@@ -50,10 +50,11 @@
 		{"id":"088bd6a73c9f6b83","fromNode":"cfe2b0d2dd70f73f","fromSide":"left","toNode":"d884cfc25944cc44","toSide":"right"},
 		{"id":"c5df984dc933466e","fromNode":"92e95d8d249fdebe","fromSide":"top","toNode":"253cf609141e4551","toSide":"bottom"},
 		{"id":"b63c34381def239f","fromNode":"d5836d3c713444a5","fromSide":"top","toNode":"253cf609141e4551","toSide":"bottom"},
-		{"id":"c438feee181804d5","fromNode":"253cf609141e4551","fromSide":"bottom","toNode":"ddce47baccfed04a","toSide":"top"},
+		{"id":"c438feee181804d5","fromNode":"253cf609141e4551","fromSide":"right","toNode":"0188b9020024416a","toSide":"left"},
 		{"id":"de727b00d6e60edc","fromNode":"ae95bb7048fbd2b0","fromSide":"bottom","toNode":"4743fec6fbac82ea","toSide":"top"},
 		{"id":"8ec41e5a43215905","fromNode":"37bd86068364cfc1","fromSide":"bottom","toNode":"4743fec6fbac82ea","toSide":"top"},
 		{"id":"a0894357c6ad046c","fromNode":"4743fec6fbac82ea","fromSide":"top","toNode":"92e95d8d249fdebe","toSide":"bottom"},
-		{"id":"de92894a426c72b3","fromNode":"4743fec6fbac82ea","fromSide":"top","toNode":"d5836d3c713444a5","toSide":"bottom"}
+		{"id":"de92894a426c72b3","fromNode":"4743fec6fbac82ea","fromSide":"top","toNode":"d5836d3c713444a5","toSide":"bottom"},
+		{"id":"af48e916e667cc3b","fromNode":"0188b9020024416a","fromSide":"left","toNode":"253cf609141e4551","toSide":"right"}
 	]
 }
