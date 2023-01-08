@@ -15,8 +15,8 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
                 "viewState": {
-                  "x": -818.8883240699777,
-                  "y": -2255.521304244765,
+                  "x": 109.11167593002119,
+                  "y": 1268.4786957552337,
                   "zoom": -1.9999999999999993,
                   "snapToGrid": false
                 }
@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "viewState": {
-                  "x": 2143.526787737017,
-                  "y": 1591.5861651011592,
-                  "zoom": -1,
+                  "x": 1467.4778699014744,
+                  "y": 1603.7478910143673,
+                  "zoom": -0.22621121750108258,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Cyclone Images.png",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Cyclone Images.png",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Cyclone Images.png"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"
               }
             }
           }
@@ -233,15 +233,15 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
     "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/Sandbox.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "100. Templates/0. Outer Wilds T.md",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin.canvas"
   ]
 }
