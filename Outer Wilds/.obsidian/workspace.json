@@ -31,25 +31,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
                 "viewState": {
-                  "x": -903.476153110243,
-                  "y": 3047.238172509544,
-                  "zoom": -1.6698492379361192,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "474b08e8788517f0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
-                "viewState": {
-                  "x": -2380.171181701129,
-                  "y": 2274.0379431714005,
-                  "zoom": -0.6698492379361194,
+                  "x": -1562.7650589474965,
+                  "y": 2598.453945959442,
+                  "zoom": -1.336515904602786,
                   "snapToGrid": true
                 }
               }
@@ -88,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "474b08e8788517f0",
+  "active": "7ce90fc8b8e879b8",
   "lastOpenFiles": [
-    "101. Backup/0. Timber Hearth Map Backup.canvas",
+    "10. Notes/Deep Space Radio Frequency.md",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+    "101. Backup/0. Timber Hearth Map Backup.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "100. Templates/Canvas Template.canvas",
     "100. Templates/0. Outer Wilds T.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"
   ]
 }
