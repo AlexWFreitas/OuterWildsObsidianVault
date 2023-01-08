@@ -7,20 +7,24 @@
 		{"id":"31b3fdccfdf13b63","x":-494,"y":-83,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
 		{"id":"52036ed3100c3d56","x":-494,"y":65,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
 		{"id":"f7c6d13fa349ffd1","x":-29,"y":280,"width":646,"height":350,"type":"file","file":"10. Notes/Hourglass Twins.md"},
+		{"id":"b64a6fd6651f7f34","x":-306,"y":840,"width":400,"height":230,"type":"group","label":"Ember Twin"},
+		{"id":"8697ed32ff04f0dd","x":-306,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin.canvas"},
+		{"id":"cc0386d98891a7c8","x":-306,"y":1020,"width":400,"height":50,"type":"text","text":"# Ember Twin"},
 		{"id":"3f687245da2d5870","x":520,"y":840,"width":400,"height":230,"type":"group","label":"Ash Twin"},
 		{"id":"26b0a41c7adddf15","x":520,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin Map.canvas"},
 		{"id":"3287abbdb4d3f14e","x":520,"y":1020,"width":400,"height":50,"type":"text","text":"# Ash Twin"},
 		{"id":"9e8e062685c6351c","x":520,"y":1260,"width":400,"height":230,"type":"group","label":"Ash Twin Project"},
 		{"id":"4b6527533bb84e3c","x":520,"y":1440,"width":400,"height":50,"type":"text","text":"# Ash Twin Project"},
 		{"id":"20ba9b8eab9e682e","x":520,"y":1292,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/3. Ash Twin Project.canvas"},
-		{"id":"b64a6fd6651f7f34","x":-306,"y":840,"width":400,"height":230,"type":"group","label":"Ember Twin"},
-		{"id":"8697ed32ff04f0dd","x":-306,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/2. Ember Twin.canvas"},
-		{"id":"cc0386d98891a7c8","x":-306,"y":1020,"width":400,"height":50,"type":"text","text":"# Ember Twin"}
+		{"id":"eecb367a6f6a6d60","x":600,"y":-115,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"94b0eada1ee6f3ae","x":600,"y":-83,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"e09e16f94bf45716","x":600,"y":65,"width":400,"height":50,"type":"text","text":"# Solar System Map"}
 	],
 	"edges":[
 		{"id":"cef6c989ddd2c700","fromNode":"3287abbdb4d3f14e","fromSide":"bottom","toNode":"9e8e062685c6351c","toSide":"top"},
-		{"id":"3cbd1d7d84d10e72","fromNode":"557d956dd6a68ff1","fromSide":"bottom","toNode":"f7c6d13fa349ffd1","toSide":"top"},
 		{"id":"1d5302fe852f025f","fromNode":"f7c6d13fa349ffd1","fromSide":"bottom","toNode":"3f687245da2d5870","toSide":"top"},
-		{"id":"c7e2b547ec285758","fromNode":"f7c6d13fa349ffd1","fromSide":"bottom","toNode":"b64a6fd6651f7f34","toSide":"top"}
+		{"id":"c7e2b547ec285758","fromNode":"f7c6d13fa349ffd1","fromSide":"bottom","toNode":"b64a6fd6651f7f34","toSide":"top"},
+		{"id":"07abf74e7d51df5e","fromNode":"f7c6d13fa349ffd1","fromSide":"top","toNode":"1321baf7abc7432f","toSide":"bottom"},
+		{"id":"197f184fc53c12e3","fromNode":"f7c6d13fa349ffd1","fromSide":"top","toNode":"eecb367a6f6a6d60","toSide":"bottom"}
 	]
 }
