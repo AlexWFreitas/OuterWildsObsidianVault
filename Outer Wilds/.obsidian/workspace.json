@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -1967.7725171524216,
-                  "y": 1872.4530907784356,
-                  "zoom": -1.9999999999999998,
+                  "x": -1112.6186448855267,
+                  "y": 8701.30924034924,
+                  "zoom": -4,
                   "snapToGrid": false
                 }
               }
@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
                 "viewState": {
-                  "x": 353.4509047229525,
-                  "y": 1106.3603942221505,
-                  "zoom": -0.8922790023825875,
+                  "x": -298.43605539604596,
+                  "y": -432.6461220863262,
+                  "zoom": -1.918250800717898,
                   "snapToGrid": true
                 }
               }
@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -225,12 +224,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fccb3a4ef521c54",
+  "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
     "99. Attachments/Esker's Campsite.png",
     "100. Templates/Canvas Template.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
     "101. Backup/0. Timber Hearth Map Backup.canvas",
     "10. Notes/Deep Space Radio Frequency.md",
