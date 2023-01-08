@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"0437c3c18da45471","x":-479,"y":-93,"width":400,"height":209,"color":"1","type":"file","file":"10. Notes/Northern Glacier.md"},
+		{"id":"5c40dc8af1a7fc04","x":-54,"y":-93,"width":288,"height":209,"color":"1","type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
+		{"id":"82f36f3ccfee8bfc","x":260,"y":-93,"width":216,"height":209,"color":"1","type":"file","file":"99. Attachments/Northern Glacier Path.png"}
+	],
+	"edges":[]
+}

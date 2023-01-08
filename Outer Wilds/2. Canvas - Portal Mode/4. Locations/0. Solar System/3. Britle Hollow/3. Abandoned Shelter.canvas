@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"a494d9d4d2d22077","x":94,"y":-115,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"5cecbfdbee55a2bc","x":94,"y":-83,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"0bc69e11cb392de2","x":94,"y":65,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"c077b0f4b21cc5e3","x":-494,"y":-115,"width":400,"height":230,"type":"group","label":"Canvas Card T"},
+		{"id":"49ffd9221b858dc4","x":-494,"y":-83,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"b71102c3b6c2b8df","x":-494,"y":65,"width":400,"height":50,"type":"text","text":"# Canvas Card - T"},
+		{"id":"33887f355c5518fc","x":114,"y":440,"width":360,"height":435,"type":"file","file":"10. Notes/Abandoned Shelter.md"},
+		{"id":"b13f519f7ccaa1d0","x":720,"y":1080,"width":358,"height":260,"type":"file","file":"99. Attachments/Path to the Northern Glacier.png"},
+		{"id":"f3be5d014d9da33f","x":-283,"y":1560,"width":400,"height":361,"type":"file","file":"10. Notes/Escape Pods.md"},
+		{"id":"9876dc21f412345d","x":-1200,"y":1560,"width":800,"height":563,"type":"file","file":"10. Notes/Vessel.md"},
+		{"id":"b58ef698770f5331","x":-720,"y":1080,"width":590,"height":260,"type":"file","file":"99. Attachments/Painting explaining the Vessel Catastrophe.png"},
+		{"id":"783d2d1781af3299","x":104,"y":1080,"width":380,"height":260,"type":"file","file":"99. Attachments/Abandoned Shelter.png"}
+	],
+	"edges":[
+		{"id":"e166e0f9de480ab6","fromNode":"33887f355c5518fc","fromSide":"bottom","toNode":"b58ef698770f5331","toSide":"top"},
+		{"id":"ab547fc1b2b6f876","fromNode":"33887f355c5518fc","fromSide":"bottom","toNode":"783d2d1781af3299","toSide":"top"},
+		{"id":"73d4233977f7975b","fromNode":"33887f355c5518fc","fromSide":"bottom","toNode":"b13f519f7ccaa1d0","toSide":"top"},
+		{"id":"280c310d356085fc","fromNode":"b58ef698770f5331","fromSide":"bottom","toNode":"9876dc21f412345d","toSide":"top"},
+		{"id":"fb43af8bf5d1e196","fromNode":"b58ef698770f5331","fromSide":"bottom","toNode":"f3be5d014d9da33f","toSide":"top"},
+		{"id":"fd1c5c8b825c4f35","fromNode":"33887f355c5518fc","fromSide":"top","toNode":"a494d9d4d2d22077","toSide":"bottom"}
+	]
+}
