@@ -59,15 +59,11 @@
             "id": "5a4f2db6c56783ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -1776.7169811320762,
-                  "zoom": -3.6857074744609735,
-                  "snapToGrid": false
-                }
+                "file": "10. Notes/Advanced Warp Core.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -186,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "10. Notes/Advanced Warp Core.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "10. Notes/Advanced Warp Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"
+                "file": "10. Notes/Advanced Warp Core.md"
               }
             }
           }
@@ -234,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,15 +244,15 @@
   },
   "active": "5a4f2db6c56783ea",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
+    "10. Notes/Abandoned Shelter.md",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "0. START HERE/0. Starting Area.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
     "100. Templates/Canvas Template.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas",
-    "0. START HERE/0. Starting Area.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station.canvas"
   ]
 }
