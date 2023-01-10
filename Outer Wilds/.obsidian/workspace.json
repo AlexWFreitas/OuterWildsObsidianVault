@@ -48,19 +48,11 @@
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
                 "viewState": {
                   "x": 849,
-                  "y": -1015.5,
+                  "y": -3200.580817610063,
                   "zoom": -1.7469571918671893,
                   "snapToGrid": true
                 }
               }
-            }
-          },
-          {
-            "id": "5a4f2db6c56783ea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -112,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100. Templates/Canvas Template.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100. Templates/Canvas Template.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100. Templates/Canvas Template.canvas"
+              }
             }
           }
         ]
@@ -235,17 +231,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a4f2db6c56783ea",
+  "active": "7ce90fc8b8e879b8",
   "lastOpenFiles": [
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "100. Templates/Canvas Template.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
     "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
-    "10. Notes/Advanced Warp Core.md",
-    "10. Notes/Abandoned Shelter.md",
-    "0. START HERE/0. Starting Area.canvas"
+    "10. Notes/Advanced Warp Core.md"
   ]
 }
