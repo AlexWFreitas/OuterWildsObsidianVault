@@ -59,16 +59,8 @@
             "id": "5a4f2db6c56783ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-                "viewState": {
-                  "x": 1867,
-                  "y": 1128.5,
-                  "zoom": -2.21156081378989,
-                  "snapToGrid": false
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -186,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,16 +215,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,13 +237,13 @@
   },
   "active": "5a4f2db6c56783ea",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas",
     "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+    "2. Canvas - Portal Mode/1. Gameplay/4. Space Ship.canvas",
     "10. Notes/Advanced Warp Core.md",
     "10. Notes/Abandoned Shelter.md",
     "0. START HERE/0. Starting Area.canvas"
