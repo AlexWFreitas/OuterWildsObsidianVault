@@ -15,9 +15,9 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -4475.121885708673,
-                  "y": 21477.000017620205,
-                  "zoom": -4,
+                  "x": 512.2125841837828,
+                  "y": 20360.998344551965,
+                  "zoom": -2.666666666666666,
                   "snapToGrid": false
                 }
               }
@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -580,
-                  "zoom": -3.6857074744609735,
+                  "x": -153.69725993293986,
+                  "y": -65.52677997290736,
+                  "zoom": 0.6666666666666665,
                   "snapToGrid": true
                 }
               }
@@ -61,11 +61,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
                 "viewState": {
-                  "x": 937.8237366535448,
-                  "y": 376.02008369404194,
-                  "zoom": -1.3333333333333333,
+                  "x": -1909.073004746746,
+                  "y": -2232.591989741566,
+                  "zoom": -2.019040807794306,
                   "snapToGrid": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "10. Notes/Escape Pod 02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "10. Notes/Escape Pod 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"
+                "file": "10. Notes/Escape Pod 02.md"
               }
             }
           }
@@ -233,15 +233,15 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "100. Templates/Canvas Template.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
-    "100. Templates/Canvas Template.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/3. Player.canvas",
-    "2. Canvas - Portal Mode/1. Gameplay/2. Exploration Tools.canvas"
+    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"
   ]
 }

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"66d166879927753b","x":-461,"y":-257,"width":922,"height":515,"type":"group","label":"Escape Pod 02"},
+		{"id":"5c7dc8bee6d1c4ff","x":-433,"y":-218,"width":400,"height":446,"type":"file","file":"10. Notes/Escape Pod 02.md"},
+		{"id":"a820e3fe7c9e6565","x":7,"y":-218,"width":432,"height":455,"type":"file","file":"99. Attachments/Escape Pod 02.png"}
+	],
+	"edges":[]
+}
