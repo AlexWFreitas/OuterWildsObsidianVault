@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"f829095b10672a58","x":700,"y":-102,"width":560,"height":262,"color":"6","type":"group","label":"Ember Twin - Quantum Travel Group"},
+		{"id":"0f711f5f6b42f951","x":734,"y":-47,"width":486,"height":172,"color":"6","type":"file","file":"10. Notes/Ember Twin - Quantum Travel Group.md"},
+		{"id":"019f603d91d4a098","x":1355,"y":-964,"width":1640,"height":476,"type":"group","label":"Ember Twin - Quantum Room D"},
+		{"id":"1f6a6463584c2591","x":1375,"y":-901,"width":540,"height":383,"type":"file","file":"10. Notes/Ember Twin - Quantum Room D.md"},
+		{"id":"c4dfa557ea85b22d","x":1935,"y":-901,"width":437,"height":347,"type":"file","file":"99. Attachments/Entrance when going through normal means.png"},
+		{"id":"67279e314e42fe1a","x":2395,"y":-901,"width":547,"height":347,"type":"file","file":"99. Attachments/Quantum Room D Image.png"},
+		{"id":"1e504541c92d9521","x":1355,"y":600,"width":1235,"height":496,"type":"group","label":"Quantum Room C"},
+		{"id":"fbba01375ee77334","x":1385,"y":647,"width":400,"height":422,"type":"file","file":"10. Notes/Ember Twin - Quantum Room C.md"},
+		{"id":"6792b323b72f74b3","x":1850,"y":647,"width":699,"height":399,"type":"file","file":"99. Attachments/Pasted image 20221225180613.png"},
+		{"id":"e0cc819ee0183f20","x":-1520,"y":358,"width":2000,"height":981,"type":"group","label":"Lakebed Cave"},
+		{"id":"41c8d621041cb8e4","x":-1450,"y":436,"width":400,"height":470,"type":"file","file":"10. Notes/Lakebed Cave.md"},
+		{"id":"b98eba9c150c018d","x":-448,"y":436,"width":400,"height":298,"type":"file","file":"99. Attachments/Lakebed Cave Entrance 1.png"},
+		{"id":"de3d309baad492bc","x":-827,"y":864,"width":400,"height":233,"type":"file","file":"99. Attachments/Cave Entrances A.png"},
+		{"id":"322d8b21da7d99c4","x":40,"y":950,"width":400,"height":294,"type":"file","file":"99. Attachments/Lakebed Cave - Cave Shard Room B.png"},
+		{"id":"e9772b171c4894fa","x":-1479,"y":1213,"width":281,"height":50,"type":"file","file":"10. Notes/Escape Pod 02.md"},
+		{"id":"f2c7de623fa0a425","x":-1520,"y":-1360,"width":2000,"height":1096,"type":"group","label":"Cave Shard's Cave"},
+		{"id":"054780d8347b9629","x":-590,"y":-1318,"width":470,"height":315,"type":"file","file":"99. Attachments/Triple Door Entrance.png"},
+		{"id":"bc521369af2c27c5","x":-1460,"y":-1275,"width":760,"height":311,"type":"file","file":"10. Notes/Cave Shard's Cave.md"},
+		{"id":"f4b37ea6cc0cb282","x":-200,"y":-950,"width":640,"height":390,"type":"file","file":"99. Attachments/Cave Split Path.png"},
+		{"id":"d808f050911379a6","x":-1480,"y":-879,"width":563,"height":319,"type":"file","file":"99. Attachments/Cave Entrance B.png"},
+		{"id":"c5434fb33aa5b93d","x":-827,"y":-664,"width":579,"height":349,"type":"file","file":"99. Attachments/Cave Shard Room A.png"}
+	],
+	"edges":[
+		{"id":"d07eab8cdadcce3d","fromNode":"d808f050911379a6","fromSide":"right","toNode":"f4b37ea6cc0cb282","toSide":"left","label":"Right Bridge Connetion"},
+		{"id":"1370d71b4a5252da","fromNode":"de3d309baad492bc","fromSide":"left","toNode":"e9772b171c4894fa","toSide":"right","label":"Connects"},
+		{"id":"d545261b0ff4d32d","fromNode":"f2c7de623fa0a425","fromSide":"right","toNode":"f829095b10672a58","toSide":"left","color":"6"},
+		{"id":"961ad8f870341bc5","fromNode":"f829095b10672a58","fromSide":"left","toNode":"f2c7de623fa0a425","toSide":"right","color":"6"},
+		{"id":"087241b587a6bfca","fromNode":"e0cc819ee0183f20","fromSide":"right","toNode":"f829095b10672a58","toSide":"left"},
+		{"id":"486d833d47163dab","fromNode":"f829095b10672a58","fromSide":"left","toNode":"e0cc819ee0183f20","toSide":"right","color":"6"},
+		{"id":"dde050445aadb8d7","fromNode":"de3d309baad492bc","fromSide":"top","toNode":"b98eba9c150c018d","toSide":"bottom","label":"Connection"},
+		{"id":"de0fc828444ea750","fromNode":"de3d309baad492bc","fromSide":"right","toNode":"322d8b21da7d99c4","toSide":"left","label":"Quantum Shard Room"},
+		{"id":"b92a73931cc24701","fromNode":"b98eba9c150c018d","fromSide":"bottom","toNode":"de3d309baad492bc","toSide":"top"},
+		{"id":"5c8802a278b99e5b","fromNode":"f4b37ea6cc0cb282","fromSide":"bottom","toNode":"c5434fb33aa5b93d","toSide":"right","label":"Quantum Shard Room"},
+		{"id":"5b919664ef02de05","fromNode":"054780d8347b9629","fromSide":"right","toNode":"f4b37ea6cc0cb282","toSide":"top","label":"Connection"},
+		{"id":"919859981ae58fb2","fromNode":"b98eba9c150c018d","fromSide":"right","toNode":"322d8b21da7d99c4","toSide":"top","label":"Quantum Shard Room"},
+		{"id":"7260df2625f4a85c","fromNode":"f829095b10672a58","fromSide":"right","toNode":"1e504541c92d9521","toSide":"top","color":"6"},
+		{"id":"01d1a222ee69637b","fromNode":"f829095b10672a58","fromSide":"right","toNode":"019f603d91d4a098","toSide":"bottom","color":"6"},
+		{"id":"d8e3a29c32cb85b7","fromNode":"019f603d91d4a098","fromSide":"bottom","toNode":"f829095b10672a58","toSide":"right","color":"6"}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"9b20413839911f80","x":-1338,"y":-1140,"width":400,"height":224,"type":"file","file":"10. Notes/High Energy Lab - How to Enter.md"},
+		{"id":"90414365fea8e344","x":-815,"y":-1140,"width":596,"height":419,"type":"file","file":"99. Attachments/Sunless City - Door for High Energy Lab - Notice the Electrical Wires.png"},
+		{"id":"c60a1ab4a2146653","x":490,"y":-1140,"width":455,"height":420,"type":"file","file":"99. Attachments/Blocked by Cacti + Sand.png"},
+		{"id":"25cc57da1666d9f7","x":1245,"y":-1130,"width":529,"height":340,"type":"file","file":"99. Attachments/Sand will eventually fill the hole.png"},
+		{"id":"f5d7f5fab4025eef","x":-1338,"y":-873,"width":400,"height":1233,"type":"file","file":"10. Notes/Ash Twin Project.md"},
+		{"id":"8f78e6d159447138","x":614,"y":-623,"width":529,"height":406,"type":"file","file":"99. Attachments/Sand has filled the Hole.png"},
+		{"id":"f193174cdc0af615","x":-815,"y":-623,"width":718,"height":404,"type":"file","file":"99. Attachments/Lab Entrance.png"},
+		{"id":"bca9573e77d63edf","x":1113,"y":-141,"width":661,"height":424,"type":"file","file":"99. Attachments/Normal Energy Behavior.png"},
+		{"id":"eeb3104c880488cb","x":-1775,"y":-254,"width":400,"height":723,"type":"file","file":"10. Notes/Time Travel.md"},
+		{"id":"82c6320a2f563423","x":-815,"y":-33,"width":709,"height":428,"type":"file","file":"99. Attachments/Miniature Cores.png"},
+		{"id":"a00d39b00fdd8ce7","x":190,"y":-33,"width":599,"height":424,"type":"file","file":"99. Attachments/Setting the Test Chamber.png"},
+		{"id":"373d06446f902e84","x":-1338,"y":439,"width":486,"height":245,"type":"file","file":"99. Attachments/Proposed Tower Designs and Icons for each Planet.png"},
+		{"id":"b52a2ed88e80d9aa","x":-1775,"y":728,"width":650,"height":465,"type":"file","file":"99. Attachments/Time Warp on the launched Probe.png"},
+		{"id":"a172e3ff7375f321","x":1231,"y":561,"width":543,"height":367,"type":"file","file":"99. Attachments/Blackout - No Energy on the rest of the Planet.png"},
+		{"id":"99b57a1d689bb4ba","x":-455,"y":528,"width":662,"height":400,"type":"file","file":"99. Attachments/Move this to use all Energy available.png"},
+		{"id":"9d18f12ce3a76b79","x":-1825,"y":-1220,"width":3650,"height":2440,"type":"group","label":"High Energy Lab"},
+		{"id":"e1945ec8d69b8f21","x":-1775,"y":-1140,"width":400,"height":833,"type":"file","file":"10. Notes/High Energy Lab.md"}
+	],
+	"edges":[
+		{"id":"88c1425e03f71705","fromNode":"90414365fea8e344","fromSide":"right","toNode":"c60a1ab4a2146653","toSide":"left","label":"Follow the Wires"},
+		{"id":"99c7eec34c2f6caf","fromNode":"c60a1ab4a2146653","fromSide":"right","toNode":"25cc57da1666d9f7","toSide":"left","label":"Wait\n\n"},
+		{"id":"bfe30abe43044a53","fromNode":"25cc57da1666d9f7","fromSide":"bottom","toNode":"8f78e6d159447138","toSide":"top","label":"Wait until you are able to pass through"},
+		{"id":"7a7a47efa52e6212","fromNode":"8f78e6d159447138","fromSide":"left","toNode":"f193174cdc0af615","toSide":"right","label":"Continue on the path \nuntil you reach \nthe Lab"},
+		{"id":"04436e2fc7ecc560","fromNode":"f193174cdc0af615","fromSide":"bottom","toNode":"82c6320a2f563423","toSide":"top","label":"Notice"},
+		{"id":"f6b1d2863701906c","fromNode":"bca9573e77d63edf","fromSide":"bottom","toNode":"99b57a1d689bb4ba","toSide":"right","label":"Increase Power Output"},
+		{"id":"108c8257f4135dd9","fromNode":"a00d39b00fdd8ce7","fromSide":"right","toNode":"bca9573e77d63edf","toSide":"left","label":"Test"},
+		{"id":"aa2644857ea1f1d8","fromNode":"82c6320a2f563423","fromSide":"right","toNode":"a00d39b00fdd8ce7","toSide":"left","label":"Place"},
+		{"id":"2d9e51223a520358","fromNode":"99b57a1d689bb4ba","fromSide":"left","toNode":"b52a2ed88e80d9aa","toSide":"right","label":"Increased Time Distortion \nwith Higher Energy"},
+		{"id":"5f990c9869d899b4","fromNode":"99b57a1d689bb4ba","fromSide":"bottom","toNode":"a172e3ff7375f321","toSide":"left","label":"Other areas without Energy"}
+	]
+}
