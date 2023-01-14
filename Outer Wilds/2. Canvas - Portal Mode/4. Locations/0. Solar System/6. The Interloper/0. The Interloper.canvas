@@ -16,12 +16,12 @@
 		{"id":"57e96ff632fb0009","x":-1120,"y":480,"width":532,"height":396,"type":"file","file":"99. Attachments/The Interloper when viewed from the back.png"},
 		{"id":"40e24a73df28d722","x":380,"y":480,"width":484,"height":296,"type":"file","file":"99. Attachments/Comet Fissure opening when close to the Star.png"},
 		{"id":"b20bff985e6ee09d","x":880,"y":2160,"width":602,"height":296,"type":"file","file":"99. Attachments/Dead Nomai Researcher afflicted by encased exotic matter.png"},
-		{"id":"4c5ad13186c79988","x":-1080,"y":1800,"width":400,"height":230,"type":"group","label":"Ember Twin - Gravity Cannon"},
-		{"id":"fcec07db8ff9eb68","x":-1080,"y":1832,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/4. Gravity Cannon.canvas"},
-		{"id":"ea3e27b20fff71ff","x":-1080,"y":1980,"width":400,"height":50,"type":"text","text":"# Ember Twin - Gravity Cannon"}
+		{"id":"4c5ad13186c79988","x":-1200,"y":1900,"width":500,"height":230,"type":"group","label":"Ember Twin - Gravity Cannon"},
+		{"id":"fcec07db8ff9eb68","x":-1200,"y":1932,"width":500,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/4. Gravity Cannon.canvas"},
+		{"id":"ea3e27b20fff71ff","x":-1200,"y":2080,"width":500,"height":50,"type":"text","text":"# Ember Twin - Gravity Cannon"}
 	],
 	"edges":[
-		{"id":"532267d5b257c136","fromNode":"9c3262bd2215cf26","fromSide":"bottom","toNode":"d10ac4a110199110","toSide":"top"},
+		{"id":"532267d5b257c136","fromNode":"9c3262bd2215cf26","fromSide":"bottom","toNode":"d10ac4a110199110","toSide":"top","color":"5","label":"Frozen"},
 		{"id":"2526e5f2e82b8e06","fromNode":"fe446daae2c84c86","fromSide":"bottom","toNode":"9c3262bd2215cf26","toSide":"top"},
 		{"id":"691e40c985f284a8","fromNode":"fe446daae2c84c86","fromSide":"bottom","toNode":"40e24a73df28d722","toSide":"top"},
 		{"id":"e4defa8a023c0fb8","fromNode":"de055f7f7b130f92","fromSide":"bottom","toNode":"c810b792fa5bb9bc","toSide":"top","label":"Info"},
@@ -31,4 +31,6 @@
 		{"id":"cce3e13cd7462cab","fromNode":"c810b792fa5bb9bc","fromSide":"bottom","toNode":"b20bff985e6ee09d","toSide":"top"},
 		{"id":"5267dbba9b121fbd","fromNode":"fe446daae2c84c86","fromSide":"top","toNode":"219273a205d0b831","toSide":"bottom"},
 		{"id":"2d84d24bfd72d3a6","fromNode":"fe446daae2c84c86","fromSide":"top","toNode":"e9c9c7d4952e23d4","toSide":"bottom"},
-		{"id":"ccecc20901b69af1","fromNode":"4c5ad13186c79988","fromSide":"top","toNode":"d10ac4a110199110","toSide":"bottom","label":"Launch
+		{"id":"ccecc20901b69af1","fromNode":"4c5ad13186c79988","fromSide":"top","toNode":"d10ac4a110199110","toSide":"bottom","label":"Controls Shuttle"}
+	]
+}
