@@ -16,7 +16,7 @@
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
                   "x": 10788.665064906405,
-                  "y": 11013.282605934044,
+                  "y": 15146.87494525924,
                   "zoom": -1.6666666666666665,
                   "snapToGrid": true
                 }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas"
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas"
               }
             }
           }
@@ -207,10 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a261a53ebd3c3e0",
+  "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/1. Escape Pod 03.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/2a. Jellyfish Cave.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/2. Feldspar's Campsite.canvas",
