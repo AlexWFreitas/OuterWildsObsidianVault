@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"f721a1fc558c491f","x":195,"y":-145,"width":438,"height":284,"color":"2","type":"file","file":"99. Attachments/Mural inside the Sun Station.png"},
-		{"id":"4fc7c22c9ad22381","x":-674,"y":-487,"width":1349,"height":975,"color":"2","type":"group","label":"Sun Station"},
+		{"id":"4fc7c22c9ad22381","x":-674,"y":-487,"width":1349,"height":996,"color":"2","type":"group","label":"Sun Station"},
 		{"id":"228da493e4059fd5","x":195,"y":172,"width":438,"height":184,"color":"2","type":"file","file":"10. Notes/Sun Station Mural.md"},
 		{"id":"021bd9a61a592e05","x":195,"y":-439,"width":438,"height":240,"color":"2","type":"file","file":"99. Attachments/View from inside the Sun Station.png"},
 		{"id":"de4212ce43f53cdf","x":-225,"y":20,"width":386,"height":238,"color":"2","type":"file","file":"99. Attachments/Entrance to one of the Towers.png"},
 		{"id":"3e8375e6aba10f6b","x":-225,"y":-439,"width":386,"height":400,"color":"2","type":"file","file":"99. Attachments/Sun Station approached from Space.png"},
-		{"id":"66c140ad6115976d","x":-645,"y":-439,"width":400,"height":677,"color":"2","type":"file","file":"10. Notes/Sun Station.md"},
-		{"id":"014bc117b9ea0812","x":-644,"y":264,"width":399,"height":193,"color":"2","type":"file","file":"99. Attachments/View from inside the Sun Station of the Warp Receiver.png"}
+		{"id":"66c140ad6115976d","x":-645,"y":-439,"width":400,"height":638,"color":"2","type":"file","file":"10. Notes/Sun Station.md"},
+		{"id":"014bc117b9ea0812","x":-644,"y":280,"width":399,"height":193,"color":"2","type":"file","file":"99. Attachments/View from inside the Sun Station of the Warp Receiver.png"}
 	],
 	"edges":[
 		{"id":"756e5e4324ac2d60","fromNode":"f721a1fc558c491f","fromSide":"bottom","toNode":"228da493e4059fd5","toSide":"top","color":"3"}

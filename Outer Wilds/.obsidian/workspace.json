@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -1.6666666666666665,
+                  "x": -270.23978809556075,
+                  "y": -16.687714335146403,
+                  "zoom": 0.13367333352082877,
                   "snapToGrid": false
                 }
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas"
               }
             }
           }
@@ -264,15 +264,15 @@
   },
   "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas"
   ]
 }
