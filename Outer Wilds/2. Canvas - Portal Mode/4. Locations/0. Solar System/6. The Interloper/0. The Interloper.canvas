@@ -1,6 +1,24 @@
 {
 	"nodes":[
-		{"id":"cd447feafbc20e16","x":-200,"y":-365,"width":400,"height":731,"type":"file","file":"10. Notes/The Interloper.md"}
+		{"id":"fe446daae2c84c86","x":-588,"y":-480,"width":848,"height":600,"type":"group","label":"The Interloper"},
+		{"id":"cd447feafbc20e16","x":-540,"y":-420,"width":760,"height":491,"type":"file","file":"10. Notes/The Interloper.md"},
+		{"id":"9c3262bd2215cf26","x":-360,"y":480,"width":400,"height":407,"type":"file","file":"10. Notes/Comet Shuttle.md"},
+		{"id":"57e96ff632fb0009","x":-1120,"y":480,"width":532,"height":396,"type":"file","file":"99. Attachments/The Interloper when viewed from the back.png"},
+		{"id":"40e24a73df28d722","x":380,"y":480,"width":484,"height":296,"type":"file","file":"99. Attachments/Comet Fissure opening when close to the Star.png"},
+		{"id":"d10ac4a110199110","x":-360,"y":1077,"width":400,"height":396,"type":"file","file":"99. Attachments/The Frozen Nomai Shuttle.png"},
+		{"id":"de055f7f7b130f92","x":380,"y":976,"width":400,"height":299,"type":"file","file":"10. Notes/Comet's Core.md"},
+		{"id":"c810b792fa5bb9bc","x":502,"y":1499,"width":600,"height":335,"type":"file","file":"10. Notes/Supernova Cause on Outer Wilds.md"},
+		{"id":"b20bff985e6ee09d","x":780,"y":2039,"width":602,"height":296,"type":"file","file":"99. Attachments/Dead Nomai Researcher afflicted by encased exotic matter.png"},
+		{"id":"114173b4fcf72577","x":280,"y":2039,"width":365,"height":410,"type":"file","file":"99. Attachments/Superdense Content inside the Comet.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"532267d5b257c136","fromNode":"9c3262bd2215cf26","fromSide":"bottom","toNode":"d10ac4a110199110","toSide":"top"},
+		{"id":"2526e5f2e82b8e06","fromNode":"fe446daae2c84c86","fromSide":"bottom","toNode":"9c3262bd2215cf26","toSide":"top"},
+		{"id":"691e40c985f284a8","fromNode":"fe446daae2c84c86","fromSide":"bottom","toNode":"40e24a73df28d722","toSide":"top"},
+		{"id":"e4defa8a023c0fb8","fromNode":"de055f7f7b130f92","fromSide":"bottom","toNode":"c810b792fa5bb9bc","toSide":"top","label":"Info"},
+		{"id":"e33715abf6b186cb","fromNode":"c810b792fa5bb9bc","fromSide":"bottom","toNode":"114173b4fcf72577","toSide":"top"},
+		{"id":"75c7d10c340310e7","fromNode":"fe446daae2c84c86","fromSide":"bottom","toNode":"57e96ff632fb0009","toSide":"top"},
+		{"id":"f8f183d90bbe8a12","fromNode":"40e24a73df28d722","fromSide":"bottom","toNode":"de055f7f7b130f92","toSide":"top"},
+		{"id":"cce3e13cd7462cab","fromNode":"c810b792fa5bb9bc","fromSide":"bottom","toNode":"b20bff985e6ee09d","toSide":"top"}
+	]
 }
