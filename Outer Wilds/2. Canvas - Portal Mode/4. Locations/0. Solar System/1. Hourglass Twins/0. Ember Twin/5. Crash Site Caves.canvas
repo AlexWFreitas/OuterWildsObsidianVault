@@ -1,9 +1,6 @@
 {
 	"nodes":[
 		{"id":"8fa036c06406fcb7","x":143,"y":-1300,"width":524,"height":272,"type":"file","file":"10. Notes/Ember Twin - Sand Caves Mechanics.md"},
-		{"id":"29b38f4c4d31a06c","x":143,"y":-973,"width":524,"height":295,"type":"file","file":"99. Attachments/Crossroads with four possible exits.png"},
-		{"id":"29b3d67996113a61","x":800,"y":-1300,"width":400,"height":303,"type":"file","file":"10. Notes/Crash Site Cave Entrance - Air Refill.md"},
-		{"id":"dc7e82881de11d32","x":760,"y":-1360,"width":480,"height":725,"type":"group","label":"Crash Site Caves Entrance - Under Warp Receiver"},
 		{"id":"53b86dd01dab879d","x":-1960,"y":-1853,"width":1099,"height":787,"type":"group","label":"Escape Pod 02"},
 		{"id":"35e6cfca2fcedfcd","x":-1901,"y":-1786,"width":600,"height":230,"type":"group","label":"Escape Pod 02"},
 		{"id":"0d891c5e08ded14c","x":-1901,"y":-1754,"width":600,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas"},
@@ -13,6 +10,9 @@
 		{"id":"a7b4275e4f962c0f","x":-320,"y":-1360,"width":1024,"height":725,"type":"group","label":"Crash Site Caves - Escape Pod 02"},
 		{"id":"0ef5b8aae42cc0a3","x":-280,"y":-1300,"width":400,"height":474,"type":"file","file":"10. Notes/Ember Twin - Crash Site Caves.md"},
 		{"id":"f3af7e73600f7214","x":-360,"y":-1460,"width":1640,"height":860,"type":"group","label":"Crash Site Caves"},
+		{"id":"29b38f4c4d31a06c","x":143,"y":-973,"width":524,"height":295,"type":"file","file":"99. Attachments/Crossroads with four possible exits.png"},
+		{"id":"29b3d67996113a61","x":800,"y":-1300,"width":400,"height":303,"type":"file","file":"10. Notes/Crash Site Cave Entrance - Air Refill.md"},
+		{"id":"dc7e82881de11d32","x":760,"y":-1360,"width":480,"height":725,"type":"group","label":"Crash Site Caves Entrance - Under Warp Receiver"},
 		{"id":"8dafe3c29ddc30a2","x":800,"y":-924,"width":400,"height":246,"type":"file","file":"99. Attachments/Crash Site Caves Entrance - Air Refill.png"},
 		{"id":"b8455adc05b74c11","x":1740,"y":-1700,"width":500,"height":340,"type":"group","label":"Warp Receiver Area"},
 		{"id":"48e64066fc3a5616","x":1790,"y":-1640,"width":400,"height":230,"type":"group","label":"Communication Tower and Warp Receiver Area"},
@@ -25,7 +25,7 @@
 		{"id":"7b232be595a008b5","x":42,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
 		{"id":"ca4f7e2ac16de3ff","x":42,"y":-2478,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"82023edd7c43d7a6","x":562,"y":-2658,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
-		{"id":"db242bedead12c92","x":562,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"db242bedead12c92","x":562,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
 		{"id":"df1159f5d7833f6e","x":562,"y":-2478,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"5b02158f3736c771","x":1082,"y":-2658,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"d840467fcc90ec69","x":1082,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
@@ -35,6 +35,8 @@
 		{"id":"85b5c20469782522","fromNode":"53b86dd01dab879d","fromSide":"right","toNode":"f3af7e73600f7214","toSide":"left"},
 		{"id":"4a0ad79e56b19863","fromNode":"b8455adc05b74c11","fromSide":"left","toNode":"29b3d67996113a61","toSide":"right"},
 		{"id":"85c698e498f55ee6","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"258258d6f7768319","toSide":"bottom"},
-		{"id":"c041d2f45bfd0502","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"adb7084df916a10f","toSide":"bottom"}
+		{"id":"c041d2f45bfd0502","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"adb7084df916a10f","toSide":"bottom"},
+		{"id":"2764667da6ec2da2","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"82023edd7c43d7a6","toSide":"bottom"},
+		{"id":"8fe7449d762ae104","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"5b02158f3736c771","toSide":"bottom"}
 	]
 }

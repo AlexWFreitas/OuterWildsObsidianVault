@@ -5,13 +5,29 @@
 		{"id":"7fdfa66aef992dd3","x":-307,"y":16,"width":400,"height":233,"type":"file","file":"99. Attachments/Cave Entrances A.png"},
 		{"id":"61fea93d05d662d3","x":560,"y":102,"width":400,"height":294,"type":"file","file":"99. Attachments/Lakebed Cave - Cave Shard Room B.png"},
 		{"id":"1c34b7b83b9563a5","x":-920,"y":-412,"width":400,"height":470,"type":"file","file":"10. Notes/Lakebed Cave.md"},
-		{"id":"2fe84407fbb6d09e","x":-920,"y":371,"width":281,"height":50,"type":"file","file":"10. Notes/Escape Pod 02.md"}
+		{"id":"2fe84407fbb6d09e","x":-920,"y":371,"width":281,"height":50,"type":"file","file":"10. Notes/Escape Pod 02.md"},
+		{"id":"9494849a4a347dd5","x":-1000,"y":-960,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"2bb2a5a060681ea8","x":-1000,"y":-928,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"d5d513176bd31ac8","x":-1000,"y":-780,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"425c7ac42b20b560","x":-473,"y":-960,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"056db47d6ae7549a","x":-473,"y":-928,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"1e8f05884bc67717","x":-473,"y":-780,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"964b1f024692b719","x":47,"y":-960,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
+		{"id":"8ec658beacd0f0dc","x":47,"y":-928,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
+		{"id":"96c0b38ad3ba853a","x":47,"y":-780,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
+		{"id":"31db042b0b86d776","x":567,"y":-960,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
+		{"id":"59fb04f65d468416","x":567,"y":-928,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
+		{"id":"24a5a6a1e7fc1a45","x":567,"y":-780,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
 	],
 	"edges":[
 		{"id":"076e369f16aeee9e","fromNode":"2e8f40351b385e90","fromSide":"bottom","toNode":"7fdfa66aef992dd3","toSide":"top"},
 		{"id":"c75d7f3b9f602801","fromNode":"2e8f40351b385e90","fromSide":"right","toNode":"61fea93d05d662d3","toSide":"top","label":"Quantum Shard Room"},
 		{"id":"c696db066b2dcbd8","fromNode":"7fdfa66aef992dd3","fromSide":"top","toNode":"2e8f40351b385e90","toSide":"bottom","label":"Connection"},
 		{"id":"f68790f1c6d545cc","fromNode":"7fdfa66aef992dd3","fromSide":"left","toNode":"2fe84407fbb6d09e","toSide":"right","label":"Connects"},
-		{"id":"b2cf0c50c48c7c0b","fromNode":"7fdfa66aef992dd3","fromSide":"right","toNode":"61fea93d05d662d3","toSide":"left","label":"Quantum Shard Room"}
+		{"id":"b2cf0c50c48c7c0b","fromNode":"7fdfa66aef992dd3","fromSide":"right","toNode":"61fea93d05d662d3","toSide":"left","label":"Quantum Shard Room"},
+		{"id":"a5116af901a96f74","fromNode":"ccb3b92fb2810c96","fromSide":"top","toNode":"9494849a4a347dd5","toSide":"bottom"},
+		{"id":"d14361dcad8cb782","fromNode":"ccb3b92fb2810c96","fromSide":"top","toNode":"425c7ac42b20b560","toSide":"bottom"},
+		{"id":"f4d68126aaee3002","fromNode":"ccb3b92fb2810c96","fromSide":"top","toNode":"964b1f024692b719","toSide":"bottom"},
+		{"id":"cd0aaf190ed2f887","fromNode":"ccb3b92fb2810c96","fromSide":"top","toNode":"31db042b0b86d776","toSide":"bottom"}
 	]
 }

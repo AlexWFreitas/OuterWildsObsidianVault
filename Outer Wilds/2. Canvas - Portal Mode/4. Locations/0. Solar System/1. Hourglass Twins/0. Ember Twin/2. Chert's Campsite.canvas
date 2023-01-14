@@ -11,7 +11,7 @@
 		{"id":"f0a242db1d89646a","x":437,"y":-888,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
 		{"id":"c540b17c2848c903","x":437,"y":-740,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"5cb43e629202d6b1","x":957,"y":-920,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
-		{"id":"d961f9a35ead7d83","x":957,"y":-888,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"d961f9a35ead7d83","x":957,"y":-888,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
 		{"id":"7f8d7eb807beeeaf","x":957,"y":-740,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"9613de86618657c1","x":1477,"y":-920,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"d3becae5f089148c","x":1477,"y":-888,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},

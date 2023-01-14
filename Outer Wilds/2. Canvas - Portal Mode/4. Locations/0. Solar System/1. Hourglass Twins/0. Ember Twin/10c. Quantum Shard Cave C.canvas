@@ -2,7 +2,24 @@
 	"nodes":[
 		{"id":"5c45e1f43ec1a5fc","x":-617,"y":-248,"width":1235,"height":496,"type":"group","label":"Quantum Room C"},
 		{"id":"862adbbac96e3a1f","x":-587,"y":-201,"width":400,"height":422,"type":"file","file":"10. Notes/Ember Twin - Quantum Room C.md"},
-		{"id":"1b2dbcef615c1d3c","x":-122,"y":-201,"width":699,"height":399,"type":"file","file":"99. Attachments/Pasted image 20221225180613.png"}
+		{"id":"1b2dbcef615c1d3c","x":-122,"y":-201,"width":699,"height":399,"type":"file","file":"99. Attachments/Pasted image 20221225180613.png"},
+		{"id":"6c621111ffa7cb21","x":-980,"y":-720,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"5bc4b4e25cb2e745","x":-980,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"fb8f2f7c6248a182","x":-980,"y":-540,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"d16a5f8e3f9b9b85","x":-453,"y":-720,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"898589d39557b730","x":-453,"y":-540,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"d5c06be96e2d21e8","x":-453,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"66c3caceba2b214c","x":67,"y":-720,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
+		{"id":"958246078e5e4459","x":67,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
+		{"id":"cc3c9e044eaeea2e","x":67,"y":-540,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
+		{"id":"9a6c11df8836d95a","x":587,"y":-720,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
+		{"id":"8389fcb7ce3ac19f","x":587,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
+		{"id":"6b1f1ea8a1f04580","x":587,"y":-540,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0ce6c42ba92f51d1","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"6c621111ffa7cb21","toSide":"bottom"},
+		{"id":"fcc9aaa5aa501d0d","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"898589d39557b730","toSide":"bottom"},
+		{"id":"36c6f1e3d3c52736","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"66c3caceba2b214c","toSide":"bottom"},
+		{"id":"95e7fc5562bd4f22","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"9a6c11df8836d95a","toSide":"bottom"}
+	]
 }

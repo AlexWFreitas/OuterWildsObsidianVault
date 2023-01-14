@@ -3,7 +3,24 @@
 		{"id":"2b75b819151fd08c","x":-820,"y":-238,"width":1640,"height":476,"type":"group","label":"Ember Twin - Quantum Room D"},
 		{"id":"96c4f756273cb83d","x":-800,"y":-175,"width":540,"height":383,"type":"file","file":"10. Notes/Ember Twin - Quantum Room D.md"},
 		{"id":"aa0b19e9ae02cf05","x":-240,"y":-175,"width":437,"height":347,"type":"file","file":"99. Attachments/Entrance when going through normal means.png"},
-		{"id":"aa323d270ef8e237","x":220,"y":-175,"width":547,"height":347,"type":"file","file":"99. Attachments/Quantum Room D Image.png"}
+		{"id":"aa323d270ef8e237","x":220,"y":-175,"width":547,"height":347,"type":"file","file":"99. Attachments/Quantum Room D Image.png"},
+		{"id":"b2f7cdc5169ef4af","x":-1000,"y":-700,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"e70dcabcd2e5776d","x":-1000,"y":-668,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"614a38b091125f39","x":-1000,"y":-520,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"311cced66607ad96","x":-473,"y":-700,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"fba407d702c7ae5f","x":-473,"y":-668,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"9450d323bc45c95d","x":-473,"y":-520,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"310b4f4f02a1554e","x":47,"y":-700,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
+		{"id":"28381257a4af9fee","x":47,"y":-668,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
+		{"id":"7b5b025cc0c7ae29","x":47,"y":-520,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
+		{"id":"1a6a219e2f3be358","x":567,"y":-700,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
+		{"id":"9b70f2b654a84478","x":567,"y":-668,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
+		{"id":"8890250a56bc3319","x":567,"y":-520,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9919dd6d18c29c5b","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"b2f7cdc5169ef4af","toSide":"bottom"},
+		{"id":"dc7aecc2c84369ad","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"311cced66607ad96","toSide":"bottom"},
+		{"id":"bc466f3b8c5ea884","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"310b4f4f02a1554e","toSide":"bottom"},
+		{"id":"c57c4b7719d8d995","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"1a6a219e2f3be358","toSide":"bottom"}
+	]
 }

@@ -1,28 +1,36 @@
 {
 	"nodes":[
-		{"id":"13504e73b13dddba","x":-300,"y":580,"width":600,"height":510,"type":"group","label":"Escape Pod 02 Area - Locked Entrance"},
-		{"id":"8d1f89f8260d4dfd","x":-260,"y":640,"width":523,"height":412,"type":"file","file":"99. Attachments/Blocked Entrance to Steeping Stone Cave.png"},
 		{"id":"66d166879927753b","x":-461,"y":-257,"width":922,"height":515,"type":"group","label":"Escape Pod 02"},
 		{"id":"5c7dc8bee6d1c4ff","x":-433,"y":-218,"width":400,"height":446,"type":"file","file":"10. Notes/Escape Pod 02.md"},
 		{"id":"a820e3fe7c9e6565","x":7,"y":-218,"width":432,"height":455,"type":"file","file":"99. Attachments/Escape Pod 02.png"},
-		{"id":"adb58466cd6fcd28","x":-200,"y":-900,"width":400,"height":230,"type":"group","label":"Overview Map"},
-		{"id":"7fb04b41f5f842d0","x":-200,"y":-868,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
-		{"id":"c359bb0c5bde068e","x":-200,"y":-720,"width":400,"height":50,"type":"text","text":"# Overview Map"},
-		{"id":"5d2f3aad9f1b693e","x":327,"y":-900,"width":400,"height":230,"type":"group","label":"Solar System Map"},
-		{"id":"17a2cbaf2a1c9af1","x":327,"y":-868,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
-		{"id":"928132ba41b3fdc1","x":327,"y":-720,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
-		{"id":"a34147261e68eca8","x":847,"y":-900,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
-		{"id":"6796040fac4b2dc3","x":847,"y":-868,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
-		{"id":"d2384f3832a721dc","x":847,"y":-720,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
-		{"id":"5749a87dc029e3b2","x":1367,"y":-900,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
-		{"id":"df7dc75a491929f6","x":1367,"y":-868,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"b83823e08aee5a1a","x":1367,"y":-720,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"adb58466cd6fcd28","x":-988,"y":-840,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"7fb04b41f5f842d0","x":-988,"y":-808,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"c359bb0c5bde068e","x":-988,"y":-660,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"5d2f3aad9f1b693e","x":-461,"y":-840,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"17a2cbaf2a1c9af1","x":-461,"y":-808,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"928132ba41b3fdc1","x":-461,"y":-660,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"a34147261e68eca8","x":59,"y":-840,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
+		{"id":"6796040fac4b2dc3","x":59,"y":-808,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
+		{"id":"d2384f3832a721dc","x":59,"y":-660,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
+		{"id":"5749a87dc029e3b2","x":579,"y":-840,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
+		{"id":"df7dc75a491929f6","x":579,"y":-808,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
+		{"id":"b83823e08aee5a1a","x":579,"y":-660,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"13504e73b13dddba","x":-861,"y":760,"width":600,"height":510,"type":"group","label":"Escape Pod 02 Area - Locked Entrance"},
+		{"id":"8d1f89f8260d4dfd","x":-821,"y":820,"width":523,"height":412,"type":"file","file":"99. Attachments/Blocked Entrance to Steeping Stone Cave.png"},
+		{"id":"b3f6deefdf16eb08","x":319,"y":760,"width":400,"height":230,"type":"group","label":"Crash Site Caves"},
+		{"id":"1cb1ec1568271dee","x":319,"y":792,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/5. Crash Site Caves.canvas"},
+		{"id":"66392831ec2e0f43","x":319,"y":940,"width":400,"height":50,"type":"text","text":"# Crash Site Caves"},
+		{"id":"1d3fc71054ca0f41","x":-461,"y":1560,"width":400,"height":230,"type":"group","label":"Anglerfish Fossil Site"},
+		{"id":"384f692a323df77a","x":-461,"y":1592,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas"},
+		{"id":"207a9af18344b739","x":-461,"y":1740,"width":400,"height":50,"type":"text","text":"# Anglerfish Fossil Site"}
 	],
 	"edges":[
 		{"id":"8b5a78b8e66c7f90","fromNode":"66d166879927753b","fromSide":"bottom","toNode":"13504e73b13dddba","toSide":"top","color":"1","label":"Locked Path"},
 		{"id":"b47848ab96457c22","fromNode":"66d166879927753b","fromSide":"top","toNode":"5d2f3aad9f1b693e","toSide":"bottom"},
 		{"id":"5fc5a86dbd0ce875","fromNode":"66d166879927753b","fromSide":"top","toNode":"a34147261e68eca8","toSide":"bottom"},
 		{"id":"78097a5caecb0128","fromNode":"66d166879927753b","fromSide":"top","toNode":"5749a87dc029e3b2","toSide":"bottom"},
-		{"id":"699f2e55d384ffba","fromNode":"66d166879927753b","fromSide":"top","toNode":"adb58466cd6fcd28","toSide":"bottom"}
+		{"id":"699f2e55d384ffba","fromNode":"66d166879927753b","fromSide":"top","toNode":"adb58466cd6fcd28","toSide":"bottom"},
+		{"id":"0b1563a9738cb0c4","fromNode":"66d166879927753b","fromSide":"bottom","toNode":"b3f6deefdf16eb08","toSide":"top","label":"Underground"},
+		{"id":"1a626de522fde1ec","fromNode":"13504e73b13dddba","fromSide":"bottom","toNode":"1d3fc71054ca0f41","toSide":"top","color":"1"}
 	]
 }
