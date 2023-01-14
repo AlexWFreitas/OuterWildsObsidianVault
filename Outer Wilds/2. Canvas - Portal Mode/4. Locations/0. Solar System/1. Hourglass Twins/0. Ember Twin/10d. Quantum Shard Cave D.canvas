@@ -18,13 +18,17 @@
 		{"id":"8890250a56bc3319","x":567,"y":-520,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
 		{"id":"54901f7c722d18d6","x":-60,"y":500,"width":520,"height":230,"color":"6","type":"group","label":"Ember Twin - Quantum Network"},
 		{"id":"0d654d8eb3f2f17e","x":-60,"y":532,"width":520,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10. Ember Twin - Quantum Shard Network.canvas"},
-		{"id":"728294beb9f2503d","x":-60,"y":680,"width":520,"height":50,"color":"6","type":"text","text":"# Quantum Network"}
+		{"id":"728294beb9f2503d","x":-60,"y":680,"width":520,"height":50,"color":"6","type":"text","text":"# Quantum Network"},
+		{"id":"9ad73627ffe7cfa8","x":-1640,"y":-238,"width":400,"height":230,"type":"group","label":"Chertt's Campsite Area"},
+		{"id":"fa2948fd108b39c9","x":-1640,"y":-206,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/2. Chertt's Campsite.canvas"},
+		{"id":"96d224c3f71f9089","x":-1640,"y":-58,"width":400,"height":50,"type":"text","text":"# Chertt's Campsite Area"}
 	],
 	"edges":[
 		{"id":"9919dd6d18c29c5b","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"b2f7cdc5169ef4af","toSide":"bottom"},
 		{"id":"dc7aecc2c84369ad","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"311cced66607ad96","toSide":"bottom"},
 		{"id":"bc466f3b8c5ea884","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"310b4f4f02a1554e","toSide":"bottom"},
 		{"id":"c57c4b7719d8d995","fromNode":"2b75b819151fd08c","fromSide":"top","toNode":"1a6a219e2f3be358","toSide":"bottom"},
-		{"id":"a85e615443e10362","fromNode":"2b75b819151fd08c","fromSide":"bottom","toNode":"54901f7c722d18d6","toSide":"top"}
+		{"id":"a85e615443e10362","fromNode":"2b75b819151fd08c","fromSide":"bottom","toNode":"54901f7c722d18d6","toSide":"top"},
+		{"id":"c475477b1bd50576","fromNode":"fa2948fd108b39c9","fromSide":"right","toNode":"2b75b819151fd08c","toSide":"left","label":"Under"}
 	]
 }
