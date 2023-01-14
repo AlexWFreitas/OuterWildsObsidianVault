@@ -1,15 +1,24 @@
 {
 	"nodes":[
+		{"id":"d10ac4a110199110","x":-360,"y":1077,"width":400,"height":396,"type":"file","file":"99. Attachments/The Frozen Nomai Shuttle.png"},
+		{"id":"de055f7f7b130f92","x":258,"y":928,"width":400,"height":299,"type":"file","file":"10. Notes/Comet's Core.md"},
+		{"id":"c810b792fa5bb9bc","x":380,"y":1451,"width":600,"height":533,"type":"file","file":"10. Notes/Supernova Cause on Outer Wilds.md"},
+		{"id":"114173b4fcf72577","x":198,"y":2160,"width":365,"height":410,"type":"file","file":"99. Attachments/Superdense Content inside the Comet.png"},
+		{"id":"219273a205d0b831","x":-692,"y":-960,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"c324feaaf38e5935","x":-692,"y":-928,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"b696f076a8e10f9b","x":-692,"y":-780,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"e9c9c7d4952e23d4","x":-140,"y":-960,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"c6b9545a83b3f875","x":-140,"y":-928,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"8ee15afe5b17bd3b","x":-140,"y":-780,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"fe446daae2c84c86","x":-588,"y":-480,"width":848,"height":600,"type":"group","label":"The Interloper"},
 		{"id":"cd447feafbc20e16","x":-540,"y":-420,"width":760,"height":491,"type":"file","file":"10. Notes/The Interloper.md"},
 		{"id":"9c3262bd2215cf26","x":-360,"y":480,"width":400,"height":407,"type":"file","file":"10. Notes/Comet Shuttle.md"},
 		{"id":"57e96ff632fb0009","x":-1120,"y":480,"width":532,"height":396,"type":"file","file":"99. Attachments/The Interloper when viewed from the back.png"},
 		{"id":"40e24a73df28d722","x":380,"y":480,"width":484,"height":296,"type":"file","file":"99. Attachments/Comet Fissure opening when close to the Star.png"},
-		{"id":"d10ac4a110199110","x":-360,"y":1077,"width":400,"height":396,"type":"file","file":"99. Attachments/The Frozen Nomai Shuttle.png"},
-		{"id":"de055f7f7b130f92","x":380,"y":976,"width":400,"height":299,"type":"file","file":"10. Notes/Comet's Core.md"},
-		{"id":"c810b792fa5bb9bc","x":502,"y":1499,"width":600,"height":335,"type":"file","file":"10. Notes/Supernova Cause on Outer Wilds.md"},
-		{"id":"b20bff985e6ee09d","x":780,"y":2039,"width":602,"height":296,"type":"file","file":"99. Attachments/Dead Nomai Researcher afflicted by encased exotic matter.png"},
-		{"id":"114173b4fcf72577","x":280,"y":2039,"width":365,"height":410,"type":"file","file":"99. Attachments/Superdense Content inside the Comet.png"}
+		{"id":"b20bff985e6ee09d","x":880,"y":2160,"width":602,"height":296,"type":"file","file":"99. Attachments/Dead Nomai Researcher afflicted by encased exotic matter.png"},
+		{"id":"4c5ad13186c79988","x":-1080,"y":1800,"width":400,"height":230,"type":"group","label":"Ember Twin - Gravity Cannon"},
+		{"id":"fcec07db8ff9eb68","x":-1080,"y":1832,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/4. Gravity Cannon.canvas"},
+		{"id":"ea3e27b20fff71ff","x":-1080,"y":1980,"width":400,"height":50,"type":"text","text":"# Ember Twin - Gravity Cannon"}
 	],
 	"edges":[
 		{"id":"532267d5b257c136","fromNode":"9c3262bd2215cf26","fromSide":"bottom","toNode":"d10ac4a110199110","toSide":"top"},
@@ -19,6 +28,7 @@
 		{"id":"e33715abf6b186cb","fromNode":"c810b792fa5bb9bc","fromSide":"bottom","toNode":"114173b4fcf72577","toSide":"top"},
 		{"id":"75c7d10c340310e7","fromNode":"fe446daae2c84c86","fromSide":"bottom","toNode":"57e96ff632fb0009","toSide":"top"},
 		{"id":"f8f183d90bbe8a12","fromNode":"40e24a73df28d722","fromSide":"bottom","toNode":"de055f7f7b130f92","toSide":"top"},
-		{"id":"cce3e13cd7462cab","fromNode":"c810b792fa5bb9bc","fromSide":"bottom","toNode":"b20bff985e6ee09d","toSide":"top"}
-	]
-}
+		{"id":"cce3e13cd7462cab","fromNode":"c810b792fa5bb9bc","fromSide":"bottom","toNode":"b20bff985e6ee09d","toSide":"top"},
+		{"id":"5267dbba9b121fbd","fromNode":"fe446daae2c84c86","fromSide":"top","toNode":"219273a205d0b831","toSide":"bottom"},
+		{"id":"2d84d24bfd72d3a6","fromNode":"fe446daae2c84c86","fromSide":"top","toNode":"e9c9c7d4952e23d4","toSide":"bottom"},
+		{"id":"ccecc20901b69af1","fromNode":"4c5ad13186c79988","fromSide":"top","toNode":"d10ac4a110199110","toSide":"bottom","label":"Launch

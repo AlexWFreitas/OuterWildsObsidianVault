@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
                 "viewState": {
-                  "x": 1121.4978287505799,
-                  "y": 1313.7643069500994,
-                  "zoom": -0.8571255330386203,
+                  "x": -525.1860944692075,
+                  "y": 1669.5711838993543,
+                  "zoom": -0.6917772025696332,
                   "snapToGrid": true
                 }
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
+                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
+                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas"
+                "file": "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"
               }
             }
           }
@@ -277,15 +277,15 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/4. Gravity Cannon.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
     "10. Notes/Outer Wilds - General Info.md",
     "10. Notes/Sun.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "99. Attachments/Mural inside the Sun Station.png",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"
+    "99. Attachments/Mural inside the Sun Station.png"
   ]
 }
