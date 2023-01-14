@@ -21,13 +21,16 @@
 		{"id":"3f226643e3afb1ce","x":-4120,"y":-3230,"width":1027,"height":683,"type":"group","label":"Anglerfish"},
 		{"id":"cea75aac9da73b7d","x":-4060,"y":-3169,"width":400,"height":557,"type":"file","file":"10. Notes/Anglerfish.md"},
 		{"id":"27998abea526df83","x":-3600,"y":-3149,"width":479,"height":329,"type":"file","file":"99. Attachments/Anglerfish Beast.png"},
-		{"id":"109613251ea8d268","x":-760,"y":-3320,"width":2040,"height":1080,"type":"group","label":"Locations"},
+		{"id":"109613251ea8d268","x":-760,"y":-3320,"width":2040,"height":775,"type":"group","label":"Locations"},
 		{"id":"014773265289685b","x":-700,"y":-3240,"width":400,"height":230,"type":"group","label":"Escape Pod 03"},
 		{"id":"84fa8c43bb1e9a82","x":-700,"y":-3208,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/1. Escape Pod 03.canvas"},
 		{"id":"a8e116cc8f19c933","x":-700,"y":-3060,"width":400,"height":50,"type":"text","text":"# Escape Pod 03\n"},
 		{"id":"3226f85ae538ca87","x":-700,"y":-2820,"width":400,"height":230,"type":"group","label":"Vessel"},
 		{"id":"21dc0f7076a95e25","x":-700,"y":-2788,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas"},
-		{"id":"79182ced9c69e28c","x":-700,"y":-2640,"width":400,"height":50,"type":"text","text":"# Vessel"}
+		{"id":"79182ced9c69e28c","x":-700,"y":-2640,"width":400,"height":50,"type":"text","text":"# Vessel"},
+		{"id":"e08fb98ee1f0a26b","x":-140,"y":-3240,"width":400,"height":230,"type":"group","label":"Feldspar's Campsite"},
+		{"id":"60b44e36bd75071e","x":-140,"y":-3060,"width":400,"height":50,"type":"text","text":"# Feldspar's Campsite"},
+		{"id":"4e0b1309035044ca","x":-140,"y":-3208,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"}
 	],
 	"edges":[
 		{"id":"ca2733ad96369682","fromNode":"67833e913c24e5e4","fromSide":"right","toNode":"f449f2c0acebfd39","toSide":"left"},
@@ -37,6 +40,8 @@
 		{"id":"0ffd6a5a970fef52","fromNode":"971b691d94dcc23d","fromSide":"bottom","toNode":"bd7c629b549df468","toSide":"top","label":"Information"},
 		{"id":"0fbcff30f498dbdb","fromNode":"971b691d94dcc23d","fromSide":"top","toNode":"0ccd992618068ab8","toSide":"bottom"},
 		{"id":"2604d8db186f64e6","fromNode":"971b691d94dcc23d","fromSide":"top","toNode":"2cd7a7b0ab9478a7","toSide":"bottom"},
-		{"id":"5f4990df59b8abad","fromNode":"a8e116cc8f19c933","fromSide":"bottom","toNode":"3226f85ae538ca87","toSide":"top"}
+		{"id":"5f4990df59b8abad","fromNode":"a8e116cc8f19c933","fromSide":"bottom","toNode":"3226f85ae538ca87","toSide":"top"},
+		{"id":"e934638fa9d3d423","fromNode":"971b691d94dcc23d","fromSide":"bottom","toNode":"014773265289685b","toSide":"top"},
+		{"id":"99a584794b415cca","fromNode":"971b691d94dcc23d","fromSide":"bottom","toNode":"e08fb98ee1f0a26b","toSide":"top"}
 	]
 }
