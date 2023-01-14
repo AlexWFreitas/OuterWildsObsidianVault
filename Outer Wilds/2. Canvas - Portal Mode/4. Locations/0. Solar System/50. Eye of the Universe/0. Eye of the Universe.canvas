@@ -1,21 +1,33 @@
 {
 	"nodes":[
-		{"id":"0c826f3d264a795f","x":180,"y":-1800,"width":800,"height":368,"type":"file","file":"10. Notes/Eye of the Universe.md"},
-		{"id":"38b8b6644ca90b13","x":140,"y":-1860,"width":1340,"height":460,"type":"group","label":"Eye of the Universe"},
+		{"id":"0c826f3d264a795f","x":180,"y":-1800,"width":800,"height":394,"type":"file","file":"10. Notes/Eye of the Universe.md"},
+		{"id":"38b8b6644ca90b13","x":140,"y":-1860,"width":1340,"height":500,"type":"group","label":"Eye of the Universe"},
 		{"id":"fb5288c809bdfb9a","x":1020,"y":-1800,"width":422,"height":368,"type":"file","file":"99. Attachments/Eye of the Universe viewed from the Vessel.png"},
+		{"id":"7aba8c8924bbbfba","x":610,"y":-2360,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"87b36d8cd76dd277","x":610,"y":-2180,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"9ec38c4da4e49ca9","x":610,"y":-2328,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"5734dcca18a7bf35","x":1120,"y":-2360,"width":400,"height":230,"type":"group","label":"Vessel"},
+		{"id":"71298b574bb58afa","x":1120,"y":-2180,"width":400,"height":50,"type":"text","text":"# Vessel"},
+		{"id":"11e5e035426b61b6","x":1120,"y":-2328,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas"},
+		{"id":"76453cee7b74264d","x":110,"y":-2360,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"fd4c176d4e9a42de","x":110,"y":-2180,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"5afe0f02cf023095","x":110,"y":-2328,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"4623c0a54870fe9f","x":-200,"y":-1160,"width":2020,"height":1400,"type":"group","label":"Information"},
 		{"id":"d25ebf42e3135cb9","x":-140,"y":-1080,"width":940,"height":1240,"type":"group","label":"How to go there"},
+		{"id":"852a306949943968","x":860,"y":-1080,"width":920,"height":1280,"type":"group","label":"How they found the Coordinates"},
+		{"id":"0f11a9873fb344c2","x":900,"y":-1023,"width":840,"height":683,"type":"file","file":"10. Notes/Ash Twin Project.md"},
 		{"id":"c5bd6084222fcae8","x":-100,"y":-1015,"width":400,"height":374,"type":"file","file":"10. Notes/Probe Tracking Module - Orbital Probe Cannon.md"},
 		{"id":"5b49c73c3106f7cc","x":365,"y":-1015,"width":400,"height":932,"type":"file","file":"10. Notes/Vessel.md"},
 		{"id":"8cef870e16b8f837","x":-100,"y":-520,"width":400,"height":229,"type":"file","file":"99. Attachments/Eye of the Universe Coordinates.png"},
-		{"id":"32a60992026ef47d","x":-100,"y":-200,"width":400,"height":328,"type":"file","file":"99. Attachments/Warp Coordinates.png"},
-		{"id":"0f11a9873fb344c2","x":900,"y":-1023,"width":840,"height":683,"type":"file","file":"10. Notes/Ash Twin Project.md"},
 		{"id":"724d9218003130e0","x":900,"y":-289,"width":640,"height":451,"type":"file","file":"99. Attachments/Ash Twin Project - Advanced Warp Core.png"},
-		{"id":"852a306949943968","x":860,"y":-1080,"width":920,"height":1280,"type":"group","label":"How they found the Coordinates"}
+		{"id":"32a60992026ef47d","x":-100,"y":-200,"width":400,"height":328,"type":"file","file":"99. Attachments/Warp Coordinates.png"}
 	],
 	"edges":[
 		{"id":"aaef7bdc8d266925","fromNode":"8cef870e16b8f837","fromSide":"bottom","toNode":"32a60992026ef47d","toSide":"top"},
 		{"id":"ab6c7f6d5e6e3675","fromNode":"c5bd6084222fcae8","fromSide":"bottom","toNode":"8cef870e16b8f837","toSide":"top"},
-		{"id":"2a8a10bae2666f39","fromNode":"38b8b6644ca90b13","fromSide":"bottom","toNode":"4623c0a54870fe9f","toSide":"top"}
+		{"id":"2a8a10bae2666f39","fromNode":"38b8b6644ca90b13","fromSide":"bottom","toNode":"4623c0a54870fe9f","toSide":"top"},
+		{"id":"15a2d3d500bf941e","fromNode":"38b8b6644ca90b13","fromSide":"top","toNode":"76453cee7b74264d","toSide":"bottom"},
+		{"id":"ae662c37733b48b3","fromNode":"38b8b6644ca90b13","fromSide":"top","toNode":"7aba8c8924bbbfba","toSide":"bottom"},
+		{"id":"b1534c4fc9a772cd","fromNode":"38b8b6644ca90b13","fromSide":"top","toNode":"5734dcca18a7bf35","toSide":"bottom"}
 	]
 }

@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"768497ea55240a96","x":-1880,"y":-960,"width":3713,"height":1960,"type":"group","label":"Spoiler - Ending Images"},
+		{"id":"ab9ed5cf84d9862c","x":-1821,"y":-855,"width":400,"height":695,"type":"file","file":"10. Notes/Ending.md"},
+		{"id":"763f65a7f4f4a73b","x":-1380,"y":-855,"width":880,"height":1375,"type":"group","label":"Part 1 of Ending"},
+		{"id":"8cb29846d0b23576","x":-1360,"y":111,"width":400,"height":245,"type":"file","file":"99. Attachments/A depiction of the Universe.png"},
+		{"id":"d893fc22dfee1623","x":-1360,"y":-176,"width":400,"height":216,"type":"file","file":"99. Attachments/Inside the Eye of the Universe.png"},
+		{"id":"a3887217032118f8","x":-920,"y":-432,"width":400,"height":248,"type":"file","file":"99. Attachments/Falling into the Hole.png"},
+		{"id":"1ddae25157f7a2c0","x":-460,"y":-855,"width":2245,"height":1211,"type":"group","label":"Part 2 of Ending"},
+		{"id":"47d5c5580948fbee","x":-420,"y":-16,"width":400,"height":308,"type":"file","file":"99. Attachments/Final Campsite - 05.png"},
+		{"id":"1379108f0d2d1cdb","x":32,"y":-16,"width":399,"height":264,"type":"file","file":"99. Attachments/Final Campsite - 06.png"},
+		{"id":"2d4d792e84ab458f","x":1339,"y":-536,"width":400,"height":378,"type":"file","file":"99. Attachments/Pasted image 20221228223610.png"},
+		{"id":"a426c8998edc4c51","x":-1360,"y":-780,"width":400,"height":211,"type":"file","file":"99. Attachments/Eye of the Universe - 01.png"},
+		{"id":"8117efc4d6182c46","x":-920,"y":240,"width":400,"height":232,"type":"file","file":"99. Attachments/Observatory at the Eye of the Universe.png"},
+		{"id":"ee743823ed97b95e","x":-1360,"y":-520,"width":400,"height":281,"type":"file","file":"99. Attachments/Floor made of Gravity Floor.png"},
+		{"id":"a59f60843fd70874","x":-920,"y":-780,"width":400,"height":275,"type":"file","file":"99. Attachments/Eye of the Universe - 02.png"},
+		{"id":"8a42bb403ed994ba","x":-420,"y":-780,"width":310,"height":285,"type":"file","file":"99. Attachments/The Universe zoomed out.png"},
+		{"id":"d7d43c6636579dc0","x":-420,"y":-423,"width":400,"height":343,"type":"file","file":"99. Attachments/Final Campsite - 01.png"},
+		{"id":"16e2874605373e7c","x":-60,"y":-780,"width":491,"height":285,"type":"file","file":"99. Attachments/A forest of Stars.png"},
+		{"id":"ab8069a629eb8cdd","x":-460,"y":455,"width":1800,"height":505,"type":"group","label":"Ending - Last Part"},
+		{"id":"e46cf4bf85b8c777","x":31,"y":-419,"width":400,"height":339,"type":"file","file":"99. Attachments/Final Campsite - 02.png"},
+		{"id":"df5c14a2868fa688","x":-920,"y":-111,"width":400,"height":272,"type":"file","file":"99. Attachments/Back to the Observatory.png"},
+		{"id":"66e07bd86132277d","x":900,"y":-441,"width":400,"height":307,"type":"file","file":"99. Attachments/Final Campsite - 04.png"},
+		{"id":"6d4deeb0d7a5567a","x":940,"y":-50,"width":399,"height":319,"type":"file","file":"99. Attachments/The form of a planet.png"},
+		{"id":"8171f078bed1e921","x":-40,"y":520,"width":609,"height":405,"type":"file","file":"99. Attachments/Big Bang Explosion.png"},
+		{"id":"7d580ed6009f53bc","x":581,"y":520,"width":719,"height":405,"type":"file","file":"99. Attachments/Final Screen of the game.png"},
+		{"id":"19735937922d7941","x":-378,"y":573,"width":268,"height":300,"type":"file","file":"99. Attachments/Possible Big Bang.png"},
+		{"id":"4eb6850317d770d7","x":500,"y":-101,"width":400,"height":370,"type":"file","file":"99. Attachments/Final Campsite - 07 - Together Finally.png"},
+		{"id":"8dd64557692acf5c","x":460,"y":-780,"width":400,"height":244,"type":"file","file":"99. Attachments/Dying Universe.png"},
+		{"id":"fd26525834d3389e","x":461,"y":-447,"width":399,"height":268,"type":"file","file":"99. Attachments/Final Campsite - 03.png"},
+		{"id":"f11cf84000972cb9","x":900,"y":-780,"width":400,"height":286,"type":"file","file":"99. Attachments/Campsite Found.png"},
+		{"id":"01188b59c15ba6b3","x":-460,"y":-1440,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"4fd5c333b2ba1212","x":-460,"y":-1408,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"03714f7d56438994","x":-460,"y":-1260,"width":400,"height":50,"type":"text","text":"# Overview Map"}
+	],
+	"edges":[
+		{"id":"9fcda98c85ab3abd","fromNode":"768497ea55240a96","fromSide":"top","toNode":"01188b59c15ba6b3","toSide":"bottom"}
+	]
+}
