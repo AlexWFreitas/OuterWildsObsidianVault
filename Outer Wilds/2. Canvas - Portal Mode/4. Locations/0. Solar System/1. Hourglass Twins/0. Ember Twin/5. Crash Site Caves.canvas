@@ -17,6 +17,9 @@
 		{"id":"b8455adc05b74c11","x":1740,"y":-1700,"width":500,"height":340,"type":"group","label":"Warp Receiver Area"},
 		{"id":"48e64066fc3a5616","x":1790,"y":-1640,"width":400,"height":230,"type":"group","label":"Communication Tower and Warp Receiver Area"},
 		{"id":"26be1595458908fc","x":1790,"y":-1608,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/3. Communication Tower and Quantum Moon Locator Area.canvas"},
+		{"id":"062df0d87542331d","x":-320,"y":-80,"width":400,"height":230,"type":"group","label":"Sunless City"},
+		{"id":"18aec9d090b218c7","x":-320,"y":-48,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/7. Sunless City.canvas"},
+		{"id":"89213ea5763dc80e","x":-320,"y":100,"width":400,"height":50,"type":"text","text":"# Sunless City"},
 		{"id":"5cf8131cba412f37","x":1790,"y":-1460,"width":400,"height":50,"type":"text","text":"# Warp Receiver Area"},
 		{"id":"258258d6f7768319","x":-485,"y":-2658,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"1054e418fe4ce032","x":-485,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
@@ -24,6 +27,9 @@
 		{"id":"adb7084df916a10f","x":42,"y":-2658,"width":400,"height":230,"type":"group","label":"Solar System Map"},
 		{"id":"7b232be595a008b5","x":42,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
 		{"id":"ca4f7e2ac16de3ff","x":42,"y":-2478,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"1d1e00276314cda2","x":880,"y":-80,"width":540,"height":230,"type":"group","label":"Anglerfish Fossil Site Overlook"},
+		{"id":"9d3a9e3860bb9634","x":880,"y":-48,"width":540,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas"},
+		{"id":"213ea1b0742d208c","x":880,"y":100,"width":540,"height":50,"type":"text","text":"# Anglerfish Fossil Site Overlook"},
 		{"id":"82023edd7c43d7a6","x":562,"y":-2658,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
 		{"id":"db242bedead12c92","x":562,"y":-2626,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
 		{"id":"df1159f5d7833f6e","x":562,"y":-2478,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
@@ -37,6 +43,8 @@
 		{"id":"85c698e498f55ee6","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"258258d6f7768319","toSide":"bottom"},
 		{"id":"c041d2f45bfd0502","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"adb7084df916a10f","toSide":"bottom"},
 		{"id":"2764667da6ec2da2","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"82023edd7c43d7a6","toSide":"bottom"},
-		{"id":"8fe7449d762ae104","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"5b02158f3736c771","toSide":"bottom"}
+		{"id":"8fe7449d762ae104","fromNode":"f3af7e73600f7214","fromSide":"top","toNode":"5b02158f3736c771","toSide":"bottom"},
+		{"id":"1ac6794eca5cc5fc","fromNode":"f3af7e73600f7214","fromSide":"bottom","toNode":"062df0d87542331d","toSide":"top"},
+		{"id":"b06a60ef11b85cdc","fromNode":"f3af7e73600f7214","fromSide":"bottom","toNode":"1d1e00276314cda2","toSide":"top","color":"1","label":"No Access - View From Outside"}
 	]
 }
