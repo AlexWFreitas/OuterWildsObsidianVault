@@ -12,26 +12,28 @@
 		{"id":"ea1419a7bb52c049","x":607,"y":-228,"width":400,"height":277,"type":"file","file":"99. Attachments/Quantum Moon - Timber Hearth State - Icon.png"},
 		{"id":"108dd4abdca72b61","x":-1447,"y":-380,"width":920,"height":393,"type":"group","label":"Hourglass Twins QuantumMoon"},
 		{"id":"e7dbcd4f89204ca4","x":-947,"y":151,"width":400,"height":370,"type":"file","file":"99. Attachments/Quantum Moon - Giant's Deep - Shuttle.png"},
-		{"id":"ea911802c1d27e16","x":-926,"y":-1158,"width":2413,"height":698,"type":"group","label":"Quantum Moon - General Info"},
 		{"id":"2f286a14cf1fdc7a","x":-976,"y":-327,"width":400,"height":247,"type":"file","file":"99. Attachments/Quantum Moon - Hourglass Twins appearance.png"},
 		{"id":"69222ad02d34145f","x":-407,"y":490,"width":580,"height":370,"type":"file","file":"99. Attachments/Dark Bramble - Quantum Moon Orbit Tracker.png"},
 		{"id":"ae5ef477d0deb181","x":253,"y":490,"width":569,"height":370,"type":"file","file":"99. Attachments/Quantum Moon - Dark Bramble State - Shrine and look outside.png"},
-		{"id":"78fc271b247d9b48","x":-167,"y":-1080,"width":400,"height":581,"type":"file","file":"10. Notes/Quantum Moon - Poles Accessibility.md"},
-		{"id":"5183564e14b216ad","x":253,"y":-801,"width":400,"height":302,"type":"file","file":"99. Attachments/Quantum Moon seen near Dark Bramble.png"},
-		{"id":"ad32c3bc344e4c87","x":673,"y":-1080,"width":400,"height":581,"type":"file","file":"10. Notes/Quantum Moon - Drawing.md"},
 		{"id":"8ea1bd41e9763cea","x":-913,"y":580,"width":400,"height":257,"type":"file","file":"99. Attachments/Quantum Moon - Giant's Deep - Ship on the Beach.png"},
 		{"id":"0259bf0667e919d9","x":853,"y":490,"width":591,"height":370,"type":"file","file":"99. Attachments/Quantum Moon - Dark Bramble State - Dark Bramble Vines and Ice.png"},
 		{"id":"1f842baab9d08efc","x":1047,"y":72,"width":400,"height":268,"type":"file","file":"99. Attachments/My Ship after landing on the Quantum Moon - Timber Hearth.png"},
 		{"id":"4339c3c3f9c7e1a1","x":1047,"y":-228,"width":400,"height":247,"type":"file","file":"99. Attachments/Image with the light turned on.png"},
-		{"id":"c337b90f9fdff5b8","x":-887,"y":-1080,"width":680,"height":452,"type":"file","file":"10. Notes/Quantum Moon Locator.md"},
 		{"id":"dcfa750d04efe637","x":-1387,"y":151,"width":396,"height":400,"type":"file","file":"99. Attachments/Quantum Moon - Giant's Deep - Shrine.png"},
 		{"id":"75832e110ecb64dc","x":-1367,"y":620,"width":400,"height":264,"type":"file","file":"99. Attachments/Quantum Moon - Giant's Deep - Blocked North Pole Access.png"},
 		{"id":"64868017b4f4ca4e","x":-1407,"y":-327,"width":399,"height":310,"type":"file","file":"99. Attachments/Orbit Tracker - Position Hourglass Twins.png"},
-		{"id":"610878328ea04924","x":1093,"y":-759,"width":340,"height":260,"type":"file","file":"99. Attachments/Readable text on the Drawings after turning the power on.png"},
-		{"id":"92eb82c479bb70c5","x":1093,"y":-1080,"width":334,"height":280,"type":"file","file":"99. Attachments/Quantum Moon Drawing - The 3 needed Quantum Principles that you need to reach the Eye of the Universe.png"},
-		{"id":"c809579a8262584a","x":253,"y":-1080,"width":400,"height":242,"type":"file","file":"99. Attachments/Shrine on North Pole.png"},
 		{"id":"837fc5d0d5dd9e8f","x":-913,"y":884,"width":400,"height":207,"type":"file","file":"99. Attachments/Quantum Moon - Giant's Deep - Planet Icon on Orbit Tracker.png"},
-		{"id":"47accc13043d3116","x":253,"y":-2118,"width":787,"height":478,"type":"file","file":"10. Notes/Quantum Moon.md"}
+		{"id":"47accc13043d3116","x":253,"y":-2118,"width":787,"height":578,"type":"file","file":"10. Notes/Quantum Moon.md"},
+		{"id":"ea911802c1d27e16","x":1720,"y":-881,"width":2423,"height":698,"type":"group","label":"Quantum Moon - General Info"},
+		{"id":"78fc271b247d9b48","x":2476,"y":-824,"width":400,"height":581,"type":"file","file":"10. Notes/Quantum Moon - Poles Accessibility.md"},
+		{"id":"ad32c3bc344e4c87","x":3336,"y":-824,"width":400,"height":581,"type":"file","file":"10. Notes/Quantum Moon - Drawing.md"},
+		{"id":"92eb82c479bb70c5","x":3756,"y":-824,"width":340,"height":285,"type":"file","file":"99. Attachments/Quantum Moon Drawing - The 3 needed Quantum Principles that you need to reach the Eye of the Universe.png"},
+		{"id":"5183564e14b216ad","x":2916,"y":-524,"width":400,"height":302,"type":"file","file":"99. Attachments/Quantum Moon seen near Dark Bramble.png"},
+		{"id":"610878328ea04924","x":3756,"y":-481,"width":340,"height":260,"type":"file","file":"99. Attachments/Readable text on the Drawings after turning the power on.png"},
+		{"id":"c809579a8262584a","x":2916,"y":-824,"width":400,"height":242,"type":"file","file":"99. Attachments/Shrine on North Pole.png"},
+		{"id":"c337b90f9fdff5b8","x":1756,"y":-825,"width":680,"height":452,"type":"file","file":"10. Notes/Quantum Moon Locator.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"bb7234d8ffa68430","fromNode":"47accc13043d3116","fromSide":"bottom","toNode":"ea911802c1d27e16","toSide":"top"}
+	]
 }
