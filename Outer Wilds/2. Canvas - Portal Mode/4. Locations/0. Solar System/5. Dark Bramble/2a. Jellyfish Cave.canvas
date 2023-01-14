@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"754ea86fd34f2387","x":-840,"y":-780,"width":1680,"height":1560,"type":"group","label":"Jellyfish Cave"},
+		{"id":"754ea86fd34f2387","x":-840,"y":-780,"width":1600,"height":1460,"type":"group","label":"Jellyfish Cave"},
 		{"id":"876f2013a9a427c5","x":-772,"y":-692,"width":745,"height":476,"type":"file","file":"10. Notes/Dark Bramble - Jellyfish Cave.md"},
-		{"id":"1642bc7720039ea4","x":400,"y":-160,"width":400,"height":359,"type":"file","file":"99. Attachments/Shortcut to Jellyfish Cave.png"},
 		{"id":"7198077974450c8d","x":-732,"y":-139,"width":333,"height":400,"type":"file","file":"99. Attachments/Exposed Dark Bramble bramble.png"},
-		{"id":"9ac1633f508c9695","x":-27,"y":400,"width":399,"height":277,"type":"file","file":"99. Attachments/Image of the Jellyfish Cave.png"},
-		{"id":"54e3a328740c8b98","x":-598,"y":400,"width":399,"height":314,"type":"file","file":"99. Attachments/Interior of a Dark Bramble's bramble.png"},
-		{"id":"f392cf7551e5e50d","x":46,"y":-662,"width":400,"height":359,"type":"file","file":"99. Attachments/Location with the Jellyfish Cave Shortcut.png"}
+		{"id":"f392cf7551e5e50d","x":46,"y":-662,"width":400,"height":359,"type":"file","file":"99. Attachments/Location with the Jellyfish Cave Shortcut.png"},
+		{"id":"54e3a328740c8b98","x":-280,"y":20,"width":399,"height":314,"type":"file","file":"99. Attachments/Interior of a Dark Bramble's bramble.png"},
+		{"id":"9ac1633f508c9695","x":201,"y":334,"width":399,"height":277,"type":"file","file":"99. Attachments/Image of the Jellyfish Cave.png"},
+		{"id":"1642bc7720039ea4","x":300,"y":-159,"width":400,"height":359,"type":"file","file":"99. Attachments/Shortcut to Jellyfish Cave.png"}
 	],
 	"edges":[
-		{"id":"34aedd223a579347","fromNode":"1642bc7720039ea4","fromSide":"left","toNode":"9ac1633f508c9695","toSide":"right"},
+		{"id":"34aedd223a579347","fromNode":"1642bc7720039ea4","fromSide":"bottom","toNode":"9ac1633f508c9695","toSide":"top"},
 		{"id":"c9a52b52df7e3e94","fromNode":"f392cf7551e5e50d","fromSide":"bottom","toNode":"1642bc7720039ea4","toSide":"top"},
-		{"id":"a14b1b31b5a6c8c6","fromNode":"7198077974450c8d","fromSide":"bottom","toNode":"54e3a328740c8b98","toSide":"top"},
-		{"id":"a3b17a18eaeed9d3","fromNode":"54e3a328740c8b98","fromSide":"right","toNode":"9ac1633f508c9695","toSide":"left"}
+		{"id":"a14b1b31b5a6c8c6","fromNode":"7198077974450c8d","fromSide":"right","toNode":"54e3a328740c8b98","toSide":"left"},
+		{"id":"a3b17a18eaeed9d3","fromNode":"54e3a328740c8b98","fromSide":"bottom","toNode":"9ac1633f508c9695","toSide":"left"}
 	]
 }

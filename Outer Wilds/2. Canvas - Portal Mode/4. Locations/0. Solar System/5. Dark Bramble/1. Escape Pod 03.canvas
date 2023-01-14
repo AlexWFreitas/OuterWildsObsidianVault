@@ -1,13 +1,27 @@
 {
 	"nodes":[
-		{"id":"8b6dc49908e808ad","x":-860,"y":-540,"width":1720,"height":1080,"type":"group","label":"Escape Pod 03"},
-		{"id":"89bb5b7802c1e77d","x":-800,"y":-443,"width":692,"height":641,"type":"file","file":"10. Notes/Escape Pod 03.md"},
-		{"id":"b20d86994801761d","x":421,"y":-69,"width":400,"height":373,"type":"file","file":"99. Attachments/White Light Trail to Vessel Signal.png"},
-		{"id":"0a81802b9d96c38d","x":-60,"y":131,"width":400,"height":369,"type":"file","file":"99. Attachments/Dark Bramble Seed.png"},
-		{"id":"c3817c0613660c37","x":-60,"y":-480,"width":400,"height":308,"type":"file","file":"99. Attachments/Escape Pod 03.png"}
+		{"id":"8b6dc49908e808ad","x":-860,"y":-540,"width":1720,"height":860,"type":"group","label":"Escape Pod 03"},
+		{"id":"b4746853ea568c26","x":-200,"y":-1040,"width":400,"height":230,"type":"group","label":"Solar System Map"},
+		{"id":"4ddd340fc115ca3b","x":-200,"y":-1008,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
+		{"id":"16a9a5b1d32d9a1a","x":-200,"y":-860,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"d7625d8d1fc49aec","x":300,"y":-1040,"width":400,"height":230,"type":"group","label":"Dark Bramble"},
+		{"id":"b30cb1d2fb1745af","x":300,"y":-1008,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"},
+		{"id":"2c11c135424ba88c","x":300,"y":-860,"width":400,"height":50,"type":"text","text":"# Dark Bramble"},
+		{"id":"b6ebc6d85728c408","x":-700,"y":-1040,"width":400,"height":230,"type":"group","label":"Overview Map"},
+		{"id":"402771ac045132df","x":-700,"y":-1008,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
+		{"id":"30c5aacc90816a97","x":-700,"y":-860,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"c3817c0613660c37","x":-60,"y":-480,"width":400,"height":308,"type":"file","file":"99. Attachments/Escape Pod 03.png"},
+		{"id":"0a81802b9d96c38d","x":-60,"y":-120,"width":400,"height":369,"type":"file","file":"99. Attachments/Dark Bramble Seed.png"},
+		{"id":"89bb5b7802c1e77d","x":-800,"y":-480,"width":692,"height":641,"type":"file","file":"10. Notes/Escape Pod 03.md"},
+		{"id":"b20d86994801761d","x":400,"y":-326,"width":400,"height":373,"type":"file","file":"99. Attachments/White Light Trail to Vessel Signal.png"},
+		{"id":"13041e9cca3decc0","x":-200,"y":700,"width":400,"height":230,"type":"group","label":"Vessel"},
+		{"id":"0c116d18894f43da","x":-200,"y":732,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas"},
+		{"id":"0a47be0239c7279e","x":-200,"y":880,"width":400,"height":50,"type":"text","text":"# Vessel"}
 	],
 	"edges":[
-		{"id":"7174b03906d4de8d","fromNode":"c3817c0613660c37","fromSide":"bottom","toNode":"b20d86994801761d","toSide":"top"},
-		{"id":"3c13b9178c66368c","fromNode":"b20d86994801761d","fromSide":"left","toNode":"0a81802b9d96c38d","toSide":"right"}
+		{"id":"fed53128d1e66a16","fromNode":"8b6dc49908e808ad","fromSide":"top","toNode":"b4746853ea568c26","toSide":"bottom"},
+		{"id":"5cc775909858827e","fromNode":"8b6dc49908e808ad","fromSide":"top","toNode":"b6ebc6d85728c408","toSide":"bottom"},
+		{"id":"f9895633fea178cc","fromNode":"8b6dc49908e808ad","fromSide":"top","toNode":"d7625d8d1fc49aec","toSide":"bottom"},
+		{"id":"e37cd0d47b82cd0f","fromNode":"8b6dc49908e808ad","fromSide":"bottom","toNode":"13041e9cca3decc0","toSide":"top","label":"Helps finding Vessel"}
 	]
 }

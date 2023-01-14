@@ -13,20 +13,22 @@
 		{"id":"5c7972b902b8145c","x":-720,"y":-1200,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"6eb73130768b5cb8","x":-720,"y":-1168,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"0b7b08bd126921a2","x":-720,"y":-1020,"width":400,"height":50,"type":"text","text":"# Overview Map"},
-		{"id":"e879f26ca4d55fac","x":-900,"y":560,"width":880,"height":520,"type":"group","label":"Feldspar"},
-		{"id":"52cfd178b7d9ea39","x":-864,"y":620,"width":400,"height":413,"type":"file","file":"10. Notes/Feldspar.md"},
-		{"id":"228611c3e35b19bc","x":-420,"y":620,"width":356,"height":413,"type":"file","file":"99. Attachments/Feldspar.png"},
-		{"id":"00283efdc54cb065","x":280,"y":560,"width":400,"height":230,"type":"group","label":"Dark Bramble"},
-		{"id":"c571752432e1cbdf","x":280,"y":592,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"},
-		{"id":"b1245873cd7f8596","x":280,"y":740,"width":400,"height":50,"type":"text","text":"# Dark Bramble"},
-		{"id":"f5fea271c69d5973","x":880,"y":560,"width":700,"height":230,"type":"group","label":"Timber Hearth - Youngbark Crater Seed"},
-		{"id":"8ff3bb3bb607f03d","x":880,"y":592,"width":700,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"},
-		{"id":"74553f238fecb11c","x":880,"y":740,"width":700,"height":50,"type":"text","text":"# Timber Hearth - Youngbark Crater Seed"}
+		{"id":"e879f26ca4d55fac","x":-1160,"y":760,"width":880,"height":520,"type":"group","label":"Feldspar"},
+		{"id":"52cfd178b7d9ea39","x":-1124,"y":820,"width":400,"height":413,"type":"file","file":"10. Notes/Feldspar.md"},
+		{"id":"228611c3e35b19bc","x":-680,"y":820,"width":356,"height":413,"type":"file","file":"99. Attachments/Feldspar.png"},
+		{"id":"00283efdc54cb065","x":-120,"y":760,"width":400,"height":230,"type":"group","label":"Jellyfish Cave"},
+		{"id":"c571752432e1cbdf","x":-120,"y":792,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/2a. Jellyfish Cave.canvas"},
+		{"id":"b1245873cd7f8596","x":-120,"y":940,"width":400,"height":50,"type":"text","text":"# Jellyfish Cave"},
+		{"id":"f5fea271c69d5973","x":400,"y":760,"width":700,"height":230,"type":"group","label":"Timber Hearth - Youngbark Crater Seed"},
+		{"id":"8ff3bb3bb607f03d","x":400,"y":792,"width":700,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"},
+		{"id":"74553f238fecb11c","x":400,"y":940,"width":700,"height":50,"type":"text","text":"# Timber Hearth - Youngbark Crater Seed"}
 	],
 	"edges":[
 		{"id":"5fbf3ed7b0911a3f","fromNode":"8e30f6c059a30aff","fromSide":"bottom","toNode":"e879f26ca4d55fac","toSide":"top"},
 		{"id":"6f3771489d2ed43a","fromNode":"8e30f6c059a30aff","fromSide":"top","toNode":"0b7b08bd126921a2","toSide":"bottom"},
 		{"id":"a828c1b4dd1852b5","fromNode":"8e30f6c059a30aff","fromSide":"top","toNode":"6fcfb90fa97ca014","toSide":"bottom"},
-		{"id":"4c691141ba25c948","fromNode":"8e30f6c059a30aff","fromSide":"top","toNode":"6b312325b8b9aa82","toSide":"bottom"}
+		{"id":"4c691141ba25c948","fromNode":"8e30f6c059a30aff","fromSide":"top","toNode":"6b312325b8b9aa82","toSide":"bottom"},
+		{"id":"effa6d93bd3ac2ae","fromNode":"f5fea271c69d5973","fromSide":"top","toNode":"8e30f6c059a30aff","toSide":"bottom","color":"1","label":"Viewable but Blocked"},
+		{"id":"43ebcb940372f292","fromNode":"8e30f6c059a30aff","fromSide":"bottom","toNode":"00283efdc54cb065","toSide":"top"}
 	]
 }
