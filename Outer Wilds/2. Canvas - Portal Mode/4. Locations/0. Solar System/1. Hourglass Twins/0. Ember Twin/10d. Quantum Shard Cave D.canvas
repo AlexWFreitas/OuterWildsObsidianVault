@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2b75b819151fd08c","x":-820,"y":-238,"width":1640,"height":476,"type":"group","label":"Ember Twin - Quantum Room D"},
+		{"id":"96c4f756273cb83d","x":-800,"y":-175,"width":540,"height":383,"type":"file","file":"10. Notes/Ember Twin - Quantum Room D.md"},
+		{"id":"aa0b19e9ae02cf05","x":-240,"y":-175,"width":437,"height":347,"type":"file","file":"99. Attachments/Entrance when going through normal means.png"},
+		{"id":"aa323d270ef8e237","x":220,"y":-175,"width":547,"height":347,"type":"file","file":"99. Attachments/Quantum Room D Image.png"}
+	],
+	"edges":[]
+}

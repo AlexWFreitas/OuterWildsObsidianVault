@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5c45e1f43ec1a5fc","x":-617,"y":-248,"width":1235,"height":496,"type":"group","label":"Quantum Room C"},
+		{"id":"862adbbac96e3a1f","x":-587,"y":-201,"width":400,"height":422,"type":"file","file":"10. Notes/Ember Twin - Quantum Room C.md"},
+		{"id":"1b2dbcef615c1d3c","x":-122,"y":-201,"width":699,"height":399,"type":"file","file":"99. Attachments/Pasted image 20221225180613.png"}
+	],
+	"edges":[]
+}
