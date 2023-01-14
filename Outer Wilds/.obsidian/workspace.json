@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": 85.29253267029458,
-                  "y": -516.6867999232609,
-                  "zoom": -1.6666666666666665,
+                  "x": 7667.386737919331,
+                  "y": 9973.070374583867,
+                  "zoom": -1.9999999999999998,
                   "snapToGrid": false
                 }
               }
@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
+                  "x": 2337.2522181988793,
+                  "y": -2711.9749293297427,
+                  "zoom": -0.9214291302073079,
                   "snapToGrid": true
                 }
               }
@@ -147,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas"
               }
             }
           }
@@ -274,14 +275,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ea2fd894832fcb5",
+  "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Eye of the Universe.md",
     "10. Notes/Dark Bramble.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/4. Gravity Cannon.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
