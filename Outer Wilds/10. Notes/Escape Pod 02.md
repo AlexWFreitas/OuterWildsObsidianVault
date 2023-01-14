@@ -4,7 +4,7 @@ Date: 2022-12-25
 Tags:
 - "outer-wilds"
 ---
-This escape pod has crashed on [[Ember Twin]]'s surface, the crew members sent a [[Distress Signal]] looking for.
+This escape pod has crashed on [[Ember Twin]]'s surface, the crew members sent a [[Distress Signal]] that would allow others to find them.
 
 [[Ember Twin]] seems to be inhospitable because of the high temperatures, due to being near the [[Solar System - General Info|Solar System]] star.
 

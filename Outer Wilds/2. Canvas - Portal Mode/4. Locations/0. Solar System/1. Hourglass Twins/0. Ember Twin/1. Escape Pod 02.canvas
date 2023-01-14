@@ -2,7 +2,11 @@
 	"nodes":[
 		{"id":"66d166879927753b","x":-461,"y":-257,"width":922,"height":515,"type":"group","label":"Escape Pod 02"},
 		{"id":"5c7dc8bee6d1c4ff","x":-433,"y":-218,"width":400,"height":446,"type":"file","file":"10. Notes/Escape Pod 02.md"},
-		{"id":"a820e3fe7c9e6565","x":7,"y":-218,"width":432,"height":455,"type":"file","file":"99. Attachments/Escape Pod 02.png"}
+		{"id":"a820e3fe7c9e6565","x":7,"y":-218,"width":432,"height":455,"type":"file","file":"99. Attachments/Escape Pod 02.png"},
+		{"id":"13504e73b13dddba","x":-300,"y":580,"width":600,"height":510,"type":"group","label":"Escape Pod 02 Area - Locked Entrance"},
+		{"id":"8d1f89f8260d4dfd","x":-260,"y":640,"width":523,"height":412,"type":"file","file":"99. Attachments/Blocked Entrance to Steeping Stone Cave.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8b5a78b8e66c7f90","fromNode":"66d166879927753b","fromSide":"bottom","toNode":"13504e73b13dddba","toSide":"top","color":"1","label":"Locked Path"}
+	]
 }

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1586588db1f2d873","x":-380,"y":-370,"width":980,"height":610,"type":"group","label":"Chert's Campsite and Ship"},
+		{"id":"39fe89db939e9a50","x":-355,"y":-331,"width":375,"height":361,"type":"file","file":"10. Notes/Chertt's Campsite.md"},
+		{"id":"0b2f56b57703a750","x":-355,"y":60,"width":375,"height":160,"type":"file","file":"10. Notes/Chertt's Ship.md"},
+		{"id":"3a12fd2c481ba562","x":40,"y":-251,"width":540,"height":391,"type":"file","file":"99. Attachments/Chertt's Campsite.png"}
+	],
+	"edges":[]
+}
