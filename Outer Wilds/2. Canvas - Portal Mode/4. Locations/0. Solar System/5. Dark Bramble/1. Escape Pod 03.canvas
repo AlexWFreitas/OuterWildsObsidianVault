@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8b6dc49908e808ad","x":-860,"y":-540,"width":1720,"height":1080,"type":"group","label":"Escape Pod 03"},
+		{"id":"89bb5b7802c1e77d","x":-800,"y":-443,"width":692,"height":641,"type":"file","file":"10. Notes/Escape Pod 03.md"},
+		{"id":"b20d86994801761d","x":421,"y":-69,"width":400,"height":373,"type":"file","file":"99. Attachments/White Light Trail to Vessel Signal.png"},
+		{"id":"0a81802b9d96c38d","x":-60,"y":131,"width":400,"height":369,"type":"file","file":"99. Attachments/Dark Bramble Seed.png"},
+		{"id":"c3817c0613660c37","x":-60,"y":-480,"width":400,"height":308,"type":"file","file":"99. Attachments/Escape Pod 03.png"}
+	],
+	"edges":[
+		{"id":"7174b03906d4de8d","fromNode":"c3817c0613660c37","fromSide":"bottom","toNode":"b20d86994801761d","toSide":"top"},
+		{"id":"3c13b9178c66368c","fromNode":"b20d86994801761d","fromSide":"left","toNode":"0a81802b9d96c38d","toSide":"right"}
+	]
+}

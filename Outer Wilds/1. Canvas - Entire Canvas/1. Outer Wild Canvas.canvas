@@ -685,9 +685,9 @@
 		{"id":"46ece25075b0acad","x":12039,"y":13797,"width":399,"height":277,"color":"2","type":"file","file":"99. Attachments/Image of the Jellyfish Cave.png"},
 		{"id":"78bc10e9513f8ca5","x":11468,"y":13797,"width":399,"height":314,"color":"2","type":"file","file":"99. Attachments/Interior of a Dark Bramble's bramble.png"},
 		{"id":"7001794561bf119e","x":10262,"y":13875,"width":539,"height":303,"color":"2","type":"file","file":"99. Attachments/Vessel - Broken Warp Core.png"},
-		{"id":"f5e5961ffb54193e","x":9100,"y":14440,"width":3300,"height":1960,"color":"2","type":"group","label":"Spoiler - Ending Images"},
+		{"id":"f5e5961ffb54193e","x":9100,"y":14440,"width":3713,"height":1960,"color":"2","type":"group","label":"Spoiler - Ending Images"},
 		{"id":"13e8e206329abb02","x":9159,"y":14545,"width":400,"height":695,"color":"2","type":"file","file":"10. Notes/Ending.md"},
-		{"id":"9ba5db149b8d4888","x":10520,"y":14545,"width":1840,"height":1211,"color":"2","type":"group","label":"Part 2 of Ending"},
+		{"id":"9ba5db149b8d4888","x":10520,"y":14545,"width":2245,"height":1211,"color":"2","type":"group","label":"Part 2 of Ending"},
 		{"id":"e6fbdae82ce6e2d9","x":9600,"y":14545,"width":880,"height":1375,"color":"2","type":"group","label":"Part 1 of Ending"},
 		{"id":"4e2de458b41ac47b","x":10060,"y":14620,"width":400,"height":275,"color":"2","type":"file","file":"99. Attachments/Eye of the Universe - 02.png"},
 		{"id":"56cdfb6b402e3f58","x":10560,"y":14620,"width":310,"height":285,"color":"2","type":"file","file":"99. Attachments/The Universe zoomed out.png"},
@@ -713,7 +713,7 @@
 		{"id":"feaa34c54f500b1a","x":11561,"y":15920,"width":719,"height":405,"color":"2","type":"file","file":"99. Attachments/Final Screen of the game.png"},
 		{"id":"3118e6dfbb4144d2","x":10940,"y":15920,"width":609,"height":405,"color":"2","type":"file","file":"99. Attachments/Big Bang Explosion.png"},
 		{"id":"67b29ecb7253c052","x":10602,"y":15973,"width":268,"height":300,"color":"2","type":"file","file":"99. Attachments/Possible Big Bang.png"},
-		{"id":"65d2f459ece9e97d","x":10062,"y":15973,"width":400,"height":378,"type":"file","file":"99. Attachments/Pasted image 20221228223610.png"}
+		{"id":"65d2f459ece9e97d","x":12319,"y":14864,"width":400,"height":378,"type":"file","file":"99. Attachments/Pasted image 20221228223610.png"}
 	],
 	"edges":[
 		{"id":"b8b06647d8379341","fromNode":"7f60407a704e309c","fromSide":"right","toNode":"91cf54c4e8dfd07b","toSide":"left"},

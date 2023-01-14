@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4bb14bb35780493a","x":-684,"y":-602,"width":883,"height":584,"type":"file","file":"10. Notes/Dark Bramble - Feldspar Campsite.md"},
+		{"id":"8e30f6c059a30aff","x":-720,"y":-682,"width":1400,"height":1282,"type":"group","label":"Feldspar Campsite"},
+		{"id":"3452f1ddf4a1fa5e","x":242,"y":-602,"width":400,"height":346,"type":"file","file":"99. Attachments/Feldspar Campsite.png"},
+		{"id":"fdf6d4b783ba9e03","x":242,"y":-192,"width":366,"height":400,"type":"file","file":"99. Attachments/Dead Anglerfish near Feldspar Campsite.png"},
+		{"id":"52cfd178b7d9ea39","x":-684,"y":38,"width":400,"height":365,"type":"file","file":"10. Notes/Feldspar.md"},
+		{"id":"228611c3e35b19bc","x":-242,"y":38,"width":441,"height":512,"type":"file","file":"99. Attachments/Feldspar.png"},
+		{"id":"0915ae3c45538a05","x":520,"y":1240,"width":1680,"height":1560,"type":"group","label":"Jellyfish Cave"},
+		{"id":"b327e994be91342a","x":588,"y":1328,"width":745,"height":476,"type":"file","file":"10. Notes/Dark Bramble - Jellyfish Cave.md"},
+		{"id":"5e7fe2537be431c7","x":1760,"y":1860,"width":400,"height":359,"type":"file","file":"99. Attachments/Shortcut to Jellyfish Cave.png"},
+		{"id":"96802e4d587d4d88","x":628,"y":1881,"width":333,"height":400,"type":"file","file":"99. Attachments/Exposed Dark Bramble bramble.png"},
+		{"id":"ee8461ccd1360259","x":1333,"y":2420,"width":399,"height":277,"type":"file","file":"99. Attachments/Image of the Jellyfish Cave.png"},
+		{"id":"ae542502d12292a1","x":762,"y":2420,"width":399,"height":314,"type":"file","file":"99. Attachments/Interior of a Dark Bramble's bramble.png"},
+		{"id":"b3ee6942b3a23b44","x":1406,"y":1358,"width":400,"height":359,"type":"file","file":"99. Attachments/Location with the Jellyfish Cave Shortcut.png"}
+	],
+	"edges":[
+		{"id":"9a2e5732e43c9d8f","fromNode":"5e7fe2537be431c7","fromSide":"left","toNode":"ee8461ccd1360259","toSide":"right"},
+		{"id":"8e7cb18a3de77710","fromNode":"b3ee6942b3a23b44","fromSide":"bottom","toNode":"5e7fe2537be431c7","toSide":"top"},
+		{"id":"8134c787c4cd8c90","fromNode":"96802e4d587d4d88","fromSide":"bottom","toNode":"ae542502d12292a1","toSide":"top"},
+		{"id":"12089087ce93399f","fromNode":"ae542502d12292a1","fromSide":"right","toNode":"ee8461ccd1360259","toSide":"left"}
+	]
+}
