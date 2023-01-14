@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -270.23978809556075,
-                  "y": -16.687714335146403,
-                  "zoom": 0.13367333352082877,
+                  "x": 6054.807832495714,
+                  "y": 12262.833831647014,
+                  "zoom": -1,
                   "snapToGrid": false
                 }
               }
@@ -47,11 +47,23 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
+                  "x": -46.50524109014668,
+                  "y": -668.1876310272532,
+                  "zoom": -0.8925030407464027,
+                  "snapToGrid": true
                 }
+              }
+            }
+          },
+          {
+            "id": "34033b365305d78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/Sun.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -135,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,17 +275,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ea2fd894832fcb5",
+  "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Map.canvas",
+    "10. Notes/Outer Wilds - General Info.md",
+    "10. Notes/Sun.md",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
+    "99. Attachments/Mural inside the Sun Station.png",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"
   ]
 }
