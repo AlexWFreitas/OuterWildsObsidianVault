@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"id":"ccb3b92fb2810c96","x":-1000,"y":-490,"width":2000,"height":981,"type":"group","label":"Lakebed Cave"},
-		{"id":"1c34b7b83b9563a5","x":-930,"y":-412,"width":400,"height":470,"type":"file","file":"10. Notes/Lakebed Cave.md"},
 		{"id":"2e8f40351b385e90","x":72,"y":-412,"width":400,"height":298,"type":"file","file":"99. Attachments/Lakebed Cave Entrance 1.png"},
 		{"id":"7fdfa66aef992dd3","x":-307,"y":16,"width":400,"height":233,"type":"file","file":"99. Attachments/Cave Entrances A.png"},
 		{"id":"61fea93d05d662d3","x":560,"y":102,"width":400,"height":294,"type":"file","file":"99. Attachments/Lakebed Cave - Cave Shard Room B.png"},
-		{"id":"2fe84407fbb6d09e","x":-959,"y":365,"width":281,"height":50,"type":"file","file":"10. Notes/Escape Pod 02.md"}
+		{"id":"1c34b7b83b9563a5","x":-920,"y":-412,"width":400,"height":470,"type":"file","file":"10. Notes/Lakebed Cave.md"},
+		{"id":"2fe84407fbb6d09e","x":-920,"y":371,"width":281,"height":50,"type":"file","file":"10. Notes/Escape Pod 02.md"}
 	],
 	"edges":[
 		{"id":"076e369f16aeee9e","fromNode":"2e8f40351b385e90","fromSide":"bottom","toNode":"7fdfa66aef992dd3","toSide":"top"},

@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"8f5ba455a8b0c432","x":-1000,"y":-548,"width":2000,"height":1096,"type":"group","label":"Cave Shard's Cave"},
 		{"id":"2cce18752a28cb94","x":-70,"y":-506,"width":470,"height":315,"type":"file","file":"99. Attachments/Triple Door Entrance.png"},
-		{"id":"1453da801c8cef8e","x":-940,"y":-463,"width":760,"height":311,"type":"file","file":"10. Notes/Cave Shard's Cave.md"},
 		{"id":"10b5df02c065e5c8","x":320,"y":-138,"width":640,"height":390,"type":"file","file":"99. Attachments/Cave Split Path.png"},
 		{"id":"fbec9ce23dbbedd4","x":-960,"y":-67,"width":563,"height":319,"type":"file","file":"99. Attachments/Cave Entrance B.png"},
-		{"id":"575c5e2fa88cc3e7","x":-307,"y":148,"width":579,"height":349,"type":"file","file":"99. Attachments/Cave Shard Room A.png"}
+		{"id":"575c5e2fa88cc3e7","x":-307,"y":148,"width":579,"height":349,"type":"file","file":"99. Attachments/Cave Shard Room A.png"},
+		{"id":"1453da801c8cef8e","x":-960,"y":-506,"width":760,"height":315,"type":"file","file":"10. Notes/Cave Shard's Cave.md"}
 	],
 	"edges":[
 		{"id":"42234aa54050ec76","fromNode":"2cce18752a28cb94","fromSide":"right","toNode":"10b5df02c065e5c8","toSide":"top","label":"Connection"},

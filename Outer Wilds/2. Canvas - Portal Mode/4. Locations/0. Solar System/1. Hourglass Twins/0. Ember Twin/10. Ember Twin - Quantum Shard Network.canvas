@@ -2,23 +2,23 @@
 	"nodes":[
 		{"id":"f829095b10672a58","x":643,"y":-830,"width":560,"height":262,"color":"6","type":"group","label":"Ember Twin - Quantum Travel Network"},
 		{"id":"0f711f5f6b42f951","x":677,"y":-775,"width":486,"height":172,"color":"6","type":"file","file":"10. Notes/Ember Twin - Quantum Travel Network.md"},
-		{"id":"8d766653de0a20c1","x":405,"y":7,"width":400,"height":230,"type":"group","label":"Lakebed Cave"},
-		{"id":"f20ebdf50eb19f2d","x":405,"y":39,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10b. Lakebed Cave.canvas"},
-		{"id":"ee9b52be7302579d","x":405,"y":187,"width":400,"height":50,"type":"text","text":"# Lakebed Cave\n"},
-		{"id":"7c2c3300955ca7c0","x":1003,"y":7,"width":400,"height":230,"type":"group","label":"Quantum Shard Cave C"},
-		{"id":"22b75eb7def6b1ae","x":1003,"y":39,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10c. Quantum Shard Cave C.canvas"},
-		{"id":"e69bb98050ee5e95","x":1003,"y":187,"width":400,"height":50,"type":"text","text":"# Quantum Shard Cave C"},
-		{"id":"db47d3f73dd58acb","x":-120,"y":7,"width":400,"height":230,"type":"group","label":"Cave Shard's Cave"},
-		{"id":"2abb52ae41b67145","x":-120,"y":39,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10a. Cave Shard's Cave.canvas"},
-		{"id":"c457c957badd73eb","x":-120,"y":187,"width":400,"height":50,"type":"text","text":"# Cave Shard's Cave\n"},
-		{"id":"93894dd0233dd5a3","x":1600,"y":7,"width":400,"height":230,"type":"group","label":"Quantum Shard Cave D"},
-		{"id":"4ac3ee55f1d44749","x":1600,"y":39,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10d. Quantum Shard Cave D.canvas"},
-		{"id":"6134f36939ca9c60","x":1600,"y":187,"width":400,"height":50,"type":"text","text":"# Quantum Shard Cave D"}
+		{"id":"8d766653de0a20c1","x":405,"y":7,"width":400,"height":230,"color":"6","type":"group","label":"Lakebed Cave"},
+		{"id":"f20ebdf50eb19f2d","x":405,"y":39,"width":400,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10b. Lakebed Cave.canvas"},
+		{"id":"ee9b52be7302579d","x":405,"y":187,"width":400,"height":50,"color":"6","type":"text","text":"# Lakebed Cave\n"},
+		{"id":"7c2c3300955ca7c0","x":1003,"y":7,"width":400,"height":230,"color":"6","type":"group","label":"Quantum Shard Cave C"},
+		{"id":"22b75eb7def6b1ae","x":1003,"y":39,"width":400,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10c. Quantum Shard Cave C.canvas"},
+		{"id":"e69bb98050ee5e95","x":1003,"y":187,"width":400,"height":50,"color":"6","type":"text","text":"# Quantum Shard Cave C"},
+		{"id":"db47d3f73dd58acb","x":-120,"y":7,"width":400,"height":230,"color":"6","type":"group","label":"Cave Shard's Cave"},
+		{"id":"2abb52ae41b67145","x":-120,"y":39,"width":400,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10a. Cave Shard's Cave.canvas"},
+		{"id":"c457c957badd73eb","x":-120,"y":187,"width":400,"height":50,"color":"6","type":"text","text":"# Cave Shard's Cave\n"},
+		{"id":"93894dd0233dd5a3","x":1600,"y":7,"width":400,"height":230,"color":"6","type":"group","label":"Quantum Shard Cave D"},
+		{"id":"4ac3ee55f1d44749","x":1600,"y":39,"width":400,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10d. Quantum Shard Cave D.canvas"},
+		{"id":"6134f36939ca9c60","x":1600,"y":187,"width":400,"height":50,"color":"6","type":"text","text":"# Quantum Shard Cave D"}
 	],
 	"edges":[
-		{"id":"8600839e9dcae1c9","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"db47d3f73dd58acb","toSide":"top"},
-		{"id":"fc937cc942229030","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"8d766653de0a20c1","toSide":"top"},
-		{"id":"02e60dcb59c7772c","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"7c2c3300955ca7c0","toSide":"top"},
-		{"id":"5a1e1923d7e6f58e","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"93894dd0233dd5a3","toSide":"top"}
+		{"id":"8600839e9dcae1c9","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"db47d3f73dd58acb","toSide":"top","color":"6"},
+		{"id":"fc937cc942229030","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"8d766653de0a20c1","toSide":"top","color":"6"},
+		{"id":"02e60dcb59c7772c","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"7c2c3300955ca7c0","toSide":"top","color":"6"},
+		{"id":"5a1e1923d7e6f58e","fromNode":"f829095b10672a58","fromSide":"bottom","toNode":"93894dd0233dd5a3","toSide":"top","color":"6"}
 	]
 }
