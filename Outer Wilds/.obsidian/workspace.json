@@ -47,9 +47,9 @@
               "state": {
                 "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas",
                 "viewState": {
-                  "x": 1484.8766397750514,
-                  "y": -1542.099043831393,
-                  "zoom": -0.3575358462434192,
+                  "x": 1782.7624164564768,
+                  "y": -1734.6492462709293,
+                  "zoom": -1.6908691795767525,
                   "snapToGrid": true
                 }
               }
@@ -76,86 +76,6 @@
                 "file": "10. Notes/Sun.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a4f1d15fa97e5e68",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10d. Quantum Shard Cave D.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "8dea089e093fdf9f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10. Ember Twin - Quantum Shard Network.canvas",
-                "viewState": {
-                  "x": 1004,
-                  "y": -891,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "77779fa6dc0e48bd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/5. Crash Site Caves.canvas",
-                "viewState": {
-                  "x": 522.3596587325253,
-                  "y": -1061.2403314581156,
-                  "zoom": -0.3079878776812392,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "bc3acd62fe9b5124",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas",
-                "viewState": {
-                  "x": 198.60884963496812,
-                  "y": 1111.1897166776664,
-                  "zoom": -1.6666666666666665,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "2f88ce3b6439ec22",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/5. Signalscope Frequencies.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
               }
             }
           }
