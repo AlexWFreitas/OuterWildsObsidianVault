@@ -45,11 +45,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
                 "viewState": {
-                  "x": 359.14866148350427,
-                  "y": -849.1498795516183,
-                  "zoom": -0.17629600674699425,
+                  "x": 755.6054501848878,
+                  "y": -1841.7046426134186,
+                  "zoom": -1.3830709383505564,
                   "snapToGrid": true
                 }
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas"
               }
             }
           }
@@ -277,9 +277,9 @@
   },
   "active": "6a261a53ebd3c3e0",
   "lastOpenFiles": [
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
     "10. Notes/Eye of the Universe.md",
