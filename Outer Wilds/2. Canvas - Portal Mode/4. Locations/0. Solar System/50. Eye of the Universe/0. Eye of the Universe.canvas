@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"32a60992026ef47d","x":-840,"y":155,"width":345,"height":283,"color":"2","type":"file","file":"99. Attachments/Warp Coordinates.png"},
+		{"id":"724d9218003130e0","x":-460,"y":358,"width":400,"height":282,"color":"2","type":"file","file":"99. Attachments/Ash Twin Project - Advanced Warp Core.png"},
+		{"id":"c5bd6084222fcae8","x":420,"y":-635,"width":400,"height":326,"color":"2","type":"file","file":"10. Notes/Probe Tracking Module - Orbital Probe Cannon.md"},
+		{"id":"d6f299335a4de750","x":-880,"y":-678,"width":1760,"height":1356,"color":"2","type":"group","label":"Eye of the Universe"},
+		{"id":"5b49c73c3106f7cc","x":-460,"y":-635,"width":400,"height":947,"color":"2","type":"file","file":"10. Notes/Vessel.md"},
+		{"id":"0f11a9873fb344c2","x":-20,"y":-635,"width":400,"height":1235,"color":"2","type":"file","file":"10. Notes/Ash Twin Project.md"},
+		{"id":"8cef870e16b8f837","x":420,"y":-246,"width":400,"height":229,"color":"2","type":"file","file":"99. Attachments/Eye of the Universe Coordinates.png"},
+		{"id":"fb5288c809bdfb9a","x":420,"y":66,"width":400,"height":349,"color":"2","type":"file","file":"99. Attachments/Eye of the Universe viewed from the Vessel.png"},
+		{"id":"0c826f3d264a795f","x":180,"y":-1800,"width":800,"height":368,"type":"file","file":"10. Notes/Eye of the Universe.md"}
+	],
+	"edges":[]
+}

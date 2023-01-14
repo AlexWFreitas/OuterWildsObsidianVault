@@ -1,15 +1,6 @@
 {
 	"nodes":[
-		{"id":"cce79675a0ccdf25","x":336,"y":-784,"width":904,"height":740,"type":"file","file":"99. Attachments/Quantum Moon Shrine has a Blocked Exit when not on North Pole.png"},
 		{"id":"ee5c0a33ae29265c","x":336,"y":40,"width":903,"height":690,"type":"file","file":"99. Attachments/Solanum Comunication.png"},
-		{"id":"5423e40d1e6a1cf2","x":336,"y":800,"width":904,"height":710,"type":"file","file":"99. Attachments/Solanum.png"},
-		{"id":"51d580e2ebffa88f","x":336,"y":-1477,"width":904,"height":609,"type":"file","file":"99. Attachments/Indicator that says that the Moon is orbiting the Eye of the Universe.png"},
-		{"id":"c092fd950c3eafd9","x":-1180,"y":-1477,"width":1440,"height":2987,"type":"file","file":"10. Notes/Quantum Moon - Eye of the Universe.md"},
-		{"id":"381a691a2008a2ea","x":-1280,"y":-1600,"width":3720,"height":3480,"type":"group","label":"Quantum Moon - Eye of the Universe"},
-		{"id":"972284043c059ef7","x":1352,"y":-1474,"width":1008,"height":714,"type":"file","file":"99. Attachments/Overall appearance of the Moon at this state.png"},
-		{"id":"5152f1f5b90b6d04","x":1352,"y":-680,"width":1008,"height":791,"type":"file","file":"99. Attachments/A glimpse at a part of the Eye of the Universe.png"},
-		{"id":"9ac319c28437fb93","x":1352,"y":200,"width":1008,"height":751,"type":"file","file":"99. Attachments/Found a person from the Nomai Race.png"},
-		{"id":"560a98459de94241","x":1352,"y":1040,"width":1008,"height":778,"type":"file","file":"99. Attachments/Strange rocks on the Quantum Moon - Eye of the Universe State.png"},
 		{"id":"fecb40030da09126","x":-172,"y":-2220,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"a7536b0bfc827ace","x":-172,"y":-2188,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"275db070d775acd7","x":-172,"y":-2040,"width":400,"height":50,"type":"text","text":"# Overview Map"},
@@ -18,11 +9,24 @@
 		{"id":"ecd9891a899343c3","x":380,"y":-2040,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
 		{"id":"85f26d538c5f1313","x":928,"y":-2220,"width":400,"height":230,"type":"group","label":"Quantum Moon Map"},
 		{"id":"2f88dfc91e21b530","x":928,"y":-2188,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas"},
-		{"id":"d38a671afd2559db","x":928,"y":-2040,"width":400,"height":50,"type":"text","text":"# Quantum Moon Map"}
+		{"id":"d38a671afd2559db","x":928,"y":-2040,"width":400,"height":50,"type":"text","text":"# Quantum Moon Map"},
+		{"id":"cce79675a0ccdf25","x":336,"y":-784,"width":904,"height":740,"type":"file","file":"99. Attachments/Quantum Moon Shrine has a Blocked Exit when not on North Pole.png"},
+		{"id":"5423e40d1e6a1cf2","x":336,"y":800,"width":904,"height":710,"type":"file","file":"99. Attachments/Solanum.png"},
+		{"id":"51d580e2ebffa88f","x":336,"y":-1477,"width":904,"height":609,"type":"file","file":"99. Attachments/Indicator that says that the Moon is orbiting the Eye of the Universe.png"},
+		{"id":"c092fd950c3eafd9","x":-1180,"y":-1477,"width":1440,"height":2987,"type":"file","file":"10. Notes/Quantum Moon - Eye of the Universe.md"},
+		{"id":"381a691a2008a2ea","x":-1280,"y":-1600,"width":3720,"height":3480,"type":"group","label":"Quantum Moon - Eye of the Universe"},
+		{"id":"972284043c059ef7","x":1352,"y":-1474,"width":1008,"height":714,"type":"file","file":"99. Attachments/Overall appearance of the Moon at this state.png"},
+		{"id":"5152f1f5b90b6d04","x":1352,"y":-680,"width":1008,"height":791,"type":"file","file":"99. Attachments/A glimpse at a part of the Eye of the Universe.png"},
+		{"id":"9ac319c28437fb93","x":1352,"y":200,"width":1008,"height":751,"type":"file","file":"99. Attachments/Found a person from the Nomai Race.png"},
+		{"id":"560a98459de94241","x":1352,"y":1040,"width":1008,"height":778,"type":"file","file":"99. Attachments/Strange rocks on the Quantum Moon - Eye of the Universe State.png"},
+		{"id":"56bfe8d1faa307f4","x":860,"y":2200,"width":400,"height":230,"type":"group","label":"Eye of the Universe"},
+		{"id":"96d8f37066abab5c","x":860,"y":2380,"width":400,"height":50,"type":"text","text":"# Eye of the Universe"},
+		{"id":"0b4de2752e1812f8","x":860,"y":2232,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/50. Eye of the Universe/0. Eye of the Universe.canvas"}
 	],
 	"edges":[
 		{"id":"108161a2965bf7b9","fromNode":"381a691a2008a2ea","fromSide":"top","toNode":"fecb40030da09126","toSide":"bottom"},
 		{"id":"4fe61c83192c4795","fromNode":"381a691a2008a2ea","fromSide":"top","toNode":"6a2f7c38a106bf93","toSide":"bottom"},
-		{"id":"0baa5a63dddc02e9","fromNode":"381a691a2008a2ea","fromSide":"top","toNode":"85f26d538c5f1313","toSide":"bottom"}
+		{"id":"0baa5a63dddc02e9","fromNode":"381a691a2008a2ea","fromSide":"top","toNode":"85f26d538c5f1313","toSide":"bottom"},
+		{"id":"48c8decfadce0937","fromNode":"381a691a2008a2ea","fromSide":"bottom","toNode":"56bfe8d1faa307f4","toSide":"top","color":"1","label":"Glimpse of"}
 	]
 }
