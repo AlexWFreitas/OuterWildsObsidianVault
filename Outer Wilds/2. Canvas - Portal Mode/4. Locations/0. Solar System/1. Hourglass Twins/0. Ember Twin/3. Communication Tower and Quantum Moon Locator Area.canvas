@@ -18,16 +18,22 @@
 		{"id":"391bd986846d1470","x":-475,"y":-220,"width":394,"height":563,"type":"file","file":"10. Notes/Communication Tower.md"},
 		{"id":"086cbe3090fc410a","x":-35,"y":-220,"width":394,"height":427,"type":"file","file":"99. Attachments/Communication Tower.png"},
 		{"id":"dc0ba88e9cd64032","x":600,"y":-280,"width":1080,"height":740,"type":"group","label":"Quantum Moon Locator"},
-		{"id":"29fea55f2eeefa0b","x":640,"y":-230,"width":400,"height":644,"type":"file","file":"10. Notes/Quantum Moon Locator.md"},
-		{"id":"2043246645c8ed66","x":1080,"y":-230,"width":558,"height":404,"type":"file","file":"99. Attachments/Quantum Moon Locator.png"},
 		{"id":"c65a42d624b9dae6","x":-520,"y":-1405,"width":400,"height":278,"type":"file","file":"99. Attachments/Blocked path to the Sunless City.png"},
 		{"id":"61e537988849ef83","x":-520,"y":-1080,"width":400,"height":246,"type":"file","file":"99. Attachments/Crash Site Caves Entrance - Air Refill.png"},
+		{"id":"29fea55f2eeefa0b","x":640,"y":-230,"width":400,"height":644,"type":"file","file":"10. Notes/Quantum Moon Locator.md"},
+		{"id":"2043246645c8ed66","x":1080,"y":-230,"width":558,"height":404,"type":"file","file":"99. Attachments/Quantum Moon Locator.png"},
 		{"id":"415885037942e507","x":-40,"y":-2480,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
 		{"id":"4d6634236a70914c","x":-40,"y":-2448,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
 		{"id":"70c126b5dabc2dab","x":-40,"y":-2300,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"47de78fa6ce651c2","x":480,"y":-2480,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"1011dc7fa2b34933","x":480,"y":-2448,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"d320aafd765990e7","x":480,"y":-2300,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"d320aafd765990e7","x":480,"y":-2300,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"2311afb1c2de2df0","x":-2440,"y":-1030,"width":400,"height":230,"type":"group","label":"Ash Twin Warp Tower"},
+		{"id":"382002f85567ee89","x":-2440,"y":-998,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas"},
+		{"id":"110f69084103735e","x":-2440,"y":-850,"width":400,"height":50,"type":"text","text":"# Ash Twin - Warp Tower"},
+		{"id":"2c50df6190ca00ba","x":2000,"y":-280,"width":400,"height":230,"type":"group","label":"Crash Site Caves"},
+		{"id":"ff3a4b8b4e83676d","x":2000,"y":-248,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/5. Crash Site Caves.canvas"},
+		{"id":"d178688acb9fbc4f","x":2000,"y":-100,"width":400,"height":50,"type":"text","text":"# Crash Site Caves"}
 	],
 	"edges":[
 		{"id":"6d00f1e3cb1d7b81","fromNode":"9c146f412496f596","fromSide":"bottom","toNode":"fb1b82f4c2e72683","toSide":"top"},
@@ -36,6 +42,8 @@
 		{"id":"10e133ab185089e0","fromNode":"9c146f412496f596","fromSide":"top","toNode":"4aaf80d865d464cd","toSide":"bottom"},
 		{"id":"2e8ee9fee8c6911d","fromNode":"9c146f412496f596","fromSide":"top","toNode":"076ee017027961ac","toSide":"bottom"},
 		{"id":"46feae8c67f9d82b","fromNode":"9c146f412496f596","fromSide":"top","toNode":"415885037942e507","toSide":"bottom"},
-		{"id":"b4cf39831b24df7d","fromNode":"9c146f412496f596","fromSide":"top","toNode":"47de78fa6ce651c2","toSide":"bottom"}
+		{"id":"b4cf39831b24df7d","fromNode":"9c146f412496f596","fromSide":"top","toNode":"47de78fa6ce651c2","toSide":"bottom"},
+		{"id":"905e716d7b6c6ae0","fromNode":"2311afb1c2de2df0","fromSide":"right","toNode":"65fef51d18af9181","toSide":"top","color":"6","label":"Warps To"},
+		{"id":"da2c23fd7e9e81aa","fromNode":"9c146f412496f596","fromSide":"bottom","toNode":"2c50df6190ca00ba","toSide":"top","label":"Side Entrance"}
 	]
 }

@@ -15,12 +15,18 @@
 		{"id":"7f8d7eb807beeeaf","x":957,"y":-740,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"9613de86618657c1","x":1477,"y":-920,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"d3becae5f089148c","x":1477,"y":-888,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"1b4903cd4f7afb4b","x":1477,"y":-740,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"1b4903cd4f7afb4b","x":1477,"y":-740,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"abcf36c14c9d3d6e","x":361,"y":480,"width":437,"height":347,"type":"file","file":"99. Attachments/Entrance when going through normal means.png"},
+		{"id":"e0c1ebdf79bdaeb4","x":380,"y":1040,"width":400,"height":230,"type":"group","label":"Quantum Shard Cave D"},
+		{"id":"3df86b58d54dd46e","x":380,"y":1072,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10d. Quantum Shard Cave D.canvas"},
+		{"id":"dc2992bb8efead22","x":380,"y":1220,"width":400,"height":50,"type":"text","text":"# Quantum Shard Cave D\n"}
 	],
 	"edges":[
 		{"id":"33cce38a12d22131","fromNode":"1586588db1f2d873","fromSide":"top","toNode":"a3ce8569b0402a2f","toSide":"bottom"},
 		{"id":"42e0007b6c34d20f","fromNode":"1586588db1f2d873","fromSide":"top","toNode":"9a799b0e2bbafb9b","toSide":"bottom"},
 		{"id":"de90fd32925b91bd","fromNode":"1586588db1f2d873","fromSide":"top","toNode":"5cb43e629202d6b1","toSide":"bottom"},
-		{"id":"e9cbec26e0506e9c","fromNode":"1586588db1f2d873","fromSide":"top","toNode":"9613de86618657c1","toSide":"bottom"}
+		{"id":"e9cbec26e0506e9c","fromNode":"1586588db1f2d873","fromSide":"top","toNode":"9613de86618657c1","toSide":"bottom"},
+		{"id":"9d7201e03a19c8b9","fromNode":"1586588db1f2d873","fromSide":"bottom","toNode":"abcf36c14c9d3d6e","toSide":"top"},
+		{"id":"bce7717868fa48c2","fromNode":"abcf36c14c9d3d6e","fromSide":"bottom","toNode":"e0c1ebdf79bdaeb4","toSide":"top"}
 	]
 }
