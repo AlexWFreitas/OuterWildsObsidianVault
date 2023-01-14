@@ -1,34 +1,37 @@
 {
 	"nodes":[
-		{"id":"9b20413839911f80","x":-1338,"y":-1140,"width":400,"height":224,"type":"file","file":"10. Notes/High Energy Lab - How to Enter.md"},
-		{"id":"c60a1ab4a2146653","x":490,"y":-1140,"width":455,"height":420,"type":"file","file":"99. Attachments/Blocked by Cacti + Sand.png"},
-		{"id":"f5d7f5fab4025eef","x":-1338,"y":-873,"width":400,"height":1233,"type":"file","file":"10. Notes/Ash Twin Project.md"},
-		{"id":"8f78e6d159447138","x":614,"y":-623,"width":529,"height":406,"type":"file","file":"99. Attachments/Sand has filled the Hole.png"},
-		{"id":"bca9573e77d63edf","x":1113,"y":-141,"width":661,"height":424,"type":"file","file":"99. Attachments/Normal Energy Behavior.png"},
 		{"id":"eeb3104c880488cb","x":-1775,"y":-254,"width":400,"height":723,"type":"file","file":"10. Notes/Time Travel.md"},
-		{"id":"373d06446f902e84","x":-1338,"y":439,"width":486,"height":245,"type":"file","file":"99. Attachments/Proposed Tower Designs and Icons for each Planet.png"},
 		{"id":"b52a2ed88e80d9aa","x":-1775,"y":728,"width":650,"height":465,"type":"file","file":"99. Attachments/Time Warp on the launched Probe.png"},
 		{"id":"9d18f12ce3a76b79","x":-1825,"y":-1220,"width":3650,"height":2440,"type":"group","label":"High Energy Lab"},
 		{"id":"e1945ec8d69b8f21","x":-1775,"y":-1140,"width":400,"height":833,"type":"file","file":"10. Notes/High Energy Lab.md"},
-		{"id":"90414365fea8e344","x":-815,"y":-1140,"width":596,"height":419,"type":"file","file":"99. Attachments/Sunless City - Door for High Energy Lab - Notice the Electrical Wires.png"},
-		{"id":"25cc57da1666d9f7","x":1245,"y":-1130,"width":529,"height":340,"type":"file","file":"99. Attachments/Sand will eventually fill the hole.png"},
-		{"id":"f193174cdc0af615","x":-815,"y":-623,"width":718,"height":404,"type":"file","file":"99. Attachments/Lab Entrance.png"},
-		{"id":"82c6320a2f563423","x":-815,"y":-33,"width":709,"height":428,"type":"file","file":"99. Attachments/Miniature Cores.png"},
 		{"id":"a00d39b00fdd8ce7","x":190,"y":-33,"width":599,"height":424,"type":"file","file":"99. Attachments/Setting the Test Chamber.png"},
 		{"id":"a172e3ff7375f321","x":1231,"y":561,"width":543,"height":367,"type":"file","file":"99. Attachments/Blackout - No Energy on the rest of the Planet.png"},
 		{"id":"99b57a1d689bb4ba","x":-455,"y":528,"width":662,"height":400,"type":"file","file":"99. Attachments/Move this to use all Energy available.png"},
 		{"id":"564017d2a89f15ad","x":-1026,"y":-1913,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"c2a3256daa0ccbd6","x":-1026,"y":-1881,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"3dccf1e624207121","x":-1026,"y":-1733,"width":400,"height":50,"type":"text","text":"# Overview Map"},
+		{"id":"9b20413839911f80","x":-1338,"y":-1140,"width":400,"height":224,"type":"file","file":"10. Notes/High Energy Lab - How to Enter.md"},
+		{"id":"c60a1ab4a2146653","x":490,"y":-1140,"width":455,"height":420,"type":"file","file":"99. Attachments/Blocked by Cacti + Sand.png"},
+		{"id":"f5d7f5fab4025eef","x":-1338,"y":-873,"width":400,"height":1233,"type":"file","file":"10. Notes/Ash Twin Project.md"},
+		{"id":"8f78e6d159447138","x":614,"y":-623,"width":529,"height":406,"type":"file","file":"99. Attachments/Sand has filled the Hole.png"},
+		{"id":"bca9573e77d63edf","x":1113,"y":-141,"width":661,"height":424,"type":"file","file":"99. Attachments/Normal Energy Behavior.png"},
+		{"id":"90414365fea8e344","x":-815,"y":-1140,"width":596,"height":419,"type":"file","file":"99. Attachments/Sunless City - Door for High Energy Lab - Notice the Electrical Wires.png"},
+		{"id":"25cc57da1666d9f7","x":1245,"y":-1130,"width":529,"height":340,"type":"file","file":"99. Attachments/Sand will eventually fill the hole.png"},
 		{"id":"b681e3df4c046acb","x":-499,"y":-1913,"width":400,"height":230,"type":"group","label":"Solar System Map"},
 		{"id":"b67e36fb61a6b9b2","x":-499,"y":-1881,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
 		{"id":"6b6a058c9a30643f","x":-499,"y":-1733,"width":400,"height":50,"type":"text","text":"# Solar System Map"},
+		{"id":"373d06446f902e84","x":-1338,"y":439,"width":486,"height":245,"type":"file","file":"99. Attachments/Proposed Tower Designs and Icons for each Planet.png"},
+		{"id":"f193174cdc0af615","x":-815,"y":-623,"width":718,"height":404,"type":"file","file":"99. Attachments/Lab Entrance.png"},
+		{"id":"82c6320a2f563423","x":-815,"y":-33,"width":709,"height":428,"type":"file","file":"99. Attachments/Miniature Cores.png"},
 		{"id":"d0ff9babb2d039a4","x":21,"y":-1913,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
 		{"id":"00ead3d1a1bf421b","x":21,"y":-1881,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas"},
 		{"id":"35103a79779c5f66","x":21,"y":-1733,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"bfda5eb6bb383db7","x":541,"y":-1913,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"7220527c39336063","x":541,"y":-1881,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"34087011ca96cc0a","x":541,"y":-1733,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"34087011ca96cc0a","x":541,"y":-1733,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"e4cb545b1150ca80","x":-2720,"y":-1220,"width":400,"height":230,"type":"group","label":"Stepping Stone Cave"},
+		{"id":"084247101211b9dd","x":-2720,"y":-1188,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/8. Stepping Stone Caves.canvas"},
+		{"id":"547b9180a596b64d","x":-2720,"y":-1040,"width":400,"height":50,"type":"text","text":"# Stepping Stone Cave"}
 	],
 	"edges":[
 		{"id":"88c1425e03f71705","fromNode":"90414365fea8e344","fromSide":"right","toNode":"c60a1ab4a2146653","toSide":"left","label":"Follow the Wires"},
@@ -44,6 +47,7 @@
 		{"id":"106a8ac177750b07","fromNode":"9d18f12ce3a76b79","fromSide":"top","toNode":"564017d2a89f15ad","toSide":"bottom"},
 		{"id":"a03b878d4056494d","fromNode":"9d18f12ce3a76b79","fromSide":"top","toNode":"b681e3df4c046acb","toSide":"bottom"},
 		{"id":"abf59d10c49c3529","fromNode":"9d18f12ce3a76b79","fromSide":"top","toNode":"d0ff9babb2d039a4","toSide":"bottom"},
-		{"id":"e047943b26784c1e","fromNode":"9d18f12ce3a76b79","fromSide":"top","toNode":"bfda5eb6bb383db7","toSide":"bottom"}
+		{"id":"e047943b26784c1e","fromNode":"9d18f12ce3a76b79","fromSide":"top","toNode":"bfda5eb6bb383db7","toSide":"bottom"},
+		{"id":"00a008e91ff85b51","fromNode":"084247101211b9dd","fromSide":"right","toNode":"9d18f12ce3a76b79","toSide":"left","label":"Real Entrance"}
 	]
 }

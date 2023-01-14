@@ -15,14 +15,23 @@
 		{"id":"fd6d810ae03339fb","x":570,"y":-800,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"18b33907f94e456b","x":570,"y":-768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
 		{"id":"e26856b47e813369","x":570,"y":-620,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
-		{"id":"436498924cd0880c","x":-680,"y":580,"width":400,"height":230,"type":"group","label":"Anglerfish Fossil Site"},
-		{"id":"042bf0c57c1a03c0","x":-680,"y":612,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas"},
-		{"id":"95ea81810baf6d71","x":-680,"y":760,"width":400,"height":50,"type":"text","text":"# Anglerfish Fossil Site"}
+		{"id":"436498924cd0880c","x":-940,"y":840,"width":400,"height":230,"type":"group","label":"Anglerfish Fossil Site"},
+		{"id":"042bf0c57c1a03c0","x":-940,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas"},
+		{"id":"95ea81810baf6d71","x":-940,"y":1020,"width":400,"height":50,"type":"text","text":"# Anglerfish Fossil Site"},
+		{"id":"e83de06dd4d07639","x":-200,"y":840,"width":400,"height":230,"type":"group","label":"Sunless City"},
+		{"id":"60fcc6edf37f6904","x":-200,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/7. Sunless City.canvas"},
+		{"id":"fd4721fe161af2b4","x":-200,"y":1020,"width":400,"height":50,"type":"text","text":"# Sunless City"},
+		{"id":"fbf2359746c91e29","x":480,"y":840,"width":400,"height":230,"type":"group","label":"High Energy Lab"},
+		{"id":"d114cfa4e2c36c9c","x":480,"y":872,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/9. High Energy Lab.canvas"},
+		{"id":"294ac61b0fbb50fb","x":480,"y":1020,"width":400,"height":50,"type":"text","text":"# High Energy Lab"}
 	],
 	"edges":[
 		{"id":"51cf88c9d1e8fc79","fromNode":"a6cd8124770d3c67","fromSide":"top","toNode":"0069e6ddaedd8cb5","toSide":"bottom"},
 		{"id":"55f06a0cd9dbf80b","fromNode":"a6cd8124770d3c67","fromSide":"top","toNode":"776958f219f767cc","toSide":"bottom"},
 		{"id":"38cbd43749107d91","fromNode":"a6cd8124770d3c67","fromSide":"top","toNode":"b1b01a6c13f8263a","toSide":"bottom"},
-		{"id":"78b76b9634dfc362","fromNode":"a6cd8124770d3c67","fromSide":"top","toNode":"fd6d810ae03339fb","toSide":"bottom"}
+		{"id":"78b76b9634dfc362","fromNode":"a6cd8124770d3c67","fromSide":"top","toNode":"fd6d810ae03339fb","toSide":"bottom"},
+		{"id":"20e484e6b325744a","fromNode":"a6cd8124770d3c67","fromSide":"bottom","toNode":"436498924cd0880c","toSide":"top"},
+		{"id":"9bb2f313a51977c0","fromNode":"a6cd8124770d3c67","fromSide":"bottom","toNode":"e83de06dd4d07639","toSide":"top","label":"Multiple Connections"},
+		{"id":"87da6a196eb456ba","fromNode":"a6cd8124770d3c67","fromSide":"bottom","toNode":"fbf2359746c91e29","toSide":"top"}
 	]
 }

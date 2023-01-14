@@ -14,12 +14,16 @@
 		{"id":"cc3c9e044eaeea2e","x":67,"y":-540,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"9a6c11df8836d95a","x":587,"y":-720,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"8389fcb7ce3ac19f","x":587,"y":-688,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"6b1f1ea8a1f04580","x":587,"y":-540,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"6b1f1ea8a1f04580","x":587,"y":-540,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"11567f75497345f6","x":-60,"y":540,"width":520,"height":230,"color":"6","type":"group","label":"Ember Twin - Quantum Network"},
+		{"id":"8534b3c49b92dfc9","x":-60,"y":572,"width":520,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10. Ember Twin - Quantum Shard Network.canvas"},
+		{"id":"d73d1fce371c3288","x":-60,"y":720,"width":520,"height":50,"color":"6","type":"text","text":"# Quantum Network"}
 	],
 	"edges":[
 		{"id":"0ce6c42ba92f51d1","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"6c621111ffa7cb21","toSide":"bottom"},
 		{"id":"fcc9aaa5aa501d0d","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"898589d39557b730","toSide":"bottom"},
 		{"id":"36c6f1e3d3c52736","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"66c3caceba2b214c","toSide":"bottom"},
-		{"id":"95e7fc5562bd4f22","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"9a6c11df8836d95a","toSide":"bottom"}
+		{"id":"95e7fc5562bd4f22","fromNode":"5c45e1f43ec1a5fc","fromSide":"top","toNode":"9a6c11df8836d95a","toSide":"bottom"},
+		{"id":"c2c0b2a01cf37955","fromNode":"5c45e1f43ec1a5fc","fromSide":"bottom","toNode":"11567f75497345f6","toSide":"top"}
 	]
 }
