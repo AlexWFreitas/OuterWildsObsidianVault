@@ -16,7 +16,7 @@
 	],
 	"edges":[
 		{"id":"c770bd64e7b3bca5","fromNode":"1ecee4d080e45634","fromSide":"bottom","toNode":"2209367774238586","toSide":"top","label":"Hidden Entrance on the Surface"},
-		{"id":"c3dbe2a2c9a8c611","fromNode":"1ecee4d080e45634","fromSide":"bottom","toNode":"55aad6cf1ee93fbf","toSide":"top","label":"Controls a"},
+		{"id":"c3dbe2a2c9a8c611","fromNode":"1ecee4d080e45634","fromSide":"bottom","toNode":"55aad6cf1ee93fbf","toSide":"top","label":"Controls"},
 		{"id":"ad3b6b9bb216fa7d","fromNode":"55aad6cf1ee93fbf","fromSide":"bottom","toNode":"f97e96714a4c64bf","toSide":"top"}
 	]
 }

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"a7b4275e4f962c0f","x":-320,"y":-1360,"width":1024,"height":725,"type":"group","label":"Crash Site Caves - Escape Pod 02"},
+		{"id":"0ef5b8aae42cc0a3","x":-280,"y":-1300,"width":400,"height":474,"type":"file","file":"10. Notes/Ember Twin - Crash Site Caves.md"},
+		{"id":"8fa036c06406fcb7","x":143,"y":-1300,"width":524,"height":272,"type":"file","file":"10. Notes/Ember Twin - Sand Caves Mechanics.md"},
+		{"id":"29b38f4c4d31a06c","x":143,"y":-973,"width":524,"height":295,"type":"file","file":"99. Attachments/Crossroads with four possible exits.png"},
+		{"id":"f3af7e73600f7214","x":-360,"y":-1460,"width":1640,"height":880,"type":"group","label":"Crash Site Caves"},
+		{"id":"29b3d67996113a61","x":800,"y":-1300,"width":400,"height":303,"type":"file","file":"10. Notes/Crash Site Cave Entrance - Air Refill.md"},
+		{"id":"dc7e82881de11d32","x":760,"y":-1360,"width":480,"height":725,"type":"group","label":"Crash Site Caves Entrance - Under Warp Receiver"},
+		{"id":"8dafe3c29ddc30a2","x":800,"y":-924,"width":400,"height":246,"type":"file","file":"99. Attachments/Crash Site Caves Entrance - Air Refill.png"},
+		{"id":"35e6cfca2fcedfcd","x":-1680,"y":-1360,"width":400,"height":230,"type":"group","label":"Escape Pod 02"},
+		{"id":"0d891c5e08ded14c","x":-1680,"y":-1328,"width":400,"height":148,"type":"file","file":"100. Templates/Canvas Template.canvas"},
+		{"id":"1c0f5d970aa8f22e","x":-1680,"y":-1180,"width":400,"height":50,"type":"text","text":"# Escape Pod 02\n"},
+		{"id":"eaf8cb8f7a660280","x":-1147,"y":-1622,"width":450,"height":294,"type":"file","file":"99. Attachments/Entrance to Cave inside Escape Pod 02.png"},
+		{"id":"3c95c367fbc49fb1","x":-1147,"y":-1180,"width":344,"height":400,"type":"file","file":"99. Attachments/Entrance from Surface.png"}
+	],
+	"edges":[]
+}
