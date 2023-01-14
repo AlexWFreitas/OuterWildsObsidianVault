@@ -14,7 +14,10 @@
 		{"id":"f46d4ee49413fa17","x":50,"y":-620,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"fd6d810ae03339fb","x":570,"y":-800,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"18b33907f94e456b","x":570,"y":-768,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"e26856b47e813369","x":570,"y":-620,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"e26856b47e813369","x":570,"y":-620,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"436498924cd0880c","x":-680,"y":580,"width":400,"height":230,"type":"group","label":"Anglerfish Fossil Site"},
+		{"id":"042bf0c57c1a03c0","x":-680,"y":612,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas"},
+		{"id":"95ea81810baf6d71","x":-680,"y":760,"width":400,"height":50,"type":"text","text":"# Anglerfish Fossil Site"}
 	],
 	"edges":[
 		{"id":"51cf88c9d1e8fc79","fromNode":"a6cd8124770d3c67","fromSide":"top","toNode":"0069e6ddaedd8cb5","toSide":"bottom"},
