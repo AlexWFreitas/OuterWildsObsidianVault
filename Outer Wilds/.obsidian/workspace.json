@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/50. Eye of the Universe/0. Eye of the Universe.canvas",
                 "viewState": {
-                  "x": 592.4463272449417,
-                  "y": 2481.599605909215,
-                  "zoom": -1.9077329288038987,
+                  "x": 426.3218036524424,
+                  "y": 560.6385625356046,
+                  "zoom": -1.5146185398850252,
                   "snapToGrid": true
                 }
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/50. Eye of the Universe/0. Eye of the Universe.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/50. Eye of the Universe/0. Eye of the Universe.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/50. Eye of the Universe/0. Eye of the Universe.canvas"
               }
             }
           }
@@ -208,15 +208,15 @@
   },
   "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/2a. Jellyfish Cave.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+    "10. Notes/The Interloper.md",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/50. Eye of the Universe/0. Eye of the Universe.canvas",
+    "10. Notes/Giant's Deep.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/3. Vessel.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/1. Quantum Moon - Eye of the Universe Version.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/2a. Jellyfish Cave.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
     "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/1. Escape Pod 03.canvas",
     "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/2. Feldspar's Campsite.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"
   ]
 }
