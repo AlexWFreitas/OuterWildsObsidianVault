@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8dde302b5ec36c9b","x":-1320,"y":515,"width":1680,"height":965,"type":"group","label":"Anglerfish Fossil Site"},
+		{"id":"22b3f5b464777847","x":-1300,"y":558,"width":400,"height":581,"type":"file","file":"10. Notes/Anglerfish Fossil Site.md"},
+		{"id":"a5bb67f49b7c5937","x":-540,"y":556,"width":442,"height":289,"type":"file","file":"99. Attachments/Viewed from below.png"},
+		{"id":"7a0c204c59995567","x":-880,"y":558,"width":330,"height":287,"type":"file","file":"99. Attachments/Anglerfish Fossil Overlook.png"},
+		{"id":"3faedcf752f13a75","x":-398,"y":900,"width":300,"height":290,"type":"file","file":"99. Attachments/Sand filling the cave.png"},
+		{"id":"b5cafe409ea4f58b","x":-880,"y":900,"width":465,"height":290,"type":"file","file":"99. Attachments/Anglerfish Fossil Site Entrance.png"},
+		{"id":"d222d1f708bd9f34","x":-1300,"y":1160,"width":400,"height":287,"type":"text","text":"# Anglerfish Fossil Research\n\nThis research basically says that the Anglerfish are blind and that the light emitter antenna they have is used for luring purposes.\n\nThis means that if you don't make any sound and sneak around, you will be able to avoid them because they won't be able to detect you."},
+		{"id":"1c7b8232226c3143","x":640,"y":515,"width":380,"height":660,"type":"group","label":"Anglerfish Fossil Overlook"},
+		{"id":"dcd4105d3147f17f","x":679,"y":850,"width":301,"height":285,"type":"file","file":"99. Attachments/View to the Anglerfish Fossil.png"},
+		{"id":"e6181d4e4541016e","x":684,"y":573,"width":298,"height":230,"type":"file","file":"99. Attachments/Go up the stairs.png"}
+	],
+	"edges":[
+		{"id":"6a084cb723e20925","fromNode":"1c7b8232226c3143","fromSide":"left","toNode":"8dde302b5ec36c9b","toSide":"right","label":"Outside View"}
+	]
+}

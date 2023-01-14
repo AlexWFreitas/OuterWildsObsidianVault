@@ -12,7 +12,7 @@ Historical records, mention that the Nomai race had a debate about building the 
 
 There is a series of switches that allow you to turn the power source on on sections of the Sunless City, this allows you to explore the Sunless City more efficiently, but might block you from going down on some force gravity elevators that will be turned on.
 
-There are records saying that the Anglerfish Fossil Site can be accessed through the Stepping Stones Cave, this would allow us to read the Nomai records over there.
+There are records saying that the [[Anglerfish Fossil Site]] can be accessed through the [[Steeppin]], this would allow us to read the Nomai records over there.
 
 There are records that reflect on the purpose of the Eye of the Universe, if there is any meaningful fate for them to find it, or if it was just a random sequence of events on the universe that happened to fall over their civilization. The reflections also talk about the age of the universe, the fact that the eye of the universe is older than the universe and musings about how it existed before the universe and if it had a creator.
 
