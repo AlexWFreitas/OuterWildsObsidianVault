@@ -1,21 +1,25 @@
 {
 	"nodes":[
-		{"id":"65fef51d18af9181","x":-1120,"y":-560,"width":1120,"height":480,"type":"group","label":"Warp Receiver Area"},
-		{"id":"f8aa61352da6d576","x":-760,"y":-498,"width":361,"height":320,"type":"file","file":"99. Attachments/Warp Receiver on Ember Twin.png"},
-		{"id":"ee3bcddbba327832","x":-360,"y":-498,"width":313,"height":320,"type":"file","file":"99. Attachments/Stairs that lead to other areas.png"},
-		{"id":"fb1b82f4c2e72683","x":100,"y":-560,"width":470,"height":1140,"type":"group","label":"Communication Tower"},
-		{"id":"086cbe3090fc410a","x":140,"y":120,"width":394,"height":427,"type":"file","file":"99. Attachments/Communication Tower.png"},
-		{"id":"391bd986846d1470","x":140,"y":-500,"width":394,"height":563,"type":"file","file":"10. Notes/Communication Tower.md"},
-		{"id":"dc0ba88e9cd64032","x":660,"y":-560,"width":1080,"height":700,"type":"group","label":"Quantum Moon Locator"},
-		{"id":"29fea55f2eeefa0b","x":700,"y":-510,"width":400,"height":617,"type":"file","file":"10. Notes/Quantum Moon Locator.md"},
-		{"id":"abcf4aa43ebbdaa7","x":-1080,"y":-498,"width":280,"height":383,"type":"file","file":"10. Notes/Warp Receiver - Ember Twin.md"},
-		{"id":"2043246645c8ed66","x":1140,"y":-510,"width":558,"height":404,"type":"file","file":"99. Attachments/Quantum Moon Locator.png"},
 		{"id":"9c146f412496f596","x":-560,"y":-1960,"width":1010,"height":1160,"type":"group","label":"Communication Tower and Quantum Moon Locator Area"},
 		{"id":"4e065cdb4151dffd","x":-70,"y":-1898,"width":480,"height":391,"type":"file","file":"99. Attachments/High Energy Lab Blocked Gate.png"},
 		{"id":"101b809d688fe734","x":-70,"y":-1444,"width":480,"height":487,"type":"file","file":"99. Attachments/High Energy Lab Blocked Entrance.png"},
-		{"id":"7a4bbab18c58fa39","x":-520,"y":-1900,"width":400,"height":454,"type":"file","file":"10. Notes/Communication Tower and Quantum Moon Locator Area Info.md"},
+		{"id":"7a4bbab18c58fa39","x":-520,"y":-1900,"width":400,"height":454,"type":"file","file":"10. Notes/Communication Tower and Quantum Moon Locator Area.md"},
 		{"id":"c65a42d624b9dae6","x":-520,"y":-1405,"width":400,"height":278,"type":"file","file":"99. Attachments/Blocked path to the Sunless City.png"},
-		{"id":"61e537988849ef83","x":-520,"y":-1080,"width":400,"height":246,"type":"file","file":"99. Attachments/Crash Site Caves Entrance - Air Refill.png"}
+		{"id":"61e537988849ef83","x":-520,"y":-1080,"width":400,"height":246,"type":"file","file":"99. Attachments/Crash Site Caves Entrance - Air Refill.png"},
+		{"id":"fb1b82f4c2e72683","x":-515,"y":-280,"width":920,"height":660,"type":"group","label":"Communication Tower"},
+		{"id":"391bd986846d1470","x":-475,"y":-220,"width":394,"height":563,"type":"file","file":"10. Notes/Communication Tower.md"},
+		{"id":"086cbe3090fc410a","x":-35,"y":-220,"width":394,"height":427,"type":"file","file":"99. Attachments/Communication Tower.png"},
+		{"id":"dc0ba88e9cd64032","x":600,"y":-280,"width":1080,"height":740,"type":"group","label":"Quantum Moon Locator"},
+		{"id":"29fea55f2eeefa0b","x":640,"y":-230,"width":400,"height":644,"type":"file","file":"10. Notes/Quantum Moon Locator.md"},
+		{"id":"2043246645c8ed66","x":1080,"y":-230,"width":558,"height":404,"type":"file","file":"99. Attachments/Quantum Moon Locator.png"},
+		{"id":"65fef51d18af9181","x":-1840,"y":-280,"width":1100,"height":480,"type":"group","label":"Warp Receiver Area"},
+		{"id":"abcf4aa43ebbdaa7","x":-1800,"y":-218,"width":280,"height":383,"type":"file","file":"10. Notes/Warp Receiver - Ember Twin.md"},
+		{"id":"f8aa61352da6d576","x":-1480,"y":-218,"width":361,"height":320,"type":"file","file":"99. Attachments/Warp Receiver on Ember Twin.png"},
+		{"id":"ee3bcddbba327832","x":-1080,"y":-218,"width":313,"height":320,"type":"file","file":"99. Attachments/Stairs that lead to other areas.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6d00f1e3cb1d7b81","fromNode":"9c146f412496f596","fromSide":"bottom","toNode":"fb1b82f4c2e72683","toSide":"top"},
+		{"id":"529c89c93cb6b2bf","fromNode":"9c146f412496f596","fromSide":"bottom","toNode":"dc0ba88e9cd64032","toSide":"top"},
+		{"id":"02b25dcbca09642b","fromNode":"9c146f412496f596","fromSide":"bottom","toNode":"65fef51d18af9181","toSide":"top"}
+	]
 }
