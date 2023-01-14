@@ -22,9 +22,9 @@
 		{"id":"16d2747998cf3d7c","x":1720,"y":-2471,"width":400,"height":230,"type":"group","label":"Hourglass Twins Map"},
 		{"id":"c516d463dbc51b40","x":1720,"y":-2439,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas"},
 		{"id":"6abbd4c8b5fae824","x":1720,"y":-2291,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
-		{"id":"72517dd90d3bf016","x":2280,"y":-2471,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
-		{"id":"1354c0e2230c20d0","x":2280,"y":-2439,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"46d30082a8ce7cf9","x":2280,"y":-2291,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"}
+		{"id":"72517dd90d3bf016","x":2280,"y":-2471,"width":400,"height":230,"type":"group","label":"Ash Twin Map"},
+		{"id":"1354c0e2230c20d0","x":2280,"y":-2439,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas"},
+		{"id":"46d30082a8ce7cf9","x":2280,"y":-2291,"width":400,"height":50,"type":"text","text":"# Ash Twin Map"}
 	],
 	"edges":[
 		{"id":"6d7d0756b88fa698","fromNode":"8ad29f32ff1276d1","fromSide":"top","toNode":"74d5011ad606d204","toSide":"bottom"},
