@@ -29,7 +29,7 @@
 		{"id":"145d6d8715cae040","x":-1000,"y":3280,"width":400,"height":50,"type":"text","text":"# Timber Hearth"},
 		{"id":"bce44cbf92c955e3","x":-1000,"y":3132,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas"},
 		{"id":"60732e00bd698c98","x":-1560,"y":3280,"width":400,"height":50,"type":"text","text":"# Sun Station"},
-		{"id":"0e501894e867c23f","x":-1560,"y":3132,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station.canvas"},
+		{"id":"0e501894e867c23f","x":-1560,"y":3132,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas"},
 		{"id":"95d64a44d22397b7","x":760,"y":3132,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
 		{"id":"d13bcd450f295c69","x":760,"y":3280,"width":400,"height":50,"type":"text","text":"# Ember Twin"},
 		{"id":"2eb07e750fcaa49f","x":1400,"y":3100,"width":400,"height":230,"type":"group","label":"Ash Twin Project"},

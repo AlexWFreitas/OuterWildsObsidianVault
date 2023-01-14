@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
                 "viewState": {
-                  "x": -5590.313803696767,
-                  "y": 26055.688480102304,
-                  "zoom": -4,
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -1.6666666666666665,
                   "snapToGrid": false
                 }
               }
@@ -45,12 +45,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
                 "viewState": {
-                  "x": -952.21079728583,
-                  "y": -3155.3734318754505,
-                  "zoom": -1.567344837936615,
-                  "snapToGrid": true
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
                 }
               }
             }
@@ -135,8 +135,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas"
               }
             }
           }
@@ -263,58 +262,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "717befeafcea08e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b46a1d06e4ccf75c",
-        "type": "window",
-        "children": [
-          {
-            "id": "cb3daf3a12f01f66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ed5992d6c6f8b62c",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/Untitled.canvas",
-                    "viewState": {
-                      "x": -542.3266561941855,
-                      "y": 649.4738044291354,
-                      "zoom": -2.394476176796527,
-                      "snapToGrid": false
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2243,
-        "y": 153,
-        "width": 1480,
-        "height": 992,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6a261a53ebd3c3e0",
+  "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/8. Stepping Stone Caves.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/Untitled.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/7. Sunless City.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/5. Crash Site Caves.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10. Ember Twin - Quantum Shard Network.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10c. Quantum Shard Cave C.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10a. Cave Shard's Cave.canvas"
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/0. Sun/0. Sun Station Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"
   ]
 }
