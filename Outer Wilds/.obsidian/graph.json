@@ -43,6 +43,27 @@
       }
     },
     {
+      "query": "tag:#quantum-moon",
+      "color": {
+        "a": 1,
+        "rgb": 13413171
+      }
+    },
+    {
+      "query": "tag:#giants-deep",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#eye-of-the-universe",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
       "query": "tag:#sun",
       "color": {
         "a": 1,
@@ -62,13 +83,6 @@
         "a": 1,
         "rgb": 14701138
       }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +95,6 @@
   "repelStrength": 9.79166666666667,
   "linkStrength": 0.739583333333333,
   "linkDistance": 302,
-  "scale": 0.18462326225858566,
+  "scale": 0.18462326225858575,
   "close": false
 }

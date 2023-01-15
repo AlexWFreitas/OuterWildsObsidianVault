@@ -19,8 +19,16 @@
             "id": "19595d5f44816abc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
+                "viewState": {
+                  "x": 2100.0475806890145,
+                  "y": -342.13015789419023,
+                  "zoom": -0.37206637294491535,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ],
@@ -90,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas"
+              }
             }
           }
         ]
@@ -149,15 +161,15 @@
   },
   "active": "19595d5f44816abc",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas",
-    "10. Notes/Hourglass Twins.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
-    "10. Notes/Ash Twin Project - Inside.md",
-    "10. Notes/Ash Twin Project.md",
-    "10. Notes/Ash Twin Project - How to Enter.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
-    "10. Notes/Warp Towers - Ash Twin.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas"
+    "10. Notes/Gossan.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
+    "10. Notes/Zero-G Cave.md",
+    "10. Notes/Scout Launcher.md",
+    "10. Notes/Slate.md",
+    "10. Notes/Outer Wilds Ventures.md",
+    "10. Notes/Hornfels.md",
+    "10. Notes/Quantum Shard.md",
+    "10. Notes/Nomai Statue.md",
+    "10. Notes/Space Ship.md"
   ]
 }

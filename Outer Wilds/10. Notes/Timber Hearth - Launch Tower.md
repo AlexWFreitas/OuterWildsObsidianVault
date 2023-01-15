@@ -4,6 +4,8 @@ Date: 2023-01-07
 Tags:
 - "outer-wilds"
 - "timber-hearth"
+- "space-ship"
+- "space-suit"
 Aliases:
 - 
 ---

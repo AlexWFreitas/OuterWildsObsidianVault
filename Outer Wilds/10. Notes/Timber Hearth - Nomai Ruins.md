@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2023-01-07
 Tags:
 - "outer-wilds"
+- "timber-hearth"
 Aliases:
 - "Nomai Ruins"
 ---

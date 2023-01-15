@@ -1,3 +1,14 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "timber-hearth"
+- "quantum-shard"
+- "quantum-behavior"
+Aliases:
+- 
+---
 - South of Outer Wilds Ventures. 
 - Place with tons of Quantum Shards that have erratic behavior if they are not being observed.
 - Seems to be related to the Quantum Moon, somewhere no one has been able to land.

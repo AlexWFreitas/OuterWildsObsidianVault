@@ -1,3 +1,15 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "timber-hearth"
+- "dark-bramble"
+- "feldspar"
+- "frequency"
+Aliases:
+- 
+---
 - North of Outer Wilds Ventures.
 - This crater started releasing smokes at the start of the game.
 - [[Tektite]] was investigating it, I tried to launch the Little Scout inside the the glowing entrance and found an infinitely bigger area inside, than the area outside of the seed.
