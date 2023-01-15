@@ -11,28 +11,15 @@
             "id": "8ea2fd894832fcb5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "19595d5f44816abc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
-                "viewState": {
-                  "x": 2100.0475806890145,
-                  "y": -342.13015789419023,
-                  "zoom": -0.37206637294491535,
-                  "snapToGrid": false
-                }
+                "file": "10. Notes/Orbital Probe Cannon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
+                "file": "10. Notes/Orbital Probe Cannon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
+                "file": "10. Notes/Orbital Probe Cannon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas"
+                "file": "10. Notes/Orbital Probe Cannon.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19595d5f44816abc",
+  "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
-    "10. Notes/Gossan.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/1. Timber Hearth Village.canvas",
-    "10. Notes/Zero-G Cave.md",
-    "10. Notes/Scout Launcher.md",
-    "10. Notes/Slate.md",
-    "10. Notes/Outer Wilds Ventures.md",
-    "10. Notes/Hornfels.md",
-    "10. Notes/Quantum Shard.md",
-    "10. Notes/Nomai Statue.md",
-    "10. Notes/Space Ship.md"
+    "10. Notes/OPC - Hologram 3 Description.md",
+    "10. Notes/Frozen Jellyfish surrounded by Dark Brambles.md",
+    "100. Templates/0. Outer Wilds T.md",
+    "10. Notes/Gravity Bridges.md",
+    "10. Notes/Feldspar Abandoned Campsite.md",
+    "10. Notes/OPC- Hologram 1.md",
+    "10. Notes/Orbital Probe Cannon.md",
+    "10. Notes/OPC- Hologram 2.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/2. Attlerock.canvas"
   ]
 }
