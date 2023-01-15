@@ -37,23 +37,23 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/3. Communication Tower and Quantum Moon Locator Area.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/9. High Energy Lab.canvas",
                 "viewState": {
-                  "x": -228.34931497975515,
-                  "y": 319.6745781297731,
-                  "zoom": -0.29579893224730375,
-                  "snapToGrid": false
+                  "x": -890.3512754169027,
+                  "y": -342.08382496842364,
+                  "zoom": -1.1863204554488107,
+                  "snapToGrid": true
                 }
               }
             }
           },
           {
-            "id": "4f3e82d88672ec54",
+            "id": "a67d2e4a54284c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Notes/Communication Tower.md",
+                "file": "10. Notes/Time Travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Communication Tower.md",
+                "file": "10. Notes/Time Travel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Communication Tower.md",
+                "file": "10. Notes/Time Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Communication Tower.md"
+                "file": "10. Notes/Time Travel.md"
               }
             }
           }
@@ -199,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f3e82d88672ec54",
+  "active": "a67d2e4a54284c8a",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/3. Communication Tower and Quantum Moon Locator Area.canvas",
-    "10. Notes/Warp Receiver - Ember Twin.md",
-    "10. Notes/Communication Tower and Quantum Moon Locator Area.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/2. Chertt's Campsite.canvas",
-    "10. Notes/Chertt's Ship.md",
-    "10. Notes/Chertt's Campsite.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
-    "10. Notes/Escape Pod 02.md",
-    "10. Notes/Ember Twin.md"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/9. High Energy Lab.canvas",
+    "10. Notes/High Energy Lab.md",
+    "10. Notes/High Energy Lab - How to Enter.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/8. Stepping Stone Caves.canvas",
+    "10. Notes/Stepping Stone Cave - Ember Twin.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/7. Sunless City.canvas",
+    "10. Notes/Sunless City.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas",
+    "10. Notes/Anglerfish Fossil Research.md",
+    "10. Notes/Anglerfish Fossil Site.md"
   ]
 }

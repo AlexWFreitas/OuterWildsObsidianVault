@@ -3,6 +3,14 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "high-energy-lab"
+- "ash-twin-project"
+- "research"
+- "nomai"
+- "warping-technology"
+- "time-travel"
+- "time-loop"
 ---
 - High Energy Lab is a laboratory where the Nomai researched and tested the [[Time Travel]] hypothesis.
 - After the researchers replicated time travelling through the [[Time Travel]] experiments, the [[Southern Observatory]] wanted to send something to the past by an amount of 22 minutes, that is the maximum amount of time on the time loop before the world ends because of the Supernova caused by the [[The Interloper|Comet]]. 

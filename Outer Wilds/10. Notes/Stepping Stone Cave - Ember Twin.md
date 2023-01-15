@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
 ---
 This is a cave that is connected with at least five different places:
 1. [[Sunless City]]

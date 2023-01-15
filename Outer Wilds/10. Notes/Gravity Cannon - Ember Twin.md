@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "gravity-cannon"
+- "shuttle"
+- "interloper"
 ---
 This Gravity Cannon was used to launch a [[Shuttle]] on the back of the comet [[The Interloper]].
 

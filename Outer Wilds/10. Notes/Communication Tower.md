@@ -3,7 +3,7 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
-- ""
+- "ember-twin"
 ---
 
 Communication Tower that probably receives memory data from the Nomai Statues or Probe Tracking Device.

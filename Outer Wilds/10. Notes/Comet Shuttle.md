@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "interloper"
+- "shuttle"
+- "gravity-cannon"
 ---
 This [[Shuttle]] was sent to explore [[The Interloper]] and was launched from the [[Gravity Cannon - Ember Twin]].
 

@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "anglerfish"
 ---
 This place can be seen from the [[Go up the stairs.png|Anglerfish Fossil Overlook]] near the [[Sunless City]] entrance coming from the [[Ember Twin - Crash Site Caves]] without being accessible.
 

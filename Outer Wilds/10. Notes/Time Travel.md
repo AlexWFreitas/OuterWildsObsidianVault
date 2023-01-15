@@ -3,6 +3,13 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "warping-technology"
+- "black-hole"
+- "white-hole"
+- "nomai"
+- "ash-twin-project"
+- ""
+- "ember-twin"
 ---
 - Time travel was first discovered after someone used the [[White Hole Station]] to teleport to the [[Warp Receiver - Brittle Hollow - White Hole Station]]. When measuring the time of entry and the time of exit, it was found that the time of exit was earlier than the time of entry.
 - Over time, time warp technology was developed, and it refers to the use of a Black Hole Core and a White Hole Core to enable the teleporting of objects, within this teleport occurs a phenomenon that causes the time travelling object to go to the past by a certain amount of time.

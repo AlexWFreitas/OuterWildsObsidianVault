@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "nomai"
 ---
 This place is reachable by navigating the [[Ember Twin - Crash Site Caves]], whose entrances are on the surface areas of [[Escape Pod 02]] and on a cave entrance  on the lower stairs of [[Communication Tower]].
 

@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "quantum-moon-locator"
 ---
 - Located at the [[Ember Twin]].
 - Works as a [[Quantum Moon]] Locator showing the location of five known planets where the [[Quantum Moon ]] can orbit and the current location of the [[Quantum Moon]].
