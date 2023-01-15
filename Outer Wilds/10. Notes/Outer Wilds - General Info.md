@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "general-information"
+Aliases:
+- 
+---
 Outer Wilds tells a story about a group of explorers / adventurers / scientists that like to explore the galaxy.
 
 Through that they discover that there was an ancient alien race that visited all those planets before and left messages and clues of higher technology.

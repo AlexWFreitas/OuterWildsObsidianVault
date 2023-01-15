@@ -12,4 +12,4 @@ Can be destroyed / damaged on a collision rendering the Map functionality useles
 
 The deep space satellite orbit is bigger than the orbit of other planets in the star system and is also on the opposite axis of the other planets. 
 
-I wonder if the humans built something like this in real life, would it have a similar axis configuration?
+*I wonder if the humans built something like this in real life, would it have a similar axis configuration?*
