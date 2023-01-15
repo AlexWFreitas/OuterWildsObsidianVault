@@ -3,7 +3,12 @@ Type: Game Note
 Date: 2023-01-14
 Tags:
 - "outer-wilds"
-- ""
+- "eye-of-the-universe"
+- "ash-twin-project"
+- "nomai"
+- "quantum-behavior"
+- "quantum-moon"
+- "vessel"
 Aliases:
 - 
 ---

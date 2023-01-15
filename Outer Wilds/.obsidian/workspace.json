@@ -19,9 +19,41 @@
             "id": "19595d5f44816abc",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
+                "viewState": {
+                  "x": -213.31581041943178,
+                  "y": -262.70091889785476,
+                  "zoom": 0.06616151474257814,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "79bd388b4e3342b9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/3. Communication Tower and Quantum Moon Locator Area.canvas",
+                "viewState": {
+                  "x": -228.34931497975515,
+                  "y": 319.6745781297731,
+                  "zoom": -0.29579893224730375,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "4f3e82d88672ec54",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Notes/Eye of the Universe.md",
+                "file": "10. Notes/Communication Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Eye of the Universe.md",
+                "file": "10. Notes/Communication Tower.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Eye of the Universe.md",
+                "file": "10. Notes/Communication Tower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Eye of the Universe.md"
+                "file": "10. Notes/Communication Tower.md"
               }
             }
           }
@@ -168,17 +199,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19595d5f44816abc",
+  "active": "4f3e82d88672ec54",
   "lastOpenFiles": [
-    "10. Notes/OPC - Hologram 3 Description.md",
-    "10. Notes/OPC- Hologram 1.md",
-    "10. Notes/OPC- Hologram 2.md",
-    "10. Notes/Attlerock.md",
-    "2. Canvas - Portal Mode/3. Characters/0. Characters Map.canvas",
-    "10. Notes/Ember Twin - Quantum Travel Network.md",
-    "10. Notes/Esker Closer Photo.md",
-    "10. Notes/Gabbro's Island.md",
-    "100. Templates/Canvas Template.canvas",
-    "10. Notes/Southern Observatory - Surface.md"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/3. Communication Tower and Quantum Moon Locator Area.canvas",
+    "10. Notes/Warp Receiver - Ember Twin.md",
+    "10. Notes/Communication Tower and Quantum Moon Locator Area.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/2. Chertt's Campsite.canvas",
+    "10. Notes/Chertt's Ship.md",
+    "10. Notes/Chertt's Campsite.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas",
+    "10. Notes/Escape Pod 02.md",
+    "10. Notes/Ember Twin.md"
   ]
 }

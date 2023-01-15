@@ -1,3 +1,14 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "ember-twin"
+- "warp-receiver"
+- "quantum-moon-locator"
+Aliases:
+- 
+---
 Located on [[Ember Twin]].
 
 **Surface:**

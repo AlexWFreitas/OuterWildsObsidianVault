@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "nomai"
+- "vessel"
 ---
 This escape pod has crashed on [[Ember Twin]]'s surface, the crew members sent a [[Distress Signal]] that would allow others to find them.
 

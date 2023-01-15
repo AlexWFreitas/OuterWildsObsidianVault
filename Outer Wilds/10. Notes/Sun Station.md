@@ -5,6 +5,7 @@ Tags:
 - "outer-wilds"
 - "ash-twin-project"
 - "sun"
+- "sun-station"
 ---
 
 The Sun Station is a orbiting station that is close to the Sun of the Outer Wilds solar system.

@@ -3,6 +3,12 @@ Type: Game Note
 Date: 2023-01-14
 Tags:
 - "outer-wilds"
+- "sun"
+- "sun-station"
+- "supernova"
+- "ash-twin-project"
+- "time-loop"
+- "interloper"
 Aliases:
 - 
 ---

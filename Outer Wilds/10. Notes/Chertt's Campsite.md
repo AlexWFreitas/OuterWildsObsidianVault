@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "campsite"
 ---
 
 - [[Chertt]]'s has been on this campsite for a while.
