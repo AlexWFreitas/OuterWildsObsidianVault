@@ -8,7 +8,7 @@ Tags:
 - "white-hole"
 - "nomai"
 - "ash-twin-project"
-- ""
+- "high-energy-lab"
 - "ember-twin"
 ---
 - Time travel was first discovered after someone used the [[White Hole Station]] to teleport to the [[Warp Receiver - Brittle Hollow - White Hole Station]]. When measuring the time of entry and the time of exit, it was found that the time of exit was earlier than the time of entry.

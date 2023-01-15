@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "quantum-behavior"
+- "quantum-shard"
 ---
 This cave can be accessed from two places on the surface, inside it there is a path that leads to the discovery of the Cave Shard.
 

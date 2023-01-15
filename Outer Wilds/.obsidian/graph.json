@@ -8,10 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#exploration-tools",
+      "query": "tag:#timber-hearth",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#ash-twin",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#ember-twin",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#brittle-hollow",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#dark-bramble",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#sun",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#mechanics",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     },
     {
@@ -19,6 +61,13 @@
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -32,6 +81,6 @@
   "repelStrength": 9.79166666666667,
   "linkStrength": 0.739583333333333,
   "linkDistance": 302,
-  "scale": 0.36288736930122034,
+  "scale": 0.18462326225858566,
   "close": false
 }

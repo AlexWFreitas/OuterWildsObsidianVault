@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "quantum-behavior"
+- "quantum-shard"
 ---
 There is another quantum room that you can go by chance if you go under the area where [[Chertt's Campsite]] is, there will be a huge cave going downwards. If you keep following the path over there, you will eventually find a room blocked by cave stones or cacti.
 

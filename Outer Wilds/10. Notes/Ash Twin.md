@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-28
 Tags:
 - "outer-wilds"
+- "ash-twin"
+- "ash-twin-project"
+- "warp-tower"
 ---
 This place is a astral body that changes over time.
 

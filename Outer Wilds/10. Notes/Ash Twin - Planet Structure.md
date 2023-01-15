@@ -1,3 +1,14 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "ash-twin"
+- "ash-twin-project"
+- "hourglass-twins"
+Aliases:
+- 
+---
 This place seems to be divided into two communication towers that also work as solar power generator one is on the north pole and one is on the south pole of this planet.
 
 These towers are probably used to receive and send data, but also to generate power, if we go by the [[Ember Twin]] structure, we know that on Ember Twin they used one smaller tower to generate energy for the [[Sunless City]] and to power the experiments on the [[High Energy Lab]].

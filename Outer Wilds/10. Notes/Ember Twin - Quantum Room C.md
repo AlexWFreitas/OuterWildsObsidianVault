@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "quantum-behavior"
+- "quantum-shard"
 ---
 This planet has a room that has no exits or entrances, that some scientists have been able to enter.
 

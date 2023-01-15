@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "ember-twin"
+- "quantum-behavior"
+- "quantum-shard"
 ---
 Another cave on Ember Twin that contains a teleporting Quantum Shard.
 

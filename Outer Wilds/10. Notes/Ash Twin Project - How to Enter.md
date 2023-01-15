@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-28
 Tags:
 - "outer-wilds"
+- "ash-twin"
+- "ash-twin-project"
 ---
 Supposedly the [[Ash Twin Project]] is located inside the center of the Ash Twin planet.
 

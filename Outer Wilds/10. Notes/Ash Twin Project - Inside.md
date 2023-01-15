@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2022-12-28
 Tags:
 - "outer-wilds"
+- "ash-twin"
+- "ash-twin-project"
+- "advanced-warp-core"
+- "endgame"
 ---
 After following the steps shown on [[Ash Twin Project - How to Enter]], you are teleported inside the Ash Twin Project area.
 

@@ -1,8 +1,5 @@
 {
 	"nodes":[
-		{"id":"2cce18752a28cb94","x":-70,"y":-506,"width":470,"height":315,"type":"file","file":"99. Attachments/Triple Door Entrance.png"},
-		{"id":"10b5df02c065e5c8","x":320,"y":-138,"width":640,"height":390,"type":"file","file":"99. Attachments/Cave Split Path.png"},
-		{"id":"1453da801c8cef8e","x":-960,"y":-506,"width":760,"height":315,"type":"file","file":"10. Notes/Cave Shard's Cave.md"},
 		{"id":"9c3ea607be2ac762","x":-1000,"y":-1060,"width":400,"height":230,"type":"group","label":"Overview Map"},
 		{"id":"964151df33078dc5","x":-1000,"y":-1028,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"},
 		{"id":"420ff305c038ce1b","x":-1000,"y":-880,"width":400,"height":50,"type":"text","text":"# Overview Map"},
@@ -15,12 +12,15 @@
 		{"id":"27891a9dc6428738","x":47,"y":-880,"width":400,"height":50,"type":"text","text":"# Hourglass Twins Map"},
 		{"id":"bb4f7ef6ec0b218d","x":567,"y":-1060,"width":400,"height":230,"type":"group","label":"Ember Twin Map"},
 		{"id":"7e307761e0af033d","x":567,"y":-1028,"width":400,"height":148,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/0. Ember Twin Map.canvas"},
-		{"id":"bbf3119e7f4fc0b5","x":567,"y":-880,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
-		{"id":"8f5ba455a8b0c432","x":-1000,"y":-548,"width":2000,"height":1096,"type":"group","label":"Cave Shard's Cave"},
-		{"id":"575c5e2fa88cc3e7","x":-307,"y":148,"width":579,"height":349,"type":"file","file":"99. Attachments/Cave Shard Room A.png"},
+		{"id":"8f5ba455a8b0c432","x":-1000,"y":-548,"width":2000,"height":1108,"type":"group","label":"Cave Shard's Cave"},
 		{"id":"396c01b89a9d47dc","x":-40,"y":840,"width":520,"height":230,"color":"6","type":"group","label":"Ember Twin - Quantum Network"},
 		{"id":"c06b1873b0d09c66","x":-40,"y":872,"width":520,"height":148,"color":"6","type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/10. Ember Twin - Quantum Shard Network.canvas"},
-		{"id":"f2629a2fc5274f2d","x":-40,"y":1020,"width":520,"height":50,"color":"6","type":"text","text":"# Quantum Network"}
+		{"id":"f2629a2fc5274f2d","x":-40,"y":1020,"width":520,"height":50,"color":"6","type":"text","text":"# Quantum Network"},
+		{"id":"bbf3119e7f4fc0b5","x":567,"y":-880,"width":400,"height":50,"type":"text","text":"# Ember Twin Map"},
+		{"id":"1453da801c8cef8e","x":-960,"y":-453,"width":760,"height":315,"type":"file","file":"10. Notes/Cave Shard's Cave.md"},
+		{"id":"2cce18752a28cb94","x":-150,"y":-480,"width":470,"height":315,"type":"file","file":"99. Attachments/Triple Door Entrance.png"},
+		{"id":"10b5df02c065e5c8","x":320,"y":-103,"width":640,"height":390,"type":"file","file":"99. Attachments/Cave Split Path.png"},
+		{"id":"575c5e2fa88cc3e7","x":-307,"y":160,"width":579,"height":349,"type":"file","file":"99. Attachments/Cave Shard Room A.png"}
 	],
 	"edges":[
 		{"id":"42234aa54050ec76","fromNode":"2cce18752a28cb94","fromSide":"right","toNode":"10b5df02c065e5c8","toSide":"top","label":"Connection"},

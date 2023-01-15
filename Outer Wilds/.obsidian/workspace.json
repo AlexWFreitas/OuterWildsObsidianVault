@@ -19,60 +19,12 @@
             "id": "19595d5f44816abc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas",
-                "viewState": {
-                  "x": -213.31581041943178,
-                  "y": -262.70091889785476,
-                  "zoom": 0.06616151474257814,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "79bd388b4e3342b9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/9. High Energy Lab.canvas",
-                "viewState": {
-                  "x": -890.3512754169027,
-                  "y": -342.08382496842364,
-                  "zoom": -1.1863204554488107,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "a67d2e4a54284c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/Time Travel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b466f4bbc46fea38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/OPC - Hologram 3 Description.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Time Travel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Time Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10. Notes/Time Travel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,17 +147,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a67d2e4a54284c8a",
+  "active": "19595d5f44816abc",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/9. High Energy Lab.canvas",
-    "10. Notes/High Energy Lab.md",
-    "10. Notes/High Energy Lab - How to Enter.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/8. Stepping Stone Caves.canvas",
-    "10. Notes/Stepping Stone Cave - Ember Twin.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/7. Sunless City.canvas",
-    "10. Notes/Sunless City.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/6. Anglerfish Fossil Site.canvas",
-    "10. Notes/Anglerfish Fossil Research.md",
-    "10. Notes/Anglerfish Fossil Site.md"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/2. Timber Hearth/0. Timber Hearth Map.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Hourglass Twins Map.canvas",
+    "10. Notes/Hourglass Twins.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/1. Ash Twin Project.canvas",
+    "10. Notes/Ash Twin Project - Inside.md",
+    "10. Notes/Ash Twin Project.md",
+    "10. Notes/Ash Twin Project - How to Enter.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/1. Ash Twin/0. Ash Twin Map.canvas",
+    "10. Notes/Warp Towers - Ash Twin.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/1. Hourglass Twins/0. Ember Twin/1. Escape Pod 02.canvas"
   ]
 }
