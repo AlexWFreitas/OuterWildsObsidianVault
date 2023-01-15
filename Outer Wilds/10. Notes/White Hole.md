@@ -1,3 +1,11 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+Aliases:
+- 
+---
 - There is a White Hole somewhere near the edge of the current star system. 
 - This White Hole is connected to the [[Black Hole]] at the center of [[Brittle Hollow]]. 
 - Objects that enter the Black Hole at Brittle Hollow end up expelled by this White Hole.

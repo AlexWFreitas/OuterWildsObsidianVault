@@ -13,17 +13,30 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
                 "viewState": {
-                  "x": -11426.607789731414,
-                  "y": -2344.4534543242794,
-                  "zoom": -1,
+                  "x": 441.56442610258466,
+                  "y": -1094.9932007159068,
+                  "zoom": 0.04652585202107773,
                   "snapToGrid": true
                 }
               }
             }
+          },
+          {
+            "id": "708dd2e08f2c0a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/White Hole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachments/Star System of Outer Wilds.png",
+                "file": "10. Notes/White Hole.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachments/Star System of Outer Wilds.png",
+                "file": "10. Notes/White Hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachments/Star System of Outer Wilds.png"
+                "file": "10. Notes/White Hole.md"
               }
             }
           }
@@ -149,17 +162,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ea2fd894832fcb5",
+  "active": "708dd2e08f2c0a45",
   "lastOpenFiles": [
-    "0. START HERE/0. Starting Area.canvas",
-    "10. Notes/Orbital Probe Cannon.md",
-    "10. Notes/Control Module - Orbital Probe Cannon.md",
-    "10. Notes/OPC- Hologram 1.md",
-    "10. Notes/OPC- Hologram 2.md",
-    "10. Notes/Ember Twin - Quantum Travel Network.md",
-    "10. Notes/OPC - Hologram 3 Description.md",
-    "10. Notes/Frozen Jellyfish surrounded by Dark Brambles.md",
-    "100. Templates/0. Outer Wilds T.md",
-    "10. Notes/Gravity Bridges.md"
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
+    "10. Notes/Quantum Shard.md",
+    "10. Notes/Gravity Floor.md",
+    "10. Notes/Gravity Crystal.md",
+    "10. Notes/Hollow Lantern.md",
+    "10. Notes/Brittle Hollow.md",
+    "10. Notes/Black Hole.md",
+    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+    "0. START HERE/0. Starting Area.canvas"
   ]
 }
