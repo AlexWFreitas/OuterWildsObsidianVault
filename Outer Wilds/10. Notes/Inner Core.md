@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
 ---
 If you enter the tornado that is on a reverse clockwise rotation, then you will get pushed into the center of the planet.
 

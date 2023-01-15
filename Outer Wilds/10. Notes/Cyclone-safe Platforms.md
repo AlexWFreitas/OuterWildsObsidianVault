@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
+- "mechanisms"
 ---
 On the Giant's End island, there are platforms with the Cyclone Icon on the floor, those platforms become active whenever an Island is under the effect of a [[Giant's Deep Cyclones|cyclone]].
 

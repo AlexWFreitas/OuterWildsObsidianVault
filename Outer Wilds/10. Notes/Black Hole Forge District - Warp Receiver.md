@@ -1,3 +1,14 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "warp-receiver"
+- "black-hole-forge"
+Aliases:
+- 
+---
 This is the correct way to access the [[Black Hole Forge]].
 
 To do it correctly, you need to go to the [[Meltwater District]] and enter the [[Black Hole Forge - Elevator Control]], raise the [[Black Hole Forge]] to the [[Black Hole Forge District]].

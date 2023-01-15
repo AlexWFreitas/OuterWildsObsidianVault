@@ -6,6 +6,8 @@ Tags:
 - "ash-twin-project"
 - "eye-of-the-universe"
 - "nomai"
+- "giants-deep"
+- "orbital-probe-cannon"
 Aliases:
 - "Orbital Probe Cannon"
 ---

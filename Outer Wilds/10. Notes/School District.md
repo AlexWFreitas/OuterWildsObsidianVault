@@ -1,3 +1,13 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "nomai"
+Aliases:
+- 
+---
 - Located on the underground of [[North Pole]] of [[Brittle Hollow]].
 - Part of the [[Hanging City]].
 - Connects to the other floors through [[Gravity Floor]]

@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
 ---
 Planet surrounded by a thick fog, that makes hard to see it's inner parts without entering.
 

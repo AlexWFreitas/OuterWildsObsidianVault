@@ -13,12 +13,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
                 "viewState": {
-                  "x": 48.28853925013766,
-                  "y": -1153.0035358043633,
-                  "zoom": -1.537189792414447,
-                  "snapToGrid": true
+                  "x": -1106.4036628262006,
+                  "y": 1398.0806552289755,
+                  "zoom": -0.7775625453269606,
+                  "snapToGrid": false
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
-    "10. Notes/Hanging City.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
-    "10. Notes/Tower of Quantum Knowledge.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
-    "10. Notes/Southern Observatory - Underground Entrance.md",
-    "10. Notes/Southern Observatory - Planet Locator.md",
-    "10. Notes/Southern Observatory.md",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas",
-    "10. Notes/Riebeck's Campsite.md"
+    "10. Notes/Orbital Probe Cannon - Launch Module.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/1. Orbital Probe Cannon.canvas",
+    "10. Notes/OPC - Hologram 3 Description.md",
+    "10. Notes/OPC- Hologram 2.md",
+    "10. Notes/OPC- Hologram 1.md",
+    "10. Notes/Control Module - Orbital Probe Cannon.md",
+    "10. Notes/Orbital Probe Cannon Explosion.md",
+    "10. Notes/Orbital Probe Cannon Project.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas",
+    "10. Notes/Construction Yard.md"
   ]
 }

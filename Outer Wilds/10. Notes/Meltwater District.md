@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+Aliases:
+- 
+---
 - Connects to [[The Crossroads]] through a bridge, the bridge might fall due to structural damage.
 - Has a wall depicting a debate about how to build a new Advanced Warp Core for the [[Ash Twin Project]]. Their options were:
 	- Retrieve the Warp Core from the [[Vessel]].

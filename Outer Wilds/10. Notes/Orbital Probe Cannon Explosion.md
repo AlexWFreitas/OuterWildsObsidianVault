@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
+- "orbital-probe-cannon"
 ---
 The [[Orbital Probe Cannon Project|Orbital Probe Cannon]] was destroyed when the scientists behind the project ignored the power usage limits that Cassava from the Construction Yard warned about.
 

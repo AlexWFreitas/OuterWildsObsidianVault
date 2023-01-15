@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
+- "orbital-probe-cannon"
 ---
 
 Contains information about the Orbital Probe Cannon construction like blueprints and memos. One interesting tidbit is that they were using the cyclones to launch parts of the Orbital Probe Cannon into orbit, so they could be installed.

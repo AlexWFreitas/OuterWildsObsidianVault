@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
+- "orbital-probe-cannon"
 ---
 The Launch Module of the destroyed [[Orbital Probe Cannon Project|Orbital Probe Cannon]] can be accessed through the broken glass window from the outside.
 

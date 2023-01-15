@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
 ---
 Interestingly the Frozen Jellyfish Island is surrounded by a [[Dark Bramble]] like structure, I wonder how this happened.
 

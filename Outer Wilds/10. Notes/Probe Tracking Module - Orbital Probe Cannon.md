@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
+- "orbital-probe-cannon"
 ---
 The Probe Tracking Module of the [[Orbital Probe Cannon Project|Orbital Probe Cannon]] was missing when the Orbital Probe Cannon was destroyed.
 

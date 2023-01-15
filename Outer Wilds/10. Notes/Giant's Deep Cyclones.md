@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-24
 Tags:
 - "outer-wilds"
+- "giants-deep"
+- "mechanisms"
 ---
 Over the sea around [[Giant's Deep]] planet, there is a great number of cyclones, those cyclones are caused by the strong currents in the planet.
 
