@@ -15,10 +15,10 @@
               "state": {
                 "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
                 "viewState": {
-                  "x": -1260.4671327878466,
-                  "y": -2539.196191618135,
-                  "zoom": -0.3333333333333334,
-                  "snapToGrid": false
+                  "x": -11426.607789731414,
+                  "y": -2344.4534543242794,
+                  "zoom": -1,
+                  "snapToGrid": true
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/Riebeck.md",
+                "file": "99. Attachments/Star System of Outer Wilds.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/Riebeck.md",
+                "file": "99. Attachments/Star System of Outer Wilds.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/Riebeck.md"
+                "file": "99. Attachments/Star System of Outer Wilds.png"
               }
             }
           }
