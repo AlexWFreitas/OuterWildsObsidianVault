@@ -1,3 +1,13 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "ending"
+- "spoilers"
+Aliases:
+- 
+---
 There are many possible endings depending on your actions at turning points.
 
 The ending is reachable by going to the [[Eye of the Universe]], by using the [[Vessel]] warp technology together with the [[Advanced Warp Core]] from the [[Ash Twin Project]] and warping to the coordinates found on the [[Probe Tracking Module - Orbital Probe Cannon]].

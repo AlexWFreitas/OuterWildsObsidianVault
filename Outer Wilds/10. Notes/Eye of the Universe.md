@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- ""
+Aliases:
+- 
+---
 - Seems to be located on the region of the Star System where the Timber Hearthians live.
 - The signal it emits is older than the known Universe itself.
 - It's impossible to track its location through signal scanning, at least with the locators from [[Attlerock]] and [[Brittle Hollow]] and [[Ember Twin]].

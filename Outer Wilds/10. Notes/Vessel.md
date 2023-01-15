@@ -5,6 +5,7 @@ Tags:
 - "outer-wilds"
 - "vessel"
 - "eye-of-the-universe"
+- "dark-bramble"
 ---
 The Vessel is a space ship that each [[Nomai Race]] clan uses to travel through the universe.
 

@@ -6,6 +6,7 @@ Tags:
 - "quantum-behavior"
 - "eye-of-the-universe"
 - "quantum-moon"
+- "quantum-shard"
 ---
 The Quantum Moon has the same behavior as the [[Quantum Shard]], this means that if you stop watching it, it will move to somewhere else.
 

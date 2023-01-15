@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-27
 Tags:
 - "outer-wilds"
+- "dark-bramble"
+- "vessel"
+- "feldspar"
 ---
 
 Dark Bramble is a space sector that contains an invasive giants plant species that create Dark Brambles that expands over time, fuses into things and also destroy things.
