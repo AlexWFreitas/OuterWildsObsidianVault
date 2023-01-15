@@ -1,3 +1,20 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "theory"
+- "nomai-extinction"
+- "nomai"
+- "interloper"
+- "supernova"
+- "sun"
+- "time-loop"
+- "ash-twin-project"
+- "death"
+Aliases:
+- 
+---
 After on the core of the [[The Interloper]], I discovered that the Comet is carrying some type of super tightly packed matter that keeps getting more and more unstable, if this is released, this will destroy the entire universe.
 
 *This leads to a reasoning that time loops were created to prevent this catastrophe from happening.* 

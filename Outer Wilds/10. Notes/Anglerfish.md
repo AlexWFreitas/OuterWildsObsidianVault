@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-25
 Tags:
 - "outer-wilds"
+- "dark-bramble"
+- "blind"
+- "mechanism"
 ---
 A giant space fish species that live inside [[Dark Bramble]], seems to be territorial.
 

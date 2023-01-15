@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2022-12-27
 Tags:
 - "outer-wilds"
+- "dark-bramble"
+- "knowledge"
+- "giants-deep"
+- "jellyfish"
 Aliases: 
 - "Jellyfish Cave"
 - "jellyfish cave"

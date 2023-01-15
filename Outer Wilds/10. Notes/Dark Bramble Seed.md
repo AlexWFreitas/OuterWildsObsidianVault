@@ -3,6 +3,7 @@ Type: Game Note
 Date: 2022-12-27
 Tags:
 - "outer-wilds"
+- "dark-bramble"
 ---
 Dark Bramble Seed is a seed that sprouts after some time, this seed will destroy its surroundings as an invasive species and will also generate other seeds.
 

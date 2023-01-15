@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2022-12-28
 Tags:
 - "outer-wilds"
+- "quantum-behavior"
+- "eye-of-the-universe"
+- "quantum-moon"
+- "quantum-shard"
 ---
 When you land on the [[Quantum Moon]], you start at the south pole, from your starting point you won't be able to reach the North Pole, meaning you have to warp through other states of the Quantum Moon to be able to reach the North Pole.
 

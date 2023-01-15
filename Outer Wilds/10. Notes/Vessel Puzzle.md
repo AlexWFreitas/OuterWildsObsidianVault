@@ -3,6 +3,11 @@ Type: Game Note
 Date: 2022-12-27
 Tags:
 - "outer-wilds"
+- "dark-bramble"
+- "vessel"
+- "eye-of-the-universe"
+- "ash-twin-project"
+- "endgame"
 ---
 *I am almost 100% sure that this is the final puzzle of the game*.
 

@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-27
 Tags:
 - "outer-wilds"
+- "campsite"
+- "feldspar"
+- "dark-bramble"
 ---
 After [[Feldspar]] went to the [[Giant's Deep]] Core, he wanted to conquer [[Dark Bramble]], so he tried to explore it.
 

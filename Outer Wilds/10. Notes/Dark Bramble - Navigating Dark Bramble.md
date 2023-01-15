@@ -3,6 +3,8 @@ Type: Game Note
 Date: 2022-12-27
 Tags:
 - "outer-wilds"
+- "dark-bramble"
+- "anglerfish"
 ---
 To navigate around Dark Bramble, you need to deal with both the [[Anglerfish]] and the [[Dark Bramble - Space Distortion|Space Distortion]]. 
 

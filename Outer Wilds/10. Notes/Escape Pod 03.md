@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-26
 Tags:
 - "outer-wilds"
+- "dark-bramble"
+- "nomai"
+- "vessel"
 ---
 If you go to the Dark Brambles and consider the fact that the Anglerfishes are blind, you will be able to evade them by launching Little Scout Probes at every light you find and then checking if the light source is a Anglerfish or an entrance to somewhere else.
 

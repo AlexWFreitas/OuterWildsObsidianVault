@@ -3,6 +3,9 @@ Type: Game Note
 Date: 2022-12-26
 Tags:
 - "outer-wilds"
+- "vessel"
+- "nomai"
+- "eye-of-the-universe"
 ---
 The Escall Clan is a clan from the Nomai Race that was using the Vessel from where we found much of the Nomai's writing, artifacts and other things.
 

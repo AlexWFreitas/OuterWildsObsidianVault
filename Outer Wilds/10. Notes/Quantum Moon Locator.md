@@ -5,6 +5,10 @@ Tags:
 - "outer-wilds"
 - "ember-twin"
 - "quantum-moon-locator"
+- "quantum-behavior"
+- "eye-of-the-universe"
+- "quantum-moon"
+- "quantum-shard"
 ---
 - Located at the [[Ember Twin]].
 - Works as a [[Quantum Moon]] Locator showing the location of five known planets where the [[Quantum Moon ]] can orbit and the current location of the [[Quantum Moon]].

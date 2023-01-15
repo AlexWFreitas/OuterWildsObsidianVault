@@ -3,6 +3,12 @@ Type: Game Note
 Date: 2022-12-28
 Tags:
 - "outer-wilds"
+- "quantum-behavior"
+- "eye-of-the-universe"
+- "quantum-moon"
+- "quantum-shard"
+- "solanum"
+- "nomai"
 ---
 This place can only be reached through the use of the Quantum Moon Shrine when it's located on the North Pole.
 
