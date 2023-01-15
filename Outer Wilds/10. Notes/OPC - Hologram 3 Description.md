@@ -9,7 +9,7 @@ Tags:
 Aliases:
 - 
 ---
-The third hologram available on the [[Orbital Probe Cannon]], gave a status about the damage suffered after the launch of the first probe.
+The third hologram available on the [[Orbital Probe Cannon Project|Orbital Probe Cannon]], gave a status about the damage suffered after the launch of the first probe.
 
 Basically:
 - Control Module is Intact.

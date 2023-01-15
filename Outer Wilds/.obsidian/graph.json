@@ -18,14 +18,14 @@
       "query": "tag:#ash-twin",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14113627
       }
     },
     {
       "query": "tag:#ember-twin",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 12066334
       }
     },
     {
@@ -39,35 +39,35 @@
       "query": "tag:#dark-bramble",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 798825
       }
     },
     {
       "query": "tag:#quantum-moon",
       "color": {
         "a": 1,
-        "rgb": 13413171
+        "rgb": 4423606
       }
     },
     {
       "query": "tag:#giants-deep",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 2935181
       }
     },
     {
       "query": "tag:#eye-of-the-universe",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5590471
       }
     },
     {
       "query": "tag:#sun",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 14964492
       }
     },
     {
@@ -81,7 +81,7 @@
       "query": "tag:#outer-wilds",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 11739573
       }
     }
   ],
@@ -95,6 +95,6 @@
   "repelStrength": 9.79166666666667,
   "linkStrength": 0.739583333333333,
   "linkDistance": 302,
-  "scale": 0.13168724279835764,
+  "scale": 0.2588386562181703,
   "close": false
 }
