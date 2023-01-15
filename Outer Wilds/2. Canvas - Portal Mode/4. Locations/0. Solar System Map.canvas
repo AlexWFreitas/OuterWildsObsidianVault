@@ -10,7 +10,6 @@
 		{"id":"b3bcf5957431030b","x":86,"y":420,"width":355,"height":311,"color":"#946b6b","type":"file","file":"10. Notes/Solar System - General Info.md"},
 		{"id":"60760506e7cef5b7","x":-1176,"y":960,"width":2880,"height":1696,"type":"file","file":"99. Attachments/Planetary Chart.png"},
 		{"id":"82f5395aec559cfe","x":-1394,"y":2204,"width":250,"height":60,"type":"text","text":""},
-		{"id":"07f339ac499344f7","x":139,"y":4040,"width":250,"height":60,"type":"text","text":"# Splitter"},
 		{"id":"484bfc8b87dc8aa5","x":440,"y":4440,"width":1236,"height":826,"type":"group","label":"Deep Space Satellite"},
 		{"id":"d341b333285cfbcc","x":487,"y":4518,"width":909,"height":263,"color":"#946b6b","type":"file","file":"10. Notes/Deep Space Satellite.md"},
 		{"id":"906ff23c45d24833","x":487,"y":4906,"width":360,"height":311,"color":"#946b6b","type":"file","file":"99. Attachments/Opposite Axis Orbit Trace.png"},
@@ -31,12 +30,16 @@
 		{"id":"d1da6732a784944f","x":-480,"y":3440,"width":634,"height":436,"type":"group","label":"Giant's Deep"},
 		{"id":"07fc806469511c0a","x":-480,"y":3472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/4. Giant's Deep/0. Giant's Deep Map.canvas"},
 		{"id":"c4b60389f1985656","x":-480,"y":3826,"width":634,"height":50,"type":"text","text":"# Giant's Deep"},
-		{"id":"9074770961819c3f","x":360,"y":3440,"width":634,"height":436,"type":"group","label":"Dark Bramble"},
-		{"id":"5218c98c6059e5c8","x":360,"y":3472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"},
-		{"id":"34f3f69a0dead77c","x":360,"y":3826,"width":634,"height":50,"type":"text","text":"# Dark Bramble"},
-		{"id":"0a992ba75a30cbf7","x":1080,"y":3440,"width":634,"height":436,"type":"group","label":"The Interloper"},
-		{"id":"00c473979411d4c0","x":1080,"y":3472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas"},
-		{"id":"36aa313492b8a0eb","x":1080,"y":3826,"width":634,"height":50,"type":"text","text":"# The Interloper"}
+		{"id":"07f339ac499344f7","x":154,"y":4040,"width":181,"height":60,"type":"text","text":"# Splitter"},
+		{"id":"0a992ba75a30cbf7","x":360,"y":3440,"width":634,"height":436,"type":"group","label":"The Interloper"},
+		{"id":"00c473979411d4c0","x":360,"y":3472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/6. The Interloper/0. The Interloper.canvas"},
+		{"id":"36aa313492b8a0eb","x":360,"y":3826,"width":634,"height":50,"type":"text","text":"# The Interloper"},
+		{"id":"9074770961819c3f","x":-360,"y":4440,"width":634,"height":436,"type":"group","label":"Dark Bramble"},
+		{"id":"5218c98c6059e5c8","x":-360,"y":4472,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/5. Dark Bramble/0. Dark Bramble Map.canvas"},
+		{"id":"34f3f69a0dead77c","x":-360,"y":4826,"width":634,"height":50,"type":"text","text":"# Dark Bramble"},
+		{"id":"0828c999385e8eae","x":-1360,"y":5048,"width":634,"height":436,"type":"group","label":"Quantum Moon"},
+		{"id":"a5045843de696991","x":-1360,"y":5080,"width":634,"height":354,"type":"file","file":"2. Canvas - Portal Mode/4. Locations/0. Solar System/10. Quantum Moon/0. Quantum Moon Map.canvas"},
+		{"id":"bd1d08aabb501fd6","x":-1360,"y":5434,"width":634,"height":50,"type":"text","text":"# Quantum Moon"}
 	],
 	"edges":[
 		{"id":"2657aabf28936dc6","fromNode":"a5c2be7045c71f8b","fromSide":"top","toNode":"d11c9fe67d5d8c55","toSide":"bottom"},
@@ -52,7 +55,12 @@
 		{"id":"9624d5cfe3c6d92b","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"19403bf70d62319c","toSide":"top"},
 		{"id":"2680e8a906b58dbb","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"07f339ac499344f7","toSide":"top","color":"3"},
 		{"id":"1ad123ebb6e2304d","fromNode":"07f339ac499344f7","fromSide":"bottom","toNode":"484bfc8b87dc8aa5","toSide":"top"},
-		{"id":"cf1c5a2898566adb","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"9074770961819c3f","toSide":"top"},
-		{"id":"0923763afa2e914c","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"0a992ba75a30cbf7","toSide":"top","color":"2","label":"Different Orbit"}
+		{"id":"cf1c5a2898566adb","fromNode":"07f339ac499344f7","fromSide":"bottom","toNode":"9074770961819c3f","toSide":"top"},
+		{"id":"0923763afa2e914c","fromNode":"60760506e7cef5b7","fromSide":"bottom","toNode":"0a992ba75a30cbf7","toSide":"top","color":"2","label":"Different Orbit"},
+		{"id":"f3f0d228a0d556f1","fromNode":"0828c999385e8eae","fromSide":"top","toNode":"19403bf70d62319c","toSide":"bottom"},
+		{"id":"806ef7c3d910855e","fromNode":"0828c999385e8eae","fromSide":"top","toNode":"c54c11bc752f9909","toSide":"bottom"},
+		{"id":"32a6bec5269a45c7","fromNode":"0828c999385e8eae","fromSide":"top","toNode":"d770185dc21ec1b7","toSide":"bottom"},
+		{"id":"5f26c57cdae73592","fromNode":"0828c999385e8eae","fromSide":"top","toNode":"d1da6732a784944f","toSide":"bottom"},
+		{"id":"82c842a7c673c860","fromNode":"34f3f69a0dead77c","fromSide":"bottom","toNode":"0828c999385e8eae","toSide":"top"}
 	]
 }
