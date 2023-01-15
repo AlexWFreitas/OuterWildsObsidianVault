@@ -45,18 +45,30 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "file": "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
                 "viewState": {
-                  "x": 600.6238772165018,
-                  "y": -568.4935065522687,
-                  "zoom": -0.6907209963856538,
+                  "x": 2045.0618744265662,
+                  "y": 3905.3813207843464,
+                  "zoom": -1.0745798240101487,
                   "snapToGrid": true
                 }
               }
             }
+          },
+          {
+            "id": "615f132a530c6376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Notes/Quantum Moon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "file": "10. Notes/Quantum Moon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
+                "file": "10. Notes/Quantum Moon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas"
+                "file": "10. Notes/Quantum Moon.md"
               }
             }
           }
@@ -183,17 +195,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a261a53ebd3c3e0",
+  "active": "615f132a530c6376",
   "lastOpenFiles": [
-    "10. Notes/Gravity Floor.md",
-    "2. Canvas - Portal Mode/1. Gameplay/1. Exploration Mechanics.canvas",
-    "10. Notes/Gravity Crystal.md",
-    "10. Notes/Warp Receiver.md",
-    "10. Notes/Warp Tower.md",
-    "10. Notes/Ghost Matter.md",
-    "10. Notes/Gravity.md",
-    "2. Canvas - Portal Mode/1. Gameplay/0. Gameplay Map.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System Map.canvas",
-    "2. Canvas - Portal Mode/0. Overview/0. Overview Map.canvas"
+    "2. Canvas - Portal Mode/2. Information Central/0. Information Central Map.canvas",
+    "10. Notes/Quantum Shard.md",
+    "10. Notes/Quantum Moon.md",
+    "10. Notes/Eye of the Universe - Hypothesis.md",
+    "10. Notes/Advanced Warp Core.md",
+    "10. Notes/Nomai Festival.md",
+    "10. Notes/Orbital Probe Cannon Project.md",
+    "10. Notes/Nomai Statue.md",
+    "10. Notes/Time Loop.md",
+    "10. Notes/Warp Receiver.md"
   ]
 }

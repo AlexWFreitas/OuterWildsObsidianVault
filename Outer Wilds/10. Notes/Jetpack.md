@@ -8,6 +8,6 @@ Tags:
 Aliases:
 - 
 ---
-- Allows you to fly for a limited time, uses fuel.
+- Allows you to fly for a limited time, uses [[fuel]].
 - Will use oxygen if no fuel is available. 
-- Oxygen powered jetpack is weaker than fuel powered, this means that your flight capabilities will be diminished.
+- [[Oxygen]] powered jetpack is weaker than fuel powered, this means that your flight capabilities will be diminished.

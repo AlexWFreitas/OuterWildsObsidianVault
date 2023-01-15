@@ -5,6 +5,7 @@ Tags:
 - "outer-wilds"
 - "nomai"
 - "ash-twin-project"
+- "ash-twin"
 ---
 The Ash Twin Project has been a mystery for most of this story.
 
