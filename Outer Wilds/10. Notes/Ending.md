@@ -5,6 +5,7 @@ Tags:
 - "outer-wilds"
 - "ending"
 - "spoilers"
+- "eye-of-the-universe"
 Aliases:
 - 
 ---
