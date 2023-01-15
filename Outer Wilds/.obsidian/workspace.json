@@ -11,8 +11,16 @@
             "id": "8ea2fd894832fcb5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
+                "viewState": {
+                  "x": -1260.4671327878466,
+                  "y": -2539.196191618135,
+                  "zoom": -0.3333333333333334,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ]
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10. Notes/Riebeck.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10. Notes/Riebeck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10. Notes/Riebeck.md"
+              }
             }
           }
         ]
@@ -137,8 +149,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65ebdec89ef8a94f",
+  "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
+    "0. START HERE/0. Starting Area.canvas",
     "10. Notes/Orbital Probe Cannon.md",
     "10. Notes/Control Module - Orbital Probe Cannon.md",
     "10. Notes/OPC- Hologram 1.md",
@@ -147,7 +160,6 @@
     "10. Notes/OPC - Hologram 3 Description.md",
     "10. Notes/Frozen Jellyfish surrounded by Dark Brambles.md",
     "100. Templates/0. Outer Wilds T.md",
-    "10. Notes/Gravity Bridges.md",
-    "10. Notes/Feldspar Abandoned Campsite.md"
+    "10. Notes/Gravity Bridges.md"
   ]
 }
