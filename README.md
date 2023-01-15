@@ -8,8 +8,6 @@ This project was a very interesting learning experience to me, because as I used
 
 I am very happy with the final result and I don't plan to make many changes to this project.
 
-https://www.youtube.com/watch?v=ZlnH1f3gggU
+https://user-images.githubusercontent.com/6776230/212521934-b2b125a4-69d5-490f-9a7a-26b24169e957.mp4
 
 This canvas project was nominated to the Gems of the Year of 2022 Contest of the Obsidian Community.
-
-
