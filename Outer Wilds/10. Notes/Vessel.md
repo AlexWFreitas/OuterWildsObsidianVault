@@ -6,6 +6,9 @@ Tags:
 - "vessel"
 - "eye-of-the-universe"
 - "dark-bramble"
+- "escape-pod"
+- "nomai"
+- "escall-clan"
 ---
 The Vessel is a space ship that each [[Nomai Race]] clan uses to travel through the universe.
 

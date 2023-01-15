@@ -1,3 +1,12 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+Aliases:
+- 
+---
 Reachable through the [[Gravity Crystal Workshop]], an area that looks like ruins that is on the surface of [[Brittle Hollow]].
 
 Found an elevator that connects [[The Crossroads]] with [[Gravity Cannon - Brittle Hollow]].

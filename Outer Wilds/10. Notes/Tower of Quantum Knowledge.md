@@ -1,3 +1,17 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "quantum-moon"
+- "research"
+- "knowledge"
+- "quantum-behavior"
+- "white-hole"
+Aliases:
+- 
+---
 # Tower of Quantum Knowledge - Surface
 - Contains an entrance that leads to the [[Tower of Quantum Knowledge]] inner parts. 
 - Contains a [[Quantum Shard]] on the surface, from where you can observe some of the quantum behavior that it displays.

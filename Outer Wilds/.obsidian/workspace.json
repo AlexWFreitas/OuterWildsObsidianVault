@@ -13,30 +13,17 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
                 "viewState": {
-                  "x": 441.56442610258466,
-                  "y": -1094.9932007159068,
-                  "zoom": 0.04652585202107773,
+                  "x": 48.28853925013766,
+                  "y": -1153.0035358043633,
+                  "zoom": -1.537189792414447,
                   "snapToGrid": true
                 }
               }
             }
-          },
-          {
-            "id": "708dd2e08f2c0a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Notes/White Hole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Notes/White Hole.md",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Notes/White Hole.md",
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Notes/White Hole.md"
+                "file": "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas"
               }
             }
           }
@@ -162,17 +149,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "708dd2e08f2c0a45",
+  "active": "8ea2fd894832fcb5",
   "lastOpenFiles": [
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/1. White Hole Sector.canvas",
-    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/0. Brittle Hollow Map.canvas",
-    "10. Notes/Quantum Shard.md",
-    "10. Notes/Gravity Floor.md",
-    "10. Notes/Gravity Crystal.md",
-    "10. Notes/Hollow Lantern.md",
-    "10. Notes/Brittle Hollow.md",
-    "10. Notes/Black Hole.md",
-    "1. Canvas - Entire Canvas/1. Outer Wild Canvas.canvas",
-    "0. START HERE/0. Starting Area.canvas"
+    "10. Notes/Hanging City.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/11. Hanging City.canvas",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/10. Tower of Quantum Knowledge.canvas",
+    "10. Notes/Tower of Quantum Knowledge.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/9. Southern Observatory.canvas",
+    "10. Notes/Southern Observatory - Underground Entrance.md",
+    "10. Notes/Southern Observatory - Planet Locator.md",
+    "10. Notes/Southern Observatory.md",
+    "2. Canvas - Portal Mode/4. Locations/0. Solar System/3. Britle Hollow/8. The Crossroads.canvas",
+    "10. Notes/Riebeck's Campsite.md"
   ]
 }

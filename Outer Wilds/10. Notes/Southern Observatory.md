@@ -1,3 +1,13 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "quantum-moon-locator"
+Aliases:
+- 
+---
 Located at the South Pole of [[Brittle Hollow]].
 
 When trying to enter from the surface on the South Pole, the door is closed, the door can only be opened from inside, by entering through other entrances.

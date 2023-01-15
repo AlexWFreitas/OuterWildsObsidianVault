@@ -3,6 +3,10 @@ Type: Game Note
 Date: 2023-01-14
 Tags:
 - "outer-wilds"
+- "black-hole"
+- "warp-tower"
+- "warp-receiver"
+- "white-hole"
 Aliases:
 - 
 ---

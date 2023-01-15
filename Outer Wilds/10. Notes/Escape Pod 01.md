@@ -1,3 +1,14 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "vessel"
+- "nomai"
+Aliases:
+- 
+---
 Located on the surface of Brittle Hollow
 
 The escape pod is an emergency escape vehicle used by the crew of the [[Vessel]] in an attempt to survive when the vessel crashed into the Dark Bramble.

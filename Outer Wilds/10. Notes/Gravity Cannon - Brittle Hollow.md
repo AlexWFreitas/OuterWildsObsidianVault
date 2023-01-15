@@ -1,3 +1,15 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "quantum-moon"
+- "shuttle"
+- "nomai"
+Aliases:
+- 
+---
 # Gravity Cannon Surface
 There is a spiral cannon looking area in [[Brittle Hollow]] that contains an entrance to the underground where a space ship might be able to land.
 

@@ -1,3 +1,13 @@
+---
+Type: Game Note
+Date: 2023-01-14
+Tags:
+- "outer-wilds"
+- "brittle-hollow"
+- "campsite"
+Aliases:
+- 
+---
 - Located at [[The Crossroads]].
 - Allows us to recharge fuel and oxygen and talk to [[Riebeck]].
 - He recommends us visiting the [[Hanging City]] and the [[Southern Observatory]].
